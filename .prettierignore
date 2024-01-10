@@ -1,0 +1,18 @@
+# General
+coverage
+husky
+dist
+.dockerignore
+.prettierignore
+.husky
+.gitignore
+.env.default
+.env
+Dockerfile
+.DS_STORE
+*.log
+
+# JS
+node_modules
+package-lock.json
+yarn.lock
