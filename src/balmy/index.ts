@@ -21,7 +21,7 @@ async function run(): Promise<any> {
     const tokenList = generator.getTokenList();
     tokenList.forEach((token) => {
       const address = token.address.toLowerCase();
-      if (isAddress(address) && token.chainID) {
+      if (isAddress(address) && !!token.chainID) {
         if (!tokensOcurrencies[address]) tokensOcurrencies[address] = {};
         tokensOcurrencies[address][token.chainID] =
           name === "balmy"
@@ -35,10 +35,11 @@ async function run(): Promise<any> {
   for (const [address, ocurrenciesByChain] of Object.entries(
     tokensOcurrencies,
   )) {
-    for (const [_, ocurrencies] of Object.entries(ocurrenciesByChain))
+    for (const [chain, ocurrencies] of Object.entries(ocurrenciesByChain))
       if (ocurrencies > Object.keys(generators).length * 0.2) {
         const token = unifyTokenData(
           allTokens.filter((t) => isSameAddress(t.address, address)),
+          Number(chain),
         );
         if (token) result.push(token);
       }
