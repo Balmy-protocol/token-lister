@@ -42,7 +42,17 @@ async function run(): Promise<any> {
   console.log(result);
   fs.writeFileSync(
     "tokenList.json",
-    JSON.stringify({ tokens: result }, null, "\t"),
+    JSON.stringify(
+      {
+        name: "Balmy Token List",
+        description:
+          "A curated list of tokens from all the token lists on Balmy",
+        timestamp: new Date().toISOString(),
+        tokens: result,
+      },
+      null,
+      "\t",
+    ),
   );
 }
 
