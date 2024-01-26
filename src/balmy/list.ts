@@ -2,6 +2,7 @@ import {
   balmyTokenListGenerator,
   compoundTokenListGenerator,
   defillamaTokenListGenerator,
+  liquestTokenListGenerator,
   optimismTokenListGenerator,
   sushiswapTokenListGenerator,
   yearnTokenListGenerator,
@@ -14,5 +15,6 @@ export const generators: Record<string, ITokenListGenerator> = {
   sushiswap: new sushiswapTokenListGenerator(),
   yearn: new yearnTokenListGenerator(),
   optimism: new optimismTokenListGenerator(),
-  compound: new compoundTokenListGenerator()
+  compound: new compoundTokenListGenerator(),
+  liquest: new liquestTokenListGenerator(),
 };

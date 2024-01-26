@@ -4,6 +4,7 @@ import { balmyTokenListGenerator } from "./balmy";
 import { yearnTokenListGenerator } from "./yearn";
 import { compoundTokenListGenerator } from "./compound";
 import { optimismTokenListGenerator } from "./optimism";
+import { liquestTokenListGenerator } from "./liquest";
 
 export {
   defillamaTokenListGenerator,
@@ -11,5 +12,6 @@ export {
   balmyTokenListGenerator,
   yearnTokenListGenerator,
   compoundTokenListGenerator,
-  optimismTokenListGenerator
+  optimismTokenListGenerator,
+  liquestTokenListGenerator,
 };

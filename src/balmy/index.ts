@@ -1,4 +1,4 @@
-import { Address } from "@mean-finance/sdk";
+import { Address, isSameAddress } from "@mean-finance/sdk";
 import { isAddress } from "viem";
 import { generators } from "./list";
 import { TokenData } from "./types";
@@ -20,11 +20,12 @@ async function run(): Promise<any> {
   for (const [name, generator] of Object.entries(generators)) {
     const tokenList = generator.getTokenList();
     tokenList.forEach((token) => {
-      if (isAddress(token.address)) {
-        tokensOcurrencies[token.address] =
+      const address = token.address.toLowerCase();
+      if (isAddress(address)) {
+        tokensOcurrencies[address] =
           name === "balmy"
             ? Infinity
-            : (tokensOcurrencies[token.address] ?? 0) + 1;
+            : (tokensOcurrencies[address] ?? 0) + 1;
         allTokens.push(token);
       }
     });
@@ -33,7 +34,7 @@ async function run(): Promise<any> {
   for (const [address, ocurrencies] of Object.entries(tokensOcurrencies)) {
     if (ocurrencies > Object.keys(generators).length * 0.2) {
       const token = unifyTokenData(
-        allTokens.filter((t) => t.address == address),
+        allTokens.filter((t) => isSameAddress(t.address, address)),
       );
       if (token) result.push(token);
     }
