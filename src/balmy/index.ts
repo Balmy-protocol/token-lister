@@ -1,4 +1,4 @@
-import { Address, isSameAddress } from "@mean-finance/sdk";
+import { Address, ChainId, isSameAddress } from "@mean-finance/sdk";
 import { isAddress } from "viem";
 import { generators } from "./list";
 import { TokenData } from "./types";
@@ -13,7 +13,7 @@ async function run(): Promise<any> {
 
   await Promise.all(promises);
 
-  const tokensOcurrencies: Record<Address, number> = {};
+  const tokensOcurrencies: Record<Address, Record<ChainId, number>> = {};
   const allTokens: TokenData[] = [];
   const result: Required<TokenData>[] = [];
 
@@ -22,22 +22,26 @@ async function run(): Promise<any> {
     tokenList.forEach((token) => {
       const address = token.address.toLowerCase();
       if (isAddress(address)) {
-        tokensOcurrencies[address] =
+        if (!tokensOcurrencies[address]) tokensOcurrencies[address] = {};
+        tokensOcurrencies[address][token.chainID] =
           name === "balmy"
             ? Infinity
-            : (tokensOcurrencies[address] ?? 0) + 1;
+            : (tokensOcurrencies[address][token.chainID] ?? 0) + 1;
         allTokens.push(token);
       }
     });
   }
 
-  for (const [address, ocurrencies] of Object.entries(tokensOcurrencies)) {
-    if (ocurrencies > Object.keys(generators).length * 0.2) {
-      const token = unifyTokenData(
-        allTokens.filter((t) => isSameAddress(t.address, address)),
-      );
-      if (token) result.push(token);
-    }
+  for (const [address, ocurrenciesByChain] of Object.entries(
+    tokensOcurrencies,
+  )) {
+    for (const [_, ocurrencies] of Object.entries(ocurrenciesByChain))
+      if (ocurrencies > Object.keys(generators).length * 0.2) {
+        const token = unifyTokenData(
+          allTokens.filter((t) => isSameAddress(t.address, address)),
+        );
+        if (token) result.push(token);
+      }
   }
 
   console.log(result);
