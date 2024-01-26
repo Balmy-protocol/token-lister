@@ -21,7 +21,7 @@ async function run(): Promise<any> {
     const tokenList = generator.getTokenList();
     tokenList.forEach((token) => {
       const address = token.address.toLowerCase();
-      if (isAddress(address)) {
+      if (isAddress(address) && token.chainID) {
         if (!tokensOcurrencies[address]) tokensOcurrencies[address] = {};
         tokensOcurrencies[address][token.chainID] =
           name === "balmy"
