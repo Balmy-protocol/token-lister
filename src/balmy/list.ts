@@ -1,5 +1,9 @@
 import { ChainId } from "@mean-finance/sdk";
-import { liquestTokenListGenerator } from "./adapters";
+import {
+  defillamaTokenListGenerator,
+  liquestTokenListGenerator,
+  yearnTokenListGenerator,
+} from "./adapters";
 import { jsonGenericTokenListGenerator } from "./adapters/generics/jsonGenericAdapter";
 import { ITokenListGenerator } from "./types";
 import { odosParser, oneInchParser } from "./parsers";
@@ -18,6 +22,7 @@ export const generators: Record<
       "https://raw.githubusercontent.com/compound-finance/token-list/master/compound.tokenlist.json",
     ),
   },
+  defillama: { generator: new defillamaTokenListGenerator() },
   sushiswap: {
     generator: new jsonGenericTokenListGenerator(
       "https://token-list.sushi.com/",
@@ -28,6 +33,8 @@ export const generators: Record<
       "https://raw.githubusercontent.com/ethereum-optimism/ethereum-optimism.github.io/master/optimism.tokenlist.json",
     ),
   },
+  yearn: { generator: new yearnTokenListGenerator() },
+
   liquest: {
     generator: new liquestTokenListGenerator(),
     chains: [1101, 8453, 59144],

@@ -5,7 +5,7 @@ import { TokenData } from "./types";
 import * as fs from "fs";
 import { unifyTokenData } from "./utils";
 
-const APPEARANCES_RATIO = 0.2;
+const APPEARANCES_RATIO = 0.4;
 
 async function run(): Promise<any> {
   const promises: Promise<any>[] = [];
@@ -71,7 +71,7 @@ async function run(): Promise<any> {
         tokens: result,
       },
       null,
-      "\t",
+      2,
     ),
   );
 }
