@@ -5,10 +5,12 @@ import { TokenData } from "./types";
 import * as fs from "fs";
 import { unifyTokenData } from "./utils";
 
+const APPEARANCES_RATIO = 0.2;
+
 async function run(): Promise<any> {
   const promises: Promise<any>[] = [];
   for (const [_, generator] of Object.entries(generators)) {
-    promises.push(generator.fetchTokens());
+    promises.push(generator.generator.fetchTokens());
   }
 
   await Promise.all(promises);
@@ -18,10 +20,10 @@ async function run(): Promise<any> {
   const result: Required<TokenData>[] = [];
 
   for (const [name, generator] of Object.entries(generators)) {
-    const tokenList = generator.getTokenList();
+    const tokenList = generator.generator.getTokenList();
     tokenList.forEach((token) => {
-      const address = token.address.toLowerCase();
-      if (isAddress(address) && !!token.chainID) {
+      if (isAddress(token.address) && !!token.chainID) {
+        const address = token.address.toLowerCase();
         if (!tokensOcurrencies[address]) tokensOcurrencies[address] = {};
         tokensOcurrencies[address][token.chainID] =
           name === "balmy"
@@ -35,17 +37,29 @@ async function run(): Promise<any> {
   for (const [address, ocurrenciesByChain] of Object.entries(
     tokensOcurrencies,
   )) {
-    for (const [chain, ocurrencies] of Object.entries(ocurrenciesByChain))
-      if (ocurrencies > Object.keys(generators).length * 0.2) {
+    for (const [chain, ocurrencies] of Object.entries(ocurrenciesByChain)) {
+      const chainID = Number(chain);
+      const numbersOfGeneratorsForSpecificChain = Object.values(
+        generators,
+      ).filter(
+        (generator) => !generator.chains || generator.chains.includes(chainID),
+      ).length;
+      if (
+        ocurrencies >
+        numbersOfGeneratorsForSpecificChain * APPEARANCES_RATIO
+      ) {
         const token = unifyTokenData(
-          allTokens.filter((t) => isSameAddress(t.address, address)),
-          Number(chain),
+          allTokens.filter(
+            (t) => isSameAddress(t.address, address) && t.chainID == chainID,
+          ),
+          chainID,
         );
         if (token) result.push(token);
       }
+    }
   }
 
-  console.log(result);
+  console.log("Token list size: ", result.length);
   fs.writeFileSync(
     "tokenList.json",
     JSON.stringify(

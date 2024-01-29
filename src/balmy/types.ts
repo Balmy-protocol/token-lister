@@ -5,6 +5,8 @@ export type ITokenListGenerator = {
   getTokenList(): TokenData[];
 };
 
+export type ITokenList = { generator: ITokenListGenerator; chains?: ChainId[] };
+
 export type TokenData = {
   name: string;
   symbol: string;

@@ -11,17 +11,20 @@ export class liquestTokenListGenerator implements ITokenListGenerator {
     const response: Record<string, any[]> = (
       await fetch(url).then((res) => res.json())
     ).tokens;
-    for (const [chain, tokens] of Object.entries(response)) {
-      for (const [_, data] of Object.entries(tokens)) {
-        this.tokenList.push({
-          name: data.name,
-          decimals: data.decimals,
-          symbol: data.symbol,
-          chainID: Number(chain),
-          address: data.address,
-        });
+    if (response)
+      for (const [chain, tokens] of Object.entries(response)) {
+        if ([1101, 8453, 59144].includes(Number(chain))) {
+          for (const [_, data] of Object.entries(tokens)) {
+            this.tokenList.push({
+              name: data.name,
+              decimals: data.decimals,
+              symbol: data.symbol,
+              chainID: Number(chain),
+              address: data.address,
+            });
+          }
+        }
       }
-    }
   }
 
   getTokenList(): TokenData[] {
