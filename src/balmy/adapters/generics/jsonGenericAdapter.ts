@@ -1,3 +1,4 @@
+import { ChainId } from "@mean-finance/sdk";
 import { ITokenListGenerator, TokenData } from "../../types";
 
 export class jsonGenericTokenListGenerator implements ITokenListGenerator {
@@ -35,5 +36,15 @@ export class jsonGenericTokenListGenerator implements ITokenListGenerator {
 
   getTokenList(): TokenData[] {
     return this.tokenList;
+  }
+
+  getChains(): ChainId[] {
+    const chains: Set<ChainId> = new Set();
+    return Array.from(
+      this.tokenList.reduce((chains, token) => {
+        if (token.chainID) chains.add(token.chainID);
+        return chains;
+      }, chains),
+    );
   }
 }

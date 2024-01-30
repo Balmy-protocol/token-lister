@@ -1,7 +1,8 @@
+import { ChainId } from "@mean-finance/sdk";
 import { ITokenListGenerator, TokenData } from "../types";
 
 const url = "https://li.quest/v1/tokens";
-
+const chains = [1101, 8453, 59144];
 export class liquestTokenListGenerator implements ITokenListGenerator {
   private tokenList: TokenData[];
   constructor() {
@@ -29,5 +30,9 @@ export class liquestTokenListGenerator implements ITokenListGenerator {
 
   getTokenList(): TokenData[] {
     return this.tokenList;
+  }
+
+  getChains(): ChainId[] {
+    return chains;
   }
 }

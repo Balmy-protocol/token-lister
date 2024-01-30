@@ -1,6 +1,6 @@
 # Token Lister
 
-This is the Token Lister for Mean Finance. It generates a curated and unified list of tokens from multiple sources. 
+This is the Token Lister for Mean Finance. It generates a curated and unified list of tokens from multiple sources.
 
 ## Requirements
 

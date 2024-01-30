@@ -10,7 +10,7 @@ const APPEARANCES_RATIO = 0.4;
 async function run(): Promise<any> {
   const promises: Promise<any>[] = [];
   for (const [_, generator] of Object.entries(generators)) {
-    promises.push(generator.generator.fetchTokens());
+    promises.push(generator.fetchTokens());
   }
 
   await Promise.all(promises);
@@ -20,7 +20,7 @@ async function run(): Promise<any> {
   const result: Required<TokenData>[] = [];
 
   for (const [name, generator] of Object.entries(generators)) {
-    const tokenList = generator.generator.getTokenList();
+    const tokenList = generator.getTokenList();
     tokenList.forEach((token) => {
       if (isAddress(token.address) && !!token.chainID) {
         const address = token.address.toLowerCase();
@@ -41,9 +41,7 @@ async function run(): Promise<any> {
       const chainID = Number(chain);
       const numbersOfGeneratorsForSpecificChain = Object.values(
         generators,
-      ).filter(
-        (generator) => !generator.chains || generator.chains.includes(chainID),
-      ).length;
+      ).filter((generator) => generator.getChains().includes(chainID)).length;
       if (
         ocurrencies >
         numbersOfGeneratorsForSpecificChain * APPEARANCES_RATIO
