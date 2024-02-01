@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2024-02-01T00:01:53.866Z",
+  "timestamp": "2024-02-01T11:30:31.504Z",
   "tokens": [
     {
       "name": "Dai Stablecoin",
@@ -4691,6 +4691,14 @@
       "chainID": 100
     },
     {
+      "name": "Bingo",
+      "symbol": "bingo",
+      "address": "0xb262a485d98d8e19175818d47453e7812ca255a8",
+      "logoURI": "https://assets.coingecko.com/coins/images/34237/thumb/bingo.png?1704333837",
+      "decimals": 18,
+      "chainID": 43114
+    },
+    {
       "name": "Biswap",
       "symbol": "bsw",
       "address": "0x965f527d9159dce6288a2219db51fc6eef120dd1",
@@ -6059,6 +6067,22 @@
       "chainID": 100
     },
     {
+      "name": "GoGoPool",
+      "symbol": "ggp",
+      "address": "0x69260b9483f9871ca57f81a90d91e2f96c2cd11d",
+      "logoURI": "https://assets.coingecko.com/coins/images/30267/thumb/GGP_logo_square.png?1683776057",
+      "decimals": 18,
+      "chainID": 43114
+    },
+    {
+      "name": "GoGoPool ggAVAX",
+      "symbol": "ggavax",
+      "address": "0xa25eaf2906fa1a3a13edac9b9657108af7b703e3",
+      "logoURI": "https://assets.coingecko.com/coins/images/33543/thumb/ggavax-token-flat.png?1702383352",
+      "decimals": 18,
+      "chainID": 43114
+    },
+    {
       "name": "Goose Finance",
       "symbol": "egg",
       "address": "0xf952fc3ca7325cc27d15885d37117676d25bfda6",
@@ -6961,6 +6985,14 @@
       "logoURI": "https://assets.coingecko.com/coins/images/14732/thumb/MIVA-Token_200x200.png?1617958701",
       "decimals": 18,
       "chainID": 100
+    },
+    {
+      "name": "Minu",
+      "symbol": "minu",
+      "address": "0xf48f91df403976060cc05dbbf8a0901b09fdefd4",
+      "logoURI": "https://assets.coingecko.com/coins/images/29151/thumb/Minu_Logo.jpg?1676972329",
+      "decimals": 18,
+      "chainID": 56
     },
     {
       "name": "Mist",
@@ -15218,6 +15250,86 @@
       "chainID": 1313161554
     },
     {
+      "name": "Aurora",
+      "symbol": "AURORA",
+      "address": "0x8bec47865ade3b172a928df8f990bc7f2a3b9f79",
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/aurora.svg",
+      "decimals": 18,
+      "chainID": 1313161554
+    },
+    {
+      "name": "Compound",
+      "symbol": "COMP",
+      "address": "0xdeacf0faa2b80af41470003b5f6cd113d47b4dcd",
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/comp.svg",
+      "decimals": 18,
+      "chainID": 1313161554
+    },
+    {
+      "name": "Dai Stablecoin",
+      "symbol": "DAI",
+      "address": "0xe3520349f477a5f6eb06107066048508498a291b",
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/dai.svg",
+      "decimals": 18,
+      "chainID": 1313161554
+    },
+    {
+      "name": "BakedToken",
+      "symbol": "BAKED",
+      "address": "0x8973c9ec7b79fe880697cdbca744892682764c37",
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/baked.svg",
+      "decimals": 18,
+      "chainID": 1313161554
+    },
+    {
+      "name": "Balancer",
+      "symbol": "BAL",
+      "address": "0xb59d0fdaf498182ff19c4e80c00ecfc4470926e2",
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/bal.svg",
+      "decimals": 18,
+      "chainID": 1313161554
+    },
+    {
+      "name": "DODO bird",
+      "symbol": "DODO",
+      "address": "0xe301ed8c7630c9678c39e4e45193d1e7dfb914f7",
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/dodo.svg",
+      "decimals": 18,
+      "chainID": 1313161554
+    },
+    {
+      "name": "Flux Token",
+      "symbol": "FLX",
+      "address": "0xea62791aa682d455614eaa2a12ba3d9a2fd197af",
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/flx.svg",
+      "decimals": 18,
+      "chainID": 1313161554
+    },
+    {
+      "name": "Frax",
+      "symbol": "FRAX",
+      "address": "0xda2585430fef327ad8ee44af8f1f989a2a91a3d2",
+      "logoURI": "https://raw.githubusercontent.com/KyberNetwork/ks-assets/main/img/token/FRAX.svg",
+      "decimals": 18,
+      "chainID": 1313161554
+    },
+    {
+      "name": "Frax Share",
+      "symbol": "FXS",
+      "address": "0xc8fdd32e0bf33f0396a18209188bb8c6fb8747d2",
+      "logoURI": "https://raw.githubusercontent.com/KyberNetwork/ks-assets/main/img/token/FXS.svg",
+      "decimals": 18,
+      "chainID": 1313161554
+    },
+    {
+      "name": "Basic Attention Token",
+      "symbol": "BAT",
+      "address": "0x2b9025aecc5ce7a8e6880d3e9c6e458927ecba04",
+      "logoURI": "https://raw.githubusercontent.com/KyberNetwork/ks-assets/main/img/token/BAT.svg",
+      "decimals": 18,
+      "chainID": 1313161554
+    },
+    {
       "name": "Trisolaris",
       "symbol": "TRI",
       "address": "0xfa94348467f64d5a457f75f8bc40495d33c65abb",
@@ -15282,99 +15394,19 @@
       "chainID": 1313161554
     },
     {
-      "name": "Aurora",
-      "symbol": "AURORA",
-      "address": "0x8bec47865ade3b172a928df8f990bc7f2a3b9f79",
-      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/aurora.svg",
-      "decimals": 18,
-      "chainID": 1313161554
-    },
-    {
-      "name": "Compound",
-      "symbol": "COMP",
-      "address": "0xdeacf0faa2b80af41470003b5f6cd113d47b4dcd",
-      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/comp.svg",
-      "decimals": 18,
-      "chainID": 1313161554
-    },
-    {
-      "name": "BakedToken",
-      "symbol": "BAKED",
-      "address": "0x8973c9ec7b79fe880697cdbca744892682764c37",
-      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/baked.svg",
-      "decimals": 18,
-      "chainID": 1313161554
-    },
-    {
-      "name": "Balancer",
-      "symbol": "BAL",
-      "address": "0xb59d0fdaf498182ff19c4e80c00ecfc4470926e2",
-      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/bal.svg",
-      "decimals": 18,
-      "chainID": 1313161554
-    },
-    {
-      "name": "Dai Stablecoin",
-      "symbol": "DAI",
-      "address": "0xe3520349f477a5f6eb06107066048508498a291b",
-      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/dai.svg",
-      "decimals": 18,
-      "chainID": 1313161554
-    },
-    {
-      "name": "DODO bird",
-      "symbol": "DODO",
-      "address": "0xe301ed8c7630c9678c39e4e45193d1e7dfb914f7",
-      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/dodo.svg",
-      "decimals": 18,
-      "chainID": 1313161554
-    },
-    {
-      "name": "Flux Token",
-      "symbol": "FLX",
-      "address": "0xea62791aa682d455614eaa2a12ba3d9a2fd197af",
-      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/flx.svg",
-      "decimals": 18,
-      "chainID": 1313161554
-    },
-    {
-      "name": "Frax",
-      "symbol": "FRAX",
-      "address": "0xda2585430fef327ad8ee44af8f1f989a2a91a3d2",
-      "logoURI": "https://raw.githubusercontent.com/KyberNetwork/ks-assets/main/img/token/FRAX.svg",
-      "decimals": 18,
-      "chainID": 1313161554
-    },
-    {
-      "name": "Frax Share",
-      "symbol": "FXS",
-      "address": "0xc8fdd32e0bf33f0396a18209188bb8c6fb8747d2",
-      "logoURI": "https://raw.githubusercontent.com/KyberNetwork/ks-assets/main/img/token/FXS.svg",
-      "decimals": 18,
-      "chainID": 1313161554
-    },
-    {
-      "name": "MANUFACTORY",
-      "symbol": "MNFT",
-      "address": "0xd126b48c072f4668e944a8895bc74044d5f2e85b",
-      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/mnft.svg",
-      "decimals": 18,
-      "chainID": 1313161554
-    },
-    {
-      "name": "NearPad Token",
-      "symbol": "PAD",
-      "address": "0x885f8cf6e45bdd3fdcdc644efdcd0ac93880c781",
-      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/pad.svg",
-      "decimals": 18,
-      "chainID": 1313161554
-    },
-    {
       "name": "SushiToken",
       "symbol": "SUSHI",
       "address": "0x7821c773a12485b12a2b5b7bc451c3eb200986b1",
       "logoURI": "https://raw.githubusercontent.com/KyberNetwork/ks-assets/main/img/token/SUSHI.svg",
       "decimals": 18,
+      "chainID": 1313161554
+    },
+    {
+      "name": "NEAR",
+      "symbol": "NEAR",
+      "address": "0xc42c30ac6cc15fac9bd938618bcaa1a1fae8501d",
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/near.svg",
+      "decimals": 24,
       "chainID": 1313161554
     },
     {
@@ -15390,6 +15422,14 @@
       "symbol": "REN",
       "address": "0x18921f1e257038e538ba24d49fa6495c8b1617bc",
       "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/ren.svg",
+      "decimals": 18,
+      "chainID": 1313161554
+    },
+    {
+      "name": "NearPad Token",
+      "symbol": "PAD",
+      "address": "0x885f8cf6e45bdd3fdcdc644efdcd0ac93880c781",
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/pad.svg",
       "decimals": 18,
       "chainID": 1313161554
     },
@@ -15418,18 +15458,10 @@
       "chainID": 1313161554
     },
     {
-      "name": "NEAR",
-      "symbol": "NEAR",
-      "address": "0xc42c30ac6cc15fac9bd938618bcaa1a1fae8501d",
-      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/near.svg",
-      "decimals": 24,
-      "chainID": 1313161554
-    },
-    {
-      "name": "Basic Attention Token",
-      "symbol": "BAT",
-      "address": "0x2b9025aecc5ce7a8e6880d3e9c6e458927ecba04",
-      "logoURI": "https://raw.githubusercontent.com/KyberNetwork/ks-assets/main/img/token/BAT.svg",
+      "name": "MANUFACTORY",
+      "symbol": "MNFT",
+      "address": "0xd126b48c072f4668e944a8895bc74044d5f2e85b",
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/mnft.svg",
       "decimals": 18,
       "chainID": 1313161554
     },
