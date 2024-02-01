@@ -3,7 +3,7 @@ import { ITokenListGenerator, TokenData } from "../types";
 
 const url = "https://ydevmon.ycorpo.com/tokens/all";
 
-export class yearnTokenListGenerator implements ITokenListGenerator {
+export class YearnTokenListGenerator implements ITokenListGenerator {
   private tokenList: TokenData[];
   constructor() {
     this.tokenList = [];

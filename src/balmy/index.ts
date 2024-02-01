@@ -59,14 +59,20 @@ async function run(): Promise<any> {
 
   console.log("Token list size: ", result.length);
   fs.writeFileSync(
-    "tokenList.json",
+    "token-list.json",
     JSON.stringify(
       {
         name: "Balmy Token List",
         description:
           "A curated list of tokens from all the token lists on Balmy",
         timestamp: new Date().toISOString(),
-        tokens: result,
+        tokens: result.sort((a, b) => {
+          if (a.chainID !== b.chainID) {
+            return a.chainID - b.chainID; // Ordena por chainID
+          } else {
+            return a.address.toLowerCase().localeCompare(b.address.toLowerCase());
+          }
+        })
       },
       null,
       2,

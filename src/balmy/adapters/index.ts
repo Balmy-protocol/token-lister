@@ -1,9 +1,9 @@
-import { defillamaTokenListGenerator } from "./defillama";
-import { yearnTokenListGenerator } from "./yearn";
-import { liquestTokenListGenerator } from "./liquest";
+import { DefillamaTokenListGenerator } from "./defillama";
+import { YearnTokenListGenerator } from "./yearn";
+import { LiquestTokenListGenerator } from "./liquest";
 
 export {
-  defillamaTokenListGenerator,
-  yearnTokenListGenerator,
-  liquestTokenListGenerator,
+  DefillamaTokenListGenerator as defillamaTokenListGenerator,
+  YearnTokenListGenerator as yearnTokenListGenerator,
+  LiquestTokenListGenerator as liquestTokenListGenerator,
 };

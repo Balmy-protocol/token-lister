@@ -3,7 +3,7 @@ import { ITokenListGenerator, TokenData } from "../types";
 
 const url = "https://li.quest/v1/tokens";
 const chains = [1101, 8453, 59144];
-export class liquestTokenListGenerator implements ITokenListGenerator {
+export class LiquestTokenListGenerator implements ITokenListGenerator {
   private tokenList: TokenData[];
   constructor() {
     this.tokenList = [];

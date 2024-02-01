@@ -23,3 +23,6 @@ This is the Token Lister for Mean Finance. It generates a curated and unified li
 ## Contributing
 
 When you are contributing, we recommend running `yarn watch` so that the server is restarted automatically with each code update.
+
+## Token List
+The generated token list is located at https://raw.githubusercontent.com/Mean-Finance/token-lister/main/token-list.json

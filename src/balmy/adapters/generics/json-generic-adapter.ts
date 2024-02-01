@@ -1,7 +1,7 @@
 import { ChainId } from "@mean-finance/sdk";
 import { ITokenListGenerator, TokenData } from "../../types";
 
-export class jsonGenericTokenListGenerator implements ITokenListGenerator {
+export class JsonGenericTokenListGenerator implements ITokenListGenerator {
   private tokenList: TokenData[];
   private url: string;
   parser: any;

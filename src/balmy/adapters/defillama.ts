@@ -13,7 +13,7 @@ const networkMap: Record<string, number> = {
   avalanche: 43114,
 };
 
-export class defillamaTokenListGenerator implements ITokenListGenerator {
+export class DefillamaTokenListGenerator implements ITokenListGenerator {
   private tokenList: TokenData[];
   constructor() {
     this.tokenList = [];
