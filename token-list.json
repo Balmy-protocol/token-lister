@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2024-02-05T00:01:58.062Z",
+  "timestamp": "2024-02-06T00:01:48.555Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -3723,10 +3723,10 @@
       "chainID": 56
     },
     {
-      "name": "Tether",
-      "symbol": "usdt",
+      "name": "Binance Bridged USDT (BNB Smart Chain)",
+      "symbol": "bsc-usd",
       "address": "0x55d398326f99059ff775485246999027b3197955",
-      "logoURI": "https://assets.coingecko.com/coins/images/325/thumb/Tether-logo.png?1598003707",
+      "logoURI": "missing_thumb.png",
       "decimals": 18,
       "chainID": 56
     },
@@ -11487,6 +11487,14 @@
       "symbol": "RCKT",
       "address": "0x6653dD4B92a0e5Bf8ae570A98906d9D6fD2eEc09",
       "logoURI": "https://assets.odos.xyz/tokens/RCKT.webp",
+      "decimals": 18,
+      "chainID": 8453
+    },
+    {
+      "name": "Unidex",
+      "symbol": "UNIDX",
+      "address": "0x6B4712AE9797C199edd44F897cA09BC57628a1CF",
+      "logoURI": "https://assets.odos.xyz/tokens/UNIDX.webp",
       "decimals": 18,
       "chainID": 8453
     },
