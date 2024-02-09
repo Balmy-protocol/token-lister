@@ -5,7 +5,7 @@
     "lint:check": "prettier --check './**'",
     "lint:fix": "sort-package-json && prettier --write './**' ",
     "start": "node --trace-warnings --abort-on-uncaught-exception --unhandled-rejections=strict dist/index.js",
-    "watch": "nodemon -r tsconfig-paths/register src/balmy/index.ts --ignore 'token-list.json'"
+    "watch": "nodemon -r tsconfig-paths/register src/balmy/index.ts --ignore '*.json'"
   },
   "lint-staged": {
     "*.{js,md,ts,json}": "prettier --write",

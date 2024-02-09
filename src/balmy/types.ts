@@ -6,6 +6,8 @@ export type ITokenListGenerator = {
   getChains(): ChainId[];
 };
 
+export type ITokenList = { generator: ITokenListGenerator; priority?: number };
+
 export type TokenData = {
   name: string;
   symbol: string;
@@ -13,4 +15,8 @@ export type TokenData = {
   logoURI?: string;
   decimals?: number;
   chainID: ChainId;
+};
+
+export type FullTokenData = TokenData & {
+  providers?: string[];
 };
