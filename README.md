@@ -26,6 +26,6 @@ When you are contributing, we recommend running `yarn watch` so that the server 
 
 ## Token List
 
-The curated token list is located at https://raw.githubusercontent.com/Mean-Finance/token-lister/main/token-list.json and the curated token list is at https://raw.githubusercontent.com/Mean-Finance/token-lister/main/token-list-complete.json 
+The curated token list is located at https://raw.githubusercontent.com/Mean-Finance/token-lister/main/token-list.json and the complete token list is at https://raw.githubusercontent.com/Mean-Finance/token-lister/main/token-list-complete.json 
 
 
