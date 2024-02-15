@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2024-02-14T00:02:05.755Z",
+  "timestamp": "2024-02-15T00:01:56.783Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -4259,10 +4259,10 @@
       "chainID": 56
     },
     {
-      "name": "USDC",
+      "name": "Binance Bridged USDC (BNB Smart Chain)",
       "symbol": "usdc",
       "address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
-      "logoURI": "https://assets.coingecko.com/coins/images/6319/thumb/USD_Coin_icon.png?1547042389",
+      "logoURI": "https://assets.coingecko.com/coins/images/35220/thumb/USDC.jpg?1707919050",
       "decimals": 18,
       "chainID": 56
     },
@@ -10371,22 +10371,6 @@
       "chainID": 1101
     },
     {
-      "name": "Wrapped liquid staked Ether 2.0",
-      "symbol": "wstETH",
-      "address": "0x5D8cfF95D7A57c0BF50B30b43c7CC0D52825D4a9",
-      "logoURI": "https://etherscan.io/token/images/wsteth3_32.png",
-      "decimals": 18,
-      "chainID": 1101
-    },
-    {
-      "name": "QuickSwap",
-      "symbol": "QUICK",
-      "address": "0x68286607A1d43602d880D349187c3c48c0fD05E6",
-      "logoURI": "https://assets.polygon.technology/tokenAssets/quick.svg",
-      "decimals": 18,
-      "chainID": 1101
-    },
-    {
       "name": "AAVE",
       "symbol": "AAVE",
       "address": "0x68791CFE079814c46e0E25C19Bcc5BFC71A744f7",
@@ -10440,14 +10424,6 @@
       "address": "0xA8CE8aee21bC2A48a5EF670afCc9274C7bbbC035",
       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/polygon-zkevm/0xA8CE8aee21bC2A48a5EF670afCc9274C7bbbC035.jpg",
       "decimals": 6,
-      "chainID": 1101
-    },
-    {
-      "name": "Rocket Pool ETH",
-      "symbol": "rETH",
-      "address": "0xb23C20EFcE6e24Acca0Cef9B7B7aA196b84EC942",
-      "logoURI": "https://etherscan.io/token/images/rocketpooleth_32.png",
-      "decimals": 18,
       "chainID": 1101
     },
     {
@@ -14912,6 +14888,14 @@
       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/boba.jpg",
       "decimals": 18,
       "chainID": 56288
+    },
+    {
+      "name": "Metavault Trade",
+      "symbol": "MVX",
+      "address": "0x0018D96C579121a94307249d47F053E2D687b5e7",
+      "logoURI": "https://storage.googleapis.com/ks-setting-1d682dca/b427489f-45dd-4fe8-a9e7-50c5498576571707245599968.png",
+      "decimals": 18,
+      "chainID": 59144
     },
     {
       "name": "USDC.e",
