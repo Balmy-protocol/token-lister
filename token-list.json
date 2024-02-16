@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2024-02-15T00:01:56.783Z",
+  "timestamp": "2024-02-16T00:01:59.240Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -10371,6 +10371,22 @@
       "chainID": 1101
     },
     {
+      "name": "Wrapped liquid staked Ether 2.0",
+      "symbol": "wstETH",
+      "address": "0x5D8cfF95D7A57c0BF50B30b43c7CC0D52825D4a9",
+      "logoURI": "https://etherscan.io/token/images/wsteth3_32.png",
+      "decimals": 18,
+      "chainID": 1101
+    },
+    {
+      "name": "QuickSwap",
+      "symbol": "QUICK",
+      "address": "0x68286607A1d43602d880D349187c3c48c0fD05E6",
+      "logoURI": "https://assets.polygon.technology/tokenAssets/quick.svg",
+      "decimals": 18,
+      "chainID": 1101
+    },
+    {
       "name": "AAVE",
       "symbol": "AAVE",
       "address": "0x68791CFE079814c46e0E25C19Bcc5BFC71A744f7",
@@ -10424,6 +10440,14 @@
       "address": "0xA8CE8aee21bC2A48a5EF670afCc9274C7bbbC035",
       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/polygon-zkevm/0xA8CE8aee21bC2A48a5EF670afCc9274C7bbbC035.jpg",
       "decimals": 6,
+      "chainID": 1101
+    },
+    {
+      "name": "Rocket Pool ETH",
+      "symbol": "rETH",
+      "address": "0xb23C20EFcE6e24Acca0Cef9B7B7aA196b84EC942",
+      "logoURI": "https://etherscan.io/token/images/rocketpooleth_32.png",
+      "decimals": 18,
       "chainID": 1101
     },
     {
@@ -13883,14 +13907,6 @@
       "chainID": 43114
     },
     {
-      "name": "BayMax Finance",
-      "symbol": "bay",
-      "address": "0x18706c65b12595edb43643214eacdb4f618dd166",
-      "logoURI": "https://assets.coingecko.com/coins/images/28757/thumb/BayMax_Logo.jpg?1673995445",
-      "decimals": 18,
-      "chainID": 43114
-    },
-    {
       "name": "TrueUSD",
       "symbol": "tusd",
       "address": "0x1c20e891bab6b1727d14da358fae2984ed9b59eb",
@@ -15338,6 +15354,14 @@
       "chainID": 84531
     },
     {
+      "name": "Brickken",
+      "symbol": "BKN",
+      "address": "0xe2c5fd88341c18025665e4088d8eed23f5c573a7",
+      "logoURI": "https://ethereum-optimism.github.io/data/BKN/logo.svg",
+      "decimals": 18,
+      "chainID": 84532
+    },
+    {
       "name": "BTRST",
       "symbol": "BTRST",
       "address": "0xE490c7698F2b80789Fe312162d9D0a1Bd8C9beeE",
@@ -15415,6 +15439,14 @@
       "address": "0x3f14920c99BEB920Afa163031c4e47a3e03B3e4A",
       "logoURI": "https://ethereum-optimism.github.io/data/send/logo.svg",
       "decimals": 0,
+      "chainID": 11155111
+    },
+    {
+      "name": "Brickken",
+      "symbol": "BKN",
+      "address": "0x97a13487f889dc770Ac925Be2d3b6c833FA7746a",
+      "logoURI": "https://ethereum-optimism.github.io/data/BKN/logo.svg",
+      "decimals": 18,
       "chainID": 11155111
     },
     {
