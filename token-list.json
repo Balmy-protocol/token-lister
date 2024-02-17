@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2024-02-16T00:01:59.240Z",
+  "timestamp": "2024-02-17T00:02:15.700Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -1340,7 +1340,7 @@
       "chainID": 1
     },
     {
-      "name": "JPEG'd",
+      "name": "JPEG'd (OLD)",
       "symbol": "jpeg",
       "address": "0xe80c0cd204d654cebe8dd64a4857cab6be8345a3",
       "logoURI": "https://assets.coingecko.com/coins/images/24025/thumb/et_43CNi_400x400.jpg?1646100264",
@@ -3559,14 +3559,6 @@
       "symbol": "zix",
       "address": "0x48077400faf11183c043feb5184a13ea628bb0db",
       "logoURI": "https://assets.coingecko.com/coins/images/27886/thumb/logo_coinzix_200x200_transparent_png.png?1666239312",
-      "decimals": 18,
-      "chainID": 56
-    },
-    {
-      "name": "Xend Finance",
-      "symbol": "xend",
-      "address": "0x4a080377f83d669d7bb83b3184a8a5e61b500608",
-      "logoURI": "https://assets.coingecko.com/coins/images/14496/thumb/WeChat_Image_20210325163206.png?1616661216",
       "decimals": 18,
       "chainID": 56
     },
@@ -6051,10 +6043,10 @@
       "chainID": 100
     },
     {
-      "name": "USDC",
+      "name": "Gnosis xDAI Bridged USDC (Gnosis)",
       "symbol": "usdc",
       "address": "0xddafbb505ad214d7b80b1f830fccc89b60fb7a83",
-      "logoURI": "https://assets.coingecko.com/coins/images/6319/thumb/USD_Coin_icon.png?1547042389",
+      "logoURI": "https://assets.coingecko.com/coins/images/35300/thumb/USDC_Icon.png?1708083625",
       "decimals": 6,
       "chainID": 100
     },
@@ -15030,6 +15022,14 @@
       "symbol": "LYU",
       "address": "0xb20116eE399f15647BB1eEf9A74f6ef3b58bc951",
       "logoURI": "https://storage.googleapis.com/ks-setting-1d682dca/9416bf3d-3df3-49db-85e3-aa75e22a757a1700135562848.png",
+      "decimals": 18,
+      "chainID": 59144
+    },
+    {
+      "name": "Wrapped liquid staked Ether 2.0",
+      "symbol": "wstETH",
+      "address": "0xB5beDd42000b71FddE22D3eE8a79Bd49A568fC8F",
+      "logoURI": "https://storage.googleapis.com/ks-setting-1d682dca/b0309bf4-bddc-44a8-902a-4c3d5d1fbebf1708094583787.png",
       "decimals": 18,
       "chainID": 59144
     },
