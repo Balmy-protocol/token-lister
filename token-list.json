@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2024-02-22T00:01:59.882Z",
+  "timestamp": "2024-02-23T00:02:00.477Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -4752,6 +4752,14 @@
       "address": "0xb86abcb37c3a4b64f74f59301aff131a1becc787",
       "logoURI": "https://assets.coingecko.com/coins/images/2687/thumb/Zilliqa-logo.png?1547036894",
       "decimals": 12,
+      "chainId": 56
+    },
+    {
+      "name": "OX Coin",
+      "symbol": "ox",
+      "address": "0xba0dda8762c24da9487f5fa026a9b64b695a07ea",
+      "logoURI": "https://assets.coingecko.com/coins/images/35365/thumb/logo.png?1708395976",
+      "decimals": 18,
       "chainId": 56
     },
     {
@@ -10371,22 +10379,6 @@
       "chainId": 1101
     },
     {
-      "name": "Wrapped liquid staked Ether 2.0",
-      "symbol": "wstETH",
-      "address": "0x5D8cfF95D7A57c0BF50B30b43c7CC0D52825D4a9",
-      "logoURI": "https://etherscan.io/token/images/wsteth3_32.png",
-      "decimals": 18,
-      "chainId": 1101
-    },
-    {
-      "name": "QuickSwap",
-      "symbol": "QUICK",
-      "address": "0x68286607A1d43602d880D349187c3c48c0fD05E6",
-      "logoURI": "https://assets.polygon.technology/tokenAssets/quick.svg",
-      "decimals": 18,
-      "chainId": 1101
-    },
-    {
       "name": "AAVE",
       "symbol": "AAVE",
       "address": "0x68791CFE079814c46e0E25C19Bcc5BFC71A744f7",
@@ -10440,14 +10432,6 @@
       "address": "0xA8CE8aee21bC2A48a5EF670afCc9274C7bbbC035",
       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/polygon-zkevm/0xA8CE8aee21bC2A48a5EF670afCc9274C7bbbC035.jpg",
       "decimals": 6,
-      "chainId": 1101
-    },
-    {
-      "name": "Rocket Pool ETH",
-      "symbol": "rETH",
-      "address": "0xb23C20EFcE6e24Acca0Cef9B7B7aA196b84EC942",
-      "logoURI": "https://etherscan.io/token/images/rocketpooleth_32.png",
-      "decimals": 18,
       "chainId": 1101
     },
     {
@@ -14096,6 +14080,14 @@
       "address": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
       "logoURI": "https://assets.coingecko.com/coins/images/6319/thumb/USD_Coin_icon.png?1547042389",
       "decimals": 6,
+      "chainId": 43114
+    },
+    {
+      "name": "OX Coin",
+      "symbol": "ox",
+      "address": "0xba0dda8762c24da9487f5fa026a9b64b695a07ea",
+      "logoURI": "https://assets.coingecko.com/coins/images/35365/thumb/logo.png?1708395976",
+      "decimals": 18,
       "chainId": 43114
     },
     {
