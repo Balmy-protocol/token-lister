@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2024-02-27T00:01:57.765Z",
+  "timestamp": "2024-02-28T00:02:02.228Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -3539,6 +3539,14 @@
       "chainId": 56
     },
     {
+      "name": "DeFi",
+      "symbol": "defi",
+      "address": "0x6d106c0b8d2f47c5465bdbd58d1be253762cbbc1",
+      "logoURI": "missing_thumb.png",
+      "decimals": 18,
+      "chainId": 56
+    },
+    {
       "name": "MFET",
       "symbol": "mfet",
       "address": "0x6d23970ce32cb0f1929bece7c56d71319e1b4f01",
@@ -4344,14 +4352,6 @@
       "address": "0xb86abcb37c3a4b64f74f59301aff131a1becc787",
       "logoURI": "https://assets.coingecko.com/coins/images/2687/thumb/Zilliqa-logo.png?1547036894",
       "decimals": 12,
-      "chainId": 56
-    },
-    {
-      "name": "OX Coin",
-      "symbol": "ox",
-      "address": "0xba0dda8762c24da9487f5fa026a9b64b695a07ea",
-      "logoURI": "https://assets.coingecko.com/coins/images/35365/thumb/logo.png?1708395976",
-      "decimals": 18,
       "chainId": 56
     },
     {
@@ -11179,6 +11179,14 @@
       "chainId": 8453
     },
     {
+      "name": "Send Token",
+      "symbol": "send",
+      "address": "0x3f14920c99BEB920Afa163031c4e47a3e03B3e4A",
+      "logoURI": "https://ethereum-optimism.github.io/data/send/logo.svg",
+      "decimals": 0,
+      "chainId": 8453
+    },
+    {
       "name": "Balancer",
       "symbol": "BAL",
       "address": "0x4158734D47Fc9692176B5085E0F52ee0Da5d47F1",
@@ -12259,10 +12267,10 @@
       "chainId": 42161
     },
     {
-      "name": "MAI",
+      "name": "MAI (Arbitrum)",
       "symbol": "mimatic",
       "address": "0x3f56e0c36d275367b8c502090edf38289b3dea0d",
-      "logoURI": "https://assets.coingecko.com/coins/images/15264/thumb/mimatic-red.png?1620281018",
+      "logoURI": "https://assets.coingecko.com/coins/images/35517/thumb/mimatic-red.png?1709005586",
       "decimals": 18,
       "chainId": 42161
     },
