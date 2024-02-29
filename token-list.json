@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2024-02-28T00:02:02.228Z",
+  "timestamp": "2024-02-29T00:02:07.971Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -10003,6 +10003,14 @@
       "chainId": 1101
     },
     {
+      "name": "Wrapped liquid staked Ether 2.0",
+      "symbol": "wstETH",
+      "address": "0x5D8cfF95D7A57c0BF50B30b43c7CC0D52825D4a9",
+      "logoURI": "https://etherscan.io/token/images/wsteth3_32.png",
+      "decimals": 18,
+      "chainId": 1101
+    },
+    {
       "name": "QuickSwap",
       "symbol": "QUICK",
       "address": "0x68286607A1d43602d880D349187c3c48c0fD05E6",
@@ -10064,6 +10072,14 @@
       "address": "0xA8CE8aee21bC2A48a5EF670afCc9274C7bbbC035",
       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/polygon-zkevm/0xA8CE8aee21bC2A48a5EF670afCc9274C7bbbC035.jpg",
       "decimals": 6,
+      "chainId": 1101
+    },
+    {
+      "name": "Rocket Pool ETH",
+      "symbol": "rETH",
+      "address": "0xb23C20EFcE6e24Acca0Cef9B7B7aA196b84EC942",
+      "logoURI": "https://etherscan.io/token/images/rocketpooleth_32.png",
+      "decimals": 18,
       "chainId": 1101
     },
     {
@@ -11251,6 +11267,14 @@
       "chainId": 8453
     },
     {
+      "name": "Quack Token",
+      "symbol": "QUACK",
+      "address": "0x639C0D019C257966C4907bD4E68E3F349bB58109",
+      "logoURI": "https://assets.odos.xyz/tokens/QUACK.webp",
+      "decimals": 18,
+      "chainId": 8453
+    },
+    {
       "name": "Maverick Token",
       "symbol": "MAV",
       "address": "0x64b88c73A5DfA78D1713fE1b4c69a22d7E0faAa7",
@@ -11359,6 +11383,14 @@
       "symbol": "MBS",
       "address": "0x8Fbd0648971d56f1f2c35Fa075Ff5Bc75fb0e39D",
       "logoURI": "https://ethereum-optimism.github.io/data/MBS/logo.png",
+      "decimals": 18,
+      "chainId": 8453
+    },
+    {
+      "name": "Metronome2",
+      "symbol": "MET",
+      "address": "0x93dc5Cb35627A759848c7A7F0079EA7b49E435a5",
+      "logoURI": "https://ethereum-optimism.github.io/data/MET/logo.svg",
       "decimals": 18,
       "chainId": 8453
     },
@@ -13491,14 +13523,6 @@
       "chainId": 43114
     },
     {
-      "name": "MAI",
-      "symbol": "mimatic",
-      "address": "0x3b55e45fd6bd7d4724f5c47e0d1bcaedd059263e",
-      "logoURI": "https://assets.coingecko.com/coins/images/15264/thumb/mimatic-red.png?1620281018",
-      "decimals": 18,
-      "chainId": 43114
-    },
-    {
       "name": "Islander",
       "symbol": "isa",
       "address": "0x3eefb18003d033661f84e48360ebecd181a84709",
@@ -13591,6 +13615,14 @@
       "symbol": "link",
       "address": "0x5947bb275c521040051d82396192181b413227a3",
       "logoURI": "https://assets.coingecko.com/coins/images/877/thumb/chainlink-new-logo.png?1547034700",
+      "decimals": 18,
+      "chainId": 43114
+    },
+    {
+      "name": "MAI (Avalanche)",
+      "symbol": "mimatic",
+      "address": "0x5c49b268c9841aff1cc3b0a418ff5c3442ee3f3b",
+      "logoURI": "https://assets.coingecko.com/coins/images/35541/thumb/mimatic-red.png?1709092837",
       "decimals": 18,
       "chainId": 43114
     },
