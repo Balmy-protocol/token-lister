@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2024-03-07T00:01:49.111Z",
+  "timestamp": "2024-03-08T00:02:09.341Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -72,6 +72,14 @@
       "symbol": "spell",
       "address": "0x090185f2135308bad17527004364ebcc2d37e5f6",
       "logoURI": "https://assets.coingecko.com/coins/images/15861/thumb/abracadabra-3.png?1622544862",
+      "decimals": 18,
+      "chainId": 1
+    },
+    {
+      "name": "Index Cooperative",
+      "symbol": "index",
+      "address": "0x0954906da0bf32d5479e25f46056d22f08464cab",
+      "logoURI": "https://assets.coingecko.com/coins/images/12729/thumb/index.png?1634894321",
       "decimals": 18,
       "chainId": 1
     },
@@ -700,6 +708,14 @@
       "chainId": 1
     },
     {
+      "name": "Million",
+      "symbol": "mm",
+      "address": "0x6b4c7a5e3f0b99fcd83e9c089bddd6c7fce5c611",
+      "logoURI": "https://assets.coingecko.com/coins/images/16825/thumb/logo200x200.png?1625834139",
+      "decimals": 18,
+      "chainId": 1
+    },
+    {
       "name": "Quickswap",
       "symbol": "QUICK",
       "address": "0x6c28AeF8977c9B773996d0e8376d2EE379446F2f",
@@ -712,6 +728,14 @@
       "symbol": "lqty",
       "address": "0x6dea81c8171d0ba574754ef6f8b412f2ed88c54d",
       "logoURI": "https://assets.coingecko.com/coins/images/14665/thumb/200-lqty-icon.png?1617631180",
+      "decimals": 18,
+      "chainId": 1
+    },
+    {
+      "name": "Metaverse Index",
+      "symbol": "mvi",
+      "address": "0x72e364f2abdc788b7e918bc238b21f109cd634d7",
+      "logoURI": "https://assets.coingecko.com/coins/images/14684/thumb/MVI_logo.png?1617776444",
       "decimals": 18,
       "chainId": 1
     },
@@ -908,6 +932,14 @@
       "chainId": 1
     },
     {
+      "name": "Tracer DAO",
+      "symbol": "tcr",
+      "address": "0x9c4a4204b79dd291d6b6571c5be8bbcd0622f050",
+      "logoURI": "https://assets.coingecko.com/coins/images/18271/thumb/tracer_logo.png?1631176676",
+      "decimals": 18,
+      "chainId": 1
+    },
+    {
       "name": "Yearn Compounding veCRV yVault",
       "symbol": "yvboost",
       "address": "0x9d409a0a012cfba9b15f6d4b36ac57a46966ab9a",
@@ -969,6 +1001,14 @@
       "address": "0xa693b19d2931d498c5b318df961919bb4aee87a5",
       "logoURI": "https://assets.coingecko.com/coins/images/21150/thumb/UST_wh_small.png?1644223065",
       "decimals": 6,
+      "chainId": 1
+    },
+    {
+      "name": "Index Coop - ETH 2x Flexible Leverage Index",
+      "symbol": "eth2x-fli",
+      "address": "0xaa6e8127831c9de45ae56bb1b0d4d4da6e5665bd",
+      "logoURI": "https://assets.coingecko.com/coins/images/14392/thumb/ETH2x-FLI_%281%29.png?1615875910",
+      "decimals": 18,
       "chainId": 1
     },
     {
@@ -1036,10 +1076,26 @@
       "chainId": 1
     },
     {
+      "name": "SuperRare",
+      "symbol": "rare",
+      "address": "0xba5bde662c17e2adff1075610382b9b691296350",
+      "logoURI": "https://assets.coingecko.com/coins/images/17753/thumb/RARE.jpg?1629220534",
+      "decimals": 18,
+      "chainId": 1
+    },
+    {
       "name": "The Doge NFT",
       "symbol": "dog",
       "address": "0xbaac2b4491727d78d2b78815144570b9f2fe8899",
       "logoURI": "https://assets.coingecko.com/coins/images/18111/thumb/Doge.png?1630696110",
+      "decimals": 18,
+      "chainId": 1
+    },
+    {
+      "name": "Axie Infinity",
+      "symbol": "axs",
+      "address": "0xbb0e17ef65f82ab018d8edd776e8dd940327b28b",
+      "logoURI": "https://assets.coingecko.com/coins/images/13029/thumb/axie_infinity_logo.png?1604471082",
       "decimals": 18,
       "chainId": 1
     },
@@ -1720,6 +1776,14 @@
       "symbol": "pool",
       "address": "0x395ae52bb17aef68c2888d941736a71dc6d4e125",
       "logoURI": "https://assets.coingecko.com/coins/images/14003/thumb/PoolTogether.png?1613585632",
+      "decimals": 18,
+      "chainId": 10
+    },
+    {
+      "name": "Alchemix ETH",
+      "symbol": "aleth",
+      "address": "0x3e29d3a9316dab217754d13b28646b76607c5f04",
+      "logoURI": "https://assets.coingecko.com/coins/images/16271/thumb/uS04dyYy_400x400.jpeg?1663051098",
       "decimals": 18,
       "chainId": 10
     },
@@ -6523,6 +6587,14 @@
       "chainId": 137
     },
     {
+      "name": "Wombat",
+      "symbol": "wombat",
+      "address": "0x0c9c7712c83b3c70e7c5e11100d33d9401bdf9dd",
+      "logoURI": "https://assets.coingecko.com/coins/images/26430/thumb/Project_Page_Icon.png?1657930951",
+      "decimals": 18,
+      "chainId": 137
+    },
+    {
       "name": "Wrapped Matic",
       "symbol": "WMATIC",
       "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
@@ -6552,6 +6624,14 @@
       "address": "0x172370d5cd63279efa6d502dab29171933a610af",
       "logoURI": "ipfs://QmTiGZB1suSfu3GprUby98sUFxV4h2AEhvUWt5QQva6KEf/crv.png",
       "decimals": 18,
+      "chainId": 137
+    },
+    {
+      "name": "Yellow Duckies",
+      "symbol": "duckies",
+      "address": "0x18e73a5333984549484348a94f4d219f4fab7b81",
+      "logoURI": "https://assets.coingecko.com/coins/images/27630/thumb/logo.png?1664956807",
+      "decimals": 8,
       "chainId": 137
     },
     {
@@ -6631,6 +6711,14 @@
       "symbol": "ocean",
       "address": "0x282d8efce846a88b159800bd4130ad77443fa1a1",
       "logoURI": "https://assets.coingecko.com/coins/images/3687/thumb/ocean-protocol-logo.jpg?1547038686",
+      "decimals": 18,
+      "chainId": 137
+    },
+    {
+      "name": "THX Network",
+      "symbol": "thx",
+      "address": "0x2934b36ca9a4b31e633c5be670c8c8b28b6aa015",
+      "logoURI": "https://assets.coingecko.com/coins/images/21323/thumb/logo-thx-resized-200-200.png?1638945575",
       "decimals": 18,
       "chainId": 137
     },
@@ -6843,6 +6931,14 @@
       "chainId": 137
     },
     {
+      "name": "Wrapped USTC",
+      "symbol": "ustc",
+      "address": "0x692597b009d13c4049a947cab2239b7d6517875f",
+      "logoURI": "https://assets.coingecko.com/coins/images/15462/thumb/ust.png?1620910058",
+      "decimals": 18,
+      "chainId": 137
+    },
+    {
       "name": "Monavale",
       "symbol": "mona",
       "address": "0x6968105460f67c3bf751be7c15f92f5286fd0ce5",
@@ -7047,6 +7143,14 @@
       "symbol": "UNI",
       "address": "0xb33eaad8d922b1083446dc23f610c2567fb5180f",
       "logoURI": "ipfs://QmbnNzaqHML8ED6yqsAxhoop6Nzwxtt1G5rjeKGojpQsUn",
+      "decimals": 18,
+      "chainId": 137
+    },
+    {
+      "name": "Quickswap",
+      "symbol": "quick",
+      "address": "0xb5c064f955d8e7f38fe0460c556a72987494ee17",
+      "logoURI": "https://assets.coingecko.com/coins/images/25393/thumb/quickswap.jpg?1651680141",
       "decimals": 18,
       "chainId": 137
     },
@@ -7271,6 +7375,22 @@
       "symbol": "msu",
       "address": "0xe8377a076adabb3f9838afb77bee96eac101ffb1",
       "logoURI": "https://assets.coingecko.com/coins/images/21670/thumb/Om_U3jQg_400x400.jpg?1639706776",
+      "decimals": 18,
+      "chainId": 137
+    },
+    {
+      "name": "Davos Protocol",
+      "symbol": "dusd",
+      "address": "0xec38621e72d86775a89c7422746de1f52bba5320",
+      "logoURI": "https://assets.coingecko.com/coins/images/28775/thumb/Token_Logo.png?1674100108",
+      "decimals": 18,
+      "chainId": 137
+    },
+    {
+      "name": "CRISP Scored Mangroves",
+      "symbol": "crisp-m",
+      "address": "0xef6ab48ef8dfe984fab0d5c4cd6aff2e54dfda14",
+      "logoURI": "https://assets.coingecko.com/coins/images/30555/thumb/CrispM_small.png?1685008110",
       "decimals": 18,
       "chainId": 137
     },
@@ -11378,6 +11498,14 @@
       "chainId": 8453
     },
     {
+      "name": "SubQueryToken",
+      "symbol": "SQT",
+      "address": "0x858c50C3AF1913b0E849aFDB74617388a1a5340d",
+      "logoURI": "https://ethereum-optimism.github.io/data/SQT/logo.svg",
+      "decimals": 18,
+      "chainId": 8453
+    },
+    {
       "name": "Curve DAO Token",
       "symbol": "CRV",
       "address": "0x8Ee73c484A26e0A5df2Ee2a4960B789967dd0415",
@@ -12146,6 +12274,14 @@
       "chainId": 11235
     },
     {
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "address": "0xf0F161fDA2712DB8b566946122a5af183995e2eD",
+      "logoURI": "https://ethereum-optimism.github.io/data/USDT/logo.png",
+      "decimals": 6,
+      "chainId": 34443
+    },
+    {
       "name": "Cap",
       "symbol": "CAP",
       "address": "0x031d35296154279dc1984dcd93e392b1f946737b",
@@ -12346,6 +12482,14 @@
       "chainId": 42161
     },
     {
+      "name": "NFTEarth",
+      "symbol": "nfte",
+      "address": "0x51b902f19a56f0c8e409a34a215ad2673edf3284",
+      "logoURI": "https://assets.coingecko.com/coins/images/29116/thumb/200X200.png?1676712383",
+      "decimals": 18,
+      "chainId": 42161
+    },
+    {
       "name": "Premia",
       "symbol": "PREMIA",
       "address": "0x51fc0f6660482ea73330e414efd7808811a57fa2",
@@ -12382,6 +12526,14 @@
       "symbol": "NEXT",
       "address": "0x58b9cB810A68a7f3e1E4f8Cb45D1B9B3c79705E8",
       "logoURI": "ipfs://QmauPCFRzp5JxiZpWM2seEYUppWJc9aeEeLuGMUSsqNkV1",
+      "decimals": 18,
+      "chainId": 42161
+    },
+    {
+      "name": "Wrapped stETH",
+      "symbol": "wsteth",
+      "address": "0x5979d7b546e38e414f7e9822514be443a4800529",
+      "logoURI": "https://assets.coingecko.com/coins/images/18834/thumb/wstETH.png?1633565443",
       "decimals": 18,
       "chainId": 42161
     },
@@ -12434,6 +12586,14 @@
       "chainId": 42161
     },
     {
+      "name": "Governance OHM",
+      "symbol": "gohm",
+      "address": "0x8d9ba570d6cb60c7e3e0f31343efe75ab8e65fb1",
+      "logoURI": "https://assets.coingecko.com/coins/images/21129/thumb/token_wsOHM_logo.png?1638764900",
+      "decimals": 18,
+      "chainId": 42161
+    },
+    {
       "name": "Arbitrum",
       "symbol": "ARB",
       "address": "0x912ce59144191c1204e64559fe8253a0e49e6548",
@@ -12458,10 +12618,26 @@
       "chainId": 42161
     },
     {
+      "name": "The Graph",
+      "symbol": "grt",
+      "address": "0x9623063377ad1b27544c965ccd7342f7ea7e88c7",
+      "logoURI": "https://assets.coingecko.com/coins/images/13397/thumb/Graph_Token.png?1608145566",
+      "decimals": 18,
+      "chainId": 42161
+    },
+    {
       "name": "MATH",
       "symbol": "math",
       "address": "0x99f40b01ba9c469193b360f72740e416b17ac332",
       "logoURI": "https://assets.coingecko.com/coins/images/11335/thumb/2020-05-19-token-200.png?1589940590",
+      "decimals": 18,
+      "chainId": 42161
+    },
+    {
+      "name": "OmniCat",
+      "symbol": "omni",
+      "address": "0x9e20461bc2c4c980f62f1b279d71734207a6a356",
+      "logoURI": "https://assets.coingecko.com/coins/images/33917/thumb/2023-12-21_21.39.10.jpg?1703321588",
       "decimals": 18,
       "chainId": 42161
     },
@@ -12502,6 +12678,14 @@
       "symbol": "sushi",
       "address": "0xd4d42f0b6def4ce0383636770ef773390d85c61a",
       "logoURI": "https://assets.coingecko.com/coins/images/12271/thumb/512x512_Logo_no_chop.png?1606986688",
+      "decimals": 18,
+      "chainId": 42161
+    },
+    {
+      "name": "Sperax USD",
+      "symbol": "usds",
+      "address": "0xd74f5255d557944cf7dd0e45ff521520002d5748",
+      "logoURI": "https://assets.coingecko.com/coins/images/21973/thumb/USDs_logo_1000X1000.png?1640565887",
       "decimals": 18,
       "chainId": 42161
     },
@@ -15273,6 +15457,14 @@
       "chainId": 84531
     },
     {
+      "name": "SubQueryToken",
+      "symbol": "SQT",
+      "address": "0x37B797EBE14B4490FE64c67390AeCfE20D650953",
+      "logoURI": "https://ethereum-optimism.github.io/data/SQT/logo.svg",
+      "decimals": 18,
+      "chainId": 84532
+    },
+    {
       "name": "Brickken",
       "symbol": "BKN",
       "address": "0xe2c5fd88341c18025665e4088d8eed23f5c573a7",
@@ -15389,6 +15581,14 @@
       "symbol": "BTRST",
       "address": "0xE490c7698F2b80789Fe312162d9D0a1Bd8C9beeE",
       "logoURI": "https://ethereum-optimism.github.io/data/BTRST/logo.svg",
+      "decimals": 18,
+      "chainId": 11155111
+    },
+    {
+      "name": "SubQueryToken",
+      "symbol": "SQT",
+      "address": "0xE6E15Ffc71AbDAe8D34D65bB695959fbd6c15435",
+      "logoURI": "https://ethereum-optimism.github.io/data/SQT/logo.svg",
       "decimals": 18,
       "chainId": 11155111
     },
