@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2024-03-14T00:01:58.250Z",
+  "timestamp": "2024-03-15T00:02:05.457Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -3115,7 +3115,7 @@
       "chainId": 56
     },
     {
-      "name": "Bridged USD Coin (Axelar)",
+      "name": "Axelar Bridged USDC",
       "symbol": "axlusdc",
       "address": "0x4268b8f0b87b6eae5d897996e6b845ddbd99adf3",
       "logoURI": "https://assets.coingecko.com/coins/images/26476/thumb/axlUSDC.png?1658207579",
@@ -3992,6 +3992,14 @@
       "address": "0x928e55dab735aa8260af3cedada18b5f70c72f1b",
       "logoURI": "https://assets.coingecko.com/coins/images/12479/thumb/frontier_logo.png?1600145472",
       "decimals": 18,
+      "chainId": 56
+    },
+    {
+      "name": "TRDGtoken",
+      "symbol": "trdg",
+      "address": "0x92a42db88ed0f02c71d439e55962ca7cab0168b5",
+      "logoURI": "https://assets.coingecko.com/coins/images/14371/thumb/trdg.png?1635830350",
+      "decimals": 9,
       "chainId": 56
     },
     {
@@ -6963,7 +6971,7 @@
       "chainId": 137
     },
     {
-      "name": "Bridged USD Coin (Axelar)",
+      "name": "Axelar Bridged USDC",
       "symbol": "axlusdc",
       "address": "0x750e4c4984a9e0f12978ea6742bc1c5d248f40ed",
       "logoURI": "https://assets.coingecko.com/coins/images/26476/thumb/axlUSDC.png?1658207579",
@@ -11313,6 +11321,14 @@
       "chainId": 8453
     },
     {
+      "name": "ValleyDAO Token",
+      "symbol": "GROW",
+      "address": "0x321725ee44CB4bfA544CF45a5A585b925d30A58C",
+      "logoURI": "https://ethereum-optimism.github.io/data/GROW/logo.svg",
+      "decimals": 18,
+      "chainId": 8453
+    },
+    {
       "name": "LUSD Stablecoin",
       "symbol": "LUSD",
       "address": "0x368181499736d0c0CC614DBB145E2EC1AC86b8c6",
@@ -11526,6 +11542,14 @@
       "address": "0x8Ee73c484A26e0A5df2Ee2a4960B789967dd0415",
       "logoURI": "https://ethereum-optimism.github.io/data/CRV/logo.png",
       "decimals": 18,
+      "chainId": 8453
+    },
+    {
+      "name": "KOMPETE Token",
+      "symbol": "KOMPETE",
+      "address": "0x8f019931375454Fe4EE353427eB94E2E0C9e0a8C",
+      "logoURI": "https://ethereum-optimism.github.io/data/KOMPETE/logo.svg",
+      "decimals": 10,
       "chainId": 8453
     },
     {
@@ -12295,6 +12319,14 @@
       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/haqq/0xFA3C22C069B9556A4B2f7EcE1Ee3B467909f4864.jpg",
       "decimals": 6,
       "chainId": 11235
+    },
+    {
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "address": "0xcDd475325D6F564d27247D1DddBb0DAc6fA0a5CF",
+      "logoURI": "https://ethereum-optimism.github.io/data/WBTC/logo.svg",
+      "decimals": 8,
+      "chainId": 34443
     },
     {
       "name": "Tether USD",
@@ -14752,7 +14784,7 @@
       "chainId": 43114
     },
     {
-      "name": "Bridged USD Coin (Axelar)",
+      "name": "Axelar Bridged USDC",
       "symbol": "axlusdc",
       "address": "0xfab550568c688d5d8a52c7d794cb93edc26ec0ec",
       "logoURI": "https://assets.coingecko.com/coins/images/26476/thumb/axlUSDC.png?1658207579",
