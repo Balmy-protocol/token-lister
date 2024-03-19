@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2024-03-18T00:02:07.732Z",
+  "timestamp": "2024-03-19T00:01:58.988Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -212,8 +212,8 @@
       "chainId": 1
     },
     {
-      "name": "agEUR",
-      "symbol": "ageur",
+      "name": "EURA",
+      "symbol": "eura",
       "address": "0x1a7e4e63778b4f12a199c062f3efdd288afcbce8",
       "logoURI": "https://assets.coingecko.com/coins/images/19479/thumb/agEUR.png?1635283566",
       "decimals": 18,
@@ -972,14 +972,6 @@
       "chainId": 1
     },
     {
-      "name": "Electronic USD",
-      "symbol": "eusd",
-      "address": "0xa0d69e286b938e21cbf7e51d71f6a4c8918f482f",
-      "logoURI": "https://assets.coingecko.com/coins/images/28445/thumb/eusd.png?1670579597",
-      "decimals": 18,
-      "chainId": 1
-    },
-    {
       "name": "mStable Governance: Meta",
       "symbol": "mta",
       "address": "0xa3bed4e1c75d00fa6f4e5e6922db7261b5e9acd2",
@@ -1612,14 +1604,6 @@
       "chainId": 4
     },
     {
-      "name": "USD Coin",
-      "symbol": "USDC",
-      "address": "0x07865c6E87B9F70255377e024ace6630C1Eaa37F",
-      "logoURI": "https://ethereum-optimism.github.io/data/BridgedUSDC/logo.png",
-      "decimals": 6,
-      "chainId": 5
-    },
-    {
       "name": "Uniswap",
       "symbol": "UNI",
       "address": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
@@ -1657,14 +1641,6 @@
       "address": "0xb4fbf271143f4fbf7b91a5ded31805e42b2208d6",
       "logoURI": "ipfs://QmPustaS11SLRauY8okJp2UhsTPCfHKQBQYocvpojKoiv9",
       "decimals": 18,
-      "chainId": 5
-    },
-    {
-      "name": "Wrapped BTC",
-      "symbol": "WBTC",
-      "address": "0xC04B0d3107736C32e19F1c62b2aF67BE61d63a05",
-      "logoURI": "https://ethereum-optimism.github.io/data/WBTC/logo.svg",
-      "decimals": 8,
       "chainId": 5
     },
     {
@@ -2771,8 +2747,8 @@
       "chainId": 56
     },
     {
-      "name": "agEUR",
-      "symbol": "ageur",
+      "name": "EURA",
+      "symbol": "eura",
       "address": "0x12f31b73d812c6bb0d735a218c086d44d5fe5f89",
       "logoURI": "https://assets.coingecko.com/coins/images/19479/thumb/agEUR.png?1635283566",
       "decimals": 18,
@@ -5731,10 +5707,10 @@
       "chainId": 100
     },
     {
-      "name": "Wrapped XDAI",
-      "symbol": "wxdai",
+      "name": "XDAI",
+      "symbol": "xdai",
       "address": "0xe91d153e0b41518a2ce8dd3d7944fa863463a97d",
-      "logoURI": "https://assets.coingecko.com/coins/images/14584/thumb/wrapped-xdai-logo.png?1641888881",
+      "logoURI": "https://assets.coingecko.com/coins/images/11062/thumb/Identity-Primary-DarkBG.png?1638372986",
       "decimals": 18,
       "chainId": 100
     },
@@ -9715,262 +9691,6 @@
       "chainId": 324
     },
     {
-      "name": "Perpetual",
-      "symbol": "PERP",
-      "address": "0x0994206dfE8De6Ec6920FF4D779B0d950605Fb53",
-      "logoURI": "https://ethereum-optimism.github.io/data/PERP/logo.png",
-      "decimals": 18,
-      "chainId": 420
-    },
-    {
-      "name": "Rocket Pool ETH",
-      "symbol": "rETH",
-      "address": "0x1010824414d822cd2167F9aD73a2a99bd2e0E4aE",
-      "logoURI": "https://ethereum-optimism.github.io/data/rETH/logo.svg",
-      "decimals": 18,
-      "chainId": 420
-    },
-    {
-      "name": "Synthetix",
-      "symbol": "SNX",
-      "address": "0x2E5ED97596a8368EB9E44B1f3F25B2E813845303",
-      "logoURI": "https://ethereum-optimism.github.io/data/SNX/logo.svg",
-      "decimals": 18,
-      "chainId": 420
-    },
-    {
-      "name": "WAMP",
-      "symbol": "WMP",
-      "address": "0x35D48A789904E9b15705977192e5d95e2aF7f1D3",
-      "logoURI": "https://ethereum-optimism.github.io/data/WMP/logo.svg",
-      "decimals": 18,
-      "chainId": 420
-    },
-    {
-      "name": "veKwenta",
-      "symbol": "veKWENTA",
-      "address": "0x3e52b5f840eafD79394c6359E93Bf3FfdAE89ee4",
-      "logoURI": "https://ethereum-optimism.github.io/data/veKWENTA/logo.svg",
-      "decimals": 18,
-      "chainId": 420
-    },
-    {
-      "name": "OptimismUselessToken-Bridged",
-      "symbol": "OUTb",
-      "address": "0x3e7eF8f50246f725885102E8238CBba33F276747",
-      "logoURI": "https://ethereum-optimism.github.io/data/OUTb/logo.svg",
-      "decimals": 18,
-      "chainId": 420
-    },
-    {
-      "name": "Wrapped Ether",
-      "symbol": "WETH",
-      "address": "0x4200000000000000000000000000000000000006",
-      "logoURI": "https://ethereum-optimism.github.io/data/WETH/logo.png",
-      "decimals": 18,
-      "chainId": 420
-    },
-    {
-      "name": "Monetum",
-      "symbol": "MOM",
-      "address": "0x4621b7A9c75199271F773Ebd9A499dbd165c3191",
-      "logoURI": "https://ethereum-optimism.github.io/data/MOM/logo.svg",
-      "decimals": 18,
-      "chainId": 420
-    },
-    {
-      "name": "MetaPoolETH",
-      "symbol": "mpETH",
-      "address": "0x4A36562d5D7074f8EE664922b320e066e67C2a24",
-      "logoURI": "https://ethereum-optimism.github.io/data/mpETH/logo.svg",
-      "decimals": 18,
-      "chainId": 420
-    },
-    {
-      "name": "SAIL Token",
-      "symbol": "SAIL",
-      "address": "0x4c16dD6e9b402Ea4FB5bE647Be2F49e3d59BB08A",
-      "logoURI": "https://ethereum-optimism.github.io/data/SAIL/logo.png",
-      "decimals": 18,
-      "chainId": 420
-    },
-    {
-      "name": "Compound",
-      "symbol": "COMP",
-      "address": "0x6AF3cb766D6cd37449bfD321D961A61B0515c1BC",
-      "logoURI": "https://ethereum-optimism.github.io/data/COMP/logo.svg",
-      "decimals": 18,
-      "chainId": 420
-    },
-    {
-      "name": "Mochi",
-      "symbol": "MOCHI",
-      "address": "0x7Af72aD5E8793023DC722d617fe3338ac6b5ccE9",
-      "logoURI": "https://ethereum-optimism.github.io/data/MOCHI/logo.svg",
-      "decimals": 18,
-      "chainId": 420
-    },
-    {
-      "name": "Bridged USDC",
-      "symbol": "USDC.e",
-      "address": "0x7E07E15D2a87A24492740D16f5bdF58c16db0c4E",
-      "logoURI": "https://ethereum-optimism.github.io/data/BridgedUSDC/logo.png",
-      "decimals": 6,
-      "chainId": 420
-    },
-    {
-      "name": "Wrapped eETH",
-      "symbol": "weETH",
-      "address": "0x7e7d4467112689329f7E06571eD0E8CbAd4910eE",
-      "logoURI": "https://ethereum-optimism.github.io/data/weETH/logo.svg",
-      "decimals": 18,
-      "chainId": 420
-    },
-    {
-      "name": "Tether USD",
-      "symbol": "USDT",
-      "address": "0x853eb4bA5D0Ba2B77a0A5329Fd2110d5CE149ECE",
-      "logoURI": "https://ethereum-optimism.github.io/data/USDT/logo.png",
-      "decimals": 6,
-      "chainId": 420
-    },
-    {
-      "name": "PIP",
-      "symbol": "PIP",
-      "address": "0x8be06e6ed3eb7121a42fc710b2bf16e83227ab97",
-      "logoURI": "https://ethereum-optimism.github.io/data/PIP/logo.svg",
-      "decimals": 9,
-      "chainId": 420
-    },
-    {
-      "name": "OpenX Optimism",
-      "symbol": "wOpenX",
-      "address": "0x9c4d82Ff5d1562287000bAE8fFCDbDDa475bdA2A",
-      "logoURI": "https://ethereum-optimism.github.io/data/wOpenX/logo.svg",
-      "decimals": 18,
-      "chainId": 420
-    },
-    {
-      "name": "HanChain",
-      "symbol": "HAN",
-      "address": "0x9e1028f5f1d5ede59748ffcee5532509976840e0",
-      "logoURI": "https://ethereum-optimism.github.io/data/HAN/logo.svg",
-      "decimals": 18,
-      "chainId": 420
-    },
-    {
-      "name": "Rocket Pool Protocol",
-      "symbol": "RPL",
-      "address": "0xa00E3A3511aAC35cA78530c85007AFCd31753819",
-      "logoURI": "https://ethereum-optimism.github.io/data/RPL/logo.svg",
-      "decimals": 18,
-      "chainId": 420
-    },
-    {
-      "name": "Status Test Token",
-      "symbol": "STT",
-      "address": "0xcAD273fA2bb77875333439FDf4417D995159c3E1",
-      "logoURI": "https://ethereum-optimism.github.io/data/SNT/logo.svg",
-      "decimals": 18,
-      "chainId": 420
-    },
-    {
-      "name": "Eco",
-      "symbol": "ECO",
-      "address": "0xD2f598c826429EEe7c071C02735549aCd88F2c09",
-      "logoURI": "https://ethereum-optimism.github.io/data/ECO/logo.svg",
-      "decimals": 18,
-      "chainId": 420
-    },
-    {
-      "name": "Coinbase Wrapped Staked ETH",
-      "symbol": "cbETH",
-      "address": "0xd6909e9e702024eb93312B989ee46794c0fB1C9D",
-      "logoURI": "https://ethereum-optimism.github.io/data/cbETH/logo.svg",
-      "decimals": 18,
-      "chainId": 420
-    },
-    {
-      "name": "Dai Stablecoin",
-      "symbol": "DAI",
-      "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
-      "logoURI": "https://ethereum-optimism.github.io/data/DAI/logo.svg",
-      "decimals": 18,
-      "chainId": 420
-    },
-    {
-      "name": "Chainlink",
-      "symbol": "LINK",
-      "address": "0xdc2CC710e42857672E7907CF474a69B63B93089f",
-      "logoURI": "https://ethereum-optimism.github.io/data/LINK/logo.png",
-      "decimals": 18,
-      "chainId": 420
-    },
-    {
-      "name": "Ether",
-      "symbol": "ETH",
-      "address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
-      "logoURI": "https://ethereum-optimism.github.io/data/ETH/logo.svg",
-      "decimals": 18,
-      "chainId": 420
-    },
-    {
-      "name": "USD Coin",
-      "symbol": "USDC",
-      "address": "0xe05606174bac4A6364B31bd0eCA4bf4dD368f8C6",
-      "logoURI": "https://ethereum-optimism.github.io/data/USDC/logo.png",
-      "decimals": 6,
-      "chainId": 420
-    },
-    {
-      "name": "Wrapped BTC L2",
-      "symbol": "WBTC",
-      "address": "0xe0a592353e81a94Db6E3226fD4A99F881751776a",
-      "logoURI": "https://ethereum-optimism.github.io/data/WBTC/logo.svg",
-      "decimals": 8,
-      "chainId": 420
-    },
-    {
-      "name": "TEST Lido DAO Token",
-      "symbol": "TESTLDO",
-      "address": "0xE265FC71d45fd791c9ebf3EE0a53FBB220Eb8f75",
-      "logoURI": "https://ethereum-optimism.github.io/data/LDO/logo.svg",
-      "decimals": 18,
-      "chainId": 420
-    },
-    {
-      "name": "Synthetix USD",
-      "symbol": "sUSD",
-      "address": "0xeBaEAAD9236615542844adC5c149F86C36aD1136",
-      "logoURI": "https://ethereum-optimism.github.io/data/sUSD/logo.svg",
-      "decimals": 18,
-      "chainId": 420
-    },
-    {
-      "name": "Giveth Test Token",
-      "symbol": "TGIV",
-      "address": "0xEf6301DA234fC7b0545c6E877D3359FE0B9E50a4",
-      "logoURI": "https://ethereum-optimism.github.io/data/GIV/logo.svg",
-      "decimals": 18,
-      "chainId": 420
-    },
-    {
-      "name": "AltInsureToken",
-      "symbol": "INSURE",
-      "address": "0xfb0a8CF5B2302f880aA26461C78A8DC20A02aE25",
-      "logoURI": "https://ethereum-optimism.github.io/data/INSURE/logo.svg",
-      "decimals": 18,
-      "chainId": 420
-    },
-    {
-      "name": "HANePlatform",
-      "symbol": "HANeP",
-      "address": "0xFf733b2A3557a7ed6697007ab5D11B79FdD1b76B",
-      "logoURI": "https://ethereum-optimism.github.io/data/HANeP/logo.svg",
-      "decimals": 18,
-      "chainId": 420
-    },
-    {
       "name": "Tether USD",
       "symbol": "USDT",
       "address": "0x6535b3db9B908a2bbA29F83c168a0e661C3fAbf7",
@@ -12785,8 +12505,8 @@
       "chainId": 42161
     },
     {
-      "name": "agEUR",
-      "symbol": "ageur",
+      "name": "EURA",
+      "symbol": "eura",
       "address": "0xfa5ed56a203466cbbc2430a43c66b9d8723528e7",
       "logoURI": "https://assets.coingecko.com/coins/images/19479/thumb/agEUR.png?1635283566",
       "decimals": 18,
@@ -15256,250 +14976,10 @@
       "chainId": 80001
     },
     {
-      "name": "ETHPlus",
-      "symbol": "ETH+",
-      "address": "0x0994206dfE8De6Ec6920FF4D779B0d950605Fb53",
-      "logoURI": "https://ethereum-optimism.github.io/data/ETH+/logo.png",
-      "decimals": 18,
-      "chainId": 84531
-    },
-    {
-      "name": "TOWER",
-      "symbol": "TOWER",
-      "address": "0x0bab321796c25acAA0D82E60C53322Db1DBF5D07",
-      "logoURI": "https://ethereum-optimism.github.io/data/TOWER/logo.svg",
-      "decimals": 18,
-      "chainId": 84531
-    },
-    {
-      "name": "Prime",
-      "symbol": "PRIME",
-      "address": "0x121dAEb77cFbC6a9CfC691Da4F5E97c8Bd02518F",
-      "logoURI": "https://ethereum-optimism.github.io/data/PRIME/logo.svg",
-      "decimals": 18,
-      "chainId": 84531
-    },
-    {
-      "name": "Dai Stablecoin",
-      "symbol": "DAI",
-      "address": "0x174956bDfbCEb6e53089297cce4fE2825E58d92C",
-      "logoURI": "https://ethereum-optimism.github.io/data/DAI/logo.svg",
-      "decimals": 18,
-      "chainId": 84531
-    },
-    {
-      "name": "Base Goerli MPWR",
-      "symbol": "MPWR",
-      "address": "0x1901Bf2952F438Fa6251ac100375769f9Afd907d",
-      "logoURI": "https://ethereum-optimism.github.io/data/MPWR/logo.svg",
-      "decimals": 18,
-      "chainId": 84531
-    },
-    {
-      "name": "HANePlatform",
-      "symbol": "HANeP",
-      "address": "0x35D48A789904E9b15705977192e5d95e2aF7f1D3",
-      "logoURI": "https://ethereum-optimism.github.io/data/HANeP/logo.svg",
-      "decimals": 18,
-      "chainId": 84531
-    },
-    {
-      "name": "Wrapped Ampleforth",
-      "symbol": "WAMPL",
-      "address": "0x395Ae52bB17aef68C2888d941736A71dC6d4e125",
-      "logoURI": "https://ethereum-optimism.github.io/data/WAMPL/logo.svg",
-      "decimals": 18,
-      "chainId": 84531
-    },
-    {
-      "name": "Send Token",
-      "symbol": "send",
-      "address": "0x3f14920c99BEB920Afa163031c4e47a3e03B3e4A",
-      "logoURI": "https://ethereum-optimism.github.io/data/send/logo.svg",
-      "decimals": 0,
-      "chainId": 84531
-    },
-    {
-      "name": "Wrapped Ether",
-      "symbol": "WETH",
-      "address": "0x4200000000000000000000000000000000000006",
-      "logoURI": "https://ethereum-optimism.github.io/data/WETH/logo.png",
-      "decimals": 18,
-      "chainId": 84531
-    },
-    {
-      "name": "ISKRA TOKEN",
-      "symbol": "ISK",
-      "address": "0x47762082D83994AFd311E559FE582B6dC99D89c4",
-      "logoURI": "https://ethereum-optimism.github.io/data/ISK/logo.svg",
-      "decimals": 18,
-      "chainId": 84531
-    },
-    {
-      "name": "Coinbase Wrapped Staked ETH",
-      "symbol": "cbETH",
-      "address": "0x4fC531f8Ae7A7808E0dccCA08F1e3c7694582950",
-      "logoURI": "https://ethereum-optimism.github.io/data/cbETH/logo.svg",
-      "decimals": 18,
-      "chainId": 84531
-    },
-    {
-      "name": "Synthetix",
-      "symbol": "SNX",
-      "address": "0x6AF3cb766D6cd37449bfD321D961A61B0515c1BC",
-      "logoURI": "https://ethereum-optimism.github.io/data/SNX/logo.svg",
-      "decimals": 18,
-      "chainId": 84531
-    },
-    {
-      "name": "Base tBTC v2",
-      "symbol": "tBTC",
-      "address": "0x783349cd20f26CE12e747b1a17bC38D252c9e119",
-      "logoURI": "https://ethereum-optimism.github.io/data/tBTC/logo.svg",
-      "decimals": 18,
-      "chainId": 84531
-    },
-    {
-      "name": "SPOT",
-      "symbol": "SPOT",
-      "address": "0x7d4f70b55f7883e5981B41E91C3eD908821063f9",
-      "logoURI": "https://ethereum-optimism.github.io/data/SPOT/logo.svg",
-      "decimals": 9,
-      "chainId": 84531
-    },
-    {
-      "name": "OpenX Optimism",
-      "symbol": "wOpenX",
-      "address": "0x8434DE6a606A412AfFEcF9B992bCdB72D5233fE9",
-      "logoURI": "https://ethereum-optimism.github.io/data/wOpenX/logo.svg",
-      "decimals": 18,
-      "chainId": 84531
-    },
-    {
-      "name": "USD Base Coin",
-      "symbol": "USDbC",
-      "address": "0x853154e2A5604E5C74a2546E2871Ad44932eB92C",
-      "logoURI": "https://ethereum-optimism.github.io/data/BridgedUSDC/logo.png",
-      "decimals": 6,
-      "chainId": 84531
-    },
-    {
-      "name": "PIP",
-      "symbol": "PIP",
-      "address": "0x86842f66d94083694f49b155640e293d60c057a3",
-      "logoURI": "https://ethereum-optimism.github.io/data/PIP/logo.svg",
-      "decimals": 9,
-      "chainId": 84531
-    },
-    {
-      "name": "Seamless",
-      "symbol": "SEAM",
-      "address": "0x8c0dE778f20e7D25E6E2AAc23d5Bee1d19Deb491",
-      "logoURI": "https://ethereum-optimism.github.io/data/SEAM/logo.svg",
-      "decimals": 18,
-      "chainId": 84531
-    },
-    {
-      "name": "PTY Token",
-      "symbol": "PTY",
-      "address": "0x8ee73c484a26e0a5df2ee2a4960b789967dd0415",
-      "logoURI": "https://ethereum-optimism.github.io/data/PTY/logo.svg",
-      "decimals": 18,
-      "chainId": 84531
-    },
-    {
-      "name": "BTRST",
-      "symbol": "BTRST",
-      "address": "0x99aC4484e8a1dbd6A185380B3A811913Ac884D87",
-      "logoURI": "https://ethereum-optimism.github.io/data/BTRST/logo.svg",
-      "decimals": 18,
-      "chainId": 84531
-    },
-    {
-      "name": "Compound",
-      "symbol": "COMP",
-      "address": "0xA29b548056c3fD0f68BAd9d4829EC4E66f22f796",
-      "logoURI": "https://ethereum-optimism.github.io/data/COMP/logo.svg",
-      "decimals": 18,
-      "chainId": 84531
-    },
-    {
-      "name": "MBS",
-      "symbol": "MBS",
-      "address": "0xBF7e0A518e518C0ab46D15C28ab646090E25D6ef",
-      "logoURI": "https://ethereum-optimism.github.io/data/MBS/logo.png",
-      "decimals": 18,
-      "chainId": 84531
-    },
-    {
-      "name": "Artificial Liquid Intelligence Token",
-      "symbol": "ALI",
-      "address": "0xC6729C6cFc6B872acF641EB3EA628C9F038e5ABb",
-      "logoURI": "https://ethereum-optimism.github.io/data/ALI/logo.png",
-      "decimals": 18,
-      "chainId": 84531
-    },
-    {
-      "name": "Base Goerli Reserve RSR",
-      "symbol": "RSR",
-      "address": "0xc8058960a9d7E7d81143BDBA38d19e6824165932",
-      "logoURI": "https://ethereum-optimism.github.io/data/RSR/logo.png",
-      "decimals": 18,
-      "chainId": 84531
-    },
-    {
       "name": "Mean Finance",
       "symbol": "MEAN",
       "address": "0xd71a868cf2c3efe70795bec9ab63e5b318a3e791",
       "logoURI": "ipfs://QmUUbaZvrD8Ymr2nV6db4Cbtd1aMCiSP7MoyvBv9LTnrmP",
-      "decimals": 18,
-      "chainId": 84531
-    },
-    {
-      "name": "Rai.Finance",
-      "symbol": "SOFI",
-      "address": "0xdb9888b842408b0b8efa1f5477bd9f351754999e",
-      "logoURI": "https://ethereum-optimism.github.io/data/SOFI/logo.svg",
-      "decimals": 18,
-      "chainId": 84531
-    },
-    {
-      "name": "Electronic Dollar",
-      "symbol": "eUSD",
-      "address": "0xE265FC71d45fd791c9ebf3EE0a53FBB220Eb8f75",
-      "logoURI": "https://ethereum-optimism.github.io/data/eUSD/logo.png",
-      "decimals": 18,
-      "chainId": 84531
-    },
-    {
-      "name": "HanChain",
-      "symbol": "HAN",
-      "address": "0xE2B21D4684b2bA62F3BE1FE286eacb90D26E394d",
-      "logoURI": "https://ethereum-optimism.github.io/data/HAN/logo.svg",
-      "decimals": 18,
-      "chainId": 84531
-    },
-    {
-      "name": "Chain Games",
-      "symbol": "CHAIN",
-      "address": "0xeEFf5B1cd3DE16F347996725F5184fdAA54565A0",
-      "logoURI": "https://ethereum-optimism.github.io/data/CHAIN/logo.svg",
-      "decimals": 18,
-      "chainId": 84531
-    },
-    {
-      "name": "USD Coin",
-      "symbol": "USDC",
-      "address": "0xf175520c52418dfe19c8098071a252da48cd1c19",
-      "logoURI": "https://ethereum-optimism.github.io/data/USDC/logo.png",
-      "decimals": 6,
-      "chainId": 84531
-    },
-    {
-      "name": "Noggles",
-      "symbol": "NOGS",
-      "address": "0xfe8b128ba8c78aabc59d4c64cee7ff28e9379921",
-      "logoURI": "https://ethereum-optimism.github.io/data/NOGS/logo.png",
       "decimals": 18,
       "chainId": 84531
     },
