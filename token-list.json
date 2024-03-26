@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2024-03-25T00:02:18.455Z",
+  "timestamp": "2024-03-26T00:01:57.941Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -9803,6 +9803,22 @@
       "chainId": 1101
     },
     {
+      "name": "Wrapped liquid staked Ether 2.0",
+      "symbol": "wstETH",
+      "address": "0x5D8cfF95D7A57c0BF50B30b43c7CC0D52825D4a9",
+      "logoURI": "https://etherscan.io/token/images/wsteth3_32.png",
+      "decimals": 18,
+      "chainId": 1101
+    },
+    {
+      "name": "QuickSwap",
+      "symbol": "QUICK",
+      "address": "0x68286607A1d43602d880D349187c3c48c0fD05E6",
+      "logoURI": "https://assets.polygon.technology/tokenAssets/quick.svg",
+      "decimals": 18,
+      "chainId": 1101
+    },
+    {
       "name": "AAVE",
       "symbol": "AAVE",
       "address": "0x68791CFE079814c46e0E25C19Bcc5BFC71A744f7",
@@ -10990,6 +11006,14 @@
       "symbol": "tBTC",
       "address": "0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b",
       "logoURI": "https://ethereum-optimism.github.io/data/tBTC/logo.svg",
+      "decimals": 18,
+      "chainId": 8453
+    },
+    {
+      "name": "BASO",
+      "symbol": "BASO",
+      "address": "0x23E1A3BcDcEE4C59209d8871140eB7DD2bD9d1cE",
+      "logoURI": "https://assets.odos.xyz/tokens/BASO.webp",
       "decimals": 18,
       "chainId": 8453
     },
