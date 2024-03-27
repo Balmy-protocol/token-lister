@@ -3,7 +3,7 @@ import { isAddress } from "viem";
 import { generators } from "./list";
 import { FullTokenData, TokenData } from "./types";
 import * as fs from "fs";
-import { unifyTokenData } from "./utils";
+import { isCompleteToken, unifyTokenData } from "./utils";
 
 const APPEARANCES_RATIO = 0.4;
 
@@ -60,7 +60,7 @@ async function run(): Promise<any> {
         ),
         chainId,
       );
-      if (token) {
+      if (token && isCompleteToken(token)) {
         completeList.push({ ...token, providers: ocurrencies.providers });
         if (
           ocurrencies.ocurrencies >

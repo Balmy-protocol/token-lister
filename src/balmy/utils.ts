@@ -14,3 +14,13 @@ export function unifyTokenData(
     chainId: chainId,
   };
 }
+
+export function isCompleteToken(token: TokenData) {
+  return (
+    (token.decimals || token.decimals == 0) &&
+    token.address &&
+    token.chainId &&
+    token.name &&
+    token.symbol
+  );
+}
