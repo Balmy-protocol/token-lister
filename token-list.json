@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2024-03-30T00:02:04.312Z",
+  "timestamp": "2024-03-31T00:02:06.563Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -3287,6 +3287,14 @@
       "symbol": "comp",
       "address": "0x52ce071bd9b1c4b00a0b92d298c512478cad67e8",
       "logoURI": "https://assets.coingecko.com/coins/images/10775/thumb/COMP.png?1592625425",
+      "decimals": 18,
+      "chainId": 56
+    },
+    {
+      "name": "Ankr Staked BNB",
+      "symbol": "ankrbnb",
+      "address": "0x52f24a5e03aee338da5fd9df68d2b6fae1178827",
+      "logoURI": "https://assets.coingecko.com/coins/images/28451/thumb/ankrBNB.png?1670740364",
       "decimals": 18,
       "chainId": 56
     },
@@ -13945,14 +13953,6 @@
       "chainId": 43114
     },
     {
-      "name": "Swapsicle",
-      "symbol": "pops",
-      "address": "0x240248628b7b6850352764c5dfa50d1592a033a8",
-      "logoURI": "https://assets.coingecko.com/coins/images/25864/thumb/Swapsicle-Icon_DarkCircle.png?1654238011",
-      "decimals": 18,
-      "chainId": 43114
-    },
-    {
       "name": "Wrapped BNB",
       "symbol": "wbnb",
       "address": "0x264c1383ea520f73dd837f915ef3a732e204a493",
@@ -14950,6 +14950,14 @@
       "address": "0x60D01EC2D5E98Ac51C8B4cF84DfCCE98D527c747",
       "logoURI": "https://storage.googleapis.com/ks-setting-1d682dca/94813521-b3f2-4ab7-9099-9d4ebad9dda61696935426897.png",
       "decimals": 18,
+      "chainId": 59144
+    },
+    {
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "address": "0x66627F389ae46D881773B7131139b2411980E09E",
+      "logoURI": "https://storage.googleapis.com/ks-setting-1d682dca/44d6b1c5-c974-4476-8b0e-fbfde81c2a00.png",
+      "decimals": 6,
       "chainId": 59144
     },
     {
