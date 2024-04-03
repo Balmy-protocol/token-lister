@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2024-04-02T00:03:03.440Z",
+  "timestamp": "2024-04-03T00:02:12.914Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -752,6 +752,14 @@
       "symbol": "snt",
       "address": "0x744d70fdbe2ba4cf95131626614a1763df805b9e",
       "logoURI": "https://assets.coingecko.com/coins/images/779/thumb/status.png?1548610778",
+      "decimals": 18,
+      "chainId": 1
+    },
+    {
+      "name": "Ampleforth Governance",
+      "symbol": "forth",
+      "address": "0x77fba179c79de5b7653f68b5039af940ada60ce0",
+      "logoURI": "https://assets.coingecko.com/coins/images/14917/thumb/photo_2021-04-22_00.00.03.jpeg?1619020835",
       "decimals": 18,
       "chainId": 1
     },
@@ -3807,14 +3815,6 @@
       "symbol": "key",
       "address": "0x85c128ee1feeb39a59490c720a9c563554b51d33",
       "logoURI": "https://assets.coingecko.com/coins/images/14812/thumb/2e7a347a975a232693d4467bd4d6546.png?1618542804",
-      "decimals": 18,
-      "chainId": 56
-    },
-    {
-      "name": "RocketX Exchange",
-      "symbol": "rvf",
-      "address": "0x872a34ebb2d54af86827810eebc7b9dc6b2144aa",
-      "logoURI": "https://assets.coingecko.com/coins/images/14728/thumb/b-nG1Jsg_400x400.jpg?1637898103",
       "decimals": 18,
       "chainId": 56
     },
@@ -11177,6 +11177,14 @@
       "chainId": 8453
     },
     {
+      "name": "Autonolas",
+      "symbol": "OLAS",
+      "address": "0x54330d28ca3357F294334BDC454a032e7f353416",
+      "logoURI": "https://ethereum-optimism.github.io/data/OLAS/logo.svg",
+      "decimals": 18,
+      "chainId": 8453
+    },
+    {
       "name": "BMX",
       "symbol": "BMX",
       "address": "0x548f93779fBC992010C07467cBaf329DD5F059B7",
@@ -11433,6 +11441,14 @@
       "chainId": 8453
     },
     {
+      "name": "Flux",
+      "symbol": "FLUX",
+      "address": "0xb008bdcf9cdff9da684a190941dc3dca8c2cdd44",
+      "logoURI": "https://ethereum-optimism.github.io/data/FLUX/logo.svg",
+      "decimals": 8,
+      "chainId": 8453
+    },
+    {
       "name": "Rocket Pool ETH",
       "symbol": "rETH",
       "address": "0xB6fe221Fe9EeF5aBa221c348bA20A1Bf5e73624c",
@@ -11525,6 +11541,14 @@
       "symbol": "FARM",
       "address": "0xD08a2917653d4E460893203471f0000826fb4034",
       "logoURI": "https://ethereum-optimism.github.io/data/FARM/logo.svg",
+      "decimals": 18,
+      "chainId": 8453
+    },
+    {
+      "name": "Settled ETHXY Token",
+      "symbol": "SEXY",
+      "address": "0xd1917629b3e6a72e6772aab5dbe58eb7fa3c2f33",
+      "logoURI": "https://ethereum-optimism.github.io/data/SEXY/logo.svg",
       "decimals": 18,
       "chainId": 8453
     },
@@ -14345,10 +14369,10 @@
       "chainId": 43114
     },
     {
-      "name": "Aave v2 USDC",
-      "symbol": "ausdc",
+      "name": "Avalanche Bridged USDC (Avalanche)",
+      "symbol": "usdc.e",
       "address": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
-      "logoURI": "https://assets.coingecko.com/coins/images/14318/thumb/aUSDC.e260d492.png?1615527797",
+      "logoURI": "https://assets.coingecko.com/coins/images/23263/thumb/3408.png?1643362756",
       "decimals": 6,
       "chainId": 43114
     },
@@ -14894,6 +14918,14 @@
       "address": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
       "logoURI": "https://storage.googleapis.com/ks-setting-1d682dca/acf6daf5-5e4f-4b0d-8038-41ea99b4b593.png",
       "decimals": 6,
+      "chainId": 59144
+    },
+    {
+      "name": "Lynex",
+      "symbol": "LYNX",
+      "address": "0x1a51b19CE03dbE0Cb44C1528E34a7EDD7771E9Af",
+      "logoURI": "https://storage.googleapis.com/ks-setting-1d682dca/dff8f83c-fe5c-45db-ad0b-a3799399c02d1712094457987.png",
+      "decimals": 18,
       "chainId": 59144
     },
     {
