@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List - complete version",
   "description": "A list of tokens from all the token lists on Balmy",
-  "timestamp": "2024-04-05T00:02:15.791Z",
+  "timestamp": "2024-04-06T00:01:58.864Z",
   "tokens": [
     {
       "name": "Ether",
@@ -11,7 +11,8 @@
       "decimals": 18,
       "chainId": 1,
       "providers": [
-        "optimism"
+        "optimism",
+        "yearn"
       ]
     },
     {
@@ -122,6 +123,16 @@
       ]
     },
     {
+      "name": "YT sDAI 28MAR2024",
+      "symbol": "YT-sDAI-28MAR2024",
+      "address": "0x013889973Cced40030175D138c685266b055e3F4",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "Bent Finance",
       "symbol": "bent",
       "address": "0x01597e397605bf280674bf292623460b4204c375",
@@ -180,6 +191,16 @@
       ]
     },
     {
+      "name": "YT Stader Staking ETHx 26DEC2024",
+      "symbol": "YT-ETHx-26DEC2024",
+      "address": "0x025417aF44EBe9521b80187514e92F6093dE78bE",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "Orion",
       "symbol": "orn",
       "address": "0x0258f474786ddfd37abce6df6bbb1dd5dfc4434a",
@@ -214,9 +235,29 @@
       ]
     },
     {
+      "name": "YT Zircuit Staking rsETH 27JUN2024",
+      "symbol": "YT-zs-rsETH-27JUN2024",
+      "address": "0x029aad400f6092Dc735A65be95102efcc2Fe64bf",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "Curve.fi aDAI/aSUSD",
       "symbol": "saCRV",
       "address": "0x02d341CcB60fAaf662bC0554d13778015d1b285C",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "Balancer Boosted swETH-WETH",
+      "symbol": "swETH-bb-a-WETH-BPT",
+      "address": "0x02D928E68D8F10C0358566152677Db51E1e2Dc8C",
       "decimals": 18,
       "chainId": 1,
       "providers": [
@@ -280,6 +321,16 @@
         "defillama",
         "sushiswap",
         "optimism"
+      ]
+    },
+    {
+      "name": "Static Aave Ethereum WETH",
+      "symbol": "stataEthWETH",
+      "address": "0x03928473f25bb2da6Bc880b07eCBaDC636822264",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
       ]
     },
     {
@@ -360,6 +411,16 @@
       ]
     },
     {
+      "name": "PT vETH-WETH_BalancerLP Aura 26SEP2024",
+      "symbol": "PT-vETH-WETH_BalancerLP Aura-26SEP2024",
+      "address": "0x046ffBC0458a409Fe5b7e3053bDbEd8a98681bC8",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "RealBlock.io",
       "symbol": "REAL",
       "address": "0x04A289fe4cE5fa87a76F58d0214340fb5893A58c",
@@ -383,6 +444,16 @@
       "name": "Curve.fi Factory USD Metapool: apeUSDFRAXBP",
       "symbol": "APEUSDBP3CRV-f",
       "address": "0x04b727C7e246CA70d496ecF52E6b6280f3c8077D",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "YT stETH 30DEC2027",
+      "symbol": "YT-stETH-30DEC2027",
+      "address": "0x04B7Fa1e727d7290D6E24fA9b426d0c940283a95",
       "decimals": 18,
       "chainId": 1,
       "providers": [
@@ -478,6 +549,16 @@
       "name": "Sturdy crvUSD Compounder",
       "symbol": "yscrvUSD",
       "address": "0x05329AAb081B125eEF7FbbC8b857428D478E692B",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "PT Ethena USDe 25APR2024",
+      "symbol": "PT-USDe-25APR2024",
+      "address": "0x05402A3A056563187c75C4e1d6799d55e2442B7c",
       "decimals": 18,
       "chainId": 1,
       "providers": [
@@ -650,6 +731,16 @@
       ]
     },
     {
+      "name": "PT Ethena USDe 4APR2024",
+      "symbol": "PT-USDe-4APR2024",
+      "address": "0x0869055C098Fe927E1816CAAfb16E9133e5258FE",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "Wild Credit",
       "symbol": "WILD",
       "address": "0x08A75dbC7167714CeaC1a8e43a8d643A4EDd625a",
@@ -708,6 +799,16 @@
       ]
     },
     {
+      "name": "PT Zircuit Staking rsETH 27JUN2024",
+      "symbol": "PT-zs-rsETH-27JUN2024",
+      "address": "0x094bE6bD31D7B860f7d2C1f280fD09F0463d7e67",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "Index Cooperative",
       "symbol": "index",
       "address": "0x0954906da0bf32d5479e25f46056d22f08464cab",
@@ -724,6 +825,16 @@
       "name": "Visor MATIC-ETH Uni v3",
       "symbol": "vMATIC-ETHV3-1",
       "address": "0x09b8d86c6275E707155CDB5963cF611A432CCb21",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "SY oETH",
+      "symbol": "SY-oETH",
+      "address": "0x0A26e7Ab5C554232314A8d459eff0eDE72333F08",
       "decimals": 18,
       "chainId": 1,
       "providers": [
@@ -852,6 +963,16 @@
       ]
     },
     {
+      "name": "PT ePendle 26SEP2024",
+      "symbol": "PT-ePendle-26SEP2024",
+      "address": "0x0Ba11DEe8b63f08EA25d0cc733601e8C15325a8D",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "yearn.finance",
       "symbol": "YFI",
       "address": "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e",
@@ -972,6 +1093,16 @@
       ]
     },
     {
+      "name": "YT stETH 29JUN2023",
+      "symbol": "YT-stETH-29JUN2023",
+      "address": "0x0D459a3287Afec25c0580691e9944d65fEaBb155",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "Curve EURT Pool yVault",
       "symbol": "yvCurve-EURT",
       "address": "0x0d4EA8536F9A13e4FBa16042a46c30f092b06aA5",
@@ -1029,6 +1160,16 @@
       ]
     },
     {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0x0e1C5509B503358eA1Dac119C1D413e28Cc4b303",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "Verified USD",
       "symbol": "usdv",
       "address": "0x0e573ce2736dd9637a0b21058352e1667925c7a8",
@@ -1073,6 +1214,16 @@
       ]
     },
     {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0x0eB3f11ed8ca69813744868D02D83D4Fbf72841e",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "xPSDN-ETH1",
       "symbol": "xPSDN-ETH1",
       "address": "0x0EC4A47065bf52e1874d2491D4dEeEd3c638C75F",
@@ -1095,6 +1246,16 @@
       ]
     },
     {
+      "name": "YT Kelp rsETH 27JUN2024",
+      "symbol": "YT-rsETH-27JUN2024",
+      "address": "0x0ED3A1D45DfdCf85BCc6C7BAFDC0170A357B974C",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "Jarvis Synthetic Euro",
       "symbol": "jeur",
       "address": "0x0f17bc9a994b87b5225cfb6a2cd4d667adb4f20b",
@@ -1104,6 +1265,16 @@
       "providers": [
         "defillama",
         "sushiswap"
+      ]
+    },
+    {
+      "name": "YT rETH-WETH_BalancerLP Aura 28DEC2023",
+      "symbol": "YT-rETH-WETH_BalancerLP Aura-28DEC2023",
+      "address": "0x0F28A763198035825dFAdF3455cB5b8473a7c140",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
       ]
     },
     {
@@ -1117,6 +1288,16 @@
         "defillama",
         "sushiswap",
         "cowswap"
+      ]
+    },
+    {
+      "name": "PT Stader Staking ETHx 26DEC2024",
+      "symbol": "PT-ETHx-26DEC2024",
+      "address": "0x0F44751f3555133eFd972e2B580941c3e5577b6b",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
       ]
     },
     {
@@ -1488,6 +1669,16 @@
       ]
     },
     {
+      "name": "YT rETH-WETH_BalancerLP Aura 26DEC2024",
+      "symbol": "YT-rETH-WETH_BalancerLP Aura-26DEC2024",
+      "address": "0x1524b28167a54C5Daef3d1A511A31436ACC91ed0",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "PancakeSwap",
       "symbol": "cake",
       "address": "0x152649ea73beab28c5b49b26eb48f7ead6d4c898",
@@ -1533,6 +1724,16 @@
       "chainId": 1,
       "providers": [
         "compound"
+      ]
+    },
+    {
+      "name": "PT oETH 26DEC2024",
+      "symbol": "PT-oETH-26DEC2024",
+      "address": "0x158b791A17956925a2Bc55c37B0daF8c3ACe4549",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
       ]
     },
     {
@@ -1635,6 +1836,16 @@
       ]
     },
     {
+      "name": "YT Autocompounding Pirex ETH 27MAR2025",
+      "symbol": "YT-apxETH-27MAR2025",
+      "address": "0x16e1Ad37bAdc81BC08e8aC0E9d4ac1000836C8a0",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "Curve.fi Factory Crypto Pool: xETH/ETH",
       "symbol": "xETHETH-f",
       "address": "0x16eAd9a10b1A77007E6E329B076aD1Fe97a6F7C0",
@@ -1654,6 +1865,16 @@
       "providers": [
         "defillama",
         "sushiswap"
+      ]
+    },
+    {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0x1729981345aa5CaCdc19eA9eeffea90cF1c6e28b",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
       ]
     },
     {
@@ -1700,6 +1921,16 @@
       ]
     },
     {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0x17BE998a578fD97687b24E83954FEc86Dc20c979",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "ISKRA Token",
       "symbol": "isk",
       "address": "0x17d2628d30f8e9e966c9ba831c9b9b01ea8ea75c",
@@ -1709,6 +1940,16 @@
       "providers": [
         "defillama",
         "optimism"
+      ]
+    },
+    {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0x1806855b73881eD4E435c97C6Da58b01Be5D7390",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
       ]
     },
     {
@@ -1764,6 +2005,16 @@
       "name": "Curve.fi EURS/sEUR",
       "symbol": "eursCRV",
       "address": "0x194eBd173F6cDacE046C53eACcE9B953F28411d1",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0x19588F29f9402Bb508007FeADd415c875Ee3f19F",
       "decimals": 18,
       "chainId": 1,
       "providers": [
@@ -1912,6 +2163,16 @@
       ]
     },
     {
+      "name": "PT Stafi rETH-WETH_BalancerLP Aura 27JUN2024",
+      "symbol": "PT-Stafi rETH-WETH_BalancerLP Aura-27JUN2024",
+      "address": "0x1abfE281466Dc43Ba5e2A7282661735c00BF82DE",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "WBTC yVault",
       "symbol": "yvWBTC",
       "address": "0x1Ae8Ccd120A05080d9A01C3B4F627F865685D091",
@@ -1998,13 +2259,11 @@
     },
     {
       "name": "USDK",
-      "symbol": "usdk",
-      "address": "0x1c48f86ae57291f7686349f12601910bd8d470bb",
-      "logoURI": "https://assets.coingecko.com/coins/images/8824/thumb/usdk.png?1563418517",
+      "symbol": "USDK",
+      "address": "0x1c48f86ae57291F7686349F12601910BD8D470bb",
       "decimals": 18,
       "chainId": 1,
       "providers": [
-        "defillama",
         "yearn"
       ]
     },
@@ -2168,6 +2427,16 @@
       ]
     },
     {
+      "name": "YT Ethena USDe 25JUL2024",
+      "symbol": "YT-USDe-25JUL2024",
+      "address": "0x1e3d13932C31d7355fCb3FEc680b0cD159dC1A07",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "Curve FEI Pool yVault",
       "symbol": "yvCurve-FEI",
       "address": "0x1E6462678462c95e1F8AFE2558D7FF8692affBD0",
@@ -2315,6 +2584,16 @@
       ]
     },
     {
+      "name": "YT Ethena sUSDE 25APR2024",
+      "symbol": "YT-sUSDE-25APR2024",
+      "address": "0x20c8Cf9714339fd018898cB5De84c089e48d1c87",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "Balancer auraBAL Factory yVault",
       "symbol": "yvBal-auraBAL-f",
       "address": "0x20F6A2ec303dF7120eAe3346dE5aD877f80Beb64",
@@ -2325,7 +2604,17 @@
       ]
     },
     {
-      "name": "GenomesDAO",
+      "name": "YT ankrETH-WETH_BalancerLP Aura 26SEP2024",
+      "symbol": "YT-ankrETH-WETH_BalancerLP Aura-26SEP2024",
+      "address": "0x210e6E4addd3fE31240a02DaD104B83634eA0426",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "GenomesDAO GENE",
       "symbol": "$gene",
       "address": "0x21413c119b0c11c5d96ae1bd328917bc5c8ed67e",
       "logoURI": "https://assets.coingecko.com/coins/images/20807/thumb/1637683704200x200.png?1637708934",
@@ -2340,6 +2629,16 @@
       "name": "WETH ubiVault",
       "symbol": "ubiWETH",
       "address": "0x2147935D9739da4E691b8Ae2e1437492A394eBf5",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "SY Ethena sUSDE",
+      "symbol": "SY-sUSDE",
+      "address": "0x215a61deaD7e1303b8571Bb429491aeAc5f2061e",
       "decimals": 18,
       "chainId": 1,
       "providers": [
@@ -2440,6 +2739,26 @@
       ]
     },
     {
+      "name": "SY Renzo ezETH",
+      "symbol": "SY-ezETH",
+      "address": "0x22E12A50e3ca49FB183074235cB1db84Fe4C716D",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "YT sfrxETH 26DEC2024",
+      "symbol": "YT-sfrxETH-26DEC2024",
+      "address": "0x22E250EcaF9090AB3E31916b0411d7c19e085fDE",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "Equilibria Finance ePENDLE",
       "symbol": "ependle",
       "address": "0x22fc5a29bd3d6cce19a06f844019fd506fce4455",
@@ -2448,7 +2767,8 @@
       "chainId": 1,
       "providers": [
         "defillama",
-        "optimism"
+        "optimism",
+        "yearn"
       ]
     },
     {
@@ -2461,6 +2781,28 @@
       "providers": [
         "defillama",
         "sushiswap"
+      ]
+    },
+    {
+      "name": "Aave v3 USDT",
+      "symbol": "ausdt",
+      "address": "0x23878914efe38d27c4d67ab83ed1b93a74d4086a",
+      "logoURI": "https://assets.coingecko.com/coins/images/32884/thumb/USDT.PNG?1699768611",
+      "decimals": 6,
+      "chainId": 1,
+      "providers": [
+        "defillama",
+        "yearn"
+      ]
+    },
+    {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0x23aEfCeD9255aD3560CDaa4A10CbFe9EC230DC5A",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
       ]
     },
     {
@@ -2517,6 +2859,16 @@
       "name": "Curve USDT-crvUSD Factory yVault",
       "symbol": "yvCurve-USDT-crvUSD-f",
       "address": "0x241AdD131B9aaa7527132b752252b99420937ADc",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "SY Ethena USDe",
+      "symbol": "SY-USDe",
+      "address": "0x248d83f7Ac03CEbCC06d5C1A52c9B5d0EbB9936e",
       "decimals": 18,
       "chainId": 1,
       "providers": [
@@ -2595,6 +2947,26 @@
       "name": "Curve EURS Pool yVault",
       "symbol": "yvCurve-EURS",
       "address": "0x25212Df29073FfFA7A67399AcEfC2dd75a831A1A",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "SY Puffer ETH",
+      "symbol": "SY pufETH",
+      "address": "0x253008ba4aE2f3E6488DC998a5321D4EB1a0c905",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "YT Renzo ezETH 25APR2024",
+      "symbol": "YT-ezETH-25APR2024",
+      "address": "0x256Fb830945141f7927785c06b65dAbc3744213c",
       "decimals": 18,
       "chainId": 1,
       "providers": [
@@ -2839,6 +3211,26 @@
       ]
     },
     {
+      "name": "PT LOOKS Staking 30MAR2023",
+      "symbol": "PT-LOOKS Staking-30MAR2023",
+      "address": "0x293811f161fBFea8f417e222B226BB821548Ba63",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "SY Zircuit Staking USDe",
+      "symbol": "SY-zs-USDe",
+      "address": "0x293C6937D8D82e05B01335F7B33FBA0c8e256E30",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "Strudel Finance",
       "symbol": "TRDL",
       "address": "0x297D33e17e61C2Ddd812389C2105193f8348188a",
@@ -3033,6 +3425,16 @@
       ]
     },
     {
+      "name": "YT ETHx-BbAWeth_BalancerLP Aura 26SEP2024",
+      "symbol": "YT-ETHx-BbAWeth_BalancerLP Aura-26SEP2024",
+      "address": "0x2C4413364623d6AC247E0AF629cEC8ACc596f646",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "BiLira",
       "symbol": "tryb",
       "address": "0x2c537e5624e4af88a7ae4060c022609376c8d0eb",
@@ -3045,9 +3447,39 @@
       ]
     },
     {
+      "name": "SY ankrETH-WETH_BalancerLP Aura",
+      "symbol": "SY-ankrETH-WETH_BalancerLP Aura",
+      "address": "0x2C662f901546a503C90d8dE0DB8BfF1d32FF4A39",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "Curve pxETH-stETH Factory yVault",
       "symbol": "yvCurve-pxETH-stETH-f",
       "address": "0x2c8a33C66c00264316Ea4E4433e86A386Eb6ECBf",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "PT swETH-BbAWeth_BalancerLP Aura 26SEP2024",
+      "symbol": "PT-swETH-BbAWeth_BalancerLP Aura-26SEP2024",
+      "address": "0x2CDB89969A8C206624C1173D1da3284B26dcB03d",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "PT sAPE 29JUN2023",
+      "symbol": "PT-sAPE-29JUN2023",
+      "address": "0x2CF5Eb8dB83C9752125D5d961C4C9DfaA9178d1A",
       "decimals": 18,
       "chainId": 1,
       "providers": [
@@ -3152,6 +3584,16 @@
       ]
     },
     {
+      "name": "YT Ethena USDe 25APR2024",
+      "symbol": "YT-USDe-25APR2024",
+      "address": "0x2EB42C5a9554583C92891b930EB128e306dEc096",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "Metronome",
       "symbol": "met",
       "address": "0x2ebd53d035150f328bd754d6dc66b99b0edb89aa",
@@ -3161,6 +3603,16 @@
       "providers": [
         "defillama",
         "optimism"
+      ]
+    },
+    {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0x2EC8C498ec997aD963969a2c93Bf7150a1F5b213",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
       ]
     },
     {
@@ -3206,10 +3658,30 @@
       ]
     },
     {
+      "name": "YT fUSDC 26DEC2024",
+      "symbol": "YT-fUSDC-26DEC2024",
+      "address": "0x2fe0be7e4e248fd6DaDEc01BDE35397748412F84",
+      "decimals": 6,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "Curve.fi oBTC/sbtcCRV",
       "symbol": "oBTC/sbtcCRV",
       "address": "0x2fE94ea3d5d4a175184081439753DE15AeF9d614",
       "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "SY Stargate USDT",
+      "symbol": "SY-Stargate USDT",
+      "address": "0x3025680925349c9C01c0F01cf300EC963832ec64",
+      "decimals": 6,
       "chainId": 1,
       "providers": [
         "yearn"
@@ -3234,6 +3706,16 @@
       "chainId": 1,
       "providers": [
         "defillama",
+        "yearn"
+      ]
+    },
+    {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0x30e0dC9a1D33EAc83211a1113de238b3Ce826950",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
         "yearn"
       ]
     },
@@ -3300,6 +3782,16 @@
       "chainId": 1,
       "providers": [
         "defillama",
+        "yearn"
+      ]
+    },
+    {
+      "name": "YT swETH 26DEC2024",
+      "symbol": "YT-swETH-26DEC2024",
+      "address": "0x3199c7c3c972a8da5F9faD2A838383f827b735F1",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
         "yearn"
       ]
     },
@@ -3455,6 +3947,16 @@
       ]
     },
     {
+      "name": "PT swETH 26DEC2024",
+      "symbol": "PT-swETH-26DEC2024",
+      "address": "0x330c4DD05dB16db6323505262C57CFdE5f0A78Ea",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "CheeseFry",
       "symbol": "CHEESE",
       "address": "0x332E824e46FcEeB9E59ba9491B80d3e6d42B0B59",
@@ -3563,6 +4065,16 @@
       ]
     },
     {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0x34280882267ffa6383B363E278B027Be083bBe3b",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "Frax Share",
       "symbol": "FXS",
       "address": "0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0",
@@ -3576,6 +4088,16 @@
         "optimism",
         "yearn",
         "cowswap"
+      ]
+    },
+    {
+      "name": "SY Zircuit Staking rsETH",
+      "symbol": "SY-zs-rsETH",
+      "address": "0x34349c5569e7B846c3558961552D2202760A9789",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
       ]
     },
     {
@@ -3738,6 +4260,26 @@
       ]
     },
     {
+      "name": "SY Stafi rETH-WETH_BalancerLP Aura",
+      "symbol": "SY-Stafi rETH-WETH_BalancerLP Aura",
+      "address": "0x35BE86140EEC53Da42C265ae764E547df13891c3",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "SY LOOKS Staking",
+      "symbol": "SY-LOOKS Staking",
+      "address": "0x35C16314D6Ee4753289E5cC15A5C5E1Dd4eaD345",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "SideShift",
       "symbol": "xai",
       "address": "0x35e78b3982e87ecfd5b3f3265b601c046cdbe232",
@@ -3876,6 +4418,26 @@
       ]
     },
     {
+      "name": "YT wstETH-WETH_BalancerLP Aura 27JUN2024",
+      "symbol": "YT-wstETH-WETH_BalancerLP Aura-27JUN2024",
+      "address": "0x37fEc7b2f36f3bbAe956262F46ddF21830fa68ef",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0x38100A480dBED278B0fe57bA80a75498a7dC5bB1",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "renDOGE",
       "symbol": "renDOGE",
       "address": "0x3832d2F059E55934220881F831bE501D180671A7",
@@ -3945,6 +4507,16 @@
       ]
     },
     {
+      "name": "PT Silo crvUSD 27JUN2024",
+      "symbol": "PT-Silo-crvUSD-27JUN2024",
+      "address": "0x386Bf9105eF88e79fb8CA53dCC9a4E6f04BE0102",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "OHM-FDT Uni 1%",
       "symbol": "OHM-FDT1",
       "address": "0x388A3938fb6C9c6cb0415946Dd5d026f7d98e22c",
@@ -3977,9 +4549,29 @@
       ]
     },
     {
+      "name": "Tether USD-LP",
+      "symbol": "S*USDT",
+      "address": "0x38EA452219524Bb87e18dE1C24D3bB59510BD783",
+      "decimals": 6,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "Curve.fi Factory Plain Pool: crvUSD/USDT",
       "symbol": "crvUSDUSDT-f",
       "address": "0x390f3595bCa2Df7d23783dFd126427CCeb997BF4",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "YT Puffer ETH 27JUN2024",
+      "symbol": "YT-pufETH-27JUN2024",
+      "address": "0x391B570e81e354a85a496952b66ADc831715f54f",
       "decimals": 18,
       "chainId": 1,
       "providers": [
@@ -4290,6 +4882,16 @@
       ]
     },
     {
+      "name": "PT Zircuit Staking USDe 27JUN2024",
+      "symbol": "PT-zs-USDe-27JUN2024",
+      "address": "0x3d4F535539A33FEAd4D76D7b3B7A9cB5B21C73f1",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "Quinta Eco",
       "symbol": "QUINTA",
       "address": "0x3D5a15A9d8EA1D76A32cD70eea882968992d8D95",
@@ -4534,6 +5136,16 @@
       ]
     },
     {
+      "name": "YT Zircuit Staking USDe 27JUN2024",
+      "symbol": "YT-zs-USDe-27JUN2024",
+      "address": "0x40357b9f22B4DfF0Bf56A90661b8eC106C259d29",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "Visor LINK-ETH Uni v3",
       "symbol": "vLINK-ETHV3-1",
       "address": "0x407e99b20d61f245426031dF872966953909e9d3",
@@ -4624,6 +5236,16 @@
       ]
     },
     {
+      "name": "YT ePendle 26SEP2024",
+      "symbol": "YT-ePendle-26SEP2024",
+      "address": "0x41535fc6AdCb81a7af1bD4669d221983Ed4e33Af",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "LINK yVault",
       "symbol": "yvLINK",
       "address": "0x416ebADc07CC7efa94D9110A5B932089BBd49931",
@@ -4671,6 +5293,16 @@
       "name": "sDAI/USDM Rebase Enjoyer Pool",
       "symbol": "sdai-usdm",
       "address": "0x425BfB93370F14fF525aDb6EaEAcfE1f4e3b5802",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "SY Ethena USDe",
+      "symbol": "SY-USDe",
+      "address": "0x42862F48eAdE25661558AFE0A630b132038553D0",
       "decimals": 18,
       "chainId": 1,
       "providers": [
@@ -4758,6 +5390,16 @@
       ]
     },
     {
+      "name": "SY Autocompounding Pirex ETH",
+      "symbol": "SY-apxETH",
+      "address": "0x440d08d85cb12352DaBac2971De81e9be702d239",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "Across Protocol",
       "symbol": "acx",
       "address": "0x44108f0223a3c3028f5fe7aec7f9bb2e66bef82f",
@@ -4792,6 +5434,16 @@
       ]
     },
     {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0x44474D98d1484C26E8d296a43a721998731Cf775",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "BasketDAO Gov",
       "symbol": "BASK",
       "address": "0x44564d0bd94343f72E3C8a0D22308B7Fa71DB0Bb",
@@ -4800,6 +5452,16 @@
       "chainId": 1,
       "providers": [
         "sushiswap"
+      ]
+    },
+    {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0x445D25a1c31445Fb29e65d12DA8E0eea38174176",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
       ]
     },
     {
@@ -5046,6 +5708,16 @@
       ]
     },
     {
+      "name": "YT swETH 27JUN2024",
+      "symbol": "YT-swETH-27JUN2024",
+      "address": "0x46B7f43137e4996B40Ad7E55C791949Cc3e7C734",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "rETH-ETH05",
       "symbol": "rETH-ETH05",
       "address": "0x46e4DDB5B87152DDA90AFE75daeDfDDAB1C16513",
@@ -5129,6 +5801,16 @@
       "symbol": "yvUSDC",
       "address": "0x477faf103dADc5Fe5BAa40951cf7512dcBC18126",
       "decimals": 6,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "sAPE",
+      "symbol": "sAPE",
+      "address": "0x47BA20283Be4d72D4AFB1862994F4203551539C5",
+      "decimals": 18,
       "chainId": 1,
       "providers": [
         "yearn"
@@ -5318,6 +6000,16 @@
       ]
     },
     {
+      "name": "PT Zircuit Ether.fi weETH 27JUN2024",
+      "symbol": "PT-zs-weETH-27JUN2024",
+      "address": "0x4AE5411F3863CdB640309e84CEDf4B08B8b33FfF",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "MaidCoin",
       "symbol": "MAID",
       "address": "0x4Af698B479D0098229DC715655c667Ceb6cd8433",
@@ -5326,6 +6018,16 @@
       "chainId": 1,
       "providers": [
         "sushiswap"
+      ]
+    },
+    {
+      "name": "YT rswETH 27JUN2024",
+      "symbol": "YT-rswETH-27JUN2024",
+      "address": "0x4AfdB1B0f9A56922e398D29239453e6A06148eD0",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
       ]
     },
     {
@@ -5350,6 +6052,16 @@
       ]
     },
     {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0x4BAfDF5932c3f39288fE8Ff5e6e40641deBDB3ca",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "MBS",
       "symbol": "MBS",
       "address": "0x4Bbf46E7c31eDc1F33aF4d57F0C4a0f13398427c",
@@ -5358,6 +6070,18 @@
       "chainId": 1,
       "providers": [
         "optimism"
+      ]
+    },
+    {
+      "name": "Voucher Ethereum 2.0",
+      "symbol": "veth",
+      "address": "0x4bc3263eb5bb2ef7ad9ab6fb68be80e43b43801f",
+      "logoURI": "https://assets.coingecko.com/coins/images/29683/thumb/vETH_200.png?1680596347",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "defillama",
+        "yearn"
       ]
     },
     {
@@ -5459,6 +6183,16 @@
       ]
     },
     {
+      "name": "ETHx/bb-a-WETH Stable Pool",
+      "symbol": "B-ETHx/bb-a-WETH ",
+      "address": "0x4CbdE5C4B4B53EBE4aF4adB85404725985406163",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "ApeCoin",
       "symbol": "ape",
       "address": "0x4d224452801aced8b2f0aebe155379bb5d594381",
@@ -5467,7 +6201,20 @@
       "chainId": 1,
       "providers": [
         "defillama",
-        "sushiswap"
+        "sushiswap",
+        "yearn"
+      ]
+    },
+    {
+      "name": "Aave v3 WETH",
+      "symbol": "aweth",
+      "address": "0x4d5f47fa6a74757f35c14fd3a6ef8e3c9bc514e8",
+      "logoURI": "https://assets.coingecko.com/coins/images/32882/thumb/WETH_%281%29.png?1699716492",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "defillama",
+        "yearn"
       ]
     },
     {
@@ -5574,6 +6321,16 @@
       "name": "Curve.fi USDN/3Crv",
       "symbol": "usdn3CRV",
       "address": "0x4f3E8F405CF5aFC05D68142F3783bDfE13811522",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0x4f43c77872Db6BA177c270986CD30c3381AF37Ee",
       "decimals": 18,
       "chainId": 1,
       "providers": [
@@ -5970,6 +6727,16 @@
       ]
     },
     {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0x54E28e62Ea9E8D755DC6e74674eAbE2aBfdB004E",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "XYO Network",
       "symbol": "xyo",
       "address": "0x55296f69f40ea6d20e478533c15a6b08b654e758",
@@ -5979,6 +6746,16 @@
       "providers": [
         "defillama",
         "sushiswap",
+        "yearn"
+      ]
+    },
+    {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0x5546d0f27BEd4075eA03a22c58F7016E24c94EA7",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
         "yearn"
       ]
     },
@@ -6030,6 +6807,16 @@
       "name": "Visor APW-ETH Uni 3%",
       "symbol": "vAPW-ETH3",
       "address": "0x55eED13aB07F8b5538eFf301551492a1D776dA7b",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0x565E5283385b64Aa1883CBDe44fD35e14752742e",
       "decimals": 18,
       "chainId": 1,
       "providers": [
@@ -6225,6 +7012,26 @@
       ]
     },
     {
+      "name": "YT fUSDC 26DEC2024",
+      "symbol": "YT-fUSDC-26DEC2024",
+      "address": "0x5935cEdD7D33a32cD60e0F97cFf54A6Bbdbe7Eee",
+      "decimals": 6,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "Wrapped aWETH",
+      "symbol": "waWETH",
+      "address": "0x59463BB67dDD04fe58ED291ba36C26d99A39fbc6",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "Curve ibJPY Pool yVault",
       "symbol": "yvCurve-ibJPY",
       "address": "0x59518884EeBFb03e90a18ADBAAAB770d4666471e",
@@ -6266,6 +7073,16 @@
         "defillama",
         "yearn",
         "cowswap"
+      ]
+    },
+    {
+      "name": "YT ankrETH-WETH_BalancerLP Aura 26SEP2024",
+      "symbol": "YT-ankrETH-WETH_BalancerLP Aura-26SEP2024",
+      "address": "0x5A0f44FE239856091C52a4b2114aba55773b9c8d",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
       ]
     },
     {
@@ -6317,6 +7134,16 @@
       "name": "Curve 3EUR Pool yVault",
       "symbol": "yvCurve-3EUR",
       "address": "0x5AB64C599FcC59f0f2726A300b03166A395578Da",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "YT Bedrock UniETH 27JUN2024",
+      "symbol": "YT-uniETH-27JUN2024",
+      "address": "0x5Ae176BbcB9A4461aEEeb97c90C2a80c2078006a",
       "decimals": 18,
       "chainId": 1,
       "providers": [
@@ -6492,6 +7319,16 @@
       ]
     },
     {
+      "name": "PT rswETH 27JUN2024",
+      "symbol": "PT-rswETH-27JUN2024",
+      "address": "0x5cb12D56F5346a016DBBA8CA90635d82e6D1bcEa",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "Curve pETH Factory yVault",
       "symbol": "yvCurve-pETH-f",
       "address": "0x5CBF567cb0C3D319A052C91eFB3B3318899338DF",
@@ -6623,6 +7460,16 @@
       ]
     },
     {
+      "name": "PT ankrETH-WETH_BalancerLP Aura 26SEP2024",
+      "symbol": "PT-ankrETH-WETH_BalancerLP Aura-26SEP2024",
+      "address": "0x5E9Aaf3b0b09C78C8651968dd1A4d0Ed0D0B55e9",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "Bao Stable Basket",
       "symbol": "bSTBL",
       "address": "0x5ee08f40b637417bcC9d2C51B62F4820ec9cF5D8",
@@ -6721,6 +7568,16 @@
       ]
     },
     {
+      "name": "PT FRAXUSDC_CurveLP Convex 30MAR2023",
+      "symbol": "PT-FRAXUSDC_CurveLP Convex-30MAR2023",
+      "address": "0x5fe30Ac5cb1aBB0e44CdffB2916c254AEb368650",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "Uniswap V2",
       "symbol": "UNI-V2",
       "address": "0x6021444f1706f15465bEe85463BCc7d7cC17Fc03",
@@ -6752,6 +7609,26 @@
       "providers": [
         "defillama",
         "sushiswap"
+      ]
+    },
+    {
+      "name": "SY Silo crvUSD",
+      "symbol": "SY-Silo-crvUSD",
+      "address": "0x60D1AfD87c5Ab1a13E27638f1e75277fEbF4908C",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "Balancer Aave v3 Boosted Pool (WETH)",
+      "symbol": "bb-a-WETH",
+      "address": "0x60D604890feaa0b5460B28A424407c24fe89374a",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
       ]
     },
     {
@@ -6812,6 +7689,16 @@
       "providers": [
         "defillama",
         "sushiswap"
+      ]
+    },
+    {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0x62187066FD9C24559ffB54B0495a304ADe26d50B",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
       ]
     },
     {
@@ -7158,6 +8045,16 @@
       ]
     },
     {
+      "name": "SY Stafi rETH-WETH_BalancerLP Aura",
+      "symbol": "SY-Stafi rETH-WETH_BalancerLP Aura",
+      "address": "0x677885afde857b70f40741ff8B60F9aFbA95Dd49",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "VUSD",
       "symbol": "VUSD",
       "address": "0x677ddbd918637E5F2c79e164D402454dE7dA8619",
@@ -7486,6 +8383,16 @@
       ]
     },
     {
+      "name": "PT eUSD 26DEC2024",
+      "symbol": "PT-eUSD-26DEC2024",
+      "address": "0x6B44fC15953fb65be99b1d32E25cFAA9362c8173",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "Million",
       "symbol": "mm",
       "address": "0x6b4c7a5e3f0b99fcd83e9c089bddd6c7fce5c611",
@@ -7679,6 +8586,16 @@
       ]
     },
     {
+      "name": "YT aUSDT 26SEP2024",
+      "symbol": "YT-aUSDT-26SEP2024",
+      "address": "0x6cf80D52E1724437c509A9729719ac9b566cA19F",
+      "decimals": 6,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "bCRV yVault",
       "symbol": "yvbCRV",
       "address": "0x6D2F347DCFc55C6AC80e515a58344acd7FeF0B84",
@@ -7766,6 +8683,16 @@
       "providers": [
         "yearn",
         "cowswap"
+      ]
+    },
+    {
+      "name": "PT sfrxETH 26DEC2024",
+      "symbol": "PT-sfrxETH-26DEC2024",
+      "address": "0x6e99277F5349614AE653B8AC9C5e2F105943E8D9",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
       ]
     },
     {
@@ -8063,6 +8990,16 @@
       ]
     },
     {
+      "name": "SY Kelp rsETH",
+      "symbol": "SY-rsETH",
+      "address": "0x730A5E2AcEbccAA5e9095723B3CB862739DA793c",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "SNX yVault",
       "symbol": "yvSNX",
       "address": "0x7356f09C294Cb9c6428AC7327B24B0f29419C181",
@@ -8089,6 +9026,16 @@
       "name": "iearn TUSD",
       "symbol": "yTUSD",
       "address": "0x73a052500105205d34Daf004eAb301916DA8190f",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "PT rETH-WETH_BalancerLP Aura 26DEC2024",
+      "symbol": "PT-rETH-WETH_BalancerLP Aura-26DEC2024",
+      "address": "0x73AA4ce1d62E30AA0207eaF25De6aC3bEba9E7fd",
       "decimals": 18,
       "chainId": 1,
       "providers": [
@@ -8291,6 +9238,16 @@
       ]
     },
     {
+      "name": "PT stETH 26DEC2024",
+      "symbol": "PT-stETH-26DEC2024",
+      "address": "0x7758896b6AC966BbABcf143eFA963030f17D3EdF",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "Solidly",
       "symbol": "solid",
       "address": "0x777172d858dc1599914a1c4c6c9fc48c99a60990",
@@ -8312,6 +9269,16 @@
       "providers": [
         "defillama",
         "sushiswap"
+      ]
+    },
+    {
+      "name": "SY rswETH",
+      "symbol": "SY-rswETH",
+      "address": "0x7786729eEe8b9d30fE7d91fDFf23A0f1D0C615D9",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
       ]
     },
     {
@@ -8427,6 +9394,16 @@
       ]
     },
     {
+      "name": "Balancer vETH StablePool",
+      "symbol": "B-vETH-STABLE",
+      "address": "0x793F2D5Cd52dfafe7a1a1B0B3988940Ba2d6a63D",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "DIGG",
       "symbol": "digg",
       "address": "0x798d1be841a82a273720ce31c822c61a67a601c3",
@@ -8503,6 +9480,16 @@
       ]
     },
     {
+      "name": "SY Zircuit Staking ezETH",
+      "symbol": "SY-zs-ezETH",
+      "address": "0x7A493Be5c2ce014cD049Bf178a1ac0Db1B434744",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "Dope Wars Paper",
       "symbol": "paper",
       "address": "0x7ae1d57b58fa6411f32948314badd83583ee0e8c",
@@ -8512,6 +9499,16 @@
       "providers": [
         "defillama",
         "optimism"
+      ]
+    },
+    {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0x7b246B8dBC2a640BF2D8221890cEe8327fC23917",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
       ]
     },
     {
@@ -8561,6 +9558,16 @@
       "name": "Curve.fi Factory Plain Pool: Stakehouse dETH / frxETH",
       "symbol": "dETHfrxETH-f",
       "address": "0x7C0d189E1FecB124487226dCbA3748bD758F98E4",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "YT Zircuit Ether.fi weETH 27JUN2024",
+      "symbol": "YT-zs-weETH-27JUN2024",
+      "address": "0x7C2D26182adeEf96976035986cF56474feC03bDa",
       "decimals": 18,
       "chainId": 1,
       "providers": [
@@ -8659,6 +9666,16 @@
       ]
     },
     {
+      "name": "SY eUSD",
+      "symbol": "SY-eUSD",
+      "address": "0x7e16e4253CE4a1C96422a9567B23b4b5Ebc207F1",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "xUSDC-USDT01",
       "symbol": "xUSDC-USDT01",
       "address": "0x7E3034e504fB7EAf638e22085911F82b60583BB2",
@@ -8689,6 +9706,16 @@
       "chainId": 1,
       "providers": [
         "sushiswap"
+      ]
+    },
+    {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0x7E9Ad57D949b7aE03588a5bCBa85016F76B462f7",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
       ]
     },
     {
@@ -8765,6 +9792,16 @@
       "name": "Visor FLOAT-ETH Uni 3%",
       "symbol": "vFLOAT-ETH3",
       "address": "0x7F42F0389F3DA72447DD69149FbB3DA2af4EfAb3",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "SY ankrETH-WETH_BalancerLP Aura",
+      "symbol": "SY-ankrETH-WETH_BalancerLP Aura",
+      "address": "0x7f531a70A240Fba0e40169E56EedE1C6B7Ef8463",
       "decimals": 18,
       "chainId": 1,
       "providers": [
@@ -8878,7 +9915,8 @@
       "providers": [
         "defillama",
         "sushiswap",
-        "optimism"
+        "optimism",
+        "yearn"
       ]
     },
     {
@@ -9016,6 +10054,16 @@
       ]
     },
     {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0x8225dD26DdFaaa321E5388e0F4C090Ba16217c21",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "SpiralDAO Coil",
       "symbol": "coil",
       "address": "0x823e1b82ce1dc147bbdb25a203f046afab1ce918",
@@ -9024,6 +10072,16 @@
       "chainId": 1,
       "providers": [
         "defillama",
+        "yearn"
+      ]
+    },
+    {
+      "name": "SY wstETH-WETH_BalancerLP Aura",
+      "symbol": "SY-wstETH-WETH_BalancerLP Aura",
+      "address": "0x8267fdabd1b8C8645138f2dE5B0fe24988DC9820",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
         "yearn"
       ]
     },
@@ -9083,6 +10141,16 @@
       "name": "Curve 3EUR Factory yVault",
       "symbol": "yvCurve-3EUR-f",
       "address": "0x82c83ddA32DB09F63F9A59A129278f3fdC3EeE67",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "YT eUSD 26DEC2024",
+      "symbol": "YT-eUSD-26DEC2024",
+      "address": "0x82cC3DA7D315C47557147f44984C3E805C34789c",
       "decimals": 18,
       "chainId": 1,
       "providers": [
@@ -9435,6 +10503,16 @@
       ]
     },
     {
+      "name": "PT wstETH-ankrETH_BalancerLP Aura 27JUN2024",
+      "symbol": "PT-wstETH-ankrETH_BalancerLP Aura-27JUN2024",
+      "address": "0x86a0ADF389Ba99006633978dDd43c5aa711DDF3E",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "poundtoken",
       "symbol": "gbpt",
       "address": "0x86b4dbe5d203e634a12364c0e428fa242a3fba98",
@@ -9526,6 +10604,16 @@
       ]
     },
     {
+      "name": "PT ETHx-BbAWeth_BalancerLP Aura 26SEP2024",
+      "symbol": "PT-ETHx-BbAWeth_BalancerLP Aura-26SEP2024",
+      "address": "0x880cC97A7222C6b7Ed77232143a220fd2dcB3004",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "Curve.fi Factory Plain Pool: ibJPY/sJPY",
       "symbol": "ibJPY+sJPY-f",
       "address": "0x8818a9bb44Fbf33502bE7c15c500d0C783B73067",
@@ -9555,6 +10643,16 @@
       "providers": [
         "defillama",
         "sushiswap"
+      ]
+    },
+    {
+      "name": "SY ePendle",
+      "symbol": "SY-ePendle",
+      "address": "0x887bdD18D042A85b9c702698eFE71E1C38d5C868",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
       ]
     },
     {
@@ -9684,6 +10782,16 @@
       "providers": [
         "compound",
         "defillama"
+      ]
+    },
+    {
+      "name": "Balancer ankrETH-WETH Stable Pool",
+      "symbol": "B-ankrETH-WETH-Stable",
+      "address": "0x8A34b5ad76F528bfEc06c80D85EF3b53dA7FC300",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
       ]
     },
     {
@@ -9820,9 +10928,29 @@
       ]
     },
     {
+      "name": "SY aUSDT",
+      "symbol": "SY-aUSDT",
+      "address": "0x8c28D28bAd669afadC37b034A8070D6d7B9dFB74",
+      "decimals": 6,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "Curve.fi Factory Plain Pool: sdFXS",
       "symbol": "sdFXSFXS-f",
       "address": "0x8c524635d52bd7b1Bd55E062303177a7d916C046",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "SY vETH-WETH_BalancerLP Aura",
+      "symbol": "SY-vETH-WETH_BalancerLP Aura",
+      "address": "0x8c76E1C2c57C343afa77C4374471EB4eB6A159EA",
       "decimals": 18,
       "chainId": 1,
       "providers": [
@@ -10042,6 +11170,16 @@
       ]
     },
     {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0x8f7627bD46B30E296Aa3AAbe1dF9Bfac10920B6E",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "Curve BBTC Pool yVault",
       "symbol": "yvCurve-BBTC",
       "address": "0x8fA3A9ecd9EFb07A8CE90A6eb014CF3c0E3B32Ef",
@@ -10062,6 +11200,16 @@
         "defillama",
         "optimism",
         "cowswap"
+      ]
+    },
+    {
+      "name": "PT Stargate USDT 27JUN2024",
+      "symbol": "PT-Stargate USDT-27JUN2024",
+      "address": "0x9014F29610E904c8269726c74ebc79f5d512DAfD",
+      "decimals": 6,
+      "chainId": 1,
+      "providers": [
+        "yearn"
       ]
     },
     {
@@ -10122,6 +11270,26 @@
       "name": "Dev Coin",
       "symbol": "DEV",
       "address": "0x905Ff01Bf05bbd2De91B3F09Cc86187EA07EDec3",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0x90c98ab215498B72Abfec04c651e2e496bA364C0",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "SY sDAI",
+      "symbol": "SY-sDAI",
+      "address": "0x90f1935f733Dd8826DcA2Bd01ccFc600F20E978E",
       "decimals": 18,
       "chainId": 1,
       "providers": [
@@ -10237,6 +11405,16 @@
       "chainId": 1,
       "providers": [
         "optimism"
+      ]
+    },
+    {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0x93a82F3873e5b4fF81902663C43286d662F6721C",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
       ]
     },
     {
@@ -10357,6 +11535,16 @@
       "name": "Curve.fi UST/3Crv",
       "symbol": "ust3CRV",
       "address": "0x94e131324b6054c0D789b190b2dAC504e4361b53",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "YT sAPE 29JUN2023",
+      "symbol": "YT-sAPE-29JUN2023",
+      "address": "0x9523F7e527f8AE884DFb0a38F611AA7417Fd2845",
       "decimals": 18,
       "chainId": 1,
       "providers": [
@@ -10637,6 +11825,16 @@
       ]
     },
     {
+      "name": "YT Zircuit Staking ezETH 27JUN2024",
+      "symbol": "YT-zs-ezETH-27JUN2024",
+      "address": "0x98601E27d41ccff643da9d981dc708cf9eF1F150",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "Curve sETH Pool yVault",
       "symbol": "yvCurve-sETH",
       "address": "0x986b4AFF588a109c09B50A03f42E4110E29D353F",
@@ -10650,6 +11848,16 @@
       "name": "GACHIMUCHI",
       "symbol": "GACHIMUCHI",
       "address": "0x987b30f2852780524078a87ea72696C2297A8d6E",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "PT sDAI 26SEP2024",
+      "symbol": "PT-sDAI-26SEP2024",
+      "address": "0x988B6914866e2ad9Dc9b034387636D2641f79AA3",
       "decimals": 18,
       "chainId": 1,
       "providers": [
@@ -10768,6 +11976,16 @@
       ]
     },
     {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0x9A76925dD91A7561b58D8353f0bcE4DF1e517aBb",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "Ajna Protocol",
       "symbol": "ajna",
       "address": "0x9a96ec9b57fb64fbc60b423d1f4da7691bd35079",
@@ -10854,6 +12072,26 @@
       "chainId": 1,
       "providers": [
         "sushiswap"
+      ]
+    },
+    {
+      "name": "YT Stargate USDT 27JUN2024",
+      "symbol": "YT-Stargate USDT-27JUN2024",
+      "address": "0x9Ba9D392bE8b4CA159b1934E531D13Ad66dA023C",
+      "decimals": 6,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "SY rETH-WETH_BalancerLP Aura",
+      "symbol": "SY-rETH-WETH_BalancerLP Aura",
+      "address": "0x9Bdb1dfD15D9051D127c3cD6882e194cA1c89e56",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
       ]
     },
     {
@@ -10982,6 +12220,18 @@
       ]
     },
     {
+      "name": "Ethena Staked USDe",
+      "symbol": "susde",
+      "address": "0x9d39a5de30e57443bff2a8307a4256c8797a3497",
+      "logoURI": "https://assets.coingecko.com/coins/images/33669/thumb/photo_2023-12-14_17-00-20.jpg?1702696035",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "defillama",
+        "yearn"
+      ]
+    },
+    {
       "name": "Polygon Ecosystem Index",
       "symbol": "PECO",
       "address": "0x9d3EE6B64e69Ebe12a4bF0b01D031CB80F556eE4",
@@ -11021,6 +12271,16 @@
       "name": "ChinolaToken",
       "symbol": "CHNT",
       "address": "0x9Dbd4Ac4D5A84Ec6258aBCD43cfB6C0c5ba8819F",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "YT swETH-BbAWeth_BalancerLP Aura 26SEP2024",
+      "symbol": "YT-swETH-BbAWeth_BalancerLP Aura-26SEP2024",
+      "address": "0x9ddc69eB24329365e96Cdca508e37dDf1CD4478d",
       "decimals": 18,
       "chainId": 1,
       "providers": [
@@ -11092,6 +12352,16 @@
       ]
     },
     {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0x9eC4c502D989F04FfA9312C9D6E3F872EC91A0F9",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "SIPHER",
       "symbol": "sipher",
       "address": "0x9f52c8ecbee10e00d9faaac5ee9ba0ff6550f511",
@@ -11142,6 +12412,16 @@
       "name": "Neutrino EUR",
       "symbol": "EURN",
       "address": "0x9fcf418B971134625CdF38448B949C8640971671",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "PT Ethena USDe 25JUL2024",
+      "symbol": "PT-USDe-25JUL2024",
+      "address": "0xa0021EF8970104c2d008F38D92f115ad56a9B8e1",
       "decimals": 18,
       "chainId": 1,
       "providers": [
@@ -11204,6 +12484,16 @@
       ]
     },
     {
+      "name": "PT Ethena sUSDE 25APR2024",
+      "symbol": "PT-sUSDE-25APR2024",
+      "address": "0xA0e3D7418A34057016403197064b70c127E01e19",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "Hippo Wallet",
       "symbol": "hpo",
       "address": "0xa0ed3c520dc0632657ad2eaaf19e26c4fd431a84",
@@ -11225,6 +12515,18 @@
       "providers": [
         "defillama",
         "sushiswap"
+      ]
+    },
+    {
+      "name": "Kelp DAO Restaked ETH",
+      "symbol": "rseth",
+      "address": "0xa1290d69c65a6fe4df752f95823fae25cb99e5a7",
+      "logoURI": "https://assets.coingecko.com/coins/images/33800/thumb/Icon___Dark.png?1702991855",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "defillama",
+        "yearn"
       ]
     },
     {
@@ -11326,6 +12628,16 @@
       ]
     },
     {
+      "name": "YT sDAI 26SEP2024",
+      "symbol": "YT-sDAI-26SEP2024",
+      "address": "0xa2D5eb975E20205AcCC3C1a1EFAb43e99070de1A",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "Wrapped Beacon ETH",
       "symbol": "wbeth",
       "address": "0xa2e3356610840701bdf5611a53974510ae27e2e1",
@@ -11407,6 +12719,16 @@
       ]
     },
     {
+      "name": "YT oETH 26DEC2024",
+      "symbol": "YT-oETH-26DEC2024",
+      "address": "0xa42374d76D4B7cF95c2c1e3661537D8c89f68fFA",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "WETH yVault",
       "symbol": "yvWETH",
       "address": "0xa442BEB83baBC33D93c8Bec471070Ce59b88fb7d",
@@ -11464,6 +12786,16 @@
       ]
     },
     {
+      "name": "YT stETH 30MAR2023",
+      "symbol": "YT-stETH-30MAR2023",
+      "address": "0xA53ad7E3A87546CCa450992d54d517c3C939c2BF",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "Curve MIM Factory yVault",
       "symbol": "yvCurve-MIM-f",
       "address": "0xa540744DEDBDA9eF64cf753F0E851EfE4a419EA9",
@@ -11482,6 +12814,16 @@
       "chainId": 1,
       "providers": [
         "sushiswap"
+      ]
+    },
+    {
+      "name": "YT Stafi rETH-WETH_BalancerLP Aura 27JUN2024",
+      "symbol": "YT-Stafi rETH-WETH_BalancerLP Aura-27JUN2024",
+      "address": "0xa57FEEDBd31F4ebD7761d5c3aeED7DeCCb8F95eE",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
       ]
     },
     {
@@ -11509,6 +12851,16 @@
       ]
     },
     {
+      "name": "PT rETH-WETH_BalancerLP Aura 26DEC2024",
+      "symbol": "PT-rETH-WETH_BalancerLP Aura-26DEC2024",
+      "address": "0xa5D0d71cB2601d7082E1c39cF1B6f131Bf866a33",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "THORSwap",
       "symbol": "thor",
       "address": "0xa5f2211b9b8170f694421f2046281775e8468044",
@@ -11521,12 +12873,34 @@
       ]
     },
     {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0xa5fD0E8991bE631917D2d2B2d5dACfD7bFef7876",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "Visor RAW-ETH Uni 1%",
       "symbol": "vRAW-ETH10",
       "address": "0xA625Ea468A4C70F13f9a756FfAc3D0D250a5C276",
       "decimals": 18,
       "chainId": 1,
       "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "Staked FRAX",
+      "symbol": "sfrax",
+      "address": "0xa663b02cf0a4b149d2ad41910cb81e23e1c41c32",
+      "logoURI": "https://assets.coingecko.com/coins/images/35383/thumb/sfrax.png?1708445569",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "defillama",
         "yearn"
       ]
     },
@@ -11572,6 +12946,16 @@
       "chainId": 1,
       "providers": [
         "defillama",
+        "yearn"
+      ]
+    },
+    {
+      "name": "PT Autocompounding Pirex ETH 27MAR2025",
+      "symbol": "PT-apxETH-27MAR2025",
+      "address": "0xa6a0C2b9d06b769635F6C85deB6b500f49F672E8",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
         "yearn"
       ]
     },
@@ -11659,6 +13043,16 @@
       ]
     },
     {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0xA9355a5d306c67027C54De0e5a72df76Befa5694",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "Balancer FUD Auto-Compounding yVault",
       "symbol": "yvBlpFUD",
       "address": "0xA9412Ffd7E0866755ae0dda3318470A61F62abe8",
@@ -11684,6 +13078,16 @@
       "name": "xUSDC-ETH05",
       "symbol": "xUSDC-ETH05",
       "address": "0xA9782a2C9C3Fb83937f14cDfAc9a6d23946C9255",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "YT Ethena USDe 4APR2024",
+      "symbol": "YT-USDe-4APR2024",
+      "address": "0xA99A4329c49369fB41e6CB6852535Bbf3d4f749b",
       "decimals": 18,
       "chainId": 1,
       "providers": [
@@ -11756,6 +13160,16 @@
       "name": "Curve.fi Factory USD Metapool: DOLA-3pool Curve LP",
       "symbol": "DOLA3POOL3CRV-f",
       "address": "0xAA5A67c256e27A5d80712c51971408db3370927D",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "SY swETH",
+      "symbol": "SY-swETH",
+      "address": "0xaa68CA9C69a4ff22203cE189Ce4448d7401875E8",
       "decimals": 18,
       "chainId": 1,
       "providers": [
@@ -11868,6 +13282,16 @@
       ]
     },
     {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0xabC8ae339e3F560BF700A3f6eE85Ee719979762b",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "Curve 3Crv Factory yVault",
       "symbol": "yvCurve-3Crv-f",
       "address": "0xAbD64D5AB5A4b129df4f6f37A8d461c2510b5503",
@@ -11893,6 +13317,26 @@
       "symbol": "ZORA",
       "address": "0xabEFBc9fD2F806065b4f3C237d4b59D9A97Bcac7",
       "decimals": 0,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "SY ether.fi weETH",
+      "symbol": "SY-weETH",
+      "address": "0xAC0047886a985071476a1186bE89222659970d65",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "PT sDAI 28MAR2024",
+      "symbol": "PT-sDAI-28MAR2024",
+      "address": "0xAc0650178E8bE0c26B25673618C7BE465A40AaF9",
+      "decimals": 18,
       "chainId": 1,
       "providers": [
         "yearn"
@@ -11948,6 +13392,26 @@
       "providers": [
         "defillama",
         "optimism",
+        "yearn"
+      ]
+    },
+    {
+      "name": "PT swETH 27JUN2024",
+      "symbol": "PT-swETH-27JUN2024",
+      "address": "0xac440d0eE23FA69632Aa731322C2a480dD1376e4",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "PT fUSDC 26DEC2024",
+      "symbol": "PT-fUSDC-26DEC2024",
+      "address": "0xAcD2Eee9B812948949777D706A711D34E7Eb1023",
+      "decimals": 6,
+      "chainId": 1,
+      "providers": [
         "yearn"
       ]
     },
@@ -12123,6 +13587,16 @@
       ]
     },
     {
+      "name": "swETH/Boosted Aave v3 WETH",
+      "symbol": "swETH-bb-a-WETH-BPT",
+      "address": "0xaE8535c23afeDdA9304B03c68a3563B75fc8f92b",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "Curve.fi Factory USD Metapool: eUSD+FRAX/USDC (FRAXBP)",
       "symbol": "eUSD3CRV-f",
       "address": "0xAEda92e6A3B1028edc139A4ae56Ec881f3064D4F",
@@ -12166,6 +13640,16 @@
       ]
     },
     {
+      "name": "YT Silo crvUSD 27JUN2024",
+      "symbol": "YT-Silo-crvUSD-27JUN2024",
+      "address": "0xAf86Da90A5C1e1a41Be3b944b16944081087b7Aa",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "Float FLOAT",
       "symbol": "FLOAT",
       "address": "0xb05097849BCA421A3f51B249BA6CCa4aF4b97cb9",
@@ -12178,9 +13662,29 @@
       ]
     },
     {
+      "name": "PT Kelp rsETH 27JUN2024",
+      "symbol": "PT-rsETH-27JUN2024",
+      "address": "0xB05cABCd99cf9a73b19805edefC5f67CA5d1895E",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "Balancer staFiETH-WETH Stable Pool",
       "symbol": "B-staFiETH-WETH-Stable",
       "address": "0xB08885e6026bab4333A80024Ec25a1a3e1FF2b8A",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0xb089C87F41BF37afdD71280660ffED15E3162fF8",
       "decimals": 18,
       "chainId": 1,
       "providers": [
@@ -12215,6 +13719,16 @@
       "symbol": "yvUSDC",
       "address": "0xb0D6d7C0ed4b9C2B8186a3Ac3Acad88683586e35",
       "decimals": 6,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0xB15a55519dBc3D770ddED079ebcDeEea69A49AdE",
+      "decimals": 18,
       "chainId": 1,
       "providers": [
         "yearn"
@@ -12277,6 +13791,16 @@
       ]
     },
     {
+      "name": "PT stETH 30DEC2027",
+      "symbol": "PT-stETH-30DEC2027",
+      "address": "0xb253Eff1104802b97aC7E3aC9FdD73AecE295a2c",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "Aladdin DAO",
       "symbol": "ald",
       "address": "0xb26c4b3ca601136daf98593feaeff9e0ca702a8d",
@@ -12285,6 +13809,16 @@
       "chainId": 1,
       "providers": [
         "defillama",
+        "yearn"
+      ]
+    },
+    {
+      "name": "Silo Finance Borrowable crvUSD Deposit in CRV Silo",
+      "symbol": "scrvUSD-CRV",
+      "address": "0xb27D1729489d04473631f0AFAca3c3A7389ac9F8",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
         "yearn"
       ]
     },
@@ -12342,6 +13876,16 @@
       ]
     },
     {
+      "name": "SY sFRAX",
+      "symbol": "SY-sFRAX",
+      "address": "0xb359F0A97Ca269Ae5574dc75be48b0e81eFD1dA2",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "FRAX yVault",
       "symbol": "yvFRAX",
       "address": "0xB364D19c3FF37e0fa4B94bf4cf626729533C1c26",
@@ -12362,6 +13906,16 @@
       ]
     },
     {
+      "name": "PT vETH-WETH_BalancerLP Aura 27JUN2024",
+      "symbol": "PT-vETH-WETH_BalancerLP Aura-27JUN2024",
+      "address": "0xb387596CAab50D974eDBf42e1028cD96B1773e4F",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "Concentrator",
       "symbol": "ctr",
       "address": "0xb3ad645db386d7f6d753b2b9c3f4b853da6890b8",
@@ -12370,6 +13924,16 @@
       "chainId": 1,
       "providers": [
         "defillama",
+        "yearn"
+      ]
+    },
+    {
+      "name": "PT stETH 29JUN2023",
+      "symbol": "PT-stETH-29JUN2023",
+      "address": "0xb3b61D1587C05eADEC579b616c45939F19435703",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
         "yearn"
       ]
     },
@@ -12393,6 +13957,16 @@
       "providers": [
         "defillama",
         "optimism"
+      ]
+    },
+    {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0xb4460e76D99eCaD95030204D3C25fb33C4833997",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
       ]
     },
     {
@@ -12496,6 +14070,26 @@
       ]
     },
     {
+      "name": "Balancer vETH/WETH StablePool",
+      "symbol": "vETH/WETH BPT",
+      "address": "0xB54E6AADBF1ac1a3EF2A56E358706F0f8E320a03",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "SY wstETH-ankrETH_BalancerLP Aura",
+      "symbol": "SY-wstETH-ankrETH_BalancerLP Aura",
+      "address": "0xb5Cd090010D4735f18306EB680D898eF9F36F044",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "Curve sETH Factory yVault",
       "symbol": "yvCurve-sETH-f",
       "address": "0xB5dE7250128775a317B3f775a7AFcEC73571B732",
@@ -12556,6 +14150,16 @@
       "providers": [
         "defillama",
         "sushiswap"
+      ]
+    },
+    {
+      "name": "YT swETH-BbAWeth_BalancerLP Aura 26SEP2024",
+      "symbol": "YT-swETH-BbAWeth_BalancerLP Aura-26SEP2024",
+      "address": "0xb655B156816DD7bA76D99435db845E5E55B2bF49",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
       ]
     },
     {
@@ -12635,6 +14239,16 @@
       ]
     },
     {
+      "name": "PT Silo crvUSD 28MAR2024",
+      "symbol": "PT-Silo crvUSD-28MAR2024",
+      "address": "0xB87511364014C088e30f872EfC4a00D7efB843AC",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "1INCH yVault",
       "symbol": "yv1inch",
       "address": "0xb8c3b7a2a618c552c23b1e4701109a9e756bab67",
@@ -12662,6 +14276,16 @@
       "name": "Superdragoncoin",
       "symbol": "SDC",
       "address": "0xB8d400f82C100ce5A996E85f46f5ceA2b114C989",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0xb8FBF5cC2826c1C9909f59DD11633b494f46FBfe",
       "decimals": 18,
       "chainId": 1,
       "providers": [
@@ -12826,6 +14450,16 @@
       ]
     },
     {
+      "name": "SY ETHx-BbAWeth_BalancerLP Aura",
+      "symbol": "SY-ETHx-BbAWeth_BalancerLP Aura",
+      "address": "0xbA72de8B5B56552e537994DddFe82e7ce43409f5",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "Based Gold",
       "symbol": "BGLD",
       "address": "0xbA7970f10D9f0531941DcEd1dda7ef3016B24e5b",
@@ -12885,6 +14519,16 @@
       ]
     },
     {
+      "name": "Balancer Aave v3 Boosted Pool (WETH)",
+      "symbol": "bb-a-WETH",
+      "address": "0xbB6881874825E60e1160416D6C426eae65f2459E",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "Visor AAVE-ETH Uni v3",
       "symbol": "vAAVE-ETHV3-1",
       "address": "0xBB9b86a75ca3115cAAB045e2Af17B0BbA483acBC",
@@ -12934,6 +14578,16 @@
       "name": "Synth sLINK",
       "symbol": "sLINK",
       "address": "0xbBC455cb4F1B9e4bFC4B73970d360c8f032EfEE6",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0xBBd395D4820da5C89A3bCA4FA28Af97254a0FCBe",
       "decimals": 18,
       "chainId": 1,
       "providers": [
@@ -13037,6 +14691,16 @@
       "name": "Pirex CVX",
       "symbol": "pxCVX",
       "address": "0xBCe0Cf87F513102F22232436CCa2ca49e815C3aC",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0xbCE250b572955c044C0C4E75B2Fa8016c12cABF9",
       "decimals": 18,
       "chainId": 1,
       "providers": [
@@ -13196,6 +14860,48 @@
       ]
     },
     {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0xbEEf0aCD30d146F8ac4Ca6665D672727b943f105",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "YT vETH-WETH_BalancerLP Aura 26SEP2024",
+      "symbol": "YT-vETH-WETH_BalancerLP Aura-26SEP2024",
+      "address": "0xbf3aDc8976917574dd8FC3363884167F58F9AD79",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "PT sFRAX 28MAR2024",
+      "symbol": "PT-sFRAX-28MAR2024",
+      "address": "0xBF44fbCc181e297E1532B72c6ca500fe150C5b9E",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "Renzo Restaked ETH",
+      "symbol": "ezeth",
+      "address": "0xbf5495efe5db9ce00f80364c8b423567e58d2110",
+      "logoURI": "https://assets.coingecko.com/coins/images/34753/thumb/eth_renzo_logo_%281%29.png?1705956747",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "defillama",
+        "yearn"
+      ]
+    },
+    {
       "name": "Curve ETHx-WETH Factory yVault",
       "symbol": "yvCurve-ETHx-WETH-f",
       "address": "0xbf91b696a35b539b1142e2f921A2A88BB019506a",
@@ -13315,7 +15021,18 @@
       "chainId": 1,
       "providers": [
         "defillama",
+        "yearn",
         "cowswap"
+      ]
+    },
+    {
+      "name": "SY ankrETH-WETH_BalancerLP Aura",
+      "symbol": "SY-ankrETH-WETH_BalancerLP Aura",
+      "address": "0xc0CA1e345bE44Ea2c83202222E5084ae3a01e9DC",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
       ]
     },
     {
@@ -13331,6 +15048,16 @@
       ]
     },
     {
+      "name": "SY rETH-WETH_BalancerLP Aura",
+      "symbol": "SY-rETH-WETH_BalancerLP Aura",
+      "address": "0xc0dd85720E3Bc7959890127b5d3Af2D29f6C74f4",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "Donut",
       "symbol": "donut",
       "address": "0xc0f9bd5fa5698b6505f643900ffa515ea5df54a9",
@@ -13339,6 +15066,16 @@
       "chainId": 1,
       "providers": [
         "defillama",
+        "yearn"
+      ]
+    },
+    {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0xC112B12aDDc11f988AbC1AAfb47e4C2F62fb6070",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
         "yearn"
       ]
     },
@@ -13414,6 +15151,16 @@
       "name": "wstETH yVault",
       "symbol": "yvwstETH",
       "address": "0xC1f3C276Bf73396C020E8354bcA581846171649d",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "YT LOOKS Staking 30MAR2023",
+      "symbol": "YT-LOOKS Staking-30MAR2023",
+      "address": "0xC20dc81e8844F8fF154A67003849cEA8e951dEdc",
       "decimals": 18,
       "chainId": 1,
       "providers": [
@@ -13529,6 +15276,26 @@
       ]
     },
     {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0xC374f7eC85F8C7DE3207a10bB1978bA104bdA3B2",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "YT stETH 26DEC2024",
+      "symbol": "YT-stETH-26DEC2024",
+      "address": "0xc3863CCcd012f8E45D72Ec87c5A9C4F77e1C7549",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "Curve.fi Factory USD Metapool: msUSD/FRAXBP",
       "symbol": "msUSDFRAX3CRV-f",
       "address": "0xc3b19502F8c02be75F3f77fd673503520DEB51dD",
@@ -13553,6 +15320,16 @@
       "symbol": "crUSDC",
       "address": "0xC42D8F3D791C107C458b2FeA025A36669B51fC5f",
       "decimals": 8,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "SY Bedrock UniETH",
+      "symbol": "SY-uniETH",
+      "address": "0xc430dB19339A3051192233B4c49f9aB3DC6D16b7",
+      "decimals": 18,
       "chainId": 1,
       "providers": [
         "yearn"
@@ -13685,6 +15462,16 @@
       ]
     },
     {
+      "name": "PT Puffer ETH 27JUN2024",
+      "symbol": "PT-pufETH-27JUN2024",
+      "address": "0xC58aa33Ce619c7f7Ac4929DF357D0Ef762edbD23",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "veCRV-DAO yVault",
       "symbol": "yve-crvdao",
       "address": "0xc5bddf9843308380375a611c18b50fb9341f502a",
@@ -13701,6 +15488,16 @@
       "name": "ParaSpace Compound APE",
       "symbol": "cAPE",
       "address": "0xC5c9fB6223A989208Df27dCEE33fC59ff5c26fFF",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "YT FRAXUSDC_CurveLP Convex 30MAR2023",
+      "symbol": "YT-FRAXUSDC_CurveLP Convex-30MAR2023",
+      "address": "0xC5Cd692e9b4622ab8Cdb57C83A0f99f874A169Cd",
       "decimals": 18,
       "chainId": 1,
       "providers": [
@@ -13733,6 +15530,16 @@
       "name": "Curve ankrETH-frxETH Factory yVault",
       "symbol": "yvCurve-ankrETH-frxETH-f",
       "address": "0xc688c419f2407670463068CE540528B9a710AE7F",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "PT ether.fi weETH 27JUN2024",
+      "symbol": "PT-weETH-27JUN2024",
+      "address": "0xc69Ad9baB1dEE23F4605a82b3354F8E40d1E5966",
       "decimals": 18,
       "chainId": 1,
       "providers": [
@@ -13928,6 +15735,16 @@
       ]
     },
     {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0xC9beCdbC62efb867cB52222b34c187fB170379C6",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "Curve.fi Factory Plain Pool: sdCRV/CRV",
       "symbol": "sdCRVlp-f",
       "address": "0xCA0253A98D16e9C1e3614caFDA19318EE69772D0",
@@ -13984,6 +15801,16 @@
       "name": "Curve DYDX-ETH Factory yVault",
       "symbol": "yvCurve-DYDX-ETH-f",
       "address": "0xca46d6e44499AfbD8795f8F86910F068a6bF1a7c",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "SY Ethena USDe",
+      "symbol": "SY-USDe",
+      "address": "0xca4FE88658073CAdafD40045BA1c170A684D6E78",
       "decimals": 18,
       "chainId": 1,
       "providers": [
@@ -14077,6 +15904,16 @@
       ]
     },
     {
+      "name": "SY Stader Staking ETHx",
+      "symbol": "SY-ETHx",
+      "address": "0xcb166f0148Ae815313039d735E28FCeC617B21Fe",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "Poly Ontology Token",
       "symbol": "pONT",
       "address": "0xcb46C550539ac3DB72dc7aF7c89B11c306C727c2",
@@ -14085,6 +15922,16 @@
       "chainId": 1,
       "providers": [
         "sushiswap"
+      ]
+    },
+    {
+      "name": "YT vETH-WETH_BalancerLP Aura 27JUN2024",
+      "symbol": "YT-vETH-WETH_BalancerLP Aura-27JUN2024",
+      "address": "0xcB4a5d1286e67570f2234fd3863548DeaeB02c96",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
       ]
     },
     {
@@ -14106,6 +15953,36 @@
       "chainId": 1,
       "providers": [
         "sushiswap"
+      ]
+    },
+    {
+      "name": "SY swETH-BbAWeth_BalancerLP Aura",
+      "symbol": "SY-swETH-BbAWeth_BalancerLP Aura",
+      "address": "0xCb611D0BD02a74C491B75d51D6EA5558f1887Da3",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "SY swETH-BbAWeth_BalancerLP Aura",
+      "symbol": "SY-swETH-BbAWeth_BalancerLP Aura",
+      "address": "0xcb6Ea7fddFdf2AFc2Bc6Bf715185A33F8E27B96b",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0xcB71c2A73fd7588E1599DF90b88de2316585A860",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
       ]
     },
     {
@@ -14155,6 +16032,16 @@
       ]
     },
     {
+      "name": "SY stETH",
+      "symbol": "SY-stETH",
+      "address": "0xcbC72d92b2dc8187414F6734718563898740C0BC",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "TrustSwap",
       "symbol": "swap",
       "address": "0xcc4304a31d09258b0029ea7fe63d032f52e44efe",
@@ -14188,6 +16075,7 @@
       "providers": [
         "defillama",
         "optimism",
+        "yearn",
         "cowswap"
       ]
     },
@@ -14221,6 +16109,16 @@
       "providers": [
         "defillama",
         "optimism",
+        "yearn"
+      ]
+    },
+    {
+      "name": "YT wstETH-ankrETH_BalancerLP Aura 27JUN2024",
+      "symbol": "YT-wstETH-ankrETH_BalancerLP Aura-27JUN2024",
+      "address": "0xcE0BD0De35A39508916e1f63fBdaf15221c66d18",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
         "yearn"
       ]
     },
@@ -14277,6 +16175,26 @@
       ]
     },
     {
+      "name": "PT stETH 30MAR2023",
+      "symbol": "PT-stETH-30MAR2023",
+      "address": "0xcf44E8402a99Db82d2AccCC4d9354657Be2121Db",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0xcF756c00A755172bDC073787Ea83817603dA42eF",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "Yearn-Ajna Pool xETH/WETH Vault-compounder",
       "symbol": "ysWETH",
       "address": "0xCF7B325aEdDcb3DFDfa752e277c8e437Dd542828",
@@ -14287,9 +16205,39 @@
       ]
     },
     {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0xCf89d9E82A021167945D3af67B2343111D1d3eB9",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "YT Stafi rETH-WETH_BalancerLP Aura 27JUN2024",
+      "symbol": "YT-Stafi rETH-WETH_BalancerLP Aura-27JUN2024",
+      "address": "0xCfD3A9e44957D5996663b58B69A79978CcFa778f",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "Curve xETH Factory yVault",
       "symbol": "yvCurve-xETH-f",
       "address": "0xd02b103f7f5dba89Ad316E2b3Fe247F280CcE5b2",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0xD0354D4e7bCf345fB117cabe41aCaDb724eccCa2",
       "decimals": 18,
       "chainId": 1,
       "providers": [
@@ -14344,6 +16292,26 @@
       ]
     },
     {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0xd1434df1E2Ad0Cb7B3701a751D01981c7Cf2Dd62",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0xd16CB4138A0f09885DefdBc1Fe4a65a8F2fb3950",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "OpenX Optimism",
       "symbol": "wOpenX",
       "address": "0xd17d5c95B9183354eF24866b61480FC53B729555",
@@ -14352,6 +16320,16 @@
       "chainId": 1,
       "providers": [
         "optimism"
+      ]
+    },
+    {
+      "name": "PT fUSDC 26DEC2024",
+      "symbol": "PT-fUSDC-26DEC2024",
+      "address": "0xd187BEA2C423D908d102ebe5Ee8C65d37f4085c3",
+      "decimals": 6,
+      "chainId": 1,
+      "providers": [
+        "yearn"
       ]
     },
     {
@@ -14515,6 +16493,16 @@
       ]
     },
     {
+      "name": "SY FRAXUSDC_CurveLP Convex",
+      "symbol": "SY-FRAXUSDC_CurveLP Convex",
+      "address": "0xD393D1dDd6B8811A86D925F5E14014282581bC04",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "Curve DOLA-FRAXBP Pool yVault - Unlisted",
       "symbol": "yvCurve-DOLA-FRAXBP-U",
       "address": "0xd395DEC4F1733ff09b750D869eEfa7E0D37C3eE6",
@@ -14584,6 +16572,16 @@
         "optimism",
         "yearn",
         "cowswap"
+      ]
+    },
+    {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0xD547d9C74314F787aFFc587d101146e1663d046e",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
       ]
     },
     {
@@ -14743,6 +16741,16 @@
       ]
     },
     {
+      "name": "max EQB",
+      "symbol": "xEQB",
+      "address": "0xd6eCfD0d5f1Dfd3ad30f267a3a29b3E1bC4fd54f",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "sEUR",
       "symbol": "seur",
       "address": "0xd71ecff9342a5ced620049e616c5035f1db98620",
@@ -14785,6 +16793,26 @@
       "chainId": 1,
       "providers": [
         "defillama",
+        "yearn"
+      ]
+    },
+    {
+      "name": "SY Zircuit Ether.fi weETH",
+      "symbol": "SY-zs-weETH",
+      "address": "0xD7DF7E085214743530afF339aFC420c7c720BFa7",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0xd7E0809998693fD87E81D51dE1619fd0EE658031",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
         "yearn"
       ]
     },
@@ -14916,10 +16944,32 @@
       ]
     },
     {
+      "name": "PT ankrETH-WETH_BalancerLP Aura 26SEP2024",
+      "symbol": "PT-ankrETH-WETH_BalancerLP Aura-26SEP2024",
+      "address": "0xD961c25aDb22171B142f7e9E14dF01962D4decDf",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "Aave yVault",
       "symbol": "yvaave",
       "address": "0xd9788f3931ede4d5018184e198699dc6d66c1915",
       "logoURI": "https://assets.coingecko.com/coins/images/28784/thumb/yvAAVE-128-0xd9788f3931Ede4D5018184E198699dC6d66C1915.png?1674199536",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "defillama",
+        "yearn"
+      ]
+    },
+    {
+      "name": "pufETH",
+      "symbol": "pufeth",
+      "address": "0xd9a442856c234a39a81a089c06451ebaa4306a72",
+      "logoURI": "https://assets.coingecko.com/coins/images/35176/thumb/pufETH-200-200-resolution.png?1707753174",
       "decimals": 18,
       "chainId": 1,
       "providers": [
@@ -15145,7 +17195,8 @@
       "chainId": 1,
       "providers": [
         "defillama",
-        "sushiswap"
+        "sushiswap",
+        "yearn"
       ]
     },
     {
@@ -15207,6 +17258,16 @@
       ]
     },
     {
+      "name": "PT Zircuit Staking ezETH 27JUN2024",
+      "symbol": "PT-zs-ezETH-27JUN2024",
+      "address": "0xDDFD5e912C1949B4bDb12579002c44B7A83F9E88",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "Gitcoin",
       "symbol": "gtc",
       "address": "0xde30da39c46104798bb5aa3fe8b9e0e1f348163f",
@@ -15221,10 +17282,40 @@
       ]
     },
     {
+      "name": "YT sFRAX 28MAR2024",
+      "symbol": "YT-sFRAX-28MAR2024",
+      "address": "0xDe364a895D4EC08c05A34F6883A8E41C15619Ed8",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "Curve.fi pBTC/sbtcCRV",
       "symbol": "pBTC/sbtcCRV",
       "address": "0xDE5331AC4B3630f94853Ff322B66407e0D6331E8",
       "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0xDe715330043799D7a80249660d1e6b61eB3713B3",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "SY fUSDC",
+      "symbol": "SY-fUSDC",
+      "address": "0xDeaa5833d09179c20B55601453b9Dd22216F2d76",
+      "decimals": 8,
       "chainId": 1,
       "providers": [
         "yearn"
@@ -15278,6 +17369,18 @@
       "providers": [
         "balmy",
         "defillama"
+      ]
+    },
+    {
+      "name": "eUSD",
+      "symbol": "eusd",
+      "address": "0xdf3ac4f479375802a821f7b7b46cd7eb5e4262cc",
+      "logoURI": "https://assets.coingecko.com/coins/images/31603/thumb/eusd.png?1694054827",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "defillama",
+        "yearn"
       ]
     },
     {
@@ -15336,6 +17439,16 @@
       ]
     },
     {
+      "name": "SY rETH-WETH_BalancerLP Aura",
+      "symbol": "SY-rETH-WETH_BalancerLP Aura",
+      "address": "0xdf7083f2A0F8a191ab5eEAFebE92ED21cD3Dd915",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "Feisty Doge NFT",
       "symbol": "nfd",
       "address": "0xdfdb7f72c1f195c5951a234e8db9806eb0635346",
@@ -15350,6 +17463,16 @@
       ]
     },
     {
+      "name": "Balancer ankrETH/wstETH StablePool",
+      "symbol": "ankrETH/wstETH",
+      "address": "0xdfE6e7e18f6Cc65FA13C8D8966013d4FdA74b6ba",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "The DAOX Index",
       "symbol": "DAOX",
       "address": "0xE00639A1f59B52773b7d39d9F9beF07F6248dbAe",
@@ -15358,6 +17481,26 @@
       "chainId": 1,
       "providers": [
         "sushiswap"
+      ]
+    },
+    {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0xE02C61247185883f499BD834250093d6bca0DB77",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "SY Silo crvUSD",
+      "symbol": "SY-Silo crvUSD",
+      "address": "0xE05082B184a34668CD8A904D85FA815802BBb04c",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
       ]
     },
     {
@@ -15441,6 +17584,16 @@
       "name": "xFWB-ETH03",
       "symbol": "xFWB-ETH03",
       "address": "0xe14DBB7D054fF1fF5C0cd6AdAc9f8F26Bc7B8945",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "YT rETH-WETH_BalancerLP Aura 26DEC2024",
+      "symbol": "YT-rETH-WETH_BalancerLP Aura-26DEC2024",
+      "address": "0xE1578305ACC1BA40a331fd8cC9c8aEA1C2F21c9c",
       "decimals": 18,
       "chainId": 1,
       "providers": [
@@ -15547,6 +17700,16 @@
       "name": "Yearn-Ajna DAI Vault",
       "symbol": "yvAjnaDAI",
       "address": "0xe24BA27551aBE96Ca401D39761cA2319Ea14e3CB",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0xe26D7f9409581f606242300fbFE63f56789F2169",
       "decimals": 18,
       "chainId": 1,
       "providers": [
@@ -15799,6 +17962,26 @@
       ]
     },
     {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0xE6D4986Cd935529FC4505d48E926bcd36A58A0F0",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "PT aUSDT 26SEP2024",
+      "symbol": "PT-aUSDT-26SEP2024",
+      "address": "0xe6FE6e1f6Ef1de6a21Cd752E805F953673A7C0F0",
+      "decimals": 6,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "ETHPlus",
       "symbol": "ETH+",
       "address": "0xE72B141DF173b999AE7c1aDcbF60Cc9833Ce56a8",
@@ -15844,9 +18027,29 @@
       ]
     },
     {
+      "name": "PT swETH-BbAWeth_BalancerLP Aura 26SEP2024",
+      "symbol": "PT-swETH-BbAWeth_BalancerLP Aura-26SEP2024",
+      "address": "0xe82db015E01E93381991d14b5bAA30fE73bb3240",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "Curve.fi Factory Crypto Pool: dYFI/ETH",
       "symbol": "dYFIETH-f",
       "address": "0xE8449F1495012eE18dB7Aa18cD5706b47e69627c",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0xe84b47e626c8dcc021a585a059819cC54946f95A",
       "decimals": 18,
       "chainId": 1,
       "providers": [
@@ -15972,6 +18175,16 @@
       "providers": [
         "defillama",
         "sushiswap",
+        "yearn"
+      ]
+    },
+    {
+      "name": "SY sfrxETH",
+      "symbol": "SY-sfrxETH",
+      "address": "0xeb83006b0aADdD15AD8AFbebE2f4e0937f210673",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
         "yearn"
       ]
     },
@@ -16106,6 +18319,16 @@
       ]
     },
     {
+      "name": "YT Silo crvUSD 28MAR2024",
+      "symbol": "YT-Silo crvUSD-28MAR2024",
+      "address": "0xED97f94dd94255637A054098604E0201C442a3FD",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "Namx",
       "symbol": "namx",
       "address": "0xeda43fa2f35ea174a7e9b73658b18a7da00adf38",
@@ -16199,6 +18422,16 @@
       "name": "Aave V3 DAI Lender",
       "symbol": "ysDAI",
       "address": "0xEed00e00236cD7F36F2558D8b5fD05046449599D",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "PT Renzo ezETH 25APR2024",
+      "symbol": "PT-ezETH-25APR2024",
+      "address": "0xeEE8aED1957ca1545a0508AfB51b53cCA7e3c0d1",
       "decimals": 18,
       "chainId": 1,
       "providers": [
@@ -16333,7 +18566,8 @@
       "chainId": 1,
       "providers": [
         "defillama",
-        "sushiswap"
+        "sushiswap",
+        "yearn"
       ]
     },
     {
@@ -16433,6 +18667,16 @@
       ]
     },
     {
+      "name": "PT Bedrock UniETH 27JUN2024",
+      "symbol": "PT-uniETH-27JUN2024",
+      "address": "0xf2ce61699660f0f5800bA7D962741bA582d7346B",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "Curve LINK Pool yVault",
       "symbol": "yvCurve-LINK",
       "address": "0xf2db9a7c0ACd427A680D640F02d90f6186E71725",
@@ -16443,9 +18687,29 @@
       ]
     },
     {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0xF32e58F92e60f4b0A37A69b95d642A471365EAe8",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "Curve.fi Factory Crypto Pool: cvxFxs/Fxs",
       "symbol": "cvxFXSFXS-f",
       "address": "0xF3A43307DcAFa93275993862Aae628fCB50dC768",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "YT stETH 25DEC2025",
+      "symbol": "YT-stETH-25DEC2025",
+      "address": "0xf3aBC972A0f537c1119C990d422463b93227Cd83",
       "decimals": 18,
       "chainId": 1,
       "providers": [
@@ -16474,6 +18738,16 @@
       "providers": [
         "defillama",
         "optimism"
+      ]
+    },
+    {
+      "name": "PT ankrETH-WETH_BalancerLP Aura 28MAR2024",
+      "symbol": "PT-ankrETH-WETH_BalancerLP Aura-28MAR2024",
+      "address": "0xf431a1d9b87e8e275C9B26DC9b99641c81a2b11A",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
       ]
     },
     {
@@ -16725,6 +18999,16 @@
       ]
     },
     {
+      "name": "PT wstETH-WETH_BalancerLP Aura 27JUN2024",
+      "symbol": "PT-wstETH-WETH_BalancerLP Aura-27JUN2024",
+      "address": "0xf6A865c4B9b087fFDd1e0DF8b5Dbb89Ee3546f49",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "Synth sJPY",
       "symbol": "sJPY",
       "address": "0xF6b1C627e95BFc3c1b4c9B825a032Ff0fBf3e07d",
@@ -16776,6 +19060,16 @@
       ]
     },
     {
+      "name": "PT Stafi rETH-WETH_BalancerLP Aura 27JUN2024",
+      "symbol": "PT-Stafi rETH-WETH_BalancerLP Aura-27JUN2024",
+      "address": "0xF77205F5A1eEab54555B13B231fa5e4e0Cf2fC1c",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "Curve.fi Factory Plain Pool: sdCRV",
       "symbol": "sdCRVCRV-f",
       "address": "0xf7b55C3732aD8b2c2dA7c24f30A69f55c54FB717",
@@ -16823,6 +19117,16 @@
       "name": "Curve TUSD Pool yVault",
       "symbol": "yvCurve-TUSD",
       "address": "0xf8768814b88281DE4F532a3beEfA5b85B69b9324",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "YT ankrETH-WETH_BalancerLP Aura 28MAR2024",
+      "symbol": "YT-ankrETH-WETH_BalancerLP Aura-28MAR2024",
+      "address": "0xF88Cf36C49f19713E2BB6FdfAD02c5e73e3019d0",
       "decimals": 18,
       "chainId": 1,
       "providers": [
@@ -16899,6 +19203,16 @@
       ]
     },
     {
+      "name": "SY fUSDC",
+      "symbol": "SY-fUSDC",
+      "address": "0xf94A3798B18140b9Bc322314bbD36BC8e245E29B",
+      "decimals": 8,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "Yield App",
       "symbol": "yld",
       "address": "0xf94b5c5651c888d928439ab6514b93944eee6f48",
@@ -16966,6 +19280,16 @@
       ]
     },
     {
+      "name": "PT stETH 25DEC2025",
+      "symbol": "PT-stETH-25DEC2025",
+      "address": "0xf99985822fb361117FCf3768D34a6353E6022F5F",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "Anyswap",
       "symbol": "any",
       "address": "0xf99d58e463a2e07e5692127302c20a191861b4d6",
@@ -17024,9 +19348,31 @@
       ]
     },
     {
+      "name": "Restaked Swell ETH",
+      "symbol": "rsweth",
+      "address": "0xfae103dc9cf190ed75350761e95403b7b8afa6c0",
+      "logoURI": "https://assets.coingecko.com/coins/images/34489/thumb/Restaked_Swell_ETH.png?1705048450",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "defillama",
+        "yearn"
+      ]
+    },
+    {
       "name": "Iron Bank AUD",
       "symbol": "ibAUD",
       "address": "0xFAFdF0C4c1CB09d430Bf88c75D88BB46DAe09967",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "SY vETH-WETH_BalancerLP Aura",
+      "symbol": "SY-vETH-WETH_BalancerLP Aura",
+      "address": "0xFb087F3Da58e59f4707f2E38e98B44F194468ccD",
       "decimals": 18,
       "chainId": 1,
       "providers": [
@@ -17043,6 +19389,16 @@
       "providers": [
         "defillama",
         "optimism"
+      ]
+    },
+    {
+      "name": "YT ether.fi weETH 27JUN2024",
+      "symbol": "YT-weETH-27JUN2024",
+      "address": "0xfb35Fd0095dD1096b1Ca49AD44d8C5812A201677",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
       ]
     },
     {
@@ -17078,9 +19434,29 @@
       ]
     },
     {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0xfb8f489df4e04609F4f4e54F586f960818B70041",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "Balancer GHO-LUSD Factory yVault",
       "symbol": "yvBal-GHO-LUSD-f",
       "address": "0xfb9A680825f29972629b2295E050f74CB2f4992b",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "PT rETH-WETH_BalancerLP Aura 28DEC2023",
+      "symbol": "PT-rETH-WETH_BalancerLP Aura-28DEC2023",
+      "address": "0xfbd85BF7A1E1bec0da6D12964B8c05471aE8f048",
       "decimals": 18,
       "chainId": 1,
       "providers": [
@@ -17140,6 +19516,16 @@
       "providers": [
         "defillama",
         "sushiswap"
+      ]
+    },
+    {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0xFcbAe4635CA89866F83Add208eCcEec742678746",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
       ]
     },
     {
@@ -17255,7 +19641,8 @@
       "chainId": 1,
       "providers": [
         "defillama",
-        "optimism"
+        "optimism",
+        "yearn"
       ]
     },
     {
@@ -17330,6 +19717,16 @@
       "providers": [
         "defillama",
         "sushiswap"
+      ]
+    },
+    {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0xFf262396f2A35Cd7Aa24b7255E7d3f45f057Cdba",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
       ]
     },
     {
@@ -18452,6 +20849,16 @@
       ]
     },
     {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0x0C485Feb9E6fee816652Ea8f3beD2A8f59296E40",
+      "decimals": 18,
+      "chainId": 10,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "VolatileV2 AMM - OP/USDC",
       "symbol": "vAMMV2-OP/USDC",
       "address": "0x0df083de449F75691fc5A36477a6f3284C269108",
@@ -18649,6 +21056,16 @@
       ]
     },
     {
+      "name": "YT wstETH 26SEP2024",
+      "symbol": "YT-wstETH-26SEP2024",
+      "address": "0x1DFe41cc7F7860BA7f1076ca6d0fedD707c87A00",
+      "decimals": 18,
+      "chainId": 10,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "Gitcoin",
       "symbol": "GTC",
       "address": "0x1EBA7a6a72c894026Cd654AC5CDCF83A46445B08",
@@ -18755,6 +21172,16 @@
       "name": "WSTETH-WBTC05",
       "symbol": "WSTETH-WBTC05",
       "address": "0x23851bF7d838D50B1B5164B75C79BDa3c1BB6FA3",
+      "decimals": 18,
+      "chainId": 10,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0x24fB77c8C776C75F869BC65e6856AF56f57d919F",
       "decimals": 18,
       "chainId": 10,
       "providers": [
@@ -20896,6 +23323,16 @@
       ]
     },
     {
+      "name": "SY wstETH",
+      "symbol": "SY-wstETH",
+      "address": "0x96A528f4414aC3CcD21342996c93f2EcdEc24286",
+      "decimals": 18,
+      "chainId": 10,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "OpenX Optimism",
       "symbol": "wOpenX",
       "address": "0x96bBD55479e9923512dcc95Eb7Df5edDe6FB9874",
@@ -20938,7 +23375,8 @@
         "balmy",
         "defillama",
         "sushiswap",
-        "optimism"
+        "optimism",
+        "yearn"
       ]
     },
     {
@@ -20960,6 +23398,16 @@
       "chainId": 10,
       "providers": [
         "defillama",
+        "yearn"
+      ]
+    },
+    {
+      "name": "SY rETH",
+      "symbol": "SY-rETH",
+      "address": "0x9D6d509C0354ACA187aAC6beA7d063D3Ef68e2A0",
+      "decimals": 18,
+      "chainId": 10,
+      "providers": [
         "yearn"
       ]
     },
@@ -21130,6 +23578,16 @@
       "name": "Velodrome v2 CHI-DAI Factory yVault",
       "symbol": "yvVelo-CHI-DAI-f",
       "address": "0xAa07Ca79490B3CDA1A25B8fCC69b76C09C6e7A4f",
+      "decimals": 18,
+      "chainId": 10,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "PT rETH 27JUN2024",
+      "symbol": "PT-rETH-27JUN2024",
+      "address": "0xAA92Ea52612fA5ee5aba5510682485c19750CB82",
       "decimals": 18,
       "chainId": 10,
       "providers": [
@@ -21482,7 +23940,8 @@
       "chainId": 10,
       "providers": [
         "defillama",
-        "optimism"
+        "optimism",
+        "yearn"
       ]
     },
     {
@@ -22377,6 +24836,16 @@
       ]
     },
     {
+      "name": "YT rETH 27JUN2024",
+      "symbol": "YT-rETH-27JUN2024",
+      "address": "0xE8F0cf61598E0d7D20f99b978BdeFF4D4222FeB8",
+      "decimals": 18,
+      "chainId": 10,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "xETH-OP3",
       "symbol": "xETH-OP3",
       "address": "0xE8f20fD90161de1d5B4cF7e2B5D92932CA06D5f4",
@@ -22632,6 +25101,16 @@
       "name": "WSTETH-USDC05",
       "symbol": "WSTETH-USDC05",
       "address": "0xf3F81e3140e5Fb73ffB900CF0d6461196b1ECbC3",
+      "decimals": 18,
+      "chainId": 10,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "PT wstETH 26SEP2024",
+      "symbol": "PT-wstETH-26SEP2024",
+      "address": "0xF4225F061E5E01aA59DE5E615729A9180301EB07",
       "decimals": 18,
       "chainId": 10,
       "providers": [
@@ -36327,7 +38806,7 @@
       ]
     },
     {
-      "name": "GenomesDAO",
+      "name": "GenomesDAO GENE",
       "symbol": "$gene",
       "address": "0x34667ed7c36cbbbf2d5d5c5c8d6eb76a094edb9f",
       "logoURI": "https://assets.coingecko.com/coins/images/20807/thumb/1637683704200x200.png?1637708934",
@@ -49632,6 +52111,16 @@
       ]
     },
     {
+      "name": "Aave Base USDBC",
+      "symbol": "aBaseUSDBC",
+      "address": "0x13A13869B814Be8F13B86e9875aB51bda882E391",
+      "decimals": 6,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
       "name": "Moshi",
       "symbol": "$MOSHI",
       "address": "0x13Ae0201E126B142c1635D5FD5d4Ee042aC9aa24",
@@ -49976,6 +52465,16 @@
       ]
     },
     {
+      "name": "Staked Frax Ether",
+      "symbol": "sfrxETH",
+      "address": "0x1f55a02A049033E3419a8E2975cF3F572F4e6E9A",
+      "decimals": 18,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
       "name": "Rocket Pool Protocol",
       "symbol": "RPL",
       "address": "0x1f73EAf55d696BFFA9b0EA16fa987B93b0f4d302",
@@ -50001,16 +52500,6 @@
       "name": "BlueBalls",
       "symbol": "$BALLS",
       "address": "0x200b4D65faB66692EE71b7aaF9877238ad3E8D02",
-      "decimals": 18,
-      "chainId": 8453,
-      "providers": [
-        "liquest"
-      ]
-    },
-    {
-      "name": "Normia",
-      "symbol": "NORMIA",
-      "address": "0x209Bd0B5973592eC7a11AFB08d25EC28AE7AE5d1",
       "decimals": 18,
       "chainId": 8453,
       "providers": [
@@ -50153,6 +52642,16 @@
       "symbol": "AXL",
       "address": "0x23ee2343B892b1BB63503a4FAbc840E0e2C6810f",
       "decimals": 6,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
+      "name": "Uniswap V2",
+      "symbol": "UNI-V2",
+      "address": "0x23f1888C624e3789Ad0C5AAB3a0fbfa7e1AB2C9D",
+      "decimals": 18,
       "chainId": 8453,
       "providers": [
         "liquest"
@@ -50322,16 +52821,6 @@
       ]
     },
     {
-      "name": "wuzzles",
-      "symbol": "wuzz",
-      "address": "0x29157500C3fedC6148FC65Bd3e92Fac88CF6b514",
-      "decimals": 18,
-      "chainId": 8453,
-      "providers": [
-        "liquest"
-      ]
-    },
-    {
       "name": "Swarm Markets",
       "symbol": "SMT",
       "address": "0x2974dC646e375e83bd1c0342625b49f288987fA4",
@@ -50391,6 +52880,16 @@
       "name": "Grand",
       "symbol": "GB",
       "address": "0x2aF864fb54b55900Cd58d19c7102d9e4FA8D84a3",
+      "decimals": 18,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
+      "name": "BASE BOY",
+      "symbol": "BBOY",
+      "address": "0x2b47557BE5F6a39a69140A6f14131E96e1AaCC67",
       "decimals": 18,
       "chainId": 8453,
       "providers": [
@@ -50741,6 +53240,16 @@
       "symbol": "TROVE",
       "address": "0x348Fdfe2c35934A96C1353185F09D0F9efBAdA86",
       "decimals": 18,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
+      "name": "Base Rocket",
+      "symbol": "ROCKET",
+      "address": "0x3517de15f405ad81Aa7Fc69c3397C9618c4Ad259",
+      "decimals": 9,
       "chainId": 8453,
       "providers": [
         "liquest"
@@ -51267,6 +53776,16 @@
       ]
     },
     {
+      "name": "RData",
+      "symbol": "RDAT",
+      "address": "0x4498cd8Ba045E00673402353f5a4347562707e7D",
+      "decimals": 18,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
       "name": "VMX",
       "symbol": "VMX",
       "address": "0x44d05c7Bf593b4cC4322088fFCa35613079E8D37",
@@ -51404,6 +53923,16 @@
       "symbol": "FLORKY",
       "address": "0x4757fCFDF0865Ac04f54a786d731208ea817c1A9",
       "decimals": 9,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
+      "name": "Shaka",
+      "symbol": "$SHAKA",
+      "address": "0x478e03D45716dDa94F6DbC15A633B0D90c237E2F",
+      "decimals": 18,
       "chainId": 8453,
       "providers": [
         "liquest"
@@ -52150,6 +54679,16 @@
       ]
     },
     {
+      "name": "Taco Base",
+      "symbol": "TACO",
+      "address": "0x5CD50c0c609124Db90A7E59C8D5FB324843BD156",
+      "decimals": 18,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
       "name": "Wrapped Dai Stablecoin",
       "symbol": "wDAI",
       "address": "0x5D0aF35B4F6f4715961B56168De93bf0062b173D",
@@ -52251,6 +54790,7 @@
       "decimals": 18,
       "chainId": 8453,
       "providers": [
+        "liquest",
         "odosBase"
       ]
     },
@@ -52543,16 +55083,6 @@
       ]
     },
     {
-      "name": "dickwifbutt",
-      "symbol": "DWB",
-      "address": "0x690A5B5Da4956d366cc1B47ceF6ECE164f588034",
-      "decimals": 18,
-      "chainId": 8453,
-      "providers": [
-        "liquest"
-      ]
-    },
-    {
       "name": "GameStop",
       "symbol": "GME",
       "address": "0x69174d3b7538218Cc305ABDBEF7abA703baB0F53",
@@ -52658,16 +55188,6 @@
       ]
     },
     {
-      "name": "Benguin",
-      "symbol": "BENG",
-      "address": "0x6cC4F1aDaC90331E51D12528002DF2F13192CbCf",
-      "decimals": 18,
-      "chainId": 8453,
-      "providers": [
-        "liquest"
-      ]
-    },
-    {
       "name": "Volatile AMM - USDC/AERO",
       "symbol": "vAMM-USDC/AERO",
       "address": "0x6cDcb1C4A4D1C3C6d054b27AC5B77e89eAFb971d",
@@ -52681,6 +55201,16 @@
       "name": "ETHTrustFund",
       "symbol": "$ETF",
       "address": "0x6cF727D9089a07E44607BeA30F5E687983CA6aA1",
+      "decimals": 18,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
+      "name": "BASED",
+      "symbol": "BASED",
+      "address": "0x6d0b580BD08afe58e9c2D10CCAb64819f4387dE7",
       "decimals": 18,
       "chainId": 8453,
       "providers": [
@@ -53257,6 +55787,16 @@
       ]
     },
     {
+      "name": "Based Heist",
+      "symbol": "HEIST",
+      "address": "0x7FAf6444D2b2d9F2975E8bB71e80Aff930d2fDD1",
+      "decimals": 9,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
       "name": "BaseSwap LPs",
       "symbol": "BSWAP-LP",
       "address": "0x7fea0384F38EF6Ae79bB12295a9e10C464204F52",
@@ -53505,9 +56045,29 @@
       ]
     },
     {
+      "name": "based tremp",
+      "symbol": "tremp",
+      "address": "0x8595E177B755ceeb0CD2BeC531AD3a75c588B1E6",
+      "decimals": 18,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
       "name": "DINO",
       "symbol": "DINO",
       "address": "0x85E90a5430AF45776548ADB82eE4cD9E33B08077",
+      "decimals": 18,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
+      "name": "Cathie Wood",
+      "symbol": "WOULD",
+      "address": "0x85f802B0c5BB9e47eB815bc07fA0dcd625616e0A",
       "decimals": 18,
       "chainId": 8453,
       "providers": [
@@ -53828,6 +56388,16 @@
       "symbol": "wif",
       "address": "0x91337a62FaE969e2BcaDeb5B86E6874EbC117286",
       "decimals": 18,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
+      "name": "based wutalik boetterin",
+      "symbol": "WUTALIK",
+      "address": "0x918Ef7cb8FCAdce0CAAb9a8070d8e7B9AB9e96b9",
+      "decimals": 9,
       "chainId": 8453,
       "providers": [
         "liquest"
@@ -54303,16 +56873,6 @@
       ]
     },
     {
-      "name": "Don Catblueone",
-      "symbol": "DonCat",
-      "address": "0x9EDB1571f99Ea88E0f8B8409648516a4c32d8541",
-      "decimals": 18,
-      "chainId": 8453,
-      "providers": [
-        "liquest"
-      ]
-    },
-    {
       "name": "RETARDED WOJAK",
       "symbol": "AKWOJ",
       "address": "0x9EE094AAa83496873D48d090f7E4d4C41EE36efE",
@@ -54333,30 +56893,10 @@
       ]
     },
     {
-      "name": "Rex on base",
-      "symbol": "Bex",
-      "address": "0x9Efa0B600BeB6712eF452c6A3A5c5Fb5e3C344e0",
-      "decimals": 18,
-      "chainId": 8453,
-      "providers": [
-        "liquest"
-      ]
-    },
-    {
       "name": "lmeow",
       "symbol": "LMEOW",
       "address": "0x9F14418165B9D0D8C5ee30fb48BccA35acd3d60C",
       "decimals": 9,
-      "chainId": 8453,
-      "providers": [
-        "liquest"
-      ]
-    },
-    {
-      "name": "dogwifhat base",
-      "symbol": "WIFB",
-      "address": "0xA00Ee227fF67F5ab31dB5CDFa66550F054e911aD",
-      "decimals": 18,
       "chainId": 8453,
       "providers": [
         "liquest"
@@ -54630,16 +57170,6 @@
       ]
     },
     {
-      "name": "donotfomoew",
-      "symbol": "MOEW",
-      "address": "0xA7EBFb9336799d7ed4Bd5dd348fE043f111F3534",
-      "decimals": 18,
-      "chainId": 8453,
-      "providers": [
-        "liquest"
-      ]
-    },
-    {
       "name": "Volatile AMM - WETH/UNIDX",
       "symbol": "vAMM-WETH/UNIDX",
       "address": "0xA819Af1CC8AbE618eA8abaDeb464960F7451CEAB",
@@ -54661,6 +57191,16 @@
       ]
     },
     {
+      "name": "House Of Degen Lordz",
+      "symbol": "HODL",
+      "address": "0xA8b8e776E18E82d8BaC4CB21F17ED0C14f25246c",
+      "decimals": 18,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
       "name": "Sustainable Growth",
       "symbol": "SUS",
       "address": "0xA9C9Dcb054421DEDc9d9006CFfe843D0a5Cd6339",
@@ -54675,6 +57215,16 @@
       "name": "OmniKingdoms Gold",
       "symbol": "OMKG",
       "address": "0xA9f52545C16Efc3050f5eC65C7929fcbbD16A295",
+      "decimals": 18,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
+      "name": "bul on base",
+      "symbol": "bul",
+      "address": "0xA9FD06cd37aa5542c616B8035DB740EfAd29bFdb",
       "decimals": 18,
       "chainId": 8453,
       "providers": [
@@ -54902,6 +57452,16 @@
       "name": "bae",
       "symbol": "bae",
       "address": "0xb20088D2fEddbf933F072570424d9eD656165c08",
+      "decimals": 18,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
+      "name": "Uniswap V2",
+      "symbol": "UNI-V2",
+      "address": "0xb286d58BF7994fd767Bd888fa582a01694A050D5",
       "decimals": 18,
       "chainId": 8453,
       "providers": [
@@ -55141,6 +57701,16 @@
       "symbol": "SAFE",
       "address": "0xbce867Eb8F0BFdCbac7e7a11f0f3D58125D2704A",
       "decimals": 9,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
+      "name": "BaseSafe",
+      "symbol": "SAFE",
+      "address": "0xBd15d0c77133d3200756dC4D7a4F577Dbb2cf6A3",
+      "decimals": 18,
       "chainId": 8453,
       "providers": [
         "liquest"
@@ -55474,10 +58044,30 @@
       ]
     },
     {
+      "name": "Bumpies Brawl Quest Token",
+      "symbol": "BBQ",
+      "address": "0xC8A256627f9a07c2C7c5706D400d0856Cb8AcA45",
+      "decimals": 18,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
       "name": "One",
       "symbol": "ONE",
       "address": "0xCa32694B58FD19b23F585054e4A8d8b84a6e3177",
       "decimals": 18,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
+      "name": "SADHAMSTER",
+      "symbol": "$SADHAMSTER",
+      "address": "0xCa32945bF6e7be833abE1aB64430cf49369E362F",
+      "decimals": 16,
       "chainId": 8453,
       "providers": [
         "liquest"
@@ -55558,6 +58148,16 @@
       "name": "High Yield USD",
       "symbol": "hyUSD",
       "address": "0xCc7FF230365bD730eE4B352cC2492CEdAC49383e",
+      "decimals": 18,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
+      "name": "BASED TRUMP",
+      "symbol": "TRUMP",
+      "address": "0xCD9C81E88C1f78861165786A60c7585127a71b28",
       "decimals": 18,
       "chainId": 8453,
       "providers": [
@@ -55881,16 +58481,6 @@
       ]
     },
     {
-      "name": "Normie Cat",
-      "symbol": "NCAT",
-      "address": "0xd615442e145cFD3C54C4B5361DCEb317B7674704",
-      "decimals": 9,
-      "chainId": 8453,
-      "providers": [
-        "liquest"
-      ]
-    },
-    {
       "name": "PoolTogether",
       "symbol": "POOL",
       "address": "0xd652C5425aea2Afd5fb142e120FeCf79e18fafc3",
@@ -56000,6 +58590,16 @@
       "symbol": "MABA",
       "address": "0xD9eA93A38D1771C870128f9134D4622d331C04C8",
       "decimals": 18,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
+      "name": "Based Department",
+      "symbol": "APE",
+      "address": "0xd9FD81484b4163A61a2577254f3cEa064e36BF59",
+      "decimals": 9,
       "chainId": 8453,
       "providers": [
         "liquest"
@@ -56723,6 +59323,16 @@
       "name": "Uniswap V2",
       "symbol": "UNI-V2",
       "address": "0xF6f176dD89872D3703A650203Ba2eB3bf57068ae",
+      "decimals": 18,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
+      "name": "Buff Bezos",
+      "symbol": "BEZOS",
+      "address": "0xf6Fb8FaaD79B315137eAb86053e24dC92CAF57f8",
       "decimals": 18,
       "chainId": 8453,
       "providers": [
@@ -57804,6 +60414,16 @@
       ]
     },
     {
+      "name": "YT wstETH 27JUN2024",
+      "symbol": "YT-wstETH-27JUN2024",
+      "address": "0x0052B6096f8c1DCBEfB9ba381EB6b67479b5c56b",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "Hamachi Finance",
       "symbol": "hami",
       "address": "0x02150e97271fdc0d6e3a16d9094a0948266f07dd",
@@ -57837,7 +60457,8 @@
       "chainId": 42161,
       "providers": [
         "defillama",
-        "sushiswap"
+        "sushiswap",
+        "yearn"
       ]
     },
     {
@@ -57854,6 +60475,36 @@
       ]
     },
     {
+      "name": "YT Renzo ezETH 27JUN2024",
+      "symbol": "YT-ezETH-27JUN2024",
+      "address": "0x05735B65686635F5C87AA9D2dae494Fb2E838f38",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "SY Stargate USDT",
+      "symbol": "SY-Stargate USDT",
+      "address": "0x068DEf65B9dbAFf02b4ee54572a9Fa7dFb188EA3",
+      "decimals": 6,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "eETH LP (25 APR 2024)",
+      "symbol": "ysPENDLE-LPT",
+      "address": "0x074943fEfE3391D033A15557dfa1b6f246Ce5fD0",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "Lyra Finance",
       "symbol": "lyra",
       "address": "0x079504b86d38119f859c4194765029f692b7b7aa",
@@ -57863,6 +60514,16 @@
       "providers": [
         "defillama",
         "arbitrum1inch"
+      ]
+    },
+    {
+      "name": "SY gDAI",
+      "symbol": "SY-gDAI",
+      "address": "0x07C3dE6F0c21A52538A15d00dBF2434bB7Af7E14",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
       ]
     },
     {
@@ -57893,6 +60554,16 @@
       ]
     },
     {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0x08a152834de126d2ef83D612ff36e4523FD0017F",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "xWETH-LODE3",
       "symbol": "xWETH-LODE3",
       "address": "0x08A61A58ab10db054fBbE57996e89A69DdEba2F3",
@@ -57911,6 +60582,46 @@
       "chainId": 42161,
       "providers": [
         "sushiswap"
+      ]
+    },
+    {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0x0A21291A184cf36aD3B0a0def4A17C12Cbd66A14",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "Staked MLP",
+      "symbol": "sMLP",
+      "address": "0x0a9bbf8299FEd2441009a7Bb44874EE453de8e5D",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "YT Stargate USDT 27JUN2024",
+      "symbol": "YT-Stargate USDT-27JUN2024",
+      "address": "0x0AdEd315d2e51F676a2Aa8d2bc6A79C88e0F1c1a",
+      "decimals": 6,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0x0BE708c78166183f12DE9aFa134Fd091F26D4210",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
       ]
     },
     {
@@ -57935,13 +60646,34 @@
       "providers": [
         "balmy",
         "defillama",
+        "yearn",
         "arbitrum1inch"
+      ]
+    },
+    {
+      "name": "YT sETH-wstEthSilo 28MAR2024",
+      "symbol": "YT-sETH-wstEthSilo-28MAR2024",
+      "address": "0x0C9d0cAf36c14F26d29a18D84b19A4c2565F5739",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
       ]
     },
     {
       "name": "xwstETH-WETH01",
       "symbol": "xwstETH-WETH01",
       "address": "0x0cF3d4Ca39AF8dc47fD683240b667932b0CEf16a",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0x0D29182b7b663A967c5c41f03FC478c075fD4A1E",
       "decimals": 18,
       "chainId": 42161,
       "providers": [
@@ -57959,6 +60691,16 @@
       ]
     },
     {
+      "name": "SY Renzo ezETH",
+      "symbol": "SY-ezETH",
+      "address": "0x0dE802e3D6Cc9145A150bBDc8da9F988a98c5202",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "Alchemy",
       "symbol": "ALCH",
       "address": "0x0e15258734300290a651FdBAe8dEb039a8E7a2FA",
@@ -57967,6 +60709,36 @@
       "chainId": 42161,
       "providers": [
         "sushiswap"
+      ]
+    },
+    {
+      "name": "PT Kyber Elastic axlWstEth-wstETH 28MAR2024",
+      "symbol": "PT-Kyber Elastic axlWstEth-wstETH-28MAR2024",
+      "address": "0x0e7938fc1021572a46DB7cCb7eF8B056a80FfD68",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "SY sETH-pteETHSilo",
+      "symbol": "SY-sETH-pteETHSilo",
+      "address": "0x0ed2954AB05E59Ea63338e2a0c08C8316F245466",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0x0F249f735647992572eEa231fc24b35F7B6b34e1",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
       ]
     },
     {
@@ -58025,6 +60797,26 @@
       ]
     },
     {
+      "name": "PT ARB-GRAIL_Camelot 27JUN2024",
+      "symbol": "PT-ARB-GRAIL_Camelot-27JUN2024",
+      "address": "0x1102fE0A9ae3b82e41B60F42201dbFf466a9792c",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "YT sETH-pteETHSilo 25APR2024",
+      "symbol": "YT-sETH-pteETHSilo-25APR2024",
+      "address": "0x11C603EdBF3bA83D81B91069978dd5Ac57334c65",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "Curve DAO Token",
       "symbol": "CRV",
       "address": "0x11cdb42b0eb46d95f990bedd4695a6e3fa034978",
@@ -58053,6 +60845,16 @@
       ]
     },
     {
+      "name": "PT wstETH 26JUN2025",
+      "symbol": "PT-wstETH-26JUN2025",
+      "address": "0x1255638EFeca62e12E344E0b6B22ea853eC6e2c7",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "Lido DAO",
       "symbol": "ldo",
       "address": "0x13ad51ed4f1b7e9dc168d8a00cb3f4ddd85efa60",
@@ -58068,6 +60870,16 @@
       "name": "xagEUR-USDC05",
       "symbol": "xagEUR-USDC05",
       "address": "0x145d55aE4848f9782eFCAC785A655E3e5DcE1bCD",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0x14FbC760eFaF36781cB0eb3Cb255aD976117B9Bd",
       "decimals": 18,
       "chainId": 42161,
       "providers": [
@@ -58133,6 +60945,16 @@
       ]
     },
     {
+      "name": "PT gDAI 28MAR2024",
+      "symbol": "PT-gDAI-28MAR2024",
+      "address": "0x1684B747cd46858aE6312A7074353D2101154eF7",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "Frax Ether",
       "symbol": "frxeth",
       "address": "0x178412e79c25968a32e89b11f63b33f733770c2a",
@@ -58148,6 +60970,16 @@
       "name": "xVELA-WETH3",
       "symbol": "xVELA-WETH3",
       "address": "0x1787E94420Be13581ad1A58318C379a66FC520Bf",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0x1797E0D7FB5038195b39D1760d7364463A047317",
       "decimals": 18,
       "chainId": 42161,
       "providers": [
@@ -58203,6 +61035,46 @@
       "chainId": 42161,
       "providers": [
         "sushiswap"
+      ]
+    },
+    {
+      "name": "Fee + Staked GLP",
+      "symbol": "fsGLP",
+      "address": "0x1aDDD80E6039594eE970E5872D247bf0414C8903",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "YT GM ARB-USDC 28MAR2024",
+      "symbol": "YT-GM-ARB-USDC-28MAR2024",
+      "address": "0x1B33c8D479Ce5596fF9756a3010E70a7412938E2",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "PT weETH 27JUN2024",
+      "symbol": "PT-weETH-27JUN2024",
+      "address": "0x1c27Ad8a19Ba026ADaBD615F6Bc77158130cfBE4",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0x1C3330F1886D8B7eEC8af75C66fB6Fd6CCbe28b5",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
       ]
     },
     {
@@ -58345,6 +61217,16 @@
       ]
     },
     {
+      "name": "SY GLP",
+      "symbol": "SY GLP",
+      "address": "0x2066a650AF4b6895f72E618587Aad5e8120B7790",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "xETH-USDC3",
       "symbol": "xETH-USDC3",
       "address": "0x20b520aDc4d068974105104eD955a4DbAdfA4Ea6",
@@ -58387,6 +61269,26 @@
       ]
     },
     {
+      "name": "SY sETH-wstEthSilo",
+      "symbol": "SY-sETH-wstEthSilo",
+      "address": "0x22B9E6f6C462BB0B03f76d3A8246950d95f03692",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "YT GLP 28MAR2024",
+      "symbol": "YT-GLP-28MAR2024",
+      "address": "0x23231848ec8acD3a108C6a61049FbC25A697b594",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "Flux Protocol",
       "symbol": "FLUX",
       "address": "0x2338a5d62E9A766289934e8d2e83a443e8065b83",
@@ -58395,6 +61297,16 @@
       "chainId": 42161,
       "providers": [
         "sushiswap"
+      ]
+    },
+    {
+      "name": "SY PENDLE-ETH_Camelot",
+      "symbol": "SY-PENDLE-ETH_Camelot",
+      "address": "0x239C7C530f194E9E00856b5C55A95d485F64c56e",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
       ]
     },
     {
@@ -58419,6 +61331,50 @@
       ]
     },
     {
+      "name": "Axelar",
+      "symbol": "axl",
+      "address": "0x23ee2343b892b1bb63503a4fabc840e0e2c6810f",
+      "logoURI": "https://assets.coingecko.com/coins/images/27277/thumb/V-65_xQ1_400x400.jpeg?1663121730",
+      "decimals": 6,
+      "chainId": 42161,
+      "providers": [
+        "defillama",
+        "yearn"
+      ]
+    },
+    {
+      "name": "Renzo Restaked ETH",
+      "symbol": "ezeth",
+      "address": "0x2416092f143378750bb29b79ed961ab195cceea5",
+      "logoURI": "https://assets.coingecko.com/coins/images/34753/thumb/eth_renzo_logo_%281%29.png?1705956747",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "defillama",
+        "yearn"
+      ]
+    },
+    {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0x24e4Df37ea00C4954d668e3ce19fFdcffDEc2cF6",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "YT sUSDC-ARBSilo 1FEB2024",
+      "symbol": "YT-sUSDC-ARBSilo-1FEB2024",
+      "address": "0x2591bC78d50d777CAC68AedDA0e8BC928A89A538",
+      "decimals": 6,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "xGNS-USDC05",
       "symbol": "xGNS-USDC05",
       "address": "0x265A0f96B61849773a7B515495c6f04B364B28D8",
@@ -58429,9 +61385,61 @@
       ]
     },
     {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0x26f10da086519da50C9AF663aADCBdD96E2B308b",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "YT rsETH 25APR2024",
+      "symbol": "YT-rsETH-25APR2024",
+      "address": "0x28DF0f193D8e45073BC1db6F2347812C031bA818",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "Penpie",
+      "symbol": "pnp",
+      "address": "0x2ac2b254bc18cd4999f64773a966e4f4869c34ee",
+      "logoURI": "https://assets.coingecko.com/coins/images/30760/thumb/PNP_Token.png?1686886798",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "defillama",
+        "yearn"
+      ]
+    },
+    {
+      "name": "mPendle Penpie Receipt Token",
+      "symbol": "mPendle_PRT",
+      "address": "0x2b5FA2C7cb4b0F51EA7250f66Ca3eD369253ADdF",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "xRDNT-WETH3",
       "symbol": "xRDNT-WETH3",
       "address": "0x2BCBDD577616357464CFe307Bc67F9e820A66e80",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0x2Dfaf9a5E4F293BceedE49f2dBa29aACDD88E0C4",
       "decimals": 18,
       "chainId": 42161,
       "providers": [
@@ -58492,6 +61500,16 @@
       "name": "xTBTC-WETH3",
       "symbol": "xTBTC-WETH3",
       "address": "0x317A0D8D2a247004370FE4fB9362B2b256d890C0",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "SY ARB-ETH_Camelot",
+      "symbol": "SY-ARB-ETH_Camelot",
+      "address": "0x318EEC91f653cA72fAFB038f9AD792A6bC0d644C",
       "decimals": 18,
       "chainId": 42161,
       "providers": [
@@ -58584,6 +61602,28 @@
       ]
     },
     {
+      "name": "Wrapped eETH",
+      "symbol": "weeth",
+      "address": "0x35751007a407ca6feffe80b3cb397736d2cf4dbe",
+      "logoURI": "missing_thumb.png",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "defillama",
+        "yearn"
+      ]
+    },
+    {
+      "name": "SY wstETH",
+      "symbol": "SY-wstETH",
+      "address": "0x3635e69f1463cfFb72a3b197604CE3c0674A522c",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "Plenny",
       "symbol": "PL2",
       "address": "0x3642c0680329ae3e103E2B5AB29DDfed4d43CBE5",
@@ -58629,6 +61669,16 @@
       ]
     },
     {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0x3803D89c31dE8B7DEf55C86f2469A5ea4Db41B92",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "xGNS-DAI10",
       "symbol": "xGNS-DAI10",
       "address": "0x38f81e638f9e268e8417F2Ff76C270597fa077A0",
@@ -58662,6 +61712,26 @@
       ]
     },
     {
+      "name": "KyberSwap v2 Reinvestment Token",
+      "symbol": "KS2-RT",
+      "address": "0x3ae5285e7FC52D7A09457784EecE8ECb40D461B7",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "PT Kyber Position SY 26DEC2024",
+      "symbol": "PT-KPSY-26DEC2024",
+      "address": "0x3bEc83C85062c4e609123DA7B08d35ebe66593ab",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "Land",
       "symbol": "LAND",
       "address": "0x3cd1833ce959e087d0ef0cb45ed06bffe60f23ba",
@@ -58681,7 +61751,8 @@
       "chainId": 42161,
       "providers": [
         "balmy",
-        "defillama"
+        "defillama",
+        "yearn"
       ]
     },
     {
@@ -58743,6 +61814,16 @@
       ]
     },
     {
+      "name": "KelpDao Restaked ETH",
+      "symbol": "rsETH",
+      "address": "0x4186BFC76E2E237523CBC30FD220FE055156b41F",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "Axelar Wrapped TIA",
       "symbol": "axlTIA",
       "address": "0x41b94c5867f7F6217C9a30520Cb3e793B1ee1b97",
@@ -58751,6 +61832,26 @@
       "chainId": 42161,
       "providers": [
         "sushiswap"
+      ]
+    },
+    {
+      "name": "GMX LP",
+      "symbol": "GLP",
+      "address": "0x4277f8F2c384827B5273592FF7CeBd9f2C1ac258",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "HLP",
+      "symbol": "HLP",
+      "address": "0x4307fbDCD9Ec7AEA5a1c2958deCaa6f316952bAb",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
       ]
     },
     {
@@ -58790,6 +61891,26 @@
       ]
     },
     {
+      "name": "PT gDAI 26SEP2024",
+      "symbol": "PT-gDAI-26SEP2024",
+      "address": "0x4439FE47139be8B9b13635C142569c3e60D71259",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "SY PENDLE-ETH_Camelot",
+      "symbol": "SY-PENDLE-ETH_Camelot",
+      "address": "0x4665d514e82B2F9c78Fa2B984e450F33d9efc842",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "2CRV yVault",
       "symbol": "yv2CRV",
       "address": "0x49448d2B94fb9C4e41a30aD8315D32f46004A34b",
@@ -58812,6 +61933,26 @@
       ]
     },
     {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0x49d17188916291Ff2B9Cc54009112c8285e4E97C",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "YT gDAI 28MAR2024",
+      "symbol": "YT-gDAI-28MAR2024",
+      "address": "0x4a8E64c3A66ce0830e3bf2ea7863b013Aa592114",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "AaveV3 USDT Lender",
       "symbol": "ysUSDT",
       "address": "0x4aE5CE819e7D678b07E8D0f483d351E2c8e8B8D3",
@@ -58822,9 +61963,39 @@
       ]
     },
     {
+      "name": "SY MUXLP",
+      "symbol": "SY-MUXLP",
+      "address": "0x4B3f79Ce3D5d752064288FD2Be968A1c21b3ba37",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "xagEUR-USDC05",
       "symbol": "xagEUR-USDC05",
       "address": "0x4b64f0bf6B1BFfC23cCA3c8DcD08dde4627aBA9b",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "PT PENDLE-ETH_Camelot 27JUN2024",
+      "symbol": "PT-PENDLE-ETH_Camelot-27JUN2024",
+      "address": "0x4C1C121849B8AcE08E037EF620552476852F2212",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "YT PENDLE-ETH_Camelot 27JUN2024",
+      "symbol": "YT-PENDLE-ETH_Camelot-27JUN2024",
+      "address": "0x4C998bF29eFE95925918183136c141602F89332A",
       "decimals": 18,
       "chainId": 42161,
       "providers": [
@@ -58867,6 +62038,16 @@
         "defillama",
         "sushiswap",
         "arbitrum1inch"
+      ]
+    },
+    {
+      "name": "SY aUSDC",
+      "symbol": "SY-aUSDC",
+      "address": "0x50288c30c37FA1Ec6167a31E575EA8632645dE20",
+      "decimals": 6,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
       ]
     },
     {
@@ -58915,6 +62096,16 @@
         "defillama",
         "sushiswap",
         "arbitrum1inch"
+      ]
+    },
+    {
+      "name": "SY MUXLP",
+      "symbol": "SY-MUXLP",
+      "address": "0x5220E1Ef8CE83Aa9fE0CCE1b8395cD698d04bc7E",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
       ]
     },
     {
@@ -58985,6 +62176,16 @@
       ]
     },
     {
+      "name": "StakedGlp",
+      "symbol": "sGLP",
+      "address": "0x5402B5F40310bDED796c7D0F3FF6683f5C0cFfdf",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "UniDex",
       "symbol": "unidx",
       "address": "0x5429706887fcb58a595677b73e9b0441c25d993d",
@@ -58993,6 +62194,26 @@
       "chainId": 42161,
       "providers": [
         "defillama",
+        "yearn"
+      ]
+    },
+    {
+      "name": "PT MUXLP 27JUN2024",
+      "symbol": "PT-MUXLP-27JUN2024",
+      "address": "0x54a2c0dCf15d70FE0F3D02aDDc4be0bC93625A65",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0x551c423c441db0B691b5630F04d2080Caee25963",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
         "yearn"
       ]
     },
@@ -59009,6 +62230,16 @@
       ]
     },
     {
+      "name": "Silo Finance Borrowable USDC Deposit in ARB Silo",
+      "symbol": "sUSDC-ARB",
+      "address": "0x55ADE3B74abef55bF379FF6Ae61CB77a405Eb4A8",
+      "decimals": 6,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "Kromatika",
       "symbol": "KROM",
       "address": "0x55ff62567f09906a85183b866df84bf599a4bf70",
@@ -59019,6 +62250,26 @@
         "balmy",
         "defillama",
         "arbitrum1inch"
+      ]
+    },
+    {
+      "name": "YT GLP 28MAR2024",
+      "symbol": "YT-GLP-28MAR2024",
+      "address": "0x56051f8e46b67b4d286454995dBC6F5f3C433E34",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "SY Kyber Elastic axlWstEth-wstETH",
+      "symbol": "SY-Kyber Elastic axlWstEth-wstETH",
+      "address": "0x563f1e87a6a3Cb4A84F7D438fCF4882133e59d6d",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
       ]
     },
     {
@@ -59035,6 +62286,16 @@
       ]
     },
     {
+      "name": "SY Kyber Elastic axlWstEth-wstETH",
+      "symbol": "SY-Kyber Elastic axlWstEth-wstETH",
+      "address": "0x57Fa928aC8e3308D5487141Db79410357BAB5357",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "Connext",
       "symbol": "NEXT",
       "address": "0x58b9cB810A68a7f3e1E4f8Cb45D1B9B3c79705E8",
@@ -59045,6 +62306,16 @@
         "balmy",
         "defillama",
         "arbitrum1inch"
+      ]
+    },
+    {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0x58F50De493B6bE3585558F95F208dE489C296E24",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
       ]
     },
     {
@@ -59071,6 +62342,36 @@
       ]
     },
     {
+      "name": "YT gDAI 26SEP2024",
+      "symbol": "YT-gDAI-26SEP2024",
+      "address": "0x5A4956D9d4C362C6df3Ae442f87AC0AFcba468dA",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "PT wstETH 28MAR2024",
+      "symbol": "PT-wstETH-28MAR2024",
+      "address": "0x5A4e68E1F82dD4eAFBda13e47E0EC3cc452ED521",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "SY mPendle",
+      "symbol": "SY-mPendle",
+      "address": "0x5C4110eD760470f79E469a901Bd6fb45a65BE0F4",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "Turbo",
       "symbol": "TURBO",
       "address": "0x5C816d4582c857dcadb1bB1F62Ad6c9DEde4576a",
@@ -59082,9 +62383,79 @@
       ]
     },
     {
+      "name": "PT gDAI 28MAR2024",
+      "symbol": "PT-gDAI-28MAR2024",
+      "address": "0x5CB4E499A266a582D2fB41dE3C9F5A981A307297",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "USDe",
+      "symbol": "USDe",
+      "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "YT rETH 26JUN2025",
+      "symbol": "YT-rETH-26JUN2025",
+      "address": "0x5D84A9560f928b98c735f46A300bbA99e2C6cD02",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0x5E03C94Fc5Fb2E21882000A96Df0b63d2c4312e2",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "xARB-USDCe05",
       "symbol": "xARB-USDCe05",
       "address": "0x5F4cED6237BBB278b693a2b46d3ef1f45ba27ea9",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0x60712e3C9136CF411C561b4E948d4d26637561e7",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "SY sUSDC-ARBSilo",
+      "symbol": "SY-sUSDC-ARBSilo",
+      "address": "0x60955a190dec0dB9a45ABe553ad2994126EfdFcc",
+      "decimals": 6,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "YT ARB-GRAIL_Camelot 27JUN2024",
+      "symbol": "YT-ARB-GRAIL_Camelot-27JUN2024",
+      "address": "0x60f83082fc2Aa538D684310365dA08314322F3D3",
       "decimals": 18,
       "chainId": 42161,
       "providers": [
@@ -59148,6 +62519,16 @@
       ]
     },
     {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0x65819E4Ee91923499934c86e93357f633033CB0b",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "Shared-liquidity USDT",
       "symbol": "slUSDT",
       "address": "0x65CD2E7d7BAcDaC3AA9dAe68fb5d548dfE1fEFB5",
@@ -59179,7 +62560,28 @@
       "providers": [
         "defillama",
         "sushiswap",
+        "yearn",
         "arbitrum1inch"
+      ]
+    },
+    {
+      "name": "PT rETH 26JUN2025",
+      "symbol": "PT-rETH-26JUN2025",
+      "address": "0x685155D3BD593508Fe32Be39729810A591ED9c87",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "YT ARB-ETH_Camelot 27JUN2024",
+      "symbol": "YT-ARB-ETH_Camelot-27JUN2024",
+      "address": "0x69ddf9Ce5568EfA913f1eA601Ed298ccfeBfC811",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
       ]
     },
     {
@@ -59192,6 +62594,26 @@
       "providers": [
         "defillama",
         "sushiswap"
+      ]
+    },
+    {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0x6acacf8dC9d489AA83dbD4390BBe1163D2585e70",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0x6Ae79089b2CF4be441480801bb741A531d94312b",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
       ]
     },
     {
@@ -59231,12 +62653,84 @@
       ]
     },
     {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0x6EA328bf810ef0F0bD1291Eb52f1529aA073cEfa",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0x6F02C88650837C8dfe89F66723c4743E9cF833cd",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "SY Kyber Elastic axlWstEth-wstETH",
+      "symbol": "SY-Kyber Elastic axlWstEth-wstETH",
+      "address": "0x6f14d3cD37a0647a3eE60eb2214486f8A1CDdccc",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "SY rETH",
+      "symbol": "SY-rETH",
+      "address": "0x6fa102C521da6fd5914Fc21104dc5AB9acc9f959",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "USDC-A yVault",
       "symbol": "yvUSDC-A",
       "address": "0x6FAF8b7fFeE3306EfcFc2BA9Fec912b4d49834C1",
       "decimals": 6,
       "chainId": 42161,
       "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0x6febB4d63F6715793107DB9214e9e88dc3E7C3Bd",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "YT wstETH 28DEC2023",
+      "symbol": "YT-wstETH-28DEC2023",
+      "address": "0x722a6031d5976fc61fA952A02160406960969927",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "Aave v3 USDC",
+      "symbol": "ausdc",
+      "address": "0x724dc807b04555b71ed48a6896b6f41593b8c637",
+      "logoURI": "https://assets.coingecko.com/coins/images/32847/thumb/usdc_%281%29.png?1699619355",
+      "decimals": 6,
+      "chainId": 42161,
+      "providers": [
+        "defillama",
         "yearn"
       ]
     },
@@ -59284,6 +62778,16 @@
       ]
     },
     {
+      "name": "YT PENDLE-ETH_Camelot 27JUN2024",
+      "symbol": "YT-PENDLE-ETH_Camelot-27JUN2024",
+      "address": "0x7588C74473a84d7Fa87Bec375B408e3402f7fdb9",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "xETH-GMX10",
       "symbol": "xETH-GMX10",
       "address": "0x75a5162499491D39cB84EDE56e18EEfe8d8572Dc",
@@ -59308,6 +62812,26 @@
       "name": "xGOHM-USDC3",
       "symbol": "xGOHM-USDC3",
       "address": "0x773eb87e4281365A5C98E75652327258c9210c2a",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "YT Kyber Elastic axlWstEth-wstETH 28MAR2024",
+      "symbol": "YT-Kyber Elastic axlWstEth-wstETH-28MAR2024",
+      "address": "0x77732f9424DCBb273D682549dE2F06B09aCccdD4",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "Kyber Position SY",
+      "symbol": "KPSY",
+      "address": "0x77BDa306cE23890129B572381999369732ffE3c5",
       "decimals": 18,
       "chainId": 42161,
       "providers": [
@@ -59348,6 +62872,46 @@
       ]
     },
     {
+      "name": "MUX LP",
+      "symbol": "MUXLP",
+      "address": "0x7CbaF5a14D953fF896E5B3312031515c858737C8",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "PT Stargate USDT 27JUN2024",
+      "symbol": "PT-Stargate USDT-27JUN2024",
+      "address": "0x7D180a4f451FC15B543B5d1Ba7dDa6b3014A4c49",
+      "decimals": 6,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0x7D49E5Adc0EAAD9C027857767638613253eF125f",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0x7Db02aAE965f2cA59d6E18112E277780d64E390D",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "xWBTC-TBTC05",
       "symbol": "xWBTC-TBTC05",
       "address": "0x7eC87B3083cbb39DA69C43EE0497B9c03Aef91C1",
@@ -59366,6 +62930,16 @@
       "chainId": 42161,
       "providers": [
         "defillama",
+        "yearn"
+      ]
+    },
+    {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0x8036762BCc01704949e8995eB6c7C85aCA155E20",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
         "yearn"
       ]
     },
@@ -59390,6 +62964,26 @@
       "chainId": 42161,
       "providers": [
         "sushiswap"
+      ]
+    },
+    {
+      "name": "SY wstETH",
+      "symbol": "SY-wstETH",
+      "address": "0x80c12D5b6Cc494632Bf11b03F09436c8B61Cc5Df",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "PT GM ARB-USDC 28MAR2024",
+      "symbol": "PT-GM-ARB-USDC-28MAR2024",
+      "address": "0x81f2c7b56f34290D2261F15883F2F80d78981b68",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
       ]
     },
     {
@@ -59426,6 +63020,46 @@
       "providers": [
         "defillama",
         "sushiswap",
+        "yearn"
+      ]
+    },
+    {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0x83dB132a36874090Ec5dA86BFad1c891e4708373",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "KyberSwap v2 Reinvestment Token",
+      "symbol": "KS2-RT",
+      "address": "0x83FE9065Ed68506A0D2EcE59cd71C43BBff6e450",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "PT Kyber Elastic axlWstEth-wstETH 28MAR2024",
+      "symbol": "PT-Kyber Elastic axlWstEth-wstETH-28MAR2024",
+      "address": "0x8491F9a5Ba93ab2def499d956fd7CaAf1e9f6040",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0x8621c587059357d6C669f72dA3Bfe1398fc0D0B5",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
         "yearn"
       ]
     },
@@ -59473,6 +63107,26 @@
       ]
     },
     {
+      "name": "PT PENDLE-ETH_Camelot 27JUN2024",
+      "symbol": "PT-PENDLE-ETH_Camelot-27JUN2024",
+      "address": "0x877b050d26a780bB43642171859434FdF496F1aE",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0x87c8D1B2ED18545594CB0417Ac2d3c2974A10912",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "xETH-GMX3",
       "symbol": "xETH-GMX3",
       "address": "0x88ae17Af988E733943D728df745C95CE8393f238",
@@ -59506,9 +63160,39 @@
       ]
     },
     {
+      "name": "PT GLP 26SEP2024",
+      "symbol": "PT-GLP-26SEP2024",
+      "address": "0x89cD713a6607787F93d6743E67777Be9Ad73c54b",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "xARB-USDC05",
       "symbol": "xARB-USDC05",
       "address": "0x8aB16e90409690098Ed94EF437A138B7cF702BD5",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "Silo Finance Borrowable WETH Deposit in PT-weETH-25APR2024 Silo",
+      "symbol": "sWETH-PT-weETH-25APR2024",
+      "address": "0x8Be4715f1DB9e8551fEA5ef8b30A2eb99398e5d2",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "PT rsETH 25APR2024",
+      "symbol": "PT-rsETH-25APR2024",
+      "address": "0x8D164E0C662C9E199baaC9E97b6A8664c75700EA",
       "decimals": 18,
       "chainId": 42161,
       "providers": [
@@ -59550,6 +63234,16 @@
       ]
     },
     {
+      "name": "PT Renzo ezETH 27JUN2024",
+      "symbol": "PT-ezETH-27JUN2024",
+      "address": "0x8EA5040d423410f1fdc363379Af88e1DB5eA1C34",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "Magnethereum",
       "symbol": "MAGNET",
       "address": "0x8eD4191F81F1e1D24a8a1195267D024d9358c9d7",
@@ -59574,6 +63268,16 @@
       "name": "xMAGIC-ETH1",
       "symbol": "xMAGIC-ETH1",
       "address": "0x9051AF977F2FE632D55D54da735181c38d58a31b",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "PT Kyber Elastic axlWstEth-wstETH 28MAR2024",
+      "symbol": "PT-Kyber Elastic axlWstEth-wstETH-28MAR2024",
+      "address": "0x907768d03E4cCCc18D56dCf1c7A85748408a12D2",
       "decimals": 18,
       "chainId": 42161,
       "providers": [
@@ -59654,6 +63358,16 @@
       ]
     },
     {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0x952083cde7aaa11AB8449057F7de23A970AA8472",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "xARB-USDT05",
       "symbol": "xARB-USDT05",
       "address": "0x95375694685E39997828Ed5B17f30f0A3eD90537",
@@ -59672,6 +63386,16 @@
       "chainId": 42161,
       "providers": [
         "sushiswap"
+      ]
+    },
+    {
+      "name": "PT GLP 28MAR2024",
+      "symbol": "PT-GLP-28MAR2024",
+      "address": "0x96015D0Fb97139567a9ba675951816a0Bb719E3c",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
       ]
     },
     {
@@ -59707,6 +63431,36 @@
       "chainId": 42161,
       "providers": [
         "sushiswap"
+      ]
+    },
+    {
+      "name": "YT Kyber Elastic axlWstEth-wstETH 28MAR2024",
+      "symbol": "YT-Kyber Elastic axlWstEth-wstETH-28MAR2024",
+      "address": "0x96B6141E35D7607bba06ADc481897403E9D4E55E",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "YT gDAI 28MAR2024",
+      "symbol": "YT-gDAI-28MAR2024",
+      "address": "0x9731454C583F11f4e54f80398591C911d5C4114A",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "PT wstETH 27JUN2024",
+      "symbol": "PT-wstETH-27JUN2024",
+      "address": "0x9741CAc1a22Ff3615FA074fD0B439975a5E137e9",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
       ]
     },
     {
@@ -59762,6 +63516,26 @@
       ]
     },
     {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0x99e9028e274FEAFA2E1D8787E1eE6DE39C6F7724",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0x99Ed4F0Ab6524d26B31D0aEa087eBe20D5949e0f",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "MATH",
       "symbol": "math",
       "address": "0x99f40b01ba9c469193b360f72740e416b17ac332",
@@ -59785,6 +63559,46 @@
       ]
     },
     {
+      "name": "PT sETH-wstEthSilo 28MAR2024",
+      "symbol": "PT-sETH-wstEthSilo-28MAR2024",
+      "address": "0x9ADDde3a8819c2eED4E5113B7aA1cecf4096BEc3",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "YT PENDLE-ETH_Camelot 27JUN2024",
+      "symbol": "YT-PENDLE-ETH_Camelot-27JUN2024",
+      "address": "0x9Bb47fF1AdE2bC22c9F0761560063bAa3Df883B5",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0x9bC62257Ffe7D0f7c52A019E6Fc0AF3102F8F44E",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "PT weETH 25APR2024",
+      "symbol": "PT-weETH-25APR2024",
+      "address": "0x9bEcd6b4Fb076348A455518aea23d3799361FE95",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "Compound USDC",
       "symbol": "cUSDCv3",
       "address": "0x9c4ec768c28520b50860ea7a15bd7213a9ff58bf",
@@ -59793,6 +63607,28 @@
       "chainId": 42161,
       "providers": [
         "arbitrum1inch"
+      ]
+    },
+    {
+      "name": "Bridged Wrapped stETH (Axelar)",
+      "symbol": "axl-wsteth",
+      "address": "0x9cfb13e6c11054ac9fcb92ba89644f30775436e4",
+      "logoURI": "https://assets.coingecko.com/coins/images/32223/thumb/steth-wei_D_3x.png?1696926841",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "defillama",
+        "yearn"
+      ]
+    },
+    {
+      "name": "YT HLP 27JUN2024",
+      "symbol": "YT-HLP-27JUN2024",
+      "address": "0x9D090Ef4Aafd0ACB821113a7689d5794e50bD047",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
       ]
     },
     {
@@ -59805,6 +63641,16 @@
       "providers": [
         "defillama",
         "sushiswap"
+      ]
+    },
+    {
+      "name": "YT mPendle 26SEP2024",
+      "symbol": "YT-mPendle-26SEP2024",
+      "address": "0x9DbD1fC6D2731ebD42a5E5B8e268bFA7C68980Ae",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
       ]
     },
     {
@@ -59842,6 +63688,16 @@
       "providers": [
         "defillama",
         "arbitrum1inch"
+      ]
+    },
+    {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0x9f003Fd08d5317Dfd988Bd1EE151B27836FE6C3D",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
       ]
     },
     {
@@ -59888,6 +63744,16 @@
       ]
     },
     {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0xa0192f6567f8f5DC38C53323235FD08b318D2dcA",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "Gnosis",
       "symbol": "gno",
       "address": "0xa0b862f60edef4452f25b4160f177db44deb6cf1",
@@ -59898,6 +63764,26 @@
         "defillama",
         "sushiswap",
         "arbitrum1inch"
+      ]
+    },
+    {
+      "name": "YT aUSDC 27JUN2024",
+      "symbol": "YT-aUSDC-27JUN2024",
+      "address": "0xA1c32EF8d3c4c30cB596bAb8647e11daF0FA5C94",
+      "decimals": 6,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "PT ARB-ETH_Camelot 27JUN2024",
+      "symbol": "PT-ARB-ETH_Camelot-27JUN2024",
+      "address": "0xa3BeDB2885Bf23E9b8f72e38Bbd9fdDD1b50E1d6",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
       ]
     },
     {
@@ -59932,17 +63818,6 @@
       ]
     },
     {
-      "name": "Compound USDC",
-      "symbol": "cUSDCv3",
-      "address": "0xa5edbdd9646f8dff606d7448e414884c7d905dca",
-      "logoURI": "https://tokens.1inch.io/0xa5edbdd9646f8dff606d7448e414884c7d905dca.png",
-      "decimals": 6,
-      "chainId": 42161,
-      "providers": [
-        "arbitrum1inch"
-      ]
-    },
-    {
       "name": "ArVault",
       "symbol": "ARVAULT",
       "address": "0xA6219B4Bf4B861A2b1C02da43b2aF266186eDC04",
@@ -59951,6 +63826,26 @@
       "chainId": 42161,
       "providers": [
         "sushiswap"
+      ]
+    },
+    {
+      "name": "Camelot LP",
+      "symbol": "CMLT-LP",
+      "address": "0xa6c5C7D189fA4eB5Af8ba34E63dCDD3a635D433f",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "SY weETH",
+      "symbol": "SY-weETH",
+      "address": "0xa6C895EB332E91c5b3D00B7baeEAae478cc502DA",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
       ]
     },
     {
@@ -59963,6 +63858,16 @@
       "providers": [
         "defillama",
         "sushiswap"
+      ]
+    },
+    {
+      "name": "YT PENDLE-ETH_Camelot 27JUN2024",
+      "symbol": "YT-PENDLE-ETH_Camelot-27JUN2024",
+      "address": "0xA728C4d0D94A42B3E87458E55595A919f3d84b99",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
       ]
     },
     {
@@ -60000,6 +63905,76 @@
       ]
     },
     {
+      "name": "SY PENDLE-ETH_Camelot",
+      "symbol": "SY-PENDLE-ETH_Camelot",
+      "address": "0xA972fB7828f0bff8a22f7f8C63b17cfB971BFC0a",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "PT GLP 28MAR2024",
+      "symbol": "PT-GLP-28MAR2024",
+      "address": "0xa9Dc6aC72f219D805d620437878Af4E3845F9EbD",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "PT sETH-pteETHSilo 25APR2024",
+      "symbol": "PT-sETH-pteETHSilo-25APR2024",
+      "address": "0xAa2c552279a394c9b0F4b668C288691c5B296182",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "PT PENDLE-ETH_Camelot 27JUN2024",
+      "symbol": "PT-PENDLE-ETH_Camelot-27JUN2024",
+      "address": "0xAB89b1892976BfC997503FE10F85F436828f7131",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0xACcd9A7cb5518326BeD715f90bD32CDf2fEc2D14",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "PT mPendle 26SEP2024",
+      "symbol": "PT-mPendle-26SEP2024",
+      "address": "0xaD22fCA714559Da1Eb25FB24443B0446B54246Fc",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "PT Ethena USDe 29AUG2024",
+      "symbol": "PT-USDe-29AUG2024",
+      "address": "0xad853EB4fB3Fe4a66CdFCD7b75922a0494955292",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "enqAI",
       "symbol": "enqai",
       "address": "0xadd5620057336f868eae78a451c503ae7b576bad",
@@ -60008,6 +63983,16 @@
       "chainId": 42161,
       "providers": [
         "defillama",
+        "yearn"
+      ]
+    },
+    {
+      "name": "YT sETH-wstEthSilo 26DEC2024",
+      "symbol": "YT-sETH-wstEthSilo-26DEC2024",
+      "address": "0xAE602e0560Fd3aDE52d4E94D1cDbe63E61019693",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
         "yearn"
       ]
     },
@@ -60035,6 +64020,16 @@
       ]
     },
     {
+      "name": "SY gDAI",
+      "symbol": "SY-gDAI",
+      "address": "0xAF699fb0D9F12Bf7B14474aE5c9Bea688888DF73",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "USD Coin",
       "symbol": "USDC",
       "address": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
@@ -60047,6 +64042,16 @@
         "sushiswap",
         "yearn",
         "arbitrum1inch"
+      ]
+    },
+    {
+      "name": "PT rsETH 27JUN2024",
+      "symbol": "PT-rsETH-27JUN2024",
+      "address": "0xAFD22F824D51Fb7EeD4778d303d4388AC644b026",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
       ]
     },
     {
@@ -60069,6 +64074,16 @@
       "chainId": 42161,
       "providers": [
         "sushiswap"
+      ]
+    },
+    {
+      "name": "SY Ethena USDe",
+      "symbol": "SY-USDe",
+      "address": "0xb3C24D9dcCC2Ec5f778742389ffe448E295B84e0",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
       ]
     },
     {
@@ -60095,6 +64110,48 @@
       ]
     },
     {
+      "name": "mPendle",
+      "symbol": "mpendle",
+      "address": "0xb688ba096b7bb75d7841e47163cd12d18b36a5bf",
+      "logoURI": "https://assets.coingecko.com/coins/images/31918/thumb/mPendle.png?1695644044",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "defillama",
+        "yearn"
+      ]
+    },
+    {
+      "name": "Tether USD-LP",
+      "symbol": "S*USDT",
+      "address": "0xB6CfcF89a7B22988bfC96632aC2A9D6daB60d641",
+      "decimals": 6,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "PT aUSDC 27JUN2024",
+      "symbol": "PT-aUSDC-27JUN2024",
+      "address": "0xb72b988CAF33f3d8A6d816974fE8cAA199E5E86c",
+      "decimals": 6,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "PT wstETH 26JUN2025",
+      "symbol": "PT-wstETH-26JUN2025",
+      "address": "0xB7337f35dAFf97781F5C6D5BEA396d2327f70017",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "Rocket Pool Protocol",
       "symbol": "RPL",
       "address": "0xb766039cc6db368759c1e56b79affe831d0cc507",
@@ -60108,6 +64165,16 @@
       ]
     },
     {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0xb7ffe52EA584d2169Ae66e7F0423574A5E15056F",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "Poison.Finance Oil Potion",
       "symbol": "pOIL",
       "address": "0xb816688E4B70C9076BD87d45b5309F205ec2cf5f",
@@ -60116,6 +64183,46 @@
       "chainId": 42161,
       "providers": [
         "sushiswap"
+      ]
+    },
+    {
+      "name": "PT PENDLE-ETH_Camelot 27JUN2024",
+      "symbol": "PT-PENDLE-ETH_Camelot-27JUN2024",
+      "address": "0xba1F509C6E5f1f6a529Ecc0913b27658a678B4b9",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0xBa4A858d664Ddb052158168DB04AFA3cFF5CFCC8",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "PT wstETH 28DEC2023",
+      "symbol": "PT-wstETH-28DEC2023",
+      "address": "0xBB33e51bdC598D710FF59FdF523E80ab7c882C83",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "PT rETH 26JUN2025",
+      "symbol": "PT-rETH-26JUN2025",
+      "address": "0xBc242Bd3e32209a4D3541D6CA322302acf4b4f47",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
       ]
     },
     {
@@ -60174,10 +64281,40 @@
       ]
     },
     {
+      "name": "Camelot LP",
+      "symbol": "CMLT-LP",
+      "address": "0xBfCa4230115DE8341F3A3d5e8845fFb3337B2Be3",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "PT sUSDC-ARBSilo 1FEB2024",
+      "symbol": "PT-sUSDC-ARBSilo-1FEB2024",
+      "address": "0xBFd3A44f673f4d4dF9b1Ec126C4a5F602F0380Ad",
+      "decimals": 6,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "USDT-A yVault",
       "symbol": "yvUSDT-A",
       "address": "0xc0ba9bfED28aB46Da48d2B69316A3838698EF3f5",
       "decimals": 6,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "SY rETH",
+      "symbol": "SY-rETH",
+      "address": "0xc0Cf4b266bE5B3229C49590B59E67A09c15b22f4",
+      "decimals": 18,
       "chainId": 42161,
       "providers": [
         "yearn"
@@ -60205,6 +64342,16 @@
       "providers": [
         "defillama",
         "arbitrum1inch"
+      ]
+    },
+    {
+      "name": "GMX Market",
+      "symbol": "GM",
+      "address": "0xC25cEf6061Cf5dE5eb761b50E4743c1F5D7E5407",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
       ]
     },
     {
@@ -60241,6 +64388,26 @@
       ]
     },
     {
+      "name": "Silo Finance Borrowable WETH Deposit in wstETH Silo",
+      "symbol": "sWETH-wstETH",
+      "address": "0xC46C5DE6eCa1CA6dc3f8c5d3ce863aE326F4b2CF",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "SY sETH-wstEthSilo",
+      "symbol": "SY-sETH-wstEthSilo",
+      "address": "0xc49d8fdA920a46B21E1821780238f9E7A0de68df",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "Hop Protocol",
       "symbol": "hop",
       "address": "0xc5102fe9359fd9a28f877a67e36b0f050d81a3cc",
@@ -60250,6 +64417,26 @@
       "providers": [
         "defillama",
         "arbitrum1inch"
+      ]
+    },
+    {
+      "name": "PT HLP 27JUN2024",
+      "symbol": "PT-HLP-27JUN2024",
+      "address": "0xC595c9c28D78bb347C8177dFbB820484e2D99A66",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "SY GM ARB-USDC",
+      "symbol": "SY-GM-ARB-USDC",
+      "address": "0xC5b5d60EccB76C4a53F7DBE7cE3cb5D92557EFfF",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
       ]
     },
     {
@@ -60277,9 +64464,69 @@
       ]
     },
     {
+      "name": "SY PENDLE-ETH_Camelot",
+      "symbol": "SY-PENDLE-ETH_Camelot",
+      "address": "0xc79d8a2AA6d769138E599D4DBC30569c9870a6Ee",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "xWETH-OMNI10",
       "symbol": "xWETH-OMNI10",
       "address": "0xc7b784EEfA554b71FaaD8A3c073f474CB7175886",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0xc85910daF21367Cc293eB82876d094C31583b0B7",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "YT wstETH 26JUN2025",
+      "symbol": "YT-wstETH-26JUN2025",
+      "address": "0xC8D9369809e48d03FF7B69D7979b174e2D34874C",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0xC8fD1F1E059d97ec71AE566DD6ca788DC92f36AF",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "Camelot LP",
+      "symbol": "CMLT-LP",
+      "address": "0xC9da32C3b444F15412F7FeAC6104d1E258D23B1b",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "YT wstETH 28MAR2024",
+      "symbol": "YT-wstETH-28MAR2024",
+      "address": "0xcA71E00e364BB033371a7F61f3F6B803b06e9fC4",
       "decimals": 18,
       "chainId": 42161,
       "providers": [
@@ -60396,6 +64643,26 @@
       ]
     },
     {
+      "name": "YT MUXLP 27JUN2024",
+      "symbol": "YT-MUXLP-27JUN2024",
+      "address": "0xD101DF41943Ec333F64Df316A3093cee1Bf16572",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "SY GLP",
+      "symbol": "SY-GLP",
+      "address": "0xd1F7d5fec6EB532847e552269c905Ac489992Ef6",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "OpenLeverage",
       "symbol": "OLE",
       "address": "0xD4d026322C88C2d49942A75DfF920FCfbC5614C1",
@@ -60417,6 +64684,16 @@
         "defillama",
         "sushiswap",
         "arbitrum1inch"
+      ]
+    },
+    {
+      "name": "PT sETH-wstEthSilo 26DEC2024",
+      "symbol": "PT-sETH-wstEthSilo-26DEC2024",
+      "address": "0xD5AabeDA88c31858E5f60905185f8697bE185e55",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
       ]
     },
     {
@@ -60511,6 +64788,16 @@
       ]
     },
     {
+      "name": "YT rsETH 27JUN2024",
+      "symbol": "YT-rsETH-27JUN2024",
+      "address": "0xDA53c73a28dfF704Fe757b8B4f6f6359707533Da",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "ZeroTwOhm",
       "symbol": "Z2O",
       "address": "0xdb96f8efd6865644993505318cc08FF9C42fb9aC",
@@ -60525,6 +64812,26 @@
       "name": "xETH-USDC05",
       "symbol": "xETH-USDC05",
       "address": "0xdbD82A83eae485EB589f56A7c20F440AeC952D1d",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "YT weETH 27JUN2024",
+      "symbol": "YT-weETH-27JUN2024",
+      "address": "0xDcdC1004d5C271ADc048982d7EB900cC4F472333",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "SY ARB-GRAIL_Camelot",
+      "symbol": "SY-ARB-GRAIL_Camelot",
+      "address": "0xdd4C7313Fe4C92e043B9B7dFE433e239BcD05A0D",
       "decimals": 18,
       "chainId": 42161,
       "providers": [
@@ -60547,6 +64854,16 @@
       "name": "xGNS-USDC05",
       "symbol": "xGNS-USDC05",
       "address": "0xdFE710f59416e0168cd3c86EF0999deb0acb28Ce",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0xE11f9786B06438456b044B3E21712228ADcAA0D1",
       "decimals": 18,
       "chainId": 42161,
       "providers": [
@@ -60582,7 +64899,18 @@
       "chainId": 42161,
       "providers": [
         "balmy",
-        "defillama"
+        "defillama",
+        "yearn"
+      ]
+    },
+    {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0xe59A37F7F5263aA8cb5155AF3498ba01CC2c394B",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
       ]
     },
     {
@@ -60621,6 +64949,16 @@
       ]
     },
     {
+      "name": "YT rETH 26JUN2025",
+      "symbol": "YT-rETH-26JUN2025",
+      "address": "0xe822AE44EB2466B4E263b1cbC94b4833dDEf9700",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "xWETH-noiseGPT3",
       "symbol": "xWETH-noiseGPT3",
       "address": "0xEa5abd5d15B8CD168e9eFf78047DB52aF079e094",
@@ -60639,7 +64977,8 @@
       "chainId": 42161,
       "providers": [
         "defillama",
-        "sushiswap"
+        "sushiswap",
+        "yearn"
       ]
     },
     {
@@ -60669,6 +65008,16 @@
       ]
     },
     {
+      "name": "SY GLP",
+      "symbol": "SY-GLP",
+      "address": "0xED0dC8C074255c277BC704D6b096167D7a6E4311",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "ArbiNYAN",
       "symbol": "nyan",
       "address": "0xed3fb761414da74b74f33e5c5a1f78104b188dfc",
@@ -60678,6 +65027,16 @@
       "providers": [
         "defillama",
         "sushiswap"
+      ]
+    },
+    {
+      "name": "YT Kyber Position SY 26DEC2024",
+      "symbol": "YT-KPSY-26DEC2024",
+      "address": "0xEd9CEB9EB4DD78cA412A72F5D84b527F9176E87D",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
       ]
     },
     {
@@ -60748,6 +65107,16 @@
       ]
     },
     {
+      "name": "PT MUXLP 28MAR2024",
+      "symbol": "PT-MUXLP-28MAR2024",
+      "address": "0xF0A219e14D4c058022A828b16Af9888b143ab5aD",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "Unbound Dollar",
       "symbol": "UND",
       "address": "0xf0a562bee81f674e0c5486c9716060f4cd5ef944",
@@ -60767,6 +65136,26 @@
       "chainId": 42161,
       "providers": [
         "sushiswap"
+      ]
+    },
+    {
+      "name": "SY rsETH",
+      "symbol": "SY-rsETH",
+      "address": "0xf176fB51F4eB826136a54FDc71C50fCd2202E272",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "SY HLP",
+      "symbol": "SY-HLP",
+      "address": "0xF18011766Cf11D905e93ed5626838d44c7FA14B7",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
       ]
     },
     {
@@ -60804,6 +65193,46 @@
       ]
     },
     {
+      "name": "YT weETH 25APR2024",
+      "symbol": "YT-weETH-25APR2024",
+      "address": "0xF28Db483773E3616DA91FDfa7b5D4090Ac40cC59",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "YT wstETH 26JUN2025",
+      "symbol": "YT-wstETH-26JUN2025",
+      "address": "0xf2D4Fb0c2064d3dCa388FE007579295a124Ab03a",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "YT MUXLP 28MAR2024",
+      "symbol": "YT-MUXLP-28MAR2024",
+      "address": "0xf31B528d724354575c0c65Ab17D6dEcde29d2900",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "YT Ethena USDe 29AUG2024",
+      "symbol": "YT-USDe-29AUG2024",
+      "address": "0xF478f7FeaeAB0DFdC91E02cDd6C63c66E30a7335",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "Cream",
       "symbol": "cream",
       "address": "0xf4d48ce3ee1ac3651998971541badbb9a14d7234",
@@ -60824,6 +65253,16 @@
       "chainId": 42161,
       "providers": [
         "sushiswap"
+      ]
+    },
+    {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0xf617792eA9Dceb2208F4C440258B21d2f3FdB9A3",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
       ]
     },
     {
@@ -60875,6 +65314,16 @@
       "name": "xGNS-USDC05",
       "symbol": "xGNS-USDC05",
       "address": "0xF83d5F96fB4715D4E52359089fA3e4D7C7C32298",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
+      "name": "YT GLP 26SEP2024",
+      "symbol": "YT-GLP-26SEP2024",
+      "address": "0xf875f32648BE14d04e0Df4a977Afd4290DD92713",
       "decimals": 18,
       "chainId": 42161,
       "providers": [
@@ -60961,7 +65410,18 @@
       "providers": [
         "defillama",
         "sushiswap",
+        "yearn",
         "arbitrum1inch"
+      ]
+    },
+    {
+      "name": "YT Kyber Elastic axlWstEth-wstETH 28MAR2024",
+      "symbol": "YT-Kyber Elastic axlWstEth-wstETH-28MAR2024",
+      "address": "0xFafA2b178cB40Ac28E034548D9ba6085bcc5CA28",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
       ]
     },
     {
@@ -61023,6 +65483,16 @@
         "sushiswap",
         "yearn",
         "arbitrum1inch"
+      ]
+    },
+    {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0xFd8AeE8FCC10aac1897F8D5271d112810C79e022",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
       ]
     },
     {
@@ -64891,16 +69361,6 @@
       ]
     },
     {
-      "name": "CRYSTAL",
-      "symbol": "CRYSTAL",
-      "address": "0x21d624c846725ABe1e1e7d662E9fB274999009Aa",
-      "decimals": 18,
-      "chainId": 59144,
-      "providers": [
-        "liquest"
-      ]
-    },
-    {
       "name": "Stargate Ether Vault",
       "symbol": "SGETH",
       "address": "0x224D8Fd7aB6AD4c6eb4611Ce56EF35Dec2277F03",
@@ -65118,14 +69578,13 @@
       ]
     },
     {
-      "name": "USD Coin",
-      "symbol": "USDC",
-      "address": "0x66627F389ae46D881773B7131139b2411980E09E",
+      "name": "DeBridge USD Coin",
+      "symbol": "deUSDC",
+      "address": "0x66627f389ae46d881773b7131139b2411980e09e",
       "logoURI": "https://storage.googleapis.com/ks-setting-1d682dca/44d6b1c5-c974-4476-8b0e-fbfde81c2a00.png",
       "decimals": 6,
       "chainId": 59144,
       "providers": [
-        "liquest",
         "kyberswapLinea"
       ]
     },
