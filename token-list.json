@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2024-04-09T00:02:10.061Z",
+  "timestamp": "2024-04-10T00:02:12.013Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -5691,10 +5691,10 @@
       "chainId": 100
     },
     {
-      "name": "BUSD",
+      "name": "Bridged BUSD",
       "symbol": "busd",
       "address": "0xdd96b45877d0e8361a4ddb732da741e97f3191ff",
-      "logoURI": "https://assets.coingecko.com/coins/images/9576/thumb/BUSD.png?1568947766",
+      "logoURI": "missing_thumb.png",
       "decimals": 18,
       "chainId": 100
     },
@@ -10023,6 +10023,14 @@
       "symbol": "STELLA",
       "address": "0x0e358838ce72d5e61e0018a2ffac4bec5f4c88d2",
       "logoURI": "ipfs://QmZC7Kxmq2MLXLa6dNSeupjya4FU8UzE7KSc1DrYzp2Fzp",
+      "decimals": 18,
+      "chainId": 1284
+    },
+    {
+      "name": "Moonwell",
+      "symbol": "WELL",
+      "address": "0x511ab53f793683763e5a8829738301368a2411e3",
+      "logoURI": "ipfs://QmcWohKeJmBPUZ9AGESLK7kPkwC4JUKFBLv1BQ4z1N4UnW",
       "decimals": 18,
       "chainId": 1284
     },
