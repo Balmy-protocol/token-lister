@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2024-04-10T00:02:12.013Z",
+  "timestamp": "2024-04-11T00:02:04.063Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -424,6 +424,14 @@
       "symbol": "GHST",
       "address": "0x3F382DbD960E3a9bbCeaE22651E88158d2791550",
       "logoURI": "ipfs://QmUCWFeBPLnfit9f2imypkhQnduj9T23dV5ngRsXsqBHUX",
+      "decimals": 18,
+      "chainId": 1
+    },
+    {
+      "name": "GHO",
+      "symbol": "gho",
+      "address": "0x40d16fc0246ad3160ccc09b8d0d3a2cd28ae6c2f",
+      "logoURI": "https://assets.coingecko.com/coins/images/30663/thumb/ghoaave.jpeg?1686151372",
       "decimals": 18,
       "chainId": 1
     },
@@ -10643,6 +10651,14 @@
       "chainId": 7000
     },
     {
+      "name": "Staked ZETA",
+      "symbol": "stZETA",
+      "address": "0x45334a5B0a01cE6C260f2B570EC941C680EA62c0",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/zetachain/0x45334a5B0a01cE6C260f2B570EC941C680EA62c0.jpg",
+      "decimals": 18,
+      "chainId": 7000
+    },
+    {
       "name": "Wrapped Zeta",
       "symbol": "WZETA",
       "address": "0x5F0b1a82749cb4E2278EC87F8BF6B618dC71a8bf",
@@ -11101,6 +11117,14 @@
       "name": "Volatile AMM - EXTRA/USDbC",
       "symbol": "vAMM-EXTRA/USDbC",
       "address": "0x2B7704f1cb9324cD8586B33C6c540CbD64E58237",
+      "decimals": 18,
+      "chainId": 8453
+    },
+    {
+      "name": "Magnate Finance",
+      "symbol": "MAG",
+      "address": "0x2DC1cDa9186a4993bD36dE60D08787c0C382BEAD",
+      "logoURI": "https://assets.odos.xyz/tokens/MAG.webp",
       "decimals": 18,
       "chainId": 8453
     },
@@ -15228,6 +15252,126 @@
       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/dai.jpg",
       "decimals": 18,
       "chainId": 80001
+    },
+    {
+      "name": "P@cman Blastoff",
+      "symbol": "$PACM",
+      "address": "0x0B4d0ee29857c3961b380d4ec138EA5814E346b9",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/blast/0x0B4d0ee29857c3961b380d4ec138EA5814E346b9.jpg",
+      "decimals": 18,
+      "chainId": 81457
+    },
+    {
+      "name": "Pump",
+      "symbol": "PUMP",
+      "address": "0x216A5a1135A9dab49FA9Ad865E0f22FE22b5630A",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/blast/0x216A5a1135A9dab49FA9Ad865E0f22FE22b5630A.jpg",
+      "decimals": 18,
+      "chainId": 81457
+    },
+    {
+      "name": "Dog Wif Blast",
+      "symbol": "WIF",
+      "address": "0x2Ef6EE4884892b15DfCF53B33ed139FEF6141A49",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/blast/0x2Ef6EE4884892b15DfCF53B33ed139FEF6141A49.jpg",
+      "decimals": 18,
+      "chainId": 81457
+    },
+    {
+      "name": "Blast Inu",
+      "symbol": "BINU",
+      "address": "0x34050224F9eA1859790b7CBBBe2264f1204771A6",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/blast/0x34050224F9eA1859790b7CBBBe2264f1204771A6.jpg",
+      "decimals": 9,
+      "chainId": 81457
+    },
+    {
+      "name": "Orbit Protocol",
+      "symbol": "ORBIT",
+      "address": "0x42E12D42b3d6C4A74a88A61063856756Ea2DB357",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/blast/0x42E12D42b3d6C4A74a88A61063856756Ea2DB357.jpg",
+      "decimals": 18,
+      "chainId": 81457
+    },
+    {
+      "name": "USD Blast",
+      "symbol": "USDB",
+      "address": "0x4300000000000000000000000000000000000003",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/blast/0x4300000000000000000000000000000000000003.jpg",
+      "decimals": 18,
+      "chainId": 81457
+    },
+    {
+      "name": "Wrapped ETH",
+      "symbol": "WETH",
+      "address": "0x4300000000000000000000000000000000000004",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/blast/0x4300000000000000000000000000000000000004.jpg",
+      "decimals": 18,
+      "chainId": 81457
+    },
+    {
+      "name": "BlastDEX",
+      "symbol": "BD",
+      "address": "0x60701c37Cd9Fed322dDe7c17Dc1e356f09a35B88",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/blast/0x60701c37Cd9Fed322dDe7c17Dc1e356f09a35B88.jpg",
+      "decimals": 18,
+      "chainId": 81457
+    },
+    {
+      "name": "Monoswap USD",
+      "symbol": "MUSD",
+      "address": "0x837fE561e9C5DFa73F607fDa679295DBC2Be5E40",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/blast/0x837fE561e9C5DFa73F607fDa679295DBC2Be5E40.jpg",
+      "decimals": 18,
+      "chainId": 81457
+    },
+    {
+      "name": "Dyor",
+      "symbol": "Dyor",
+      "address": "0x84fC0e1Dca50cF341B497A56f843d4dD7d818B84",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/blast/0x84fC0e1Dca50cF341B497A56f843d4dD7d818B84.jpg",
+      "decimals": 18,
+      "chainId": 81457
+    },
+    {
+      "name": "BlastCat",
+      "symbol": "BCat",
+      "address": "0x9bD75c164dAf830733AC2EA71A0258f95aac7C57",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/blast/0x9bD75c164dAf830733AC2EA71A0258f95aac7C57.jpg",
+      "decimals": 18,
+      "chainId": 81457
+    },
+    {
+      "name": "Mia",
+      "symbol": "MIA",
+      "address": "0xA4C7aA67189EC5623121c6C94Ec757DfeD932D4B",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/blast/0xA4C7aA67189EC5623121c6C94Ec757DfeD932D4B.jpg",
+      "decimals": 18,
+      "chainId": 81457
+    },
+    {
+      "name": "Blast Pepe",
+      "symbol": "BEPE",
+      "address": "0xB582Dc28968c725D2868130752aFa0c13EbF9b1a",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/blast/0xB582Dc28968c725D2868130752aFa0c13EbF9b1a.jpg",
+      "decimals": 18,
+      "chainId": 81457
+    },
+    {
+      "name": "SwapBlast Finance Token",
+      "symbol": "SBF",
+      "address": "0xd07379a755A8f11B57610154861D694b2A0f615a",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/blast/0xd07379a755A8f11B57610154861D694b2A0f615a.jpg",
+      "decimals": 18,
+      "chainId": 81457
+    },
+    {
+      "name": "Andy",
+      "symbol": "ANDY",
+      "address": "0xd43D8aDAC6A4C7d9Aeece7c3151FcA8f23752cf8",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/blast/0xd43D8aDAC6A4C7d9Aeece7c3151FcA8f23752cf8.jpg",
+      "decimals": 9,
+      "chainId": 81457
     },
     {
       "name": "Mean Finance",
