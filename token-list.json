@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2024-04-13T00:01:48.544Z",
+  "timestamp": "2024-04-14T00:02:58.509Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -232,6 +232,14 @@
       "symbol": "yeth",
       "address": "0x1bed97cbc3c24a4fb5c069c6e311a967386131f7",
       "logoURI": "https://assets.coingecko.com/coins/images/32220/thumb/eth_%281%29.png?1696833748",
+      "decimals": 18,
+      "chainId": 1
+    },
+    {
+      "name": "Tower",
+      "symbol": "tower",
+      "address": "0x1c9922314ed1415c95b9fd453c3818fd41867d0b",
+      "logoURI": "https://assets.coingecko.com/coins/images/14134/thumb/tower-circular-1000.png?1632195469",
       "decimals": 18,
       "chainId": 1
     },
@@ -11269,14 +11277,6 @@
       "symbol": "NFI",
       "address": "0x60359A0DD148B18d5cF1Ddf8Aa1916221ED0cbCd",
       "logoURI": "https://assets.odos.xyz/tokens/NFI.webp",
-      "decimals": 18,
-      "chainId": 8453
-    },
-    {
-      "name": "izumi Token",
-      "symbol": "iZi",
-      "address": "0x60D01EC2D5E98Ac51C8B4cF84DfCCE98D527c747",
-      "logoURI": "https://assets.odos.xyz/tokens/iZi.webp",
       "decimals": 18,
       "chainId": 8453
     },
