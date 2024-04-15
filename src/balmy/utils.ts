@@ -9,10 +9,26 @@ export function unifyTokenData(
     name: filteredTokens.find((t) => t.name != undefined)?.name,
     symbol: filteredTokens.find((t) => t.symbol != undefined)?.symbol,
     address: filteredTokens.find((t) => t.address != undefined)?.address,
-    logoURI: filteredTokens.find((t) => t.logoURI != undefined)?.logoURI,
+    logoURI: filteredTokens
+      .sort(sortLogoURI)
+      .find((t) => t.logoURI != undefined)?.logoURI,
     decimals: filteredTokens.find((t) => t.decimals != undefined)?.decimals,
     chainId: chainId,
   };
+}
+
+function sortLogoURI(t1: any, t2: any): number {
+  const ipfsRegex = /^ipfs:\/\/(.*)/;
+  const svgRegex = /\.svg$/;
+  const pngRegex = /\.png$/;
+
+  if (ipfsRegex.test(t1.logoURI)) return -1;
+  if (ipfsRegex.test(t2.logoURI)) return 1;
+  if (svgRegex.test(t1.logoURI)) return -1;
+  if (svgRegex.test(t2.logoURI)) return 1;
+  if (pngRegex.test(t1.logoURI)) return -1;
+  if (pngRegex.test(t2.logoURI)) return 1;
+  return 0;
 }
 
 export function isCompleteToken(token: TokenData) {
