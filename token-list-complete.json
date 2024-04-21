@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List - complete version",
   "description": "A list of tokens from all the token lists on Balmy",
-  "timestamp": "2024-04-20T02:11:07.216Z",
+  "timestamp": "2024-04-21T00:01:58.637Z",
   "tokens": [
     {
       "name": "Ether",
@@ -14159,13 +14159,12 @@
     },
     {
       "name": "Flashstake",
-      "symbol": "flash",
-      "address": "0xb1f1f47061a7be15c69f378cb3f69423bd58f2f8",
+      "symbol": "FLASH",
+      "address": "0xB1f1F47061A7Be15C69f378CB3f69423bD58F2F8",
       "logoURI": "https://ethereum-optimism.github.io/data/FLASH/logo.svg",
       "decimals": 18,
       "chainId": 1,
       "providers": [
-        "defillama",
         "optimism"
       ]
     },
@@ -52545,6 +52544,16 @@
       ]
     },
     {
+      "name": "Horizon",
+      "symbol": "HZN",
+      "address": "0x081AD949deFe648774C3B8deBe0E4F28a80716dc",
+      "decimals": 18,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
       "name": "Gamestop",
       "symbol": "GME ",
       "address": "0x08514EDb7acE10661210047e14f7e51F07E0EB02",
@@ -52903,16 +52912,6 @@
       "name": "BaseFrog",
       "symbol": "BFROG",
       "address": "0x1308aE20E66E43D575a76B5Dfb30771a50C9256a",
-      "decimals": 18,
-      "chainId": 8453,
-      "providers": [
-        "liquest"
-      ]
-    },
-    {
-      "name": "1337",
-      "symbol": "1337",
-      "address": "0x133700df3eB94cE8B6aA86fED9E85BC18Db37Da5",
       "decimals": 18,
       "chainId": 8453,
       "providers": [
@@ -53432,16 +53431,6 @@
       "name": "BlueBalls",
       "symbol": "$BALLS",
       "address": "0x200b4D65faB66692EE71b7aaF9877238ad3E8D02",
-      "decimals": 18,
-      "chainId": 8453,
-      "providers": [
-        "liquest"
-      ]
-    },
-    {
-      "name": "Alien King",
-      "symbol": "ALK",
-      "address": "0x20Bb241648fCd09892F86DFD1DBF53c827Eb26ea",
       "decimals": 18,
       "chainId": 8453,
       "providers": [
@@ -55614,16 +55603,6 @@
       ]
     },
     {
-      "name": "SNEK",
-      "symbol": "SNEK",
-      "address": "0x548E3Ea93E61F04b01353937dD25f30DC331E5d1",
-      "decimals": 18,
-      "chainId": 8453,
-      "providers": [
-        "liquest"
-      ]
-    },
-    {
       "name": "BMX",
       "symbol": "BMX",
       "address": "0x548f93779fBC992010C07467cBaf329DD5F059B7",
@@ -55938,6 +55917,16 @@
       ]
     },
     {
+      "name": "Runes",
+      "symbol": "RUNES",
+      "address": "0x5bE28fd684B5DaD3aD16BCFE61fEfa749Aad9c84",
+      "decimals": 18,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
       "name": "APED",
       "symbol": "APED",
       "address": "0x5bF91A8A51A76864374117A758487C0A25e4A2f1",
@@ -56213,6 +56202,16 @@
       "providers": [
         "liquest",
         "odosBase"
+      ]
+    },
+    {
+      "name": "Lisan al Gaib",
+      "symbol": "GCR",
+      "address": "0x639E0A27619D897F98E417f86949388eE11c8285",
+      "decimals": 18,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
       ]
     },
     {
@@ -56802,6 +56801,16 @@
       ]
     },
     {
+      "name": "Uniswap V2",
+      "symbol": "UNI-V2",
+      "address": "0x74E85533B189179515c7187cdc88BBfd8F357143",
+      "decimals": 18,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
       "name": "USD Coin Hop Token",
       "symbol": "hUSDC",
       "address": "0x74fa978EaFFa312bC92e76dF40FcC1bFE7637Aeb",
@@ -56835,6 +56844,16 @@
       "name": "PLEB",
       "symbol": "PLEB",
       "address": "0x76Baa16FF15D61d32E6B3576c3a8C83A25C2F180",
+      "decimals": 18,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
+      "name": "POLA",
+      "symbol": "POLA",
+      "address": "0x76E7447bafa3f0aCAFc9692629b1D1BC937Ca15d",
       "decimals": 18,
       "chainId": 8453,
       "providers": [
@@ -57248,6 +57267,16 @@
       ]
     },
     {
+      "name": "Based Heist",
+      "symbol": "HEIST",
+      "address": "0x7FAf6444D2b2d9F2975E8bB71e80Aff930d2fDD1",
+      "decimals": 9,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
       "name": "BaseSwap LPs",
       "symbol": "BSWAP-LP",
       "address": "0x7fea0384F38EF6Ae79bB12295a9e10C464204F52",
@@ -57652,6 +57681,16 @@
       "name": "$SPAM",
       "symbol": "SPAM",
       "address": "0x89Ca325bd05f851b2B91b3e9fb2d15A59d3D82C6",
+      "decimals": 18,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
+      "name": "CRAZY FROG",
+      "symbol": "FROG",
+      "address": "0x89Eb6680C8D85d384C02059e4b07E4Dd8535e549",
       "decimals": 18,
       "chainId": 8453,
       "providers": [
@@ -58361,6 +58400,16 @@
       ]
     },
     {
+      "name": "Based Monkey Puppet",
+      "symbol": "PUPPET",
+      "address": "0x9adC7d8CE9794BDE345851629e76919590aE9A7c",
+      "decimals": 18,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
       "name": "Uniswap V2",
       "symbol": "UNI-V2",
       "address": "0x9bFA0c016B6C96ad1dDFE3337d88728Ae8a4953a",
@@ -58570,6 +58619,16 @@
       "name": "Based Theft Auto",
       "symbol": "BTA",
       "address": "0xA1B1652222F8E9dC6f359B021d8E87e355cC8Fdd",
+      "decimals": 9,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
+      "name": "jelli",
+      "symbol": "JELLI",
+      "address": "0xA1b9d812926a529D8B002E69FCd070c8275eC73c",
       "decimals": 9,
       "chainId": 8453,
       "providers": [
@@ -59104,6 +59163,16 @@
       ]
     },
     {
+      "name": "Brian Wif Base",
+      "symbol": "BIB",
+      "address": "0xb3c11d95dF2b8bB840cd39e7a0Df6BE1d4016582",
+      "decimals": 18,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
       "name": "SushiSwap LP Token",
       "symbol": "SLP",
       "address": "0xb463CD276809d9B2C3E182ADA5A22Cf7215a838d",
@@ -59397,6 +59466,16 @@
       "symbol": "BENJI",
       "address": "0xBC45647eA894030a4E9801Ec03479739FA2485F0",
       "decimals": 18,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
+      "name": "BluePEPE",
+      "symbol": "BluePEPE",
+      "address": "0xBc7Df28e6017341933704B2e1147d5bC18D8B82c",
+      "decimals": 9,
       "chainId": 8453,
       "providers": [
         "liquest"
@@ -59779,6 +59858,16 @@
       ]
     },
     {
+      "name": "Uniswap V2",
+      "symbol": "UNI-V2",
+      "address": "0xc61c3ccF65AD82270e2eBa667b83eed879d78874",
+      "decimals": 18,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
       "name": "Fuck Around & Find Out",
       "symbol": "FAFO",
       "address": "0xc678380Ca346440017D7fd9AaF83D78550056F55",
@@ -59793,6 +59882,16 @@
       "symbol": "XANAX",
       "address": "0xC68C24048BCb66a19cF0420579F2bE4498Cb0927",
       "decimals": 18,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
+      "name": "RAFL",
+      "symbol": "RAFL",
+      "address": "0xC702b80a1bEBac118cab22Ce6F2978ef59563b3F",
+      "decimals": 8,
       "chainId": 8453,
       "providers": [
         "liquest"
@@ -61014,6 +61113,26 @@
       ]
     },
     {
+      "name": "Doge on Based",
+      "symbol": "BDOGE",
+      "address": "0xEB57F08728e0aaB831990487CAf2E728F5BFaB22",
+      "decimals": 9,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
+      "name": "404Skin",
+      "symbol": "404Skin",
+      "address": "0xeB819227345bC36C63D746638BaAfE636D7c4c31",
+      "decimals": 18,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
       "name": "ChompCoin",
       "symbol": "CHOMP",
       "address": "0xebfF2db643Cf955247339c8c6bCD8406308ca437",
@@ -61542,16 +61661,6 @@
       "name": "Spire Ai",
       "symbol": "SPIRE ",
       "address": "0xfDaA3FA1B956Ee131dB1A5ECe054832298d9d378",
-      "decimals": 18,
-      "chainId": 8453,
-      "providers": [
-        "liquest"
-      ]
-    },
-    {
-      "name": "Let Him Cook",
-      "symbol": "LETHIM",
-      "address": "0xfe2A79673C713852Da022E4602Ac339a9ef2E32b",
       "decimals": 18,
       "chainId": 8453,
       "providers": [
@@ -66645,13 +66754,12 @@
     },
     {
       "name": "Flashstake",
-      "symbol": "flash",
+      "symbol": "FLASH",
       "address": "0xc628534100180582e43271448098cb2c185795bd",
       "logoURI": "https://tokens.1inch.io/0xc628534100180582e43271448098cb2c185795bd.png",
       "decimals": 18,
       "chainId": 42161,
       "providers": [
-        "defillama",
         "arbitrum1inch"
       ]
     },
@@ -71923,16 +72031,6 @@
       "name": "StargateToken",
       "symbol": "STG",
       "address": "0x808d7c71ad2ba3FA531b068a2417C63106BC0949",
-      "decimals": 18,
-      "chainId": 59144,
-      "providers": [
-        "liquest"
-      ]
-    },
-    {
-      "name": "Roxy",
-      "symbol": "ROXY",
-      "address": "0x85C2160b06D48C8B6F5ea5bAFb1a3137ee620784",
       "decimals": 18,
       "chainId": 59144,
       "providers": [
