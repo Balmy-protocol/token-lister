@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2024-04-23T00:02:23.612Z",
+  "timestamp": "2024-04-24T00:02:10.920Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -616,6 +616,14 @@
       "symbol": "ldo",
       "address": "0x5a98fcbea516cf06857215779fd812ca3bef1b32",
       "logoURI": "https://ethereum-optimism.github.io/data/LDO/logo.svg",
+      "decimals": 18,
+      "chainId": 1
+    },
+    {
+      "name": "Safe",
+      "symbol": "safe",
+      "address": "0x5afe3855358e112b5647b952709e6165e1c1eeee",
+      "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/1/0x5afe3855358e112b5647b952709e6165e1c1eeee/logo.png",
       "decimals": 18,
       "chainId": 1
     },
@@ -3772,7 +3780,7 @@
     },
     {
       "name": "Gomining Token",
-      "symbol": "gmt",
+      "symbol": "gomining",
       "address": "0x7ddc52c4de30e94be3a6a0a2b259b2850f421989",
       "logoURI": "https://tokens.1inch.io/0x7ddc52c4de30e94be3a6a0a2b259b2850f421989.png",
       "decimals": 18,

@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List - complete version",
   "description": "A list of tokens from all the token lists on Balmy",
-  "timestamp": "2024-04-23T00:02:23.629Z",
+  "timestamp": "2024-04-24T00:02:10.937Z",
   "tokens": [
     {
       "name": "Ether",
@@ -1454,6 +1454,16 @@
       "chainId": 1,
       "providers": [
         "optimism"
+      ]
+    },
+    {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0x107a2e3cD2BB9a32B9eE2E4d51143149F8367eBa",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
       ]
     },
     {
@@ -7343,13 +7353,14 @@
       ]
     },
     {
-      "name": "Safe Token",
-      "symbol": "SAFE",
-      "address": "0x5aFE3855358E112B5647B952709E6165e1c1eEEe",
+      "name": "Safe",
+      "symbol": "safe",
+      "address": "0x5afe3855358e112b5647b952709e6165e1c1eeee",
       "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/1/0x5afe3855358e112b5647b952709e6165e1c1eeee/logo.png",
       "decimals": 18,
       "chainId": 1,
       "providers": [
+        "defillama",
         "sushiswap",
         "cowswap"
       ]
@@ -7721,12 +7732,13 @@
     },
     {
       "name": "Noggles",
-      "symbol": "NOGS",
+      "symbol": "nogs",
       "address": "0x5fa20d59d2a907e5fed9fb80b4a8d9f0d069a48d",
       "logoURI": "https://ethereum-optimism.github.io/data/NOGS/logo.png",
       "decimals": 18,
       "chainId": 1,
       "providers": [
+        "defillama",
         "optimism"
       ]
     },
@@ -8123,13 +8135,12 @@
     },
     {
       "name": "Kanpeki",
-      "symbol": "kae",
-      "address": "0x65def5029a0e7591e46b38742bfedd1fb7b24436",
+      "symbol": "KAE",
+      "address": "0x65Def5029A0e7591e46B38742bFEdd1Fb7b24436",
       "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x65Def5029A0e7591e46B38742bFEdd1Fb7b24436/logo.png",
       "decimals": 18,
       "chainId": 1,
       "providers": [
-        "defillama",
         "sushiswap"
       ]
     },
@@ -15876,6 +15887,16 @@
       ]
     },
     {
+      "name": "SY Ethena sUSDE",
+      "symbol": "SY-sUSDE",
+      "address": "0xC4ed348c56223C5953939e932E315F9d72Cd83fF",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "Hop Protocol",
       "symbol": "hop",
       "address": "0xc5102fe9359fd9a28f877a67e36b0f050d81a3cc",
@@ -17336,6 +17357,16 @@
       "providers": [
         "defillama",
         "sushiswap"
+      ]
+    },
+    {
+      "name": "PT Ethena sUSDE 25JUL2024",
+      "symbol": "PT-sUSDE-25JUL2024",
+      "address": "0xd810362556296c834E30C9A61d8e21a5cf29eAb4",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
+        "yearn"
       ]
     },
     {
@@ -19547,6 +19578,16 @@
       "chainId": 1,
       "providers": [
         "defillama",
+        "yearn"
+      ]
+    },
+    {
+      "name": "YT Ethena sUSDE 25JUL2024",
+      "symbol": "YT-sUSDE-25JUL2024",
+      "address": "0xf65CD2460F4F199C5AC09c74Ac05c40559C29e4F",
+      "decimals": 18,
+      "chainId": 1,
+      "providers": [
         "yearn"
       ]
     },
@@ -29871,7 +29912,7 @@
     },
     {
       "name": "Gomining Token",
-      "symbol": "gmt",
+      "symbol": "gomining",
       "address": "0x7ddc52c4de30e94be3a6a0a2b259b2850f421989",
       "logoURI": "https://tokens.1inch.io/0x7ddc52c4de30e94be3a6a0a2b259b2850f421989.png",
       "decimals": 18,
@@ -47228,13 +47269,12 @@
     },
     {
       "name": "Kanpeki",
-      "symbol": "kae",
+      "symbol": "KAE",
       "address": "0x65def5029a0e7591e46b38742bfedd1fb7b24436",
       "logoURI": "https://tokens.1inch.io/0x65def5029a0e7591e46b38742bfedd1fb7b24436.png",
       "decimals": 18,
       "chainId": 250,
       "providers": [
-        "defillama",
         "fantom1inch"
       ]
     },
@@ -52860,16 +52900,6 @@
       ]
     },
     {
-      "name": "Cthulhu Gaming",
-      "symbol": "CTHULHU",
-      "address": "0x11f341aA990FaE5C7A48C1d47a84B6011063E18f",
-      "decimals": 18,
-      "chainId": 8453,
-      "providers": [
-        "liquest"
-      ]
-    },
-    {
       "name": "Uniswap V2",
       "symbol": "UNI-V2",
       "address": "0x120b7fE3d7501501D6fbbAdC536261fE4E156cC6",
@@ -53024,10 +53054,30 @@
       ]
     },
     {
+      "name": "Base Lord",
+      "symbol": "BORD",
+      "address": "0x160452f95612699D1a561A70EEEeeDe67c6812af",
+      "decimals": 18,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
       "name": "based morning",
       "symbol": "bm",
       "address": "0x160F7692e76cb4fa1F69d76F05519CE7709F08b9",
       "decimals": 8,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
+      "name": "DORK LORD",
+      "symbol": "DORKL",
+      "address": "0x167E49f02c3F041226F6cbe5eBFf1858FaB1713f",
+      "decimals": 9,
       "chainId": 8453,
       "providers": [
         "liquest"
@@ -54975,6 +55025,16 @@
       ]
     },
     {
+      "name": "Dewn",
+      "symbol": "DEWN",
+      "address": "0x43e94BD32ac8E57a6009cDE6790d95761120D4E9",
+      "decimals": 18,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
       "name": "RData",
       "symbol": "RDAT",
       "address": "0x4498cd8Ba045E00673402353f5a4347562707e7D",
@@ -55368,6 +55428,16 @@
       "name": "Super USD Base Coin",
       "symbol": "USDbCx",
       "address": "0x4dB26C973FaE52f43Bd96A8776C2bf1b0DC29556",
+      "decimals": 18,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
+      "name": "Bepsi",
+      "symbol": "BEPSI",
+      "address": "0x4Dc2F7747E5f8D3014a94444ae65AdD7d2a6bAF4",
       "decimals": 18,
       "chainId": 8453,
       "providers": [
@@ -56832,16 +56902,6 @@
       ]
     },
     {
-      "name": "Runecoin",
-      "symbol": "RUNE",
-      "address": "0x72bFB198642EC7f2caFb1C4f3b035AC58044205C",
-      "decimals": 10,
-      "chainId": 8453,
-      "providers": [
-        "liquest"
-      ]
-    },
-    {
       "name": "Uniswap V2",
       "symbol": "UNI-V2",
       "address": "0x736a886A2f05435F48F7b8D35Ee03F957430c6c7",
@@ -56906,6 +56966,16 @@
       "symbol": "hUSDC",
       "address": "0x74fa978EaFFa312bC92e76dF40FcC1bFE7637Aeb",
       "decimals": 6,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
+      "name": "Based Bunny",
+      "symbol": "Bunny",
+      "address": "0x75570E1189fFC1d63B3417CdF0889F87cD3E9bD1",
+      "decimals": 18,
       "chainId": 8453,
       "providers": [
         "liquest"
@@ -57759,16 +57829,6 @@
       ]
     },
     {
-      "name": "Jesse",
-      "symbol": "$JESSE",
-      "address": "0x891B989E1375b1ea37f907c3d266122aEa35e46F",
-      "decimals": 18,
-      "chainId": 8453,
-      "providers": [
-        "liquest"
-      ]
-    },
-    {
       "name": "DOG WITH CHIPS",
       "symbol": "CHIPS",
       "address": "0x8951ac7DF197d12Ec54BaA77e991baAcE16958A2",
@@ -57912,16 +57972,6 @@
       "name": "Diamond Pickaxe",
       "symbol": "$DPICK",
       "address": "0x8Cf8899de080f2A63B6001716f49bC567b28c6B8",
-      "decimals": 18,
-      "chainId": 8453,
-      "providers": [
-        "liquest"
-      ]
-    },
-    {
-      "name": "Landwolf",
-      "symbol": "WOLF",
-      "address": "0x8D70e2C2cB0dD6a5F6670FCA157754e922B1E245",
       "decimals": 18,
       "chainId": 8453,
       "providers": [
@@ -58311,6 +58361,16 @@
       "symbol": "XEN",
       "address": "0x981D41C115a2d48Cb1215D13Bda8f989d407c9c5",
       "decimals": 18,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
+      "name": "KarratCoin On Base",
+      "symbol": "KARRAT",
+      "address": "0x982c8b77ef567Dafb4652fCcA1aEa294d372C2B3",
+      "decimals": 9,
       "chainId": 8453,
       "providers": [
         "liquest"
@@ -59344,16 +59404,6 @@
       ]
     },
     {
-      "name": "MORDECAI",
-      "symbol": "MORDE",
-      "address": "0xB2B7313428d205C594108DbC6EfecbD8Ea3D90af",
-      "decimals": 9,
-      "chainId": 8453,
-      "providers": [
-        "liquest"
-      ]
-    },
-    {
       "name": "Brian Wif Base",
       "symbol": "BIB",
       "address": "0xb3c11d95dF2b8bB840cd39e7a0Df6BE1d4016582",
@@ -59439,6 +59489,16 @@
       "symbol": "O404",
       "address": "0xB5C457dDB4cE3312a6C5a2b056a1652bd542a208",
       "decimals": 18,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
+      "name": "BOBO",
+      "symbol": "BOBO",
+      "address": "0xb5C65358ba679622B174b7b2d1e5FB18199aDb00",
+      "decimals": 9,
       "chainId": 8453,
       "providers": [
         "liquest"
@@ -60233,6 +60293,16 @@
       "name": "Based ETH",
       "symbol": "bsdETH",
       "address": "0xCb327b99fF831bF8223cCEd12B1338FF3aA322Ff",
+      "decimals": 18,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
+      "name": "Platzy",
+      "symbol": "PLATZY",
+      "address": "0xcB32aF13a5A526699B4Ca107551ffceEE0C41C4e",
       "decimals": 18,
       "chainId": 8453,
       "providers": [
@@ -61131,6 +61201,16 @@
       ]
     },
     {
+      "name": "Ski Mask Cat",
+      "symbol": "SKIC",
+      "address": "0xe48C3A357Dc4153bAEf2B86B7fF0d91837477A51",
+      "decimals": 8,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
       "name": "Giga Cat",
       "symbol": "gcat",
       "address": "0xE4fc328aE212232EFc5F5dd0e0b1537cd055d715",
@@ -61242,16 +61322,6 @@
       ]
     },
     {
-      "name": "Based Kermit",
-      "symbol": "KERMIT",
-      "address": "0xE9c25CA2877f134043015ac55F706818889Cd9E2",
-      "decimals": 18,
-      "chainId": 8453,
-      "providers": [
-        "liquest"
-      ]
-    },
-    {
       "name": "Yeti",
       "symbol": "YETI",
       "address": "0xea36fEc98e696C1049791E850E011A470169A091",
@@ -61348,16 +61418,6 @@
       "symbol": "SPF",
       "address": "0xEc201bA85202f8b479719B77504Cf786353AE31a",
       "decimals": 18,
-      "chainId": 8453,
-      "providers": [
-        "liquest"
-      ]
-    },
-    {
-      "name": "USD Coin",
-      "symbol": "USDC",
-      "address": "0xec267C53f53807c2337C257f8AC3Fc3cC07cc0ed",
-      "decimals": 6,
       "chainId": 8453,
       "providers": [
         "liquest"
@@ -61862,6 +61922,16 @@
       "name": "Spire Ai",
       "symbol": "SPIRE ",
       "address": "0xfDaA3FA1B956Ee131dB1A5ECe054832298d9d378",
+      "decimals": 18,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
+      "name": "StreamerInu",
+      "symbol": "STRM",
+      "address": "0xfE4717F60Ac5603dC6863700Cd8ECF805908688D",
       "decimals": 18,
       "chainId": 8453,
       "providers": [
