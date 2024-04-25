@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2024-04-24T00:02:10.920Z",
+  "timestamp": "2024-04-25T00:02:11.859Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -2244,7 +2244,7 @@
       "chainId": 30
     },
     {
-      "name": "Sovryn Mynt",
+      "name": "Mynt",
       "symbol": "MYNT",
       "address": "0x2e6b1d146064613e8f521eb3c6e65070af964ebb",
       "logoURI": "ipfs://Qme32pDGGFb1njJX6ySgVZy3ndMHrNy8YwmeYJ17YAAgjF",
@@ -2252,10 +2252,18 @@
       "chainId": 30
     },
     {
+      "name": "USDRIF",
+      "symbol": "USDRIF",
+      "address": "0x3A15461d8AE0f0Fb5fA2629e9dA7D66A794a6E37",
+      "logoURI": "https://rifonchain.com/wp-content/uploads/2023/08/USDRIF-2.svg",
+      "decimals": 18,
+      "chainId": 30
+    },
+    {
       "name": "BitPRO",
-      "symbol": "BITP",
+      "symbol": "BPRO",
       "address": "0x440cd83c160de5c96ddb20246815ea44c7abbca8",
-      "logoURI": "ipfs://QmQyaXiukFKXVCZhEYfYhotNtR1BZmjuC5LUHvKJuHYwow",
+      "logoURI": "ipfs://QmYEzpfgtGbScgRmf3ihMsRfgWhPW8pgcNq3PHW7YeQJqc",
       "decimals": 18,
       "chainId": 30
     },
@@ -2276,7 +2284,7 @@
       "chainId": 30
     },
     {
-      "name": "MOC",
+      "name": "Money on Chain",
       "symbol": "MOC",
       "address": "0x9ac7fe28967b30e3a4e6e03286d715b42b453d10",
       "logoURI": "ipfs://QmW9EMpHKY7uTdKivALXBcLNiH1LLAZbz2NoQenBxJeM8S",
@@ -2319,12 +2327,12 @@
       "name": "rUSDT",
       "symbol": "rUSDT",
       "address": "0xef213441a85df4d7acbdae0cf78004e1e486bb96",
-      "logoURI": "ipfs://QmRjAgrnBcnJWJqUWDvKMqHHmwSKLS8bhpuRMUqnjRV6ZC",
+      "logoURI": "ipfs://QmP2rfXa8kZRbdk5i9CJtW85FJNJj8B4JdDccS3jyLBjDv",
       "decimals": 18,
       "chainId": 30
     },
     {
-      "name": "Sovryn Token",
+      "name": "Sovryn",
       "symbol": "SOV",
       "address": "0xefc78fc7d48b64958315949279ba181c2114abbd",
       "logoURI": "ipfs://QmUpdb1zxtB2kUSjR1Qs1QMFPsSeZNkL21fMzGUfdjkXQA",
@@ -3219,7 +3227,7 @@
       "chainId": 56
     },
     {
-      "name": "SXP",
+      "name": "Solar",
       "symbol": "sxp",
       "address": "0x47bead2563dcbf3bf2c9407fea4dc236faba485a",
       "logoURI": "https://tokens.1inch.io/0x8ce9137d39326ad0cd6491fb5cc0cba0e089b6a9.png",
