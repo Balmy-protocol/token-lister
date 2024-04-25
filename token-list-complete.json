@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List - complete version",
   "description": "A list of tokens from all the token lists on Balmy",
-  "timestamp": "2024-04-25T00:02:11.876Z",
+  "timestamp": "2024-04-25T18:19:36.364Z",
   "tokens": [
     {
       "name": "Ether",
@@ -4889,13 +4889,12 @@
     },
     {
       "name": "ETH Coin",
-      "symbol": "ethc",
-      "address": "0x3c37577f1de12046aea6975862559a50d8f50158",
-      "logoURI": "https://assets.coingecko.com/coins/images/31465/thumb/ETHC.jpeg?1692946752",
+      "symbol": "ETHC",
+      "address": "0x3c37577f1DE12046AEa6975862559a50d8f50158",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x3c37577f1DE12046AEa6975862559a50d8f50158.jpg",
       "decimals": 18,
       "chainId": 1,
       "providers": [
-        "defillama",
         "sushiswap"
       ]
     },
@@ -46348,17 +46347,6 @@
       ]
     },
     {
-      "name": "Beets Tarot Boosted Pool (MAI)",
-      "symbol": "bb-t-MAI",
-      "address": "0x230112fa4b07234769fc92bd616c8c77f4fe0e53",
-      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/bb-t-mai.svg",
-      "decimals": 18,
-      "chainId": 250,
-      "providers": [
-        "balmy"
-      ]
-    },
-    {
       "name": "DexBrowser",
       "symbol": "bro",
       "address": "0x230576a0455d7ae33c6defe64182c0bb68bafaf3",
@@ -46569,17 +46557,6 @@
       ]
     },
     {
-      "name": "Beets Yearn Boosted Pool (DAI)",
-      "symbol": "bb-yv-DAI",
-      "address": "0x2ff1552dd09f87d6774229ee5eca60cf570ae291",
-      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/bb-yv-DAI%402x.png",
-      "decimals": 18,
-      "chainId": 250,
-      "providers": [
-        "balmy"
-      ]
-    },
-    {
       "name": "DOLA",
       "symbol": "dola",
       "address": "0x3129662808bec728a27ab6a6b9afd3cbaca8a43c",
@@ -46697,28 +46674,6 @@
       ]
     },
     {
-      "name": "Beets Yearn Boosted Pool (USDC)",
-      "symbol": "bb-yv-USDC",
-      "address": "0x3b998ba87b11a1c5bc1770de9793b17a0da61561",
-      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/bb-yv-USDC%402x.png",
-      "decimals": 18,
-      "chainId": 250,
-      "providers": [
-        "balmy"
-      ]
-    },
-    {
-      "name": "Beets Reaper Boosted wBTC",
-      "symbol": "bb-rfWBTC",
-      "address": "0x3c1420df122ac809b9d1ba77906f833764d64501",
-      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/bb-yv-BTC.png",
-      "decimals": 18,
-      "chainId": 250,
-      "providers": [
-        "balmy"
-      ]
-    },
-    {
       "name": "Beluga locked LQDR",
       "symbol": "beLQDR",
       "address": "0x3c4a5b93bd2de7fa2bf75fe32521e30033012c9f",
@@ -46812,39 +46767,6 @@
       ]
     },
     {
-      "name": "Beets Yearn Boosted Pool (WBTC)",
-      "symbol": "bb-yv-WBTC",
-      "address": "0x42538ce99111ea34dc2987b141bd6e9b594752d6",
-      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/bb-yv-BTC.png",
-      "decimals": 18,
-      "chainId": 250,
-      "providers": [
-        "balmy"
-      ]
-    },
-    {
-      "name": "Beets Yearn Boosted Pool (WETH)",
-      "symbol": "bb-yv-WETH",
-      "address": "0x44165fad0b7ea0d54d8856765d936d7026f9e2f2",
-      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/bb-yv-ETH.png",
-      "decimals": 18,
-      "chainId": 250,
-      "providers": [
-        "balmy"
-      ]
-    },
-    {
-      "name": "Beets Reaper Boosted fUSDT",
-      "symbol": "bb-rfFUSDT",
-      "address": "0x442988091cdc18acb8912cd3fe062cda9233f9dc",
-      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/bb-yv-USDT.png",
-      "decimals": 18,
-      "chainId": 250,
-      "providers": [
-        "balmy"
-      ]
-    },
-    {
       "name": "Reaper USDC Crypt",
       "symbol": "rfUSDC",
       "address": "0x4455aef4b5d8ffe3436184e8a1ec99607f9a4340",
@@ -46935,17 +46857,6 @@
       "symbol": "EYE",
       "address": "0x496e1693a7b162c4f0cd6a1792679cc48ecbcc8d",
       "logoURI": "https://eyeoftruth.io/static/media/eye.7cccf58f.png",
-      "decimals": 18,
-      "chainId": 250,
-      "providers": [
-        "balmy"
-      ]
-    },
-    {
-      "name": "Beets Tarot Boosted Pool (tinSPIRIT)",
-      "symbol": "bb-tinSPIRIT",
-      "address": "0x49769fe4c796b2775d2e44982cca8cdae36f6671",
-      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/bb-tinspirit.svg",
       "decimals": 18,
       "chainId": 250,
       "providers": [
@@ -47064,17 +46975,6 @@
       "symbol": "CANE",
       "address": "0x54546a860416483994e7e83803a72d59d15fbaa3",
       "logoURI": "https://deliland.io/static/media/deliland-cane-icon.6d6a0b8e.png",
-      "decimals": 18,
-      "chainId": 250,
-      "providers": [
-        "balmy"
-      ]
-    },
-    {
-      "name": "Beets Reaper Granary Boosted FTM",
-      "symbol": "bb-rf-grFTM",
-      "address": "0x55e0499d268858a5e804d7864dc2a6b4ef194c63",
-      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/bb-yv-FTM.png",
       "decimals": 18,
       "chainId": 250,
       "providers": [
@@ -47257,17 +47157,6 @@
       ]
     },
     {
-      "name": "Beets Reaper Boosted USDC",
-      "symbol": "bb-rfUSDC",
-      "address": "0x654def39262548cc958d07c82622e23c52411c82",
-      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/bb-yv-USDC%402x.png",
-      "decimals": 18,
-      "chainId": 250,
-      "providers": [
-        "balmy"
-      ]
-    },
-    {
       "name": "Cream",
       "symbol": "cream",
       "address": "0x657a1861c15a3ded9af0b6799a195a249ebdcbc6",
@@ -47334,17 +47223,6 @@
       "providers": [
         "defillama",
         "fantom1inch"
-      ]
-    },
-    {
-      "name": "Beets Reaper Boosted DAI",
-      "symbol": "bb-rfDAI",
-      "address": "0x685056d3a4e574b163d0fa05a78f1b0b3aa04a80",
-      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/bb-yv-DAI%402x.png",
-      "decimals": 18,
-      "chainId": 250,
-      "providers": [
-        "balmy"
       ]
     },
     {
@@ -47488,17 +47366,6 @@
       ]
     },
     {
-      "name": "Beets BOO Boosted Pool",
-      "symbol": "bb-BOO",
-      "address": "0x71959b131426fdb7af01de8d7d4149ccaf09f8cc",
-      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/bb-yv-BOO.png",
-      "decimals": 18,
-      "chainId": 250,
-      "providers": [
-        "balmy"
-      ]
-    },
-    {
       "name": "Beefy Escrowed Fantom",
       "symbol": "beFTM",
       "address": "0x7381ed41f6de418dde5e84b55590422a57917886",
@@ -47593,17 +47460,6 @@
       "providers": [
         "defillama",
         "fantom1inch"
-      ]
-    },
-    {
-      "name": "Beets Yearn Boosted Pool (FRAX)",
-      "symbol": "bb-yv-FRAX",
-      "address": "0x7cf76bccfa5d3340d42f08351552f5a59dc6089c",
-      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/bb-yv-Frax.png",
-      "decimals": 18,
-      "chainId": 250,
-      "providers": [
-        "balmy"
       ]
     },
     {
@@ -47923,17 +47779,6 @@
       ]
     },
     {
-      "name": "Beets Reaper Boosted wFTM",
-      "symbol": "bb-rfWFTM",
-      "address": "0x92502cd8e00f5b8e737b2ba203fdd7cd27b23c8f",
-      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/bb-yv-FTM.png",
-      "decimals": 18,
-      "chainId": 250,
-      "providers": [
-        "balmy"
-      ]
-    },
-    {
       "name": "xDEUS",
       "symbol": "XDEUS",
       "address": "0x953cd009a490176fceb3a26b9753e6f01645ff28",
@@ -48081,17 +47926,6 @@
       ]
     },
     {
-      "name": "Beets Reaper Boosted wETH",
-      "symbol": "bb-rfWETH",
-      "address": "0xa0051ab2c3eb7f17758428b02a07cf72eb0ef1a3",
-      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/bb-yv-ETH.png",
-      "decimals": 18,
-      "chainId": 250,
-      "providers": [
-        "balmy"
-      ]
-    },
-    {
       "name": "liHND",
       "symbol": "liHND",
       "address": "0xa147268f35db4ae3932eabe42af16c36a8b89690",
@@ -48161,17 +47995,6 @@
       ]
     },
     {
-      "name": "Beets Reaper Boosted WFTM",
-      "symbol": "bb-rfWFTM",
-      "address": "0xa8bcdca345e61bad9bb539933a4009f7a6f4b7ea",
-      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/bb-yv-FTM.png",
-      "decimals": 18,
-      "chainId": 250,
-      "providers": [
-        "balmy"
-      ]
-    },
-    {
       "name": "Curve USDT yVault",
       "symbol": "yvUSDT",
       "address": "0xA946C861de1Dd6CB530a07687Da99E989b929139",
@@ -48189,17 +48012,6 @@
       "chainId": 250,
       "providers": [
         "yearn"
-      ]
-    },
-    {
-      "name": "Beets Reaper Granary Boosted sFTMx",
-      "symbol": "bb-rf-grSFTMx",
-      "address": "0xa9a1f2f7407ce27bcef35d04c47e079e7d6d399e",
-      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/bb-yv-FTM.png",
-      "decimals": 18,
-      "chainId": 250,
-      "providers": [
-        "balmy"
       ]
     },
     {
@@ -48312,17 +48124,6 @@
       ]
     },
     {
-      "name": "Beets Tarot Boosted Pool",
-      "symbol": "bb-t-TAROT",
-      "address": "0xb4aae62a3f10717b9c649ed5ce099d981e5dca8c",
-      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/bb-t-tarot.svg",
-      "decimals": 18,
-      "chainId": 250,
-      "providers": [
-        "balmy"
-      ]
-    },
-    {
       "name": "USDC Solana",
       "symbol": "asUSDC",
       "address": "0xb5e4d17ffd9d0dce46d290750dad5f9437b5a16b",
@@ -48378,17 +48179,6 @@
       "providers": [
         "balmy",
         "defillama"
-      ]
-    },
-    {
-      "name": "Beets Reaper Boosted Pool (TUSD)",
-      "symbol": "bb-rf-TUSD",
-      "address": "0xb85a3fc39993b2e7e6874b8700b436c212a00516",
-      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/bb-rr-TUSD.png",
-      "decimals": 18,
-      "chainId": 250,
-      "providers": [
-        "balmy"
       ]
     },
     {
@@ -48511,17 +48301,6 @@
       "chainId": 250,
       "providers": [
         "fantom1inch"
-      ]
-    },
-    {
-      "name": "Beets Reaper Boosted USDC",
-      "symbol": "bb-rfUSDC",
-      "address": "0xc385e76e575b2d71eb877c27dcc1608f77fada99",
-      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/bb-yv-USDC%402x.png",
-      "decimals": 18,
-      "chainId": 250,
-      "providers": [
-        "balmy"
       ]
     },
     {
@@ -49354,17 +49133,6 @@
       ]
     },
     {
-      "name": "Beets Reaper Boosted USD",
-      "symbol": "bb-rf-usd",
-      "address": "0xf47f4d59c863c02cbfa3eefe6771b9c9fbe7b978",
-      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/bb-yv-USD.png",
-      "decimals": 18,
-      "chainId": 250,
-      "providers": [
-        "balmy"
-      ]
-    },
-    {
       "name": "FantOHM",
       "symbol": "FHM",
       "address": "0xfa1fbb8ef55a4855e5688c0ee13ac3f202486286",
@@ -49422,17 +49190,6 @@
       "providers": [
         "balmy",
         "yearn"
-      ]
-    },
-    {
-      "name": "Beets Yearn Boosted Pool (fUSDT)",
-      "symbol": "bb-yv-fUSDT",
-      "address": "0xfe0004ca84bac1d9cf24a3270bf70be7e68e43ac",
-      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/bb-yv-USDT.png",
-      "decimals": 18,
-      "chainId": 250,
-      "providers": [
-        "balmy"
       ]
     },
     {
@@ -50255,6 +50012,16 @@
       "chainId": 1101,
       "providers": [
         "zkevmPolygonZkEvm"
+      ]
+    },
+    {
+      "name": "Roseon LP",
+      "symbol": "ROLP",
+      "address": "0x797bB009dB7e0119e83a4c777c432524DC5BDe96",
+      "decimals": 18,
+      "chainId": 1101,
+      "providers": [
+        "liquest"
       ]
     },
     {
@@ -52558,9 +52325,9 @@
       ]
     },
     {
-      "name": "Based Akita",
-      "symbol": "AKITA",
-      "address": "0x02CcD8ED83a6Ff306c36819893949FDBDb8fd03a",
+      "name": "MollyGenesisOG",
+      "symbol": "YUMYUM",
+      "address": "0x04835afE63561974065220fCD7C86DBF9422a850",
       "decimals": 18,
       "chainId": 8453,
       "providers": [
@@ -52568,9 +52335,9 @@
       ]
     },
     {
-      "name": "MollyGenesisOG",
-      "symbol": "YUMYUM",
-      "address": "0x04835afE63561974065220fCD7C86DBF9422a850",
+      "name": "Wrapped eETH",
+      "symbol": "weETH.base",
+      "address": "0x04C0599Ae5A44757c0af6F9eC3b93da8976c150A",
       "decimals": 18,
       "chainId": 8453,
       "providers": [
@@ -52618,6 +52385,16 @@
       ]
     },
     {
+      "name": "Diecast Racer",
+      "symbol": "DCR",
+      "address": "0x0711eD8B4D1EB1a935cdcc376a205C7dCA584457",
+      "decimals": 18,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
       "name": "BaseDrip",
       "symbol": "BDRIP",
       "address": "0x071267674754F086DC6fDf5cb03288db4074F434",
@@ -52641,6 +52418,16 @@
       "name": "Squirtle Wif Saxophone",
       "symbol": "SAX",
       "address": "0x07bdCed0B350a1Fe8C6b4B8bEd738F7764F57E6d",
+      "decimals": 18,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
+      "name": "Horizon",
+      "symbol": "HZN",
+      "address": "0x081AD949deFe648774C3B8deBe0E4F28a80716dc",
       "decimals": 18,
       "chainId": 8453,
       "providers": [
@@ -53063,6 +52850,16 @@
       "chainId": 8453,
       "providers": [
         "optimism",
+        "liquest"
+      ]
+    },
+    {
+      "name": "BlueDuck",
+      "symbol": "DUCK",
+      "address": "0x13F568Fde021ff330C5D3b53bAf459b5d728E7C5",
+      "decimals": 9,
+      "chainId": 8453,
+      "providers": [
         "liquest"
       ]
     },
@@ -53603,16 +53400,6 @@
       ]
     },
     {
-      "name": "Somalio",
-      "symbol": "SOMALIO",
-      "address": "0x2266E0b44A93F1930378fead21864d93F923dC75",
-      "decimals": 18,
-      "chainId": 8453,
-      "providers": [
-        "liquest"
-      ]
-    },
-    {
       "name": "Sonne",
       "symbol": "SONNE",
       "address": "0x22a2488fE295047Ba13BD8cCCdBC8361DBD8cf7c",
@@ -54113,7 +53900,8 @@
       "decimals": 18,
       "chainId": 8453,
       "providers": [
-        "yearn"
+        "yearn",
+        "liquest"
       ]
     },
     {
@@ -54157,16 +53945,6 @@
       "chainId": 8453,
       "providers": [
         "odosBase"
-      ]
-    },
-    {
-      "name": "DEGENDOG",
-      "symbol": "DEGENDOG",
-      "address": "0x2e44b359A093b554f6F7f9902BfFceEa6f8b3E5c",
-      "decimals": 18,
-      "chainId": 8453,
-      "providers": [
-        "liquest"
       ]
     },
     {
@@ -55919,16 +55697,6 @@
       ]
     },
     {
-      "name": "Based Ponke",
-      "symbol": "PONKE",
-      "address": "0x569F3B16d8B8BcA1Fbd139157A1711751ba45331",
-      "decimals": 9,
-      "chainId": 8453,
-      "providers": [
-        "liquest"
-      ]
-    },
-    {
       "name": "Libertum",
       "symbol": "LBM",
       "address": "0x56A38E7216304108E841579041249fEb236C887b",
@@ -56225,16 +55993,6 @@
       "name": "AWP",
       "symbol": "▄︻デ══━一",
       "address": "0x5e9fE073Df7Ce50E91EB9CBb010B99EF6035a97D",
-      "decimals": 18,
-      "chainId": 8453,
-      "providers": [
-        "liquest"
-      ]
-    },
-    {
-      "name": "JESSE",
-      "symbol": "JESSE",
-      "address": "0x5f43fFA61595347122c46ebA3CD66E5afa687421",
       "decimals": 18,
       "chainId": 8453,
       "providers": [
@@ -56687,6 +56445,16 @@
       ]
     },
     {
+      "name": "Pepa",
+      "symbol": "PEPA",
+      "address": "0x69696945e86A4E8BECb855e1f8D2C5f16324Fc2B",
+      "decimals": 9,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
       "name": "Bombase",
       "symbol": "BOMB",
       "address": "0x6a3D396Fe44b9e90D95B4Ad7a143E5964FF0e21A",
@@ -56819,9 +56587,29 @@
       ]
     },
     {
+      "name": "Stable AMM - DEGEN/AERO",
+      "symbol": "sAMM-DEGEN/AERO",
+      "address": "0x6E6F3D27F3311b20F05E77f0F70d6E5a636F610C",
+      "decimals": 18,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
       "name": "Poon",
       "symbol": "POON",
       "address": "0x6E93DEDe32b00fC0B993CEE3be8727089fdd013b",
+      "decimals": 18,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
+      "name": "Angry Chicken",
+      "symbol": "CHICK",
+      "address": "0x6e9F17948788f35F37E4a49C471AB6E6fdb5D5A4",
       "decimals": 18,
       "chainId": 8453,
       "providers": [
@@ -56998,6 +56786,16 @@
       "name": "GP Token",
       "symbol": "GP",
       "address": "0x73e58c6F5E7B9deF4bDDA8f02f59f9eF2a342CcA",
+      "decimals": 18,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
+      "name": "WAGMI",
+      "symbol": "WAGMI",
+      "address": "0x7466dE7bb8B5E41Ee572f4167de6be782a7fA75d",
       "decimals": 18,
       "chainId": 8453,
       "providers": [
@@ -57278,6 +57076,16 @@
       "name": "Apu Apustaja",
       "symbol": "APU",
       "address": "0x7A2C5e7788E55Ec0a7ba4aEeC5B3da322718Fb5e",
+      "decimals": 18,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
+      "name": "Real World Asses",
+      "symbol": "RWASS",
+      "address": "0x7a43121e70F10A5B7F114e5962158e0Aa4c74508",
       "decimals": 18,
       "chainId": 8453,
       "providers": [
@@ -57965,16 +57773,6 @@
       "name": "$SPAM",
       "symbol": "SPAM",
       "address": "0x89Ca325bd05f851b2B91b3e9fb2d15A59d3D82C6",
-      "decimals": 18,
-      "chainId": 8453,
-      "providers": [
-        "liquest"
-      ]
-    },
-    {
-      "name": "CRAZY FROG",
-      "symbol": "FROG",
-      "address": "0x89Eb6680C8D85d384C02059e4b07E4Dd8535e549",
       "decimals": 18,
       "chainId": 8453,
       "providers": [
@@ -59856,16 +59654,6 @@
       ]
     },
     {
-      "name": "BluePEPE",
-      "symbol": "BluePEPE",
-      "address": "0xBc7Df28e6017341933704B2e1147d5bC18D8B82c",
-      "decimals": 9,
-      "chainId": 8453,
-      "providers": [
-        "liquest"
-      ]
-    },
-    {
       "name": "Coinsafe",
       "symbol": "SAFE",
       "address": "0xbce867Eb8F0BFdCbac7e7a11f0f3D58125D2704A",
@@ -59979,6 +59767,16 @@
       "providers": [
         "liquest",
         "odosBase"
+      ]
+    },
+    {
+      "name": "Girl's Club",
+      "symbol": "GLUB",
+      "address": "0xbffe4038039663f7D4B0B1Df1BD8Fd9aafB5D043",
+      "decimals": 9,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
       ]
     },
     {
@@ -60914,16 +60712,6 @@
       ]
     },
     {
-      "name": "Pepebull Blue",
-      "symbol": "PEPEBULL",
-      "address": "0xd832b95A82369Eec4c72868D0D0c23278837732a",
-      "decimals": 18,
-      "chainId": 8453,
-      "providers": [
-        "liquest"
-      ]
-    },
-    {
       "name": "Volatile AMM - TKN/AERO",
       "symbol": "vAMM-TKN/AERO",
       "address": "0xd88b9f7185f404015B665e070A5EF03a7e26661F",
@@ -61354,16 +61142,6 @@
       ]
     },
     {
-      "name": "Ski Mask Cat",
-      "symbol": "SKIC",
-      "address": "0xe48C3A357Dc4153bAEf2B86B7fF0d91837477A51",
-      "decimals": 8,
-      "chainId": 8453,
-      "providers": [
-        "liquest"
-      ]
-    },
-    {
       "name": "Giga Cat",
       "symbol": "gcat",
       "address": "0xE4fc328aE212232EFc5F5dd0e0b1537cd055d715",
@@ -61518,6 +61296,16 @@
       "name": "Super Base",
       "symbol": "SUPER",
       "address": "0xeabA7f0b0DB03aA753b94d62e70c3eB95BBcA782",
+      "decimals": 18,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
+      "name": "BasedThing",
+      "symbol": "THING",
+      "address": "0xeB0AB7e8A4Af9cD2A3Cb91F7A06012C0d4A6E5AE",
       "decimals": 18,
       "chainId": 8453,
       "providers": [
