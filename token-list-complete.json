@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List - complete version",
   "description": "A list of tokens from all the token lists on Balmy",
-  "timestamp": "2024-04-25T18:19:36.364Z",
+  "timestamp": "2024-04-26T00:02:13.462Z",
   "tokens": [
     {
       "name": "Ether",
@@ -53028,6 +53028,16 @@
       ]
     },
     {
+      "name": "Standard & Poorz Shitcoin 500",
+      "symbol": "SNP",
+      "address": "0x18F99b991Fd2DaD11CA17C40cea9861469154Ffe",
+      "decimals": 6,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
       "name": "Pepe Inscriptions",
       "symbol": "PEPI",
       "address": "0x19706c142D33376240E418d6385F05691a5Fa8E2",
@@ -53394,6 +53404,16 @@
       "symbol": "sobUSDbC",
       "address": "0x225886C9beb5eeE254F79d58bbD80cf9F200D4d0",
       "decimals": 8,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
+      "name": "Somalio",
+      "symbol": "SOMALIO",
+      "address": "0x2266E0b44A93F1930378fead21864d93F923dC75",
+      "decimals": 18,
       "chainId": 8453,
       "providers": [
         "liquest"
@@ -56155,6 +56175,16 @@
       ]
     },
     {
+      "name": "DogWifHat",
+      "symbol": "WIF",
+      "address": "0x630Cb86F1a316F2676564958e90DAd80FA2A1F62",
+      "decimals": 18,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
       "name": "Cope",
       "symbol": "COPE",
       "address": "0x633546a298E734700bDca888A87AB954159EC93c",
@@ -56442,16 +56472,6 @@
       "providers": [
         "liquest",
         "odosBase"
-      ]
-    },
-    {
-      "name": "Pepa",
-      "symbol": "PEPA",
-      "address": "0x69696945e86A4E8BECb855e1f8D2C5f16324Fc2B",
-      "decimals": 9,
-      "chainId": 8453,
-      "providers": [
-        "liquest"
       ]
     },
     {
@@ -57083,16 +57103,6 @@
       ]
     },
     {
-      "name": "Real World Asses",
-      "symbol": "RWASS",
-      "address": "0x7a43121e70F10A5B7F114e5962158e0Aa4c74508",
-      "decimals": 18,
-      "chainId": 8453,
-      "providers": [
-        "liquest"
-      ]
-    },
-    {
       "name": "Chuck",
       "symbol": "CHUCK",
       "address": "0x7A8A5012022BCCBf3EA4b03cD2bb5583d915fb1A",
@@ -57669,16 +57679,6 @@
       ]
     },
     {
-      "name": "Comeback Kevin",
-      "symbol": "KEVIN",
-      "address": "0x8797DD4fc432652bb6cfbdBc355E520546938230",
-      "decimals": 18,
-      "chainId": 8453,
-      "providers": [
-        "liquest"
-      ]
-    },
-    {
       "name": "DogeGF",
       "symbol": "DOGEGF",
       "address": "0x881ed0fcef78120a135ec6cc66cef2779fe95bba",
@@ -57933,6 +57933,16 @@
       "chainId": 8453,
       "providers": [
         "optimism"
+      ]
+    },
+    {
+      "name": "Uniswap V2",
+      "symbol": "UNI-V2",
+      "address": "0x8F4907f00FaE5552F5F9C46a5fE2D973100a569E",
+      "decimals": 18,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
       ]
     },
     {
@@ -59026,6 +59036,16 @@
       ]
     },
     {
+      "name": "Uniswap V2",
+      "symbol": "UNI-V2",
+      "address": "0xa926342d7f9324A1DbDe8F5ab77c92706f289b5d",
+      "decimals": 18,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
       "name": "Sustainable Growth",
       "symbol": "SUS",
       "address": "0xA9C9Dcb054421DEDc9d9006CFfe843D0a5Cd6339",
@@ -60088,16 +60108,6 @@
       "chainId": 8453,
       "providers": [
         "optimism"
-      ]
-    },
-    {
-      "name": "Iznop Financial",
-      "symbol": "CASH",
-      "address": "0xC85A79d559a543c86eBb1757A86e08B3039272e0",
-      "decimals": 18,
-      "chainId": 8453,
-      "providers": [
-        "liquest"
       ]
     },
     {
@@ -61884,6 +61894,16 @@
       "symbol": "SPIRE ",
       "address": "0xfDaA3FA1B956Ee131dB1A5ECe054832298d9d378",
       "decimals": 18,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "address": "0xfde4C96c8593536E31F229EA8f37b2ADa2699bb2",
+      "decimals": 6,
       "chainId": 8453,
       "providers": [
         "liquest"
@@ -72583,6 +72603,16 @@
       "name": "LINEA NS",
       "symbol": "LNS",
       "address": "0xD1eEC4d5d102218081c7d4826405b2eA9912534f",
+      "decimals": 18,
+      "chainId": 59144,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
+      "name": "rsETHWrapper",
+      "symbol": "wrsETH",
+      "address": "0xD2671165570f41BBB3B0097893300b6EB6101E6C",
       "decimals": 18,
       "chainId": 59144,
       "providers": [
