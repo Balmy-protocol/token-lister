@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2024-04-29T00:02:01.528Z",
+  "timestamp": "2024-04-30T00:02:16.619Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -64,6 +64,14 @@
       "symbol": "uma",
       "address": "0x04fa0d235c4abf4bcf4787af4cf447de572ef828",
       "logoURI": "https://ethereum-optimism.github.io/data/UMA/logo.png",
+      "decimals": 18,
+      "chainId": 1
+    },
+    {
+      "name": "f(x) Protocol fxUSD",
+      "symbol": "fxusd",
+      "address": "0x085780639cc2cacd35e474e71f4d000e2405d8f6",
+      "logoURI": "https://ethereum-optimism.github.io/data/fxUSD/logo.svg",
       "decimals": 18,
       "chainId": 1
     },
@@ -384,6 +392,14 @@
       "symbol": "CHZ",
       "address": "0x3506424f91fd33084466f402d5d97f05f8e3b4af",
       "logoURI": "ipfs://Qmbjs28CWguYMvuurkqky6Cj3ugYdn9QgGfVqgGjX7QmeL",
+      "decimals": 18,
+      "chainId": 1
+    },
+    {
+      "name": "f(x) Protocol",
+      "symbol": "fxn",
+      "address": "0x365accfca291e7d3914637abf1f7635db165bb09",
+      "logoURI": "https://ethereum-optimism.github.io/data/FXN/logo.svg",
       "decimals": 18,
       "chainId": 1
     },
@@ -1032,6 +1048,14 @@
       "symbol": "eth2x-fli",
       "address": "0xaa6e8127831c9de45ae56bb1b0d4d4da6e5665bd",
       "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/1/0xaa6e8127831c9de45ae56bb1b0d4d4da6e5665bd/logo.png",
+      "decimals": 18,
+      "chainId": 1
+    },
+    {
+      "name": "Paladin",
+      "symbol": "pal",
+      "address": "0xab846fb6c81370327e784ae7cbb6d6a6af6ff4bf",
+      "logoURI": "https://ethereum-optimism.github.io/data/PAL/logo.svg",
       "decimals": 18,
       "chainId": 1
     },
@@ -10811,6 +10835,14 @@
       "chainId": 8453
     },
     {
+      "name": "SoftDAO",
+      "symbol": "SOFT",
+      "address": "0x04d1963c76eb1bec59d0eeb249ed86f736b82993",
+      "logoURI": "https://ethereum-optimism.github.io/data/SOFT/logo.svg",
+      "decimals": 18,
+      "chainId": 8453
+    },
+    {
       "name": "Rigo Token",
       "symbol": "GRG",
       "address": "0x09188484e1Ab980DAeF53a9755241D759C5B7d60",
@@ -10934,6 +10966,14 @@
       "symbol": "ezETH",
       "address": "0x2416092f143378750bb29b79eD961ab195CcEea5",
       "logoURI": "https://assets.odos.xyz/tokens/ezETH.webp",
+      "decimals": 18,
+      "chainId": 8453
+    },
+    {
+      "name": "Heroes of Mavia",
+      "symbol": "MAVIA",
+      "address": "0x24fcFC492C1393274B6bcd568ac9e225BEc93584",
+      "logoURI": "https://ethereum-optimism.github.io/data/MAVIA/logo.png",
       "decimals": 18,
       "chainId": 8453
     },
@@ -11160,6 +11200,14 @@
       "chainId": 8453
     },
     {
+      "name": "Kibble",
+      "symbol": "KIBBLE",
+      "address": "0x64cc19a52f4d631ef5be07947caba14ae00c52eb",
+      "logoURI": "https://ethereum-optimism.github.io/data/KIBBLE/logo.svg",
+      "decimals": 18,
+      "chainId": 8453
+    },
+    {
       "name": "DAI+",
       "symbol": "DAI+",
       "address": "0x65a2508C429a6078a7BC2f7dF81aB575BD9D9275",
@@ -11235,6 +11283,14 @@
       "symbol": "TKN",
       "address": "0x78b3C724A2F663D11373C4a1978689271895256f",
       "logoURI": "https://ethereum-optimism.github.io/data/TKN/logo.png",
+      "decimals": 18,
+      "chainId": 8453
+    },
+    {
+      "name": "Apu Apustaja",
+      "symbol": "APU",
+      "address": "0x7a2c5e7788e55ec0a7ba4aeec5b3da322718fb5e",
+      "logoURI": "https://ethereum-optimism.github.io/data/APU/logo.svg",
       "decimals": 18,
       "chainId": 8453
     },
@@ -11529,22 +11585,6 @@
       "symbol": "SEXY",
       "address": "0xd1917629b3e6a72e6772aab5dbe58eb7fa3c2f33",
       "logoURI": "https://ethereum-optimism.github.io/data/SEXY/logo.svg",
-      "decimals": 18,
-      "chainId": 8453
-    },
-    {
-      "name": "BasedVelocimeter",
-      "symbol": "BVM",
-      "address": "0xd386a121991E51Eab5e3433Bf5B1cF4C8884b47a",
-      "logoURI": "https://assets.odos.xyz/tokens/BVM.webp",
-      "decimals": 18,
-      "chainId": 8453
-    },
-    {
-      "name": "Aave Base WETH",
-      "symbol": "aBasWETH",
-      "address": "0xD4a0e0b9149BCee3C920d2E00b5dE09138fd8bb7",
-      "logoURI": "https://assets.odos.xyz/tokens/aBasWETH.webp",
       "decimals": 18,
       "chainId": 8453
     },
@@ -14948,6 +14988,14 @@
       "chainId": 59144
     },
     {
+      "name": "Wrapped eETH",
+      "symbol": "weETH",
+      "address": "0x1Bf74C010E6320bab11e2e5A532b5AC15e0b8aA6",
+      "logoURI": "https://storage.googleapis.com/ks-setting-1d682dca/7167975e-1c9b-462a-8853-4221fab60a851714380011576.png",
+      "decimals": 18,
+      "chainId": 59144
+    },
+    {
       "name": "Axelar",
       "symbol": "AXL",
       "address": "0x23ee2343B892b1BB63503a4FAbc840E0e2C6810f",
@@ -15009,14 +15057,6 @@
       "address": "0x60D01EC2D5E98Ac51C8B4cF84DfCCE98D527c747",
       "logoURI": "https://storage.googleapis.com/ks-setting-1d682dca/94813521-b3f2-4ab7-9099-9d4ebad9dda61696935426897.png",
       "decimals": 18,
-      "chainId": 59144
-    },
-    {
-      "name": "USD Coin",
-      "symbol": "USDC",
-      "address": "0x66627F389ae46D881773B7131139b2411980E09E",
-      "logoURI": "https://storage.googleapis.com/ks-setting-1d682dca/44d6b1c5-c974-4476-8b0e-fbfde81c2a00.png",
-      "decimals": 6,
       "chainId": 59144
     },
     {
@@ -15284,6 +15324,14 @@
       "chainId": 84531
     },
     {
+      "name": "dForce",
+      "symbol": "DF",
+      "address": "0x0d73bEC7B116c3053b7F0fa108e45A8Ae9A038e9",
+      "logoURI": "https://ethereum-optimism.github.io/data/DF/logo.svg",
+      "decimals": 18,
+      "chainId": 84532
+    },
+    {
       "name": "Seamless",
       "symbol": "SEAM",
       "address": "0x178898686F23a50CCAC17962df41395484804a6B",
@@ -15300,10 +15348,26 @@
       "chainId": 84532
     },
     {
+      "name": "Unlock Discount Token",
+      "symbol": "UDT",
+      "address": "0x68a8011d72E6D41bf7CE9dC49De0aeaEBAAC9b39",
+      "logoURI": "https://ethereum-optimism.github.io/data/UDT/logo.svg",
+      "decimals": 18,
+      "chainId": 84532
+    },
+    {
       "name": "Everyrealm Token",
       "symbol": "EVERY",
       "address": "0xb01701025c3b12e0b5022d8a98f15f8ad3602a7b",
       "logoURI": "https://ethereum-optimism.github.io/data/EVERY/logo.svg",
+      "decimals": 18,
+      "chainId": 84532
+    },
+    {
+      "name": "Boba Token",
+      "symbol": "BOBA",
+      "address": "0xCCA0a8Af17089575DCf6db9e750F204d234b3426",
+      "logoURI": "https://ethereum-optimism.github.io/data/BOBA/logo.svg",
       "decimals": 18,
       "chainId": 84532
     },
@@ -15388,11 +15452,35 @@
       "chainId": 11155111
     },
     {
+      "name": "Boba Token",
+      "symbol": "BOBA",
+      "address": "0x33faF65b3DfcC6A1FccaD4531D9ce518F0FDc896",
+      "logoURI": "https://ethereum-optimism.github.io/data/BOBA/logo.svg",
+      "decimals": 18,
+      "chainId": 11155111
+    },
+    {
       "name": "Send Token",
       "symbol": "send",
       "address": "0x3f14920c99BEB920Afa163031c4e47a3e03B3e4A",
       "logoURI": "https://ethereum-optimism.github.io/data/send/logo.svg",
       "decimals": 0,
+      "chainId": 11155111
+    },
+    {
+      "name": "Unlock Discount Token",
+      "symbol": "UDT",
+      "address": "0x447B1492C5038203f1927eB2a374F5Fcdc25999d",
+      "logoURI": "https://ethereum-optimism.github.io/data/UDT/logo.svg",
+      "decimals": 18,
+      "chainId": 11155111
+    },
+    {
+      "name": "dForce",
+      "symbol": "DF",
+      "address": "0x4ed818eDd4a0c36A3F43826A60630879b8164401",
+      "logoURI": "https://ethereum-optimism.github.io/data/DF/logo.svg",
+      "decimals": 18,
       "chainId": 11155111
     },
     {
@@ -15456,6 +15544,14 @@
       "symbol": "STT",
       "address": "0x0B5DAd18B8791ddb24252B433ec4f21f9e6e5Ed0",
       "logoURI": "https://ethereum-optimism.github.io/data/SNT/logo.svg",
+      "decimals": 18,
+      "chainId": 11155420
+    },
+    {
+      "name": "Boba Token",
+      "symbol": "BOBA",
+      "address": "0x1696baFBe18EFB141823a041E22E43d12B144407",
+      "logoURI": "https://ethereum-optimism.github.io/data/BOBA/logo.svg",
       "decimals": 18,
       "chainId": 11155420
     },
