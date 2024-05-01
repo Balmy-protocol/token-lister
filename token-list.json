@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2024-04-30T00:02:16.619Z",
+  "timestamp": "2024-05-01T00:02:14.445Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -775,7 +775,7 @@
       "name": "Liquity",
       "symbol": "lqty",
       "address": "0x6dea81c8171d0ba574754ef6f8b412f2ed88c54d",
-      "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/1/0x6dea81c8171d0ba574754ef6f8b412f2ed88c54d/logo.png",
+      "logoURI": "https://ethereum-optimism.github.io/data/LQTY/logo.svg",
       "decimals": 18,
       "chainId": 1
     },
@@ -10827,6 +10827,14 @@
       "chainId": 8453
     },
     {
+      "name": "Staked agUSD",
+      "symbol": "stUSD",
+      "address": "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776",
+      "logoURI": "https://assets.odos.xyz/tokens/stUSD.webp",
+      "decimals": 18,
+      "chainId": 8453
+    },
+    {
       "name": "Staked agEUR",
       "symbol": "stEUR",
       "address": "0x004626A008B1aCdC4c74ab51644093b155e59A23",
@@ -10871,14 +10879,6 @@
       "symbol": "AMKT",
       "address": "0x13F4196cC779275888440b3000AE533BbBbC3166",
       "logoURI": "https://ethereum-optimism.github.io/data/AMKT/logo.svg",
-      "decimals": 18,
-      "chainId": 8453
-    },
-    {
-      "name": "ISKRA TOKEN",
-      "symbol": "ISK",
-      "address": "0x17d2628D30F8e9E966c9Ba831c9B9b01ea8Ea75C",
-      "logoURI": "https://ethereum-optimism.github.io/data/ISK/logo.svg",
       "decimals": 18,
       "chainId": 8453
     },
@@ -11168,18 +11168,18 @@
       "chainId": 8453
     },
     {
-      "name": "NetherFi",
-      "symbol": "NFI",
-      "address": "0x60359A0DD148B18d5cF1Ddf8Aa1916221ED0cbCd",
-      "logoURI": "https://assets.odos.xyz/tokens/NFI.webp",
+      "name": "Mountain Protocol USD",
+      "symbol": "USDM",
+      "address": "0x59D9356E565Ab3A36dD77763Fc0d87fEaf85508C",
+      "logoURI": "https://assets.odos.xyz/tokens/USDM.webp",
       "decimals": 18,
       "chainId": 8453
     },
     {
-      "name": "izumi Token",
-      "symbol": "iZi",
-      "address": "0x60D01EC2D5E98Ac51C8B4cF84DfCCE98D527c747",
-      "logoURI": "https://assets.odos.xyz/tokens/iZi.webp",
+      "name": "NetherFi",
+      "symbol": "NFI",
+      "address": "0x60359A0DD148B18d5cF1Ddf8Aa1916221ED0cbCd",
+      "logoURI": "https://assets.odos.xyz/tokens/NFI.webp",
       "decimals": 18,
       "chainId": 8453
     },
@@ -11247,14 +11247,6 @@
       "chainId": 8453
     },
     {
-      "name": "Everyworld",
-      "symbol": "EVERY",
-      "address": "0x717d31a60a9e811469673429c9f8ea24358990f1",
-      "logoURI": "https://ethereum-optimism.github.io/data/EVERY/logo.svg",
-      "decimals": 18,
-      "chainId": 8453
-    },
-    {
       "name": "Citadel",
       "symbol": "FORT",
       "address": "0x7233062d88133B5402D39D62BFa23a1b6c8d0898",
@@ -11283,6 +11275,14 @@
       "symbol": "TKN",
       "address": "0x78b3C724A2F663D11373C4a1978689271895256f",
       "logoURI": "https://ethereum-optimism.github.io/data/TKN/logo.png",
+      "decimals": 18,
+      "chainId": 8453
+    },
+    {
+      "name": "Kokonut Swap Token",
+      "symbol": "KOKOS",
+      "address": "0x7901FcDbBF3a6fc7B9E79eBE2B78909216Cd3a39",
+      "logoURI": "https://assets.odos.xyz/tokens/KOKOS.webp",
       "decimals": 18,
       "chainId": 8453
     },
@@ -11406,6 +11406,14 @@
       "chainId": 8453
     },
     {
+      "name": "Aave Base wstETH",
+      "symbol": "aBaswstETH",
+      "address": "0x99CBC45ea5bb7eF3a5BC08FB1B7E56bB2442Ef0D",
+      "logoURI": "https://assets.odos.xyz/tokens/aBaswstETH.webp",
+      "decimals": 18,
+      "chainId": 8453
+    },
+    {
       "name": "Compound",
       "symbol": "COMP",
       "address": "0x9e1028F5F1D5eDE59748FFceE5532509976840E0",
@@ -11426,6 +11434,14 @@
       "symbol": "OVN",
       "address": "0xA3d1a8DEB97B111454B294E2324EfAD13a9d8396",
       "logoURI": "https://assets.odos.xyz/tokens/OVN.webp",
+      "decimals": 18,
+      "chainId": 8453
+    },
+    {
+      "name": "Curve.fi Factory Plain Pool: 3c",
+      "symbol": "3c-f",
+      "address": "0xA450487D8C8F355611EFF9553337BE67261Af26f",
+      "logoURI": "https://assets.odos.xyz/tokens/3c-f.webp",
       "decimals": 18,
       "chainId": 8453
     },
@@ -11585,6 +11601,22 @@
       "symbol": "SEXY",
       "address": "0xd1917629b3e6a72e6772aab5dbe58eb7fa3c2f33",
       "logoURI": "https://ethereum-optimism.github.io/data/SEXY/logo.svg",
+      "decimals": 18,
+      "chainId": 8453
+    },
+    {
+      "name": "BasedVelocimeter",
+      "symbol": "BVM",
+      "address": "0xd386a121991E51Eab5e3433Bf5B1cF4C8884b47a",
+      "logoURI": "https://assets.odos.xyz/tokens/BVM.webp",
+      "decimals": 18,
+      "chainId": 8453
+    },
+    {
+      "name": "Aave Base WETH",
+      "symbol": "aBasWETH",
+      "address": "0xD4a0e0b9149BCee3C920d2E00b5dE09138fd8bb7",
+      "logoURI": "https://assets.odos.xyz/tokens/aBasWETH.webp",
       "decimals": 18,
       "chainId": 8453
     },
@@ -15332,6 +15364,14 @@
       "chainId": 84532
     },
     {
+      "name": "Metacade",
+      "symbol": "MCADE",
+      "address": "0x162aA1C7bba68861eA33CF1ffFa8bCADDdFdA145",
+      "logoURI": "https://ethereum-optimism.github.io/data/MCADE/logo.svg",
+      "decimals": 18,
+      "chainId": 84532
+    },
+    {
       "name": "Seamless",
       "symbol": "SEAM",
       "address": "0x178898686F23a50CCAC17962df41395484804a6B",
@@ -15352,6 +15392,14 @@
       "symbol": "UDT",
       "address": "0x68a8011d72E6D41bf7CE9dC49De0aeaEBAAC9b39",
       "logoURI": "https://ethereum-optimism.github.io/data/UDT/logo.svg",
+      "decimals": 18,
+      "chainId": 84532
+    },
+    {
+      "name": "OMI Token",
+      "symbol": "OMI",
+      "address": "0x7B7aA5dbd3c4DF9f64871470a8585B80986C8C48",
+      "logoURI": "https://ethereum-optimism.github.io/data/OMI/logo.svg",
       "decimals": 18,
       "chainId": 84532
     },
@@ -15452,6 +15500,14 @@
       "chainId": 11155111
     },
     {
+      "name": "Metacade",
+      "symbol": "MCADE",
+      "address": "0x1391E5032b3523E6A86dDF1D85605D6180B962d8",
+      "logoURI": "https://ethereum-optimism.github.io/data/MCADE/logo.svg",
+      "decimals": 18,
+      "chainId": 11155111
+    },
+    {
       "name": "Boba Token",
       "symbol": "BOBA",
       "address": "0x33faF65b3DfcC6A1FccaD4531D9ce518F0FDc896",
@@ -15536,6 +15592,14 @@
       "symbol": "SEAM",
       "address": "0xF01901ad15fcd248a7175E03c0ecCC0fD1D943Eb",
       "logoURI": "https://ethereum-optimism.github.io/data/SEAM/logo.svg",
+      "decimals": 18,
+      "chainId": 11155111
+    },
+    {
+      "name": "OMI Token",
+      "symbol": "OMI",
+      "address": "0xfF36224B9CF97e7791D99fE19281Ff78B0b24208",
+      "logoURI": "https://ethereum-optimism.github.io/data/OMI/logo.svg",
       "decimals": 18,
       "chainId": 11155111
     },
