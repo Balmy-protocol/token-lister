@@ -13,6 +13,11 @@ export const generators: Record<string, ITokenList> = {
     ),
     priority: Infinity,
   },
+  smolDapp: {
+    generator: new JsonGenericTokenListGenerator(
+      "https://raw.githubusercontent.com/SmolDapp/tokenLists/main/lists/tokenlistooor.json",
+    ),
+  },
   compound: {
     generator: new JsonGenericTokenListGenerator(
       "https://raw.githubusercontent.com/compound-finance/token-list/master/compound.tokenlist.json",
