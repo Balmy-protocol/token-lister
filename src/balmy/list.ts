@@ -153,7 +153,7 @@ export const generators: Record<string, ITokenList> = {
   },
   honeyswap: {
     generator: new JsonGenericTokenListGenerator(
-      "https://unpkg.com/@1hive/default-token-list@latest/build/honeyswap-default.tokenlist.json",
+      "https://unpkg.com/@1hive/default-token-list@6.1.6/build/index.json",
     ),
   },
   cowswap: {
