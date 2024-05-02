@@ -190,4 +190,9 @@ export const generators: Record<string, ITokenList> = {
       "https://raw.githubusercontent.com/wavelength-velas/assets/main/generated/wavelength.tokenslist.json",
     ),
   },
+  coingeckoBase: {
+    generator: new JsonGenericTokenListGenerator(
+      "https://tokens.coingecko.com/base/all.json",
+    ),
+  },
 };
