@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List - complete version",
   "description": "A list of tokens from all the token lists on Balmy",
-  "timestamp": "2024-05-02T21:25:10.539Z",
+  "timestamp": "2024-05-03T00:02:25.043Z",
   "tokens": [
     {
       "name": "Ether",
@@ -84873,6 +84873,16 @@
       ]
     },
     {
+      "name": "Son of Rocky",
+      "symbol": "RICKY",
+      "address": "0x3e7A4dBa88FbAa0d978CcBF899089d30C5b1754a",
+      "decimals": 18,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
       "name": "HANePlatform",
       "symbol": "HANeP",
       "address": "0x3e7eF8f50246f725885102E8238CBba33F276747",
@@ -87287,16 +87297,6 @@
       "providers": [
         "liquest",
         "odosBase"
-      ]
-    },
-    {
-      "name": "CoinBase Dino",
-      "symbol": "BAZ",
-      "address": "0x694C79DDEa7Fc14d78070D1c2B7d4cdD0863f1dB",
-      "decimals": 18,
-      "chainId": 8453,
-      "providers": [
-        "liquest"
       ]
     },
     {
@@ -93258,6 +93258,16 @@
       ]
     },
     {
+      "name": "Popcat",
+      "symbol": "POPCAT",
+      "address": "0xe1833Be655585cb0fB4840E9cA69dEF66968e2e5",
+      "decimals": 18,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
       "name": "Roost Coin",
       "symbol": "ROOST",
       "address": "0xE1aBD004250AC8D1F199421d647e01d094FAa180",
@@ -94476,11 +94486,12 @@
     {
       "name": "Fren Pet",
       "symbol": "Fren Pet",
-      "address": "0xFF0C532FDB8Cd566Ae169C1CB157ff2Bdc83E105",
-      "logoURI": "https://assets.coingecko.com/coins/images/33022/thumb/token.png?1700274697",
+      "address": "0xff0c532fdb8cd566ae169c1cb157ff2bdc83e105",
+      "logoURI": "https://assets.coingecko.com/coins/images/33022/large/token.png?1700274697",
       "decimals": 18,
       "chainId": 8453,
       "providers": [
+        "balmy",
         "liquest",
         "coingeckoBase"
       ]
