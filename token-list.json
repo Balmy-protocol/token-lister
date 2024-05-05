@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2024-05-04T00:02:29.666Z",
+  "timestamp": "2024-05-05T00:02:36.769Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -1632,6 +1632,14 @@
       "symbol": "LYRA",
       "address": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
       "logoURI": "ipfs://QmXHSUbFE2XL6J3U1Xk1obkkEeda9KqF6kbi2EfCqWUQqM",
+      "decimals": 18,
+      "chainId": 10
+    },
+    {
+      "name": "Giveth Token",
+      "symbol": "GIV",
+      "address": "0x528CDc92eAB044E1E39FE43B9514bfdAB4412B98",
+      "logoURI": "https://ethereum-optimism.github.io/data/GIV/logo.svg",
       "decimals": 18,
       "chainId": 10
     },
@@ -27091,6 +27099,14 @@
       "chainId": 8453
     },
     {
+      "name": "SAMURAI",
+      "symbol": "SAM",
+      "address": "0xed1779845520339693CDBffec49a74246E7D671b",
+      "logoURI": "https://assets.smold.app/api/token/8453/0xed1779845520339693CDBffec49a74246E7D671b/logo-128.png",
+      "decimals": 18,
+      "chainId": 8453
+    },
+    {
       "name": "Stable AMM - DOLA/USDC",
       "symbol": "sAMM-DOLA/USDC",
       "address": "0xf213F2D02837012dC0236cC105061e121bB03e37",
@@ -30464,6 +30480,13 @@
       "symbol": "iZi",
       "address": "0x60D01EC2D5E98Ac51C8B4cF84DfCCE98D527c747",
       "logoURI": "https://storage.googleapis.com/ks-setting-1d682dca/94813521-b3f2-4ab7-9099-9d4ebad9dda61696935426897.png",
+      "decimals": 18,
+      "chainId": 59144
+    },
+    {
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "address": "0x636B22bC471c955A8DB60f28D4795066a8201fa3",
       "decimals": 18,
       "chainId": 59144
     },

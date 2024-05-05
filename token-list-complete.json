@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List - complete version",
   "description": "A list of tokens from all the token lists on Balmy",
-  "timestamp": "2024-05-04T00:02:29.690Z",
+  "timestamp": "2024-05-05T00:02:36.792Z",
   "tokens": [
     {
       "name": "Ether",
@@ -26878,6 +26878,7 @@
       "chainId": 10,
       "providers": [
         "smolDapp",
+        "defillama",
         "optimism"
       ]
     },
@@ -52312,7 +52313,6 @@
       "chainId": 137,
       "providers": [
         "smolDapp",
-        "defillama",
         "yearn",
         "polygon1inch"
       ]
@@ -79508,6 +79508,7 @@
       "providers": [
         "smolDapp",
         "sushiswap",
+        "liquest",
         "zkevmPolygonZkEvm"
       ]
     },
@@ -82835,16 +82836,6 @@
       ]
     },
     {
-      "name": "Baldcat",
-      "symbol": "baldcat",
-      "address": "0x1443Cbca252D1ffAE56b4ee4cc904e9554E2F6aD",
-      "decimals": 8,
-      "chainId": 8453,
-      "providers": [
-        "liquest"
-      ]
-    },
-    {
       "name": "Aura",
       "symbol": "AURA",
       "address": "0x1509706a6c66CA549ff0cB464de88231DDBe213B",
@@ -82971,7 +82962,8 @@
       "decimals": 18,
       "chainId": 8453,
       "providers": [
-        "optimism"
+        "optimism",
+        "liquest"
       ]
     },
     {
@@ -83233,6 +83225,16 @@
       "chainId": 8453,
       "providers": [
         "smolDapp",
+        "liquest"
+      ]
+    },
+    {
+      "name": "Basecamp",
+      "symbol": "CAMP",
+      "address": "0x1c0de5aBcc615b41Db3eD89a1F87bd7a6aff8179",
+      "decimals": 18,
+      "chainId": 8453,
+      "providers": [
         "liquest"
       ]
     },
@@ -85068,16 +85070,6 @@
       ]
     },
     {
-      "name": "Son of Rocky",
-      "symbol": "RICKY",
-      "address": "0x3e7A4dBa88FbAa0d978CcBF899089d30C5b1754a",
-      "decimals": 18,
-      "chainId": 8453,
-      "providers": [
-        "liquest"
-      ]
-    },
-    {
       "name": "HANePlatform",
       "symbol": "HANeP",
       "address": "0x3e7eF8f50246f725885102E8238CBba33F276747",
@@ -85300,16 +85292,6 @@
       ]
     },
     {
-      "name": "MONEYBEE",
-      "symbol": "MONEYBEE",
-      "address": "0x420697291F6cE9Fbb34E9fedDD61868cA2F81F5C",
-      "decimals": 18,
-      "chainId": 8453,
-      "providers": [
-        "liquest"
-      ]
-    },
-    {
       "name": "frok.ai",
       "symbol": "FROK",
       "address": "0x42069BAbe14fB1802C5CB0F50BB9D2Ad6FEf55e2",
@@ -85389,16 +85371,6 @@
       ]
     },
     {
-      "name": "FRIEND",
-      "symbol": "FRIEND",
-      "address": "0x422ad533B2Ca7f37f73c10bE88B1Dfae99ACB39E",
-      "decimals": 18,
-      "chainId": 8453,
-      "providers": [
-        "liquest"
-      ]
-    },
-    {
       "name": "Volatile AMM - SEAM/USDbC",
       "symbol": "vAMM-SEAM/USDbC",
       "address": "0x42e8dC1b1891C103291Ec01D903451E729DaAACc",
@@ -85474,11 +85446,12 @@
     {
       "name": "Dewn",
       "symbol": "DEWN",
-      "address": "0x43e94bd32ac8e57a6009cde6790d95761120d4e9",
+      "address": "0x43e94BD32ac8E57a6009cDE6790d95761120D4E9",
       "logoURI": "https://assets.coingecko.com/coins/images/36379/thumb/dewn_logo.jpg?1711342993",
       "decimals": 18,
       "chainId": 8453,
       "providers": [
+        "liquest",
         "coingeckoBase"
       ]
     },
@@ -86095,12 +86068,11 @@
     {
       "name": "LOBO",
       "symbol": "LOBO",
-      "address": "0x4e98b3917310b0E1F0d53C0619f87FE48dEB804b",
+      "address": "0x4e98b3917310b0e1f0d53c0619f87fe48deb804b",
       "logoURI": "https://assets.coingecko.com/coins/images/36187/thumb/lobo200.png?1710760420",
       "decimals": 18,
       "chainId": 8453,
       "providers": [
-        "liquest",
         "coingeckoBase"
       ]
     },
@@ -86547,6 +86519,16 @@
       ]
     },
     {
+      "name": "Based Ponke",
+      "symbol": "PONKE",
+      "address": "0x569F3B16d8B8BcA1Fbd139157A1711751ba45331",
+      "decimals": 9,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
       "name": "Libertum",
       "symbol": "LBM",
       "address": "0x56A38E7216304108E841579041249fEb236C887b",
@@ -86695,16 +86677,6 @@
         "liquest",
         "odosBase",
         "coingeckoBase"
-      ]
-    },
-    {
-      "name": "Steak",
-      "symbol": "STEAK",
-      "address": "0x59DD0Ff34AF1bc043364f7061908279B9fA7e157",
-      "decimals": 18,
-      "chainId": 8453,
-      "providers": [
-        "liquest"
       ]
     },
     {
@@ -87927,12 +87899,11 @@
     {
       "name": "Riky The Raccoon",
       "symbol": "RIKY",
-      "address": "0x729031B3995538DDF6B6BcE6E68D5D6fDEb3CCB5",
+      "address": "0x729031b3995538ddf6b6bce6e68d5d6fdeb3ccb5",
       "logoURI": "https://assets.coingecko.com/coins/images/37438/thumb/logo_200x.png?1714380580",
       "decimals": 18,
       "chainId": 8453,
       "providers": [
-        "liquest",
         "coingeckoBase"
       ]
     },
@@ -88157,6 +88128,16 @@
       ]
     },
     {
+      "name": "Base Wars",
+      "symbol": "FORCE",
+      "address": "0x779f1e780584F2eD6edD2350e3A35e4Efb129c68",
+      "decimals": 18,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
       "name": "SUDO GOVERNANCE TOKEN",
       "symbol": "SUDO",
       "address": "0x77ba5713f0afcedb4a10fa155b5e95218a7b658e",
@@ -88165,16 +88146,6 @@
       "chainId": 8453,
       "providers": [
         "optimism"
-      ]
-    },
-    {
-      "name": "Miu",
-      "symbol": "MIU",
-      "address": "0x77f8FBccd9995d1a00AE94baDAa293e7eaFc4A4d",
-      "decimals": 18,
-      "chainId": 8453,
-      "providers": [
-        "liquest"
       ]
     },
     {
@@ -89040,6 +89011,16 @@
       ]
     },
     {
+      "name": "Moon Base",
+      "symbol": "MBASE",
+      "address": "0x870fBd8EDe55849b7C33177C720DED8f8F488304",
+      "decimals": 18,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
       "name": "Pawthereum",
       "symbol": "PAWTH",
       "address": "0x875Ee70143fca7d78E03EE6b13A2B0D68bE4af0c",
@@ -89202,11 +89183,12 @@
     {
       "name": "CRAZY FROG",
       "symbol": "FROG",
-      "address": "0x89eb6680c8d85d384c02059e4b07e4dd8535e549",
+      "address": "0x89Eb6680C8D85d384C02059e4b07E4Dd8535e549",
       "logoURI": "https://assets.coingecko.com/coins/images/36926/thumb/photo_2024-04-01_16-12-15.jpg?1712800382",
       "decimals": 18,
       "chainId": 8453,
       "providers": [
+        "liquest",
         "coingeckoBase"
       ]
     },
@@ -89630,6 +89612,16 @@
       "name": "Stable AMM - AERO/DOG",
       "symbol": "sAMM-AERO/DOG",
       "address": "0x9256c4BE8Cb31380045A336BAD1cA4C4aD1514e7",
+      "decimals": 18,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
+      "name": "ArabWifHat",
+      "symbol": "ArabWif",
+      "address": "0x9260409d4719c235C7c199106219f9616D66bde0",
       "decimals": 18,
       "chainId": 8453,
       "providers": [
@@ -90637,16 +90629,6 @@
       ]
     },
     {
-      "name": "PINEAPPLECAT",
-      "symbol": "PICA",
-      "address": "0xA4dc5a82839a148Ff172b5b8BA9d52e681FD2261",
-      "decimals": 18,
-      "chainId": 8453,
-      "providers": [
-        "liquest"
-      ]
-    },
-    {
       "name": "Pike USDC Arbitrum",
       "symbol": "apUSDC",
       "address": "0xA50739d0A90c4192DC3ECb3eD0Aab67b94481b00",
@@ -91311,6 +91293,16 @@
       ]
     },
     {
+      "name": "BASED USA",
+      "symbol": "USA",
+      "address": "0xb56d0839998Fd79EFCD15c27cF966250AA58D6D3",
+      "decimals": 18,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
       "name": "toshiwifhat",
       "symbol": "TIF",
       "address": "0xB585945038B9118CEd2450F35f8c541083BcAFF4",
@@ -91492,12 +91484,11 @@
     {
       "name": "OX Coin",
       "symbol": "OX",
-      "address": "0xba0Dda8762C24dA9487f5FA026a9B64b695A07Ea",
+      "address": "0xba0dda8762c24da9487f5fa026a9b64b695a07ea",
       "logoURI": "https://assets.coingecko.com/coins/images/35365/thumb/logo.png?1708395976",
-      "decimals": 18,
+      "decimals": 17,
       "chainId": 8453,
       "providers": [
-        "liquest",
         "coingeckoBase"
       ]
     },
@@ -92647,16 +92638,6 @@
       ]
     },
     {
-      "name": "FRIENDS",
-      "symbol": "FRIENDS",
-      "address": "0xD0b52C8690E0c62c62355BC5f659f44D77851f00",
-      "decimals": 18,
-      "chainId": 8453,
-      "providers": [
-        "liquest"
-      ]
-    },
-    {
       "name": "Moo Aero cbETH-WETH",
       "symbol": "mooAerocbETH-WETH",
       "address": "0xd0c3E7f86338403Df99DEa1996f6C9Ed8f9D3d07",
@@ -92873,16 +92854,6 @@
       "name": "Boss Baby",
       "symbol": "BOSS",
       "address": "0xd3DCBC7E80feE2C06E724E943FA785b51ba8c60D",
-      "decimals": 18,
-      "chainId": 8453,
-      "providers": [
-        "liquest"
-      ]
-    },
-    {
-      "name": "SEC",
-      "symbol": "SEC",
-      "address": "0xD3E1d0816B984c1250A8231719969c683f4A7921",
       "decimals": 18,
       "chainId": 8453,
       "providers": [
@@ -93618,6 +93589,16 @@
       ]
     },
     {
+      "name": "Ski Mask Cat",
+      "symbol": "SKIC",
+      "address": "0xe48C3A357Dc4153bAEf2B86B7fF0d91837477A51",
+      "decimals": 8,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
       "name": "Giga Cat",
       "symbol": "gcat",
       "address": "0xE4fc328aE212232EFc5F5dd0e0b1537cd055d715",
@@ -93981,16 +93962,6 @@
       ]
     },
     {
-      "name": "Based Peaker",
-      "symbol": "PEAKER",
-      "address": "0xeCba110DFcCB7Cc82B3edF8ba4AaD93A0b0f108C",
-      "decimals": 18,
-      "chainId": 8453,
-      "providers": [
-        "liquest"
-      ]
-    },
-    {
       "name": "BLACK ROCK",
       "symbol": "ROCK",
       "address": "0xEcE7B98bD817ee5B1F2f536dAf34D0B6af8Bb542",
@@ -94023,6 +93994,7 @@
       "chainId": 8453,
       "providers": [
         "smolDapp",
+        "liquest",
         "coingeckoBase"
       ]
     },
@@ -106522,7 +106494,8 @@
       "decimals": 18,
       "chainId": 59144,
       "providers": [
-        "smolDapp"
+        "smolDapp",
+        "liquest"
       ]
     },
     {
