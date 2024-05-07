@@ -1,6 +1,6 @@
 # Token Lister
 
-This is the Token Lister for Mean Finance. It generates a curated and unified list of tokens from multiple sources.
+This is the Token Lister for Balmy. It generates a curated and unified list of tokens from multiple sources.
 
 ## Requirements
 
@@ -26,4 +26,4 @@ When you are contributing, we recommend running `yarn watch` so that the server 
 
 ## Token List
 
-The curated token list is located at https://raw.githubusercontent.com/Mean-Finance/token-lister/main/token-list.json and the complete token list is at https://raw.githubusercontent.com/Mean-Finance/token-lister/main/token-list-complete.json
+The curated token list is located at https://raw.githubusercontent.com/balmy-protocol/token-lister/main/token-list.json and the complete token list is at https://raw.githubusercontent.com/balmy-protocol/token-lister/main/token-list-complete.json
