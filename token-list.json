@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2024-05-02T00:02:11.841Z",
+  "timestamp": "2024-05-07T18:48:37.262Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -1489,6 +1489,14 @@
       "address": "0xeb4c2781e4eba804ce9a9803c67d0893436bb27d",
       "logoURI": "https://assets.coingecko.com/coins/images/11370/thumb/Bitcoin.jpg?1628072791",
       "decimals": 8,
+      "chainId": 1
+    },
+    {
+      "name": "Presearch",
+      "symbol": "pre",
+      "address": "0xec213f83defb583af3a000b1c0ada660b1902a0f",
+      "logoURI": "https://ethereum-optimism.github.io/data/PRE/logo.svg",
+      "decimals": 18,
       "chainId": 1
     },
     {
@@ -7435,14 +7443,6 @@
       "chainId": 137
     },
     {
-      "name": "CRISP Scored Mangroves",
-      "symbol": "crisp-m",
-      "address": "0xef6ab48ef8dfe984fab0d5c4cd6aff2e54dfda14",
-      "logoURI": "https://tokens.1inch.io/0xef6ab48ef8dfe984fab0d5c4cd6aff2e54dfda14.png",
-      "decimals": 18,
-      "chainId": 137
-    },
-    {
       "name": "Jarvis Synthetic Brazilian Real",
       "symbol": "jBRL",
       "address": "0xf2f77FE7b8e66571E0fca7104c4d670BF1C8d722",
@@ -10883,145 +10883,10 @@
       "chainId": 8217
     },
     {
-      "name": "ETH",
-      "symbol": "ETH",
-      "address": "0x0000000000000000000000000000000000000000",
-      "logoURI": "https://assets.odos.xyz/tokens/ETH.webp",
-      "decimals": 18,
-      "chainId": 8453
-    },
-    {
-      "name": "USDA",
-      "symbol": "USDA",
-      "address": "0x0000206329b97DB379d5E1Bf586BbDB969C63274",
-      "logoURI": "https://assets.odos.xyz/tokens/USDA.webp",
-      "decimals": 18,
-      "chainId": 8453
-    },
-    {
-      "name": "Staked agUSD",
-      "symbol": "stUSD",
-      "address": "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776",
-      "logoURI": "https://assets.odos.xyz/tokens/stUSD.webp",
-      "decimals": 18,
-      "chainId": 8453
-    },
-    {
-      "name": "Staked agEUR",
-      "symbol": "stEUR",
-      "address": "0x004626A008B1aCdC4c74ab51644093b155e59A23",
-      "logoURI": "https://assets.odos.xyz/tokens/stEUR.webp",
-      "decimals": 18,
-      "chainId": 8453
-    },
-    {
-      "name": "SoftDAO",
-      "symbol": "SOFT",
-      "address": "0x04d1963c76eb1bec59d0eeb249ed86f736b82993",
-      "logoURI": "https://ethereum-optimism.github.io/data/SOFT/logo.svg",
-      "decimals": 18,
-      "chainId": 8453
-    },
-    {
-      "name": "Rigo Token",
-      "symbol": "GRG",
-      "address": "0x09188484e1Ab980DAeF53a9755241D759C5B7d60",
-      "logoURI": "https://ethereum-optimism.github.io/data/GRG/logo.svg",
-      "decimals": 18,
-      "chainId": 8453
-    },
-    {
-      "name": "Aave Base USDbC",
-      "symbol": "aBasUSDbC",
-      "address": "0x0a1d576f3eFeF75b330424287a95A366e8281D54",
-      "logoURI": "https://assets.odos.xyz/tokens/aBasUSDbC.webp",
-      "decimals": 6,
-      "chainId": 8453
-    },
-    {
-      "name": "Noggles",
-      "symbol": "NOGS",
-      "address": "0x13741c5df9ab03e7aa9fb3bf1f714551dd5a5f8a",
-      "logoURI": "https://ethereum-optimism.github.io/data/NOGS/logo.png",
-      "decimals": 18,
-      "chainId": 8453
-    },
-    {
-      "name": "Alongside Crypto Market Index",
-      "symbol": "AMKT",
-      "address": "0x13F4196cC779275888440b3000AE533BbBbC3166",
-      "logoURI": "https://ethereum-optimism.github.io/data/AMKT/logo.svg",
-      "decimals": 18,
-      "chainId": 8453
-    },
-    {
-      "name": "Propy",
-      "symbol": "PRO",
-      "address": "0x18dD5B087bCA9920562aFf7A0199b96B9230438b",
-      "logoURI": "https://ethereum-optimism.github.io/data/PRO/logo.svg",
-      "decimals": 8,
-      "chainId": 8453
-    },
-    {
-      "name": "Axelar Wrapped WBTC",
-      "symbol": "axlWBTC",
-      "address": "0x1a35EE4640b0A3B87705B0A4B45D227Ba60Ca2ad",
-      "logoURI": "https://assets.odos.xyz/tokens/axlWBTC.webp",
-      "decimals": 8,
-      "chainId": 8453
-    },
-    {
       "name": "Seamless",
       "symbol": "SEAM",
       "address": "0x1C7a460413dD4e964f96D8dFC56E7223cE88CD85",
       "logoURI": "https://ethereum-optimism.github.io/data/SEAM/logo.svg",
-      "decimals": 18,
-      "chainId": 8453
-    },
-    {
-      "name": "AlienBase Token",
-      "symbol": "ALB",
-      "address": "0x1dd2d631c92b1aCdFCDd51A0F7145A50130050C4",
-      "logoURI": "https://assets.odos.xyz/tokens/ALB.webp",
-      "decimals": 18,
-      "chainId": 8453
-    },
-    {
-      "name": "Rocket Pool Protocol",
-      "symbol": "RPL",
-      "address": "0x1f73EAf55d696BFFA9b0EA16fa987B93b0f4d302",
-      "logoURI": "https://ethereum-optimism.github.io/data/RPL/logo.svg",
-      "decimals": 18,
-      "chainId": 8453
-    },
-    {
-      "name": "Volatile AMM - AERO/USDbC",
-      "symbol": "vAMM-AERO/USDbC",
-      "address": "0x2223F9FE624F69Da4D8256A7bCc9104FBA7F8f75",
-      "decimals": 18,
-      "chainId": 8453
-    },
-    {
-      "name": "Paladin Token",
-      "symbol": "PAL",
-      "address": "0x224114c444e3C3d936532fE08351648700570909",
-      "logoURI": "https://ethereum-optimism.github.io/data/PAL/logo.svg",
-      "decimals": 18,
-      "chainId": 8453
-    },
-    {
-      "name": "Sonne",
-      "symbol": "SONNE",
-      "address": "0x22a2488fE295047Ba13BD8cCCdBC8361DBD8cf7c",
-      "logoURI": "https://assets.odos.xyz/tokens/SONNE.webp",
-      "decimals": 18,
-      "chainId": 8453
-    },
-    {
-      "name": "Synthetix",
-      "symbol": "SNX",
-      "address": "0x22e6966B799c4D5B13BE962E1D117b56327FDa66",
-      "logoURI": "https://ethereum-optimism.github.io/data/SNX/logo.svg",
       "decimals": 18,
       "chainId": 8453
     },
@@ -11034,80 +10899,10 @@
       "chainId": 8453
     },
     {
-      "name": "BASO",
-      "symbol": "BASO",
-      "address": "0x23E1A3BcDcEE4C59209d8871140eB7DD2bD9d1cE",
-      "logoURI": "https://assets.odos.xyz/tokens/BASO.webp",
-      "decimals": 18,
-      "chainId": 8453
-    },
-    {
-      "name": "Renzo Restaked ETH",
-      "symbol": "ezETH",
-      "address": "0x2416092f143378750bb29b79eD961ab195CcEea5",
-      "logoURI": "https://assets.odos.xyz/tokens/ezETH.webp",
-      "decimals": 18,
-      "chainId": 8453
-    },
-    {
-      "name": "Heroes of Mavia",
-      "symbol": "MAVIA",
-      "address": "0x24fcFC492C1393274B6bcd568ac9e225BEc93584",
-      "logoURI": "https://ethereum-optimism.github.io/data/MAVIA/logo.png",
-      "decimals": 18,
-      "chainId": 8453
-    },
-    {
-      "name": "Bald",
-      "symbol": "BALD",
-      "address": "0x27D2DECb4bFC9C76F0309b8E88dec3a601Fe25a8",
-      "logoURI": "https://assets.odos.xyz/tokens/BALD.webp",
-      "decimals": 18,
-      "chainId": 8453
-    },
-    {
-      "name": "HarryPotterObamaSonic10Inu",
-      "symbol": "BITCOIN",
-      "address": "0x2a06A17CBC6d0032Cac2c6696DA90f29D39a1a29",
-      "logoURI": "https://ethereum-optimism.github.io/data/BITCOIN/logo.svg",
-      "decimals": 8,
-      "chainId": 8453
-    },
-    {
       "name": "Coinbase Wrapped Staked ETH",
       "symbol": "cbETH",
       "address": "0x2Ae3F1Ec7F1F5012CFEab0185bfc7aa3cf0DEc22",
       "logoURI": "https://ethereum-optimism.github.io/data/cbETH/logo.svg",
-      "decimals": 18,
-      "chainId": 8453
-    },
-    {
-      "name": "Volatile AMM - EXTRA/USDbC",
-      "symbol": "vAMM-EXTRA/USDbC",
-      "address": "0x2B7704f1cb9324cD8586B33C6c540CbD64E58237",
-      "decimals": 18,
-      "chainId": 8453
-    },
-    {
-      "name": "Volatile AMM - WETH/TAROT",
-      "symbol": "vAMM-WETH/TAROT",
-      "address": "0x2d25E0514f23c6367687dE89Bd5167dc754D4934",
-      "decimals": 18,
-      "chainId": 8453
-    },
-    {
-      "name": "PancakeSwap Token",
-      "symbol": "Cake",
-      "address": "0x3055913c90Fcc1A6CE9a358911721eEb942013A1",
-      "logoURI": "https://assets.odos.xyz/tokens/Cake.webp",
-      "decimals": 18,
-      "chainId": 8453
-    },
-    {
-      "name": "ValleyDAO Token",
-      "symbol": "GROW",
-      "address": "0x321725ee44CB4bfA544CF45a5A585b925d30A58C",
-      "logoURI": "https://ethereum-optimism.github.io/data/GROW/logo.svg",
       "decimals": 18,
       "chainId": 8453
     },
@@ -11117,30 +10912,6 @@
       "address": "0x368181499736d0c0CC614DBB145E2EC1AC86b8c6",
       "logoURI": "https://ethereum-optimism.github.io/data/LUSD/logo.svg",
       "decimals": 18,
-      "chainId": 8453
-    },
-    {
-      "name": "Feisty Doge",
-      "symbol": "NFD",
-      "address": "0x37289326b7bca5a776a5071b8d693c0588c5c9a6",
-      "logoURI": "https://ethereum-optimism.github.io/data/NFD/logo.svg",
-      "decimals": 18,
-      "chainId": 8453
-    },
-    {
-      "name": "0x Protocol Token",
-      "symbol": "ZRX",
-      "address": "0x3bB4445D30AC020a84c1b5A8A2C6248ebC9779D0",
-      "logoURI": "https://ethereum-optimism.github.io/data/ZRX/logo.png",
-      "decimals": 18,
-      "chainId": 8453
-    },
-    {
-      "name": "Send Token",
-      "symbol": "send",
-      "address": "0x3f14920c99BEB920Afa163031c4e47a3e03B3e4A",
-      "logoURI": "https://ethereum-optimism.github.io/data/send/logo.svg",
-      "decimals": 0,
       "chainId": 8453
     },
     {
@@ -11168,14 +10939,6 @@
       "chainId": 8453
     },
     {
-      "name": "Reach",
-      "symbol": "$Reach",
-      "address": "0x4379c13143eb91148ff9282cfb2f93536687a45b",
-      "logoURI": "https://ethereum-optimism.github.io/data/REACH/logo.svg",
-      "decimals": 18,
-      "chainId": 8453
-    },
-    {
       "name": "Dola USD Stablecoin",
       "symbol": "DOLA",
       "address": "0x4621b7A9c75199271F773Ebd9A499dbd165c3191",
@@ -11184,232 +10947,10 @@
       "chainId": 8453
     },
     {
-      "name": "Wrapped Ampleforth",
-      "symbol": "WAMPL",
-      "address": "0x489fe42C267fe0366B16b0c39e7AEEf977E841eF",
-      "logoURI": "https://ethereum-optimism.github.io/data/WAMPL/logo.svg",
-      "decimals": 18,
-      "chainId": 8453
-    },
-    {
-      "name": "VitaDAO Token",
-      "symbol": "VITA",
-      "address": "0x490a4B510d0Ea9f835D2dF29Eb73b4FcA5071937",
-      "logoURI": "https://ethereum-optimism.github.io/data/VITA/logo.svg",
-      "decimals": 18,
-      "chainId": 8453
-    },
-    {
-      "name": "Magic Internet Money",
-      "symbol": "MIM",
-      "address": "0x4A3A6Dd60A34bB2Aba60D73B4C88315E9CeB6A3D",
-      "logoURI": "https://assets.odos.xyz/tokens/MIM.webp",
-      "decimals": 18,
-      "chainId": 8453
-    },
-    {
-      "name": "Aave Base USDC",
-      "symbol": "aBasUSDC",
-      "address": "0x4e65fE4DbA92790696d040ac24Aa414708F5c0AB",
-      "logoURI": "https://assets.odos.xyz/tokens/aBasUSDC.webp",
-      "decimals": 6,
-      "chainId": 8453
-    },
-    {
       "name": "Dai Stablecoin",
       "symbol": "DAI",
       "address": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
       "logoURI": "https://ethereum-optimism.github.io/data/DAI/logo.svg",
-      "decimals": 18,
-      "chainId": 8453
-    },
-    {
-      "name": "Scale",
-      "symbol": "SCALE",
-      "address": "0x54016a4848a38f257B6E96331F7404073Fd9c32C",
-      "logoURI": "https://assets.odos.xyz/tokens/SCALE.webp",
-      "decimals": 18,
-      "chainId": 8453
-    },
-    {
-      "name": "Autonolas",
-      "symbol": "OLAS",
-      "address": "0x54330d28ca3357F294334BDC454a032e7f353416",
-      "logoURI": "https://ethereum-optimism.github.io/data/OLAS/logo.svg",
-      "decimals": 18,
-      "chainId": 8453
-    },
-    {
-      "name": "BMX",
-      "symbol": "BMX",
-      "address": "0x548f93779fBC992010C07467cBaf329DD5F059B7",
-      "logoURI": "https://assets.odos.xyz/tokens/BMX.webp",
-      "decimals": 18,
-      "chainId": 8453
-    },
-    {
-      "name": "Mountain Protocol USD",
-      "symbol": "USDM",
-      "address": "0x59D9356E565Ab3A36dD77763Fc0d87fEaf85508C",
-      "logoURI": "https://assets.odos.xyz/tokens/USDM.webp",
-      "decimals": 18,
-      "chainId": 8453
-    },
-    {
-      "name": "NetherFi",
-      "symbol": "NFI",
-      "address": "0x60359A0DD148B18d5cF1Ddf8Aa1916221ED0cbCd",
-      "logoURI": "https://assets.odos.xyz/tokens/NFI.webp",
-      "decimals": 18,
-      "chainId": 8453
-    },
-    {
-      "name": "Quack Token",
-      "symbol": "QUACK",
-      "address": "0x639C0D019C257966C4907bD4E68E3F349bB58109",
-      "logoURI": "https://assets.odos.xyz/tokens/QUACK.webp",
-      "decimals": 18,
-      "chainId": 8453
-    },
-    {
-      "name": "Maverick Token",
-      "symbol": "MAV",
-      "address": "0x64b88c73A5DfA78D1713fE1b4c69a22d7E0faAa7",
-      "logoURI": "https://assets.odos.xyz/tokens/MAV.webp",
-      "decimals": 18,
-      "chainId": 8453
-    },
-    {
-      "name": "Kibble",
-      "symbol": "KIBBLE",
-      "address": "0x64cc19a52f4d631ef5be07947caba14ae00c52eb",
-      "logoURI": "https://ethereum-optimism.github.io/data/KIBBLE/logo.svg",
-      "decimals": 18,
-      "chainId": 8453
-    },
-    {
-      "name": "DAI+",
-      "symbol": "DAI+",
-      "address": "0x65a2508C429a6078a7BC2f7dF81aB575BD9D9275",
-      "logoURI": "https://assets.odos.xyz/tokens/DAI+.webp",
-      "decimals": 18,
-      "chainId": 8453
-    },
-    {
-      "name": "RocketSwap",
-      "symbol": "RCKT",
-      "address": "0x6653dD4B92a0e5Bf8ae570A98906d9D6fD2eEc09",
-      "logoURI": "https://assets.odos.xyz/tokens/RCKT.webp",
-      "decimals": 18,
-      "chainId": 8453
-    },
-    {
-      "name": "Rebasing cbETH",
-      "symbol": "rcbETH",
-      "address": "0x692eF3afD21F172680b82285759Bc13CF8e70710",
-      "logoURI": "https://assets.odos.xyz/tokens/rcbETH.webp",
-      "decimals": 18,
-      "chainId": 8453
-    },
-    {
-      "name": "Volatile AMM - USDC/AERO",
-      "symbol": "vAMM-USDC/AERO",
-      "address": "0x6cDcb1C4A4D1C3C6d054b27AC5B77e89eAFb971d",
-      "decimals": 18,
-      "chainId": 8453
-    },
-    {
-      "name": "Rai.Finance",
-      "symbol": "SOFI",
-      "address": "0x703D57164CA270b0B330A87FD159CfEF1490c0a5",
-      "logoURI": "https://ethereum-optimism.github.io/data/SOFI/logo.svg",
-      "decimals": 18,
-      "chainId": 8453
-    },
-    {
-      "name": "Everyworld",
-      "symbol": "EVERY",
-      "address": "0x717d31a60a9e811469673429c9f8ea24358990f1",
-      "logoURI": "https://ethereum-optimism.github.io/data/EVERY/logo.svg",
-      "decimals": 18,
-      "chainId": 8453
-    },
-    {
-      "name": "Citadel",
-      "symbol": "FORT",
-      "address": "0x7233062d88133B5402D39D62BFa23a1b6c8d0898",
-      "logoURI": "https://assets.odos.xyz/tokens/FORT.webp",
-      "decimals": 18,
-      "chainId": 8453
-    },
-    {
-      "name": "Solidly",
-      "symbol": "SOLID",
-      "address": "0x777CF5ba9C291A1A8f57FF14836F6F9dC5c0F9Dd",
-      "logoURI": "https://assets.odos.xyz/tokens/SOLID.webp",
-      "decimals": 18,
-      "chainId": 8453
-    },
-    {
-      "name": "Baseswap Token",
-      "symbol": "BSWAP",
-      "address": "0x78a087d713Be963Bf307b18F2Ff8122EF9A63ae9",
-      "logoURI": "https://assets.odos.xyz/tokens/BSWAP.webp",
-      "decimals": 18,
-      "chainId": 8453
-    },
-    {
-      "name": "Token Name Service",
-      "symbol": "TKN",
-      "address": "0x78b3C724A2F663D11373C4a1978689271895256f",
-      "logoURI": "https://ethereum-optimism.github.io/data/TKN/logo.png",
-      "decimals": 18,
-      "chainId": 8453
-    },
-    {
-      "name": "Kokonut Swap Token",
-      "symbol": "KOKOS",
-      "address": "0x7901FcDbBF3a6fc7B9E79eBE2B78909216Cd3a39",
-      "logoURI": "https://assets.odos.xyz/tokens/KOKOS.webp",
-      "decimals": 18,
-      "chainId": 8453
-    },
-    {
-      "name": "Apu Apustaja",
-      "symbol": "APU",
-      "address": "0x7a2c5e7788e55ec0a7ba4aeec5b3da322718fb5e",
-      "logoURI": "https://ethereum-optimism.github.io/data/APU/logo.svg",
-      "decimals": 18,
-      "chainId": 8453
-    },
-    {
-      "name": "SushiToken",
-      "symbol": "SUSHI",
-      "address": "0x7D49a065D17d6d4a55dc13649901fdBB98B2AFBA",
-      "logoURI": "https://ethereum-optimism.github.io/data/SUSHI/logo.svg",
-      "decimals": 18,
-      "chainId": 8453
-    },
-    {
-      "name": "Axelar Wrapped USDT",
-      "symbol": "axlUSDT",
-      "address": "0x7f5373AE26c3E8FfC4c77b7255DF7eC1A9aF52a6",
-      "logoURI": "https://assets.odos.xyz/tokens/axlUSDT.webp",
-      "decimals": 6,
-      "chainId": 8453
-    },
-    {
-      "name": "Volatile AMM - WETH/AERO",
-      "symbol": "vAMM-WETH/AERO",
-      "address": "0x7f670f78B17dEC44d5Ef68a48740b6f8849cc2e6",
-      "decimals": 18,
-      "chainId": 8453
-    },
-    {
-      "name": "ZynCoin",
-      "symbol": "ZYN",
-      "address": "0x82c8f48ac694841360de84d649a0d48d239b61f8",
-      "logoURI": "https://ethereum-optimism.github.io/data/ZYN/logo.svg",
       "decimals": 18,
       "chainId": 8453
     },
@@ -11422,90 +10963,10 @@
       "chainId": 8453
     },
     {
-      "name": "USDC+",
-      "symbol": "USDC+",
-      "address": "0x85483696Cc9970Ad9EdD786b2C5ef735F38D156f",
-      "logoURI": "https://assets.odos.xyz/tokens/USDC+.webp",
-      "decimals": 6,
-      "chainId": 8453
-    },
-    {
-      "name": "SubQueryToken",
-      "symbol": "SQT",
-      "address": "0x858c50C3AF1913b0E849aFDB74617388a1a5340d",
-      "logoURI": "https://ethereum-optimism.github.io/data/SQT/logo.svg",
-      "decimals": 18,
-      "chainId": 8453
-    },
-    {
       "name": "Curve DAO Token",
       "symbol": "CRV",
       "address": "0x8Ee73c484A26e0A5df2Ee2a4960B789967dd0415",
       "logoURI": "https://ethereum-optimism.github.io/data/CRV/logo.png",
-      "decimals": 18,
-      "chainId": 8453
-    },
-    {
-      "name": "KOMPETE Token",
-      "symbol": "KOMPETE",
-      "address": "0x8f019931375454Fe4EE353427eB94E2E0C9e0a8C",
-      "logoURI": "https://ethereum-optimism.github.io/data/KOMPETE/logo.svg",
-      "decimals": 10,
-      "chainId": 8453
-    },
-    {
-      "name": "MBS",
-      "symbol": "MBS",
-      "address": "0x8Fbd0648971d56f1f2c35Fa075Ff5Bc75fb0e39D",
-      "logoURI": "https://ethereum-optimism.github.io/data/MBS/logo.png",
-      "decimals": 18,
-      "chainId": 8453
-    },
-    {
-      "name": "Metronome2",
-      "symbol": "MET",
-      "address": "0x93dc5Cb35627A759848c7A7F0079EA7b49E435a5",
-      "logoURI": "https://ethereum-optimism.github.io/data/MET/logo.svg",
-      "decimals": 18,
-      "chainId": 8453
-    },
-    {
-      "name": "Aerodrome",
-      "symbol": "AERO",
-      "address": "0x940181a94A35A4569E4529A3CDfB74e38FD98631",
-      "logoURI": "https://assets.odos.xyz/tokens/AERO.webp",
-      "decimals": 18,
-      "chainId": 8453
-    },
-    {
-      "name": "Wrapped USDR",
-      "symbol": "wUSDR",
-      "address": "0x9483ab65847A447e36d21af1CaB8C87e9712ff93",
-      "logoURI": "https://assets.odos.xyz/tokens/wUSDR.webp",
-      "decimals": 9,
-      "chainId": 8453
-    },
-    {
-      "name": "Artificial Liquid Intelligence Token",
-      "symbol": "ALI",
-      "address": "0x97c806e7665d3AFd84A8Fe1837921403D59F3Dcc",
-      "logoURI": "https://ethereum-optimism.github.io/data/ALI/logo.png",
-      "decimals": 18,
-      "chainId": 8453
-    },
-    {
-      "name": "Aave Base wstETH",
-      "symbol": "aBaswstETH",
-      "address": "0x99CBC45ea5bb7eF3a5BC08FB1B7E56bB2442Ef0D",
-      "logoURI": "https://assets.odos.xyz/tokens/aBaswstETH.webp",
-      "decimals": 18,
-      "chainId": 8453
-    },
-    {
-      "name": "Compound",
-      "symbol": "COMP",
-      "address": "0x9e1028F5F1D5eDE59748FFceE5532509976840E0",
-      "logoURI": "https://ethereum-optimism.github.io/data/COMP/logo.svg",
       "decimals": 18,
       "chainId": 8453
     },
@@ -11518,113 +10979,10 @@
       "chainId": 8453
     },
     {
-      "name": "OVN",
-      "symbol": "OVN",
-      "address": "0xA3d1a8DEB97B111454B294E2324EfAD13a9d8396",
-      "logoURI": "https://assets.odos.xyz/tokens/OVN.webp",
-      "decimals": 18,
-      "chainId": 8453
-    },
-    {
-      "name": "Curve.fi Factory Plain Pool: 3c",
-      "symbol": "3c-f",
-      "address": "0xA450487D8C8F355611EFF9553337BE67261Af26f",
-      "logoURI": "https://assets.odos.xyz/tokens/3c-f.webp",
-      "decimals": 18,
-      "chainId": 8453
-    },
-    {
-      "name": "agEUR",
-      "symbol": "agEUR",
-      "address": "0xA61BeB4A3d02decb01039e378237032B351125B4",
-      "logoURI": "https://assets.odos.xyz/tokens/EURA.webp",
-      "decimals": 18,
-      "chainId": 8453
-    },
-    {
-      "name": "BTRST",
-      "symbol": "BTRST",
-      "address": "0xA7d68d155d17cB30e311367c2Ef1E82aB6022b67",
-      "logoURI": "https://ethereum-optimism.github.io/data/BTRST/logo.svg",
-      "decimals": 18,
-      "chainId": 8453
-    },
-    {
-      "name": "Reserve Rights",
-      "symbol": "RSR",
-      "address": "0xaB36452DbAC151bE02b16Ca17d8919826072f64a",
-      "logoURI": "https://ethereum-optimism.github.io/data/RSR/logo.png",
-      "decimals": 18,
-      "chainId": 8453
-    },
-    {
-      "name": "The Doge NFT",
-      "symbol": "DOG",
-      "address": "0xafb89a09d82fbde58f18ac6437b3fc81724e4df6",
-      "logoURI": "https://ethereum-optimism.github.io/data/DOG/logo.svg",
-      "decimals": 18,
-      "chainId": 8453
-    },
-    {
-      "name": "Flux",
-      "symbol": "FLUX",
-      "address": "0xb008bdcf9cdff9da684a190941dc3dca8c2cdd44",
-      "logoURI": "https://ethereum-optimism.github.io/data/FLUX/logo.svg",
-      "decimals": 8,
-      "chainId": 8453
-    },
-    {
-      "name": "Volatile AMM - hyUSD/eUSD",
-      "symbol": "vAMM-hyUSD/eUSD",
-      "address": "0xb5E331615FdbA7DF49e05CdEACEb14Acdd5091c3",
-      "decimals": 18,
-      "chainId": 8453
-    },
-    {
       "name": "Rocket Pool ETH",
       "symbol": "rETH",
       "address": "0xB6fe221Fe9EeF5aBa221c348bA20A1Bf5e73624c",
       "logoURI": "https://ethereum-optimism.github.io/data/rETH/logo.svg",
-      "decimals": 18,
-      "chainId": 8453
-    },
-    {
-      "name": "USD+",
-      "symbol": "USD+",
-      "address": "0xB79DD08EA68A908A97220C76d19A6aA9cBDE4376",
-      "logoURI": "https://assets.odos.xyz/tokens/USD+.webp",
-      "decimals": 6,
-      "chainId": 8453
-    },
-    {
-      "name": "Meta",
-      "symbol": "MTA",
-      "address": "0xba7D47f471ADD16875e765edEe0858C3413A56Fd",
-      "logoURI": "https://ethereum-optimism.github.io/data/MTA/logo.svg",
-      "decimals": 18,
-      "chainId": 8453
-    },
-    {
-      "name": "Synth Token",
-      "symbol": "SYNTH",
-      "address": "0xbd2DBb8eceA9743CA5B16423b4eAa26bDcfE5eD2",
-      "logoURI": "https://assets.odos.xyz/tokens/SYNTH.webp",
-      "decimals": 18,
-      "chainId": 8453
-    },
-    {
-      "name": "GoldenBoys",
-      "symbol": "GOLD",
-      "address": "0xbeFD5C25A59ef2C1316c5A4944931171F30Cd3E4",
-      "logoURI": "https://assets.odos.xyz/tokens/GOLD.webp",
-      "decimals": 18,
-      "chainId": 8453
-    },
-    {
-      "name": "Mai Stablecoin",
-      "symbol": "MAI",
-      "address": "0xbf1aeA8670D2528E08334083616dD9C5F3B087aE",
-      "logoURI": "https://assets.odos.xyz/tokens/MAI.webp",
       "decimals": 18,
       "chainId": 8453
     },
@@ -11637,90 +10995,10 @@
       "chainId": 8453
     },
     {
-      "name": "Dackie Token",
-      "symbol": "DACKIE",
-      "address": "0xc2BC7A73613B9bD5F373FE10B55C59a69F4D617B",
-      "logoURI": "https://assets.odos.xyz/tokens/DACKIE.webp",
-      "decimals": 18,
-      "chainId": 8453
-    },
-    {
       "name": "Hop",
       "symbol": "HOP",
       "address": "0xc5102fe9359fd9a28f877a67e36b0f050d81a3cc",
       "logoURI": "https://ethereum-optimism.github.io/data/HOP/logo.svg",
-      "decimals": 18,
-      "chainId": 8453
-    },
-    {
-      "name": "1INCH Token",
-      "symbol": "1INCH",
-      "address": "0xc5fecC3a29Fb57B5024eEc8a2239d4621e111CBE",
-      "logoURI": "https://ethereum-optimism.github.io/data/1INCH/logo.svg",
-      "decimals": 18,
-      "chainId": 8453
-    },
-    {
-      "name": "Aavegotchi GHST Token",
-      "symbol": "GHST",
-      "address": "0xcd2f22236dd9dfe2356d7c543161d4d260fd9bcb",
-      "logoURI": "https://ethereum-optimism.github.io/data/GHST/logo.svg",
-      "decimals": 18,
-      "chainId": 8453
-    },
-    {
-      "name": "Aave Base cbETH",
-      "symbol": "aBascbETH",
-      "address": "0xcf3D55c10DB69f28fD1A75Bd73f3D8A2d9c595ad",
-      "logoURI": "https://assets.odos.xyz/tokens/aBascbETH.webp",
-      "decimals": 18,
-      "chainId": 8453
-    },
-    {
-      "name": "Electronic Dollar",
-      "symbol": "eUSD",
-      "address": "0xCfA3Ef56d303AE4fAabA0592388F19d7C3399FB4",
-      "logoURI": "https://assets.odos.xyz/tokens/eUSD.webp",
-      "decimals": 18,
-      "chainId": 8453
-    },
-    {
-      "name": "FARM Reward Token",
-      "symbol": "FARM",
-      "address": "0xD08a2917653d4E460893203471f0000826fb4034",
-      "logoURI": "https://ethereum-optimism.github.io/data/FARM/logo.svg",
-      "decimals": 18,
-      "chainId": 8453
-    },
-    {
-      "name": "Settled ETHXY Token",
-      "symbol": "SEXY",
-      "address": "0xd1917629b3e6a72e6772aab5dbe58eb7fa3c2f33",
-      "logoURI": "https://ethereum-optimism.github.io/data/SEXY/logo.svg",
-      "decimals": 18,
-      "chainId": 8453
-    },
-    {
-      "name": "BasedVelocimeter",
-      "symbol": "BVM",
-      "address": "0xd386a121991E51Eab5e3433Bf5B1cF4C8884b47a",
-      "logoURI": "https://assets.odos.xyz/tokens/BVM.webp",
-      "decimals": 18,
-      "chainId": 8453
-    },
-    {
-      "name": "Aave Base WETH",
-      "symbol": "aBasWETH",
-      "address": "0xD4a0e0b9149BCee3C920d2E00b5dE09138fd8bb7",
-      "logoURI": "https://assets.odos.xyz/tokens/aBasWETH.webp",
-      "decimals": 18,
-      "chainId": 8453
-    },
-    {
-      "name": "BaseX",
-      "symbol": "BSX",
-      "address": "0xd5046B976188EB40f6DE40fB527F89c05b323385",
-      "logoURI": "https://assets.odos.xyz/tokens/BSX.webp",
       "decimals": 18,
       "chainId": 8453
     },
@@ -11733,49 +11011,10 @@
       "chainId": 8453
     },
     {
-      "name": "CryptoOracle Collective",
-      "symbol": "COC",
-      "address": "0xE2B21D4684b2bA62F3BE1FE286eacb90D26E394d",
-      "logoURI": "https://ethereum-optimism.github.io/data/COC/logo.svg",
-      "decimals": 18,
-      "chainId": 8453
-    },
-    {
-      "name": "Axelar Wrapped USDC",
-      "symbol": "axlUSDC",
-      "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
-      "logoURI": "https://assets.odos.xyz/tokens/axlUSDC.webp",
-      "decimals": 6,
-      "chainId": 8453
-    },
-    {
-      "name": "Stable AMM - DOLA/USDC",
-      "symbol": "sAMM-DOLA/USDC",
-      "address": "0xf213F2D02837012dC0236cC105061e121bB03e37",
-      "decimals": 18,
-      "chainId": 8453
-    },
-    {
       "name": "Optimistic Thales Token",
       "symbol": "THALES",
       "address": "0xf34e0cff046e154CAfCae502C7541b9E5FD8C249",
       "logoURI": "https://ethereum-optimism.github.io/data/THALES/logo.png",
-      "decimals": 18,
-      "chainId": 8453
-    },
-    {
-      "name": "Tarot",
-      "symbol": "TAROT",
-      "address": "0xF544251D25f3d243A36B07e7E7962a678f952691",
-      "logoURI": "https://assets.odos.xyz/tokens/TAROT.webp",
-      "decimals": 18,
-      "chainId": 8453
-    },
-    {
-      "name": "TOWER",
-      "symbol": "TOWER",
-      "address": "0xf7C1CEfCf7E1dd8161e00099facD3E1Db9e528ee",
-      "logoURI": "https://ethereum-optimism.github.io/data/TOWER/logo.svg",
       "decimals": 18,
       "chainId": 8453
     },
@@ -11788,18 +11027,10 @@
       "chainId": 8453
     },
     {
-      "name": "ResearchCoin",
-      "symbol": "RSC",
-      "address": "0xFbB75A59193A3525a8825BeBe7D4b56899E2f7e1",
-      "logoURI": "https://ethereum-optimism.github.io/data/RSC/logo.svg",
-      "decimals": 18,
-      "chainId": 8453
-    },
-    {
-      "name": "SmarDex Token",
-      "symbol": "SDEX",
-      "address": "0xFd4330b0312fdEEC6d4225075b82E00493FF2e3f",
-      "logoURI": "https://assets.odos.xyz/tokens/SDEX.webp",
+      "name": "Fren Pet",
+      "symbol": "Fren Pet",
+      "address": "0xff0c532fdb8cd566ae169c1cb157ff2bdc83e105",
+      "logoURI": "https://assets.coingecko.com/coins/images/33022/large/token.png?1700274697",
       "decimals": 18,
       "chainId": 8453
     },
@@ -12496,6 +11727,14 @@
       "symbol": "cbETH",
       "address": "0x1debd73e752beaf79865fd6446b0c970eae7732f",
       "logoURI": "ipfs://QmXgQiYe3HsxCDEisZQmKL5TNb1HCMaC73PKPsRzsm47WV",
+      "decimals": 18,
+      "chainId": 42161
+    },
+    {
+      "name": "Renzo Restaked ETH",
+      "symbol": "ezeth",
+      "address": "0x2416092f143378750bb29b79ed961ab195cceea5",
+      "logoURI": "https://tokens.1inch.io/0x2416092f143378750bb29b79ed961ab195cceea5.png",
       "decimals": 18,
       "chainId": 42161
     },
@@ -14212,14 +13451,6 @@
       "chainId": 43114
     },
     {
-      "name": "Walrus",
-      "symbol": "wlrs",
-      "address": "0x395908aeb53d33a9b8ac35e148e9805d34a555d3",
-      "logoURI": "https://tokens.1inch.io/0x395908aeb53d33a9b8ac35e148e9805d34a555d3.png",
-      "decimals": 18,
-      "chainId": 43114
-    },
-    {
       "name": "Islander",
       "symbol": "isa",
       "address": "0x3eefb18003d033661f84e48360ebecd181a84709",
@@ -15196,6 +14427,14 @@
       "chainId": 59144
     },
     {
+      "name": "ZeroLend",
+      "symbol": "ZERO",
+      "address": "0x78354f8DcCB269a615A7e0a24f9B0718FDC3C7A7",
+      "logoURI": "https://storage.googleapis.com/ks-setting-1d682dca/9506e680-6135-45f0-8448-7ffc54bceec41714991431163.png",
+      "decimals": 18,
+      "chainId": 59144
+    },
+    {
       "name": "Binance USD",
       "symbol": "BUSD",
       "address": "0x7d43AABC515C356145049227CeE54B608342c0ad",
@@ -15460,6 +14699,14 @@
       "chainId": 84531
     },
     {
+      "name": "DOSE",
+      "symbol": "DOSE",
+      "address": "0x063ba9e853d30f1a45417500d9b72dc3caab3d4b",
+      "logoURI": "https://ethereum-optimism.github.io/data/DOSE/logo.svg",
+      "decimals": 18,
+      "chainId": 84532
+    },
+    {
       "name": "dForce",
       "symbol": "DF",
       "address": "0x0d73bEC7B116c3053b7F0fa108e45A8Ae9A038e9",
@@ -15492,6 +14739,14 @@
       "chainId": 84532
     },
     {
+      "name": "TT",
+      "symbol": "TT",
+      "address": "0x5b0331DFF07E9e11960A1Cf03AcAcec5AF263d09",
+      "logoURI": "https://ethereum-optimism.github.io/data/TT/logo.svg",
+      "decimals": 6,
+      "chainId": 84532
+    },
+    {
       "name": "Unlock Discount Token",
       "symbol": "UDT",
       "address": "0x68a8011d72E6D41bf7CE9dC49De0aeaEBAAC9b39",
@@ -15516,6 +14771,14 @@
       "chainId": 84532
     },
     {
+      "name": "Presearch",
+      "symbol": "PRE",
+      "address": "0xc0C034725e4eC6DDd23B8D4e6412094BcfB3F5D6",
+      "logoURI": "https://ethereum-optimism.github.io/data/PRE/logo.svg",
+      "decimals": 18,
+      "chainId": 84532
+    },
+    {
       "name": "Boba Token",
       "symbol": "BOBA",
       "address": "0xCCA0a8Af17089575DCf6db9e750F204d234b3426",
@@ -15536,6 +14799,14 @@
       "symbol": "BTRST",
       "address": "0xE490c7698F2b80789Fe312162d9D0a1Bd8C9beeE",
       "logoURI": "https://ethereum-optimism.github.io/data/BTRST/logo.svg",
+      "decimals": 18,
+      "chainId": 84532
+    },
+    {
+      "name": "Ethix",
+      "symbol": "ETHIX",
+      "address": "0xFd09911130e6930Bf87F2B0554c44F400bD80D3e",
+      "logoURI": "https://ethereum-optimism.github.io/data/ETHIX/logo.svg",
       "decimals": 18,
       "chainId": 84532
     },
@@ -15596,6 +14867,14 @@
       "chainId": 11155111
     },
     {
+      "name": "Presearch",
+      "symbol": "PRE",
+      "address": "0x0765C04EF390A63E8b7Bb6A5FCA2F42169C7bB19",
+      "logoURI": "https://ethereum-optimism.github.io/data/PRE/logo.svg",
+      "decimals": 18,
+      "chainId": 11155111
+    },
+    {
       "name": "OptimismUselessToken-Bridged",
       "symbol": "OUTb",
       "address": "0x12608ff9dac79d8443F17A4d39D93317BAD026Aa",
@@ -15609,6 +14888,14 @@
       "address": "0x1391E5032b3523E6A86dDF1D85605D6180B962d8",
       "logoURI": "https://ethereum-optimism.github.io/data/MCADE/logo.svg",
       "decimals": 18,
+      "chainId": 11155111
+    },
+    {
+      "name": "TT",
+      "symbol": "TT",
+      "address": "0x19dcecf9308F058Ace0580CDc06b2932eb428d3c",
+      "logoURI": "https://ethereum-optimism.github.io/data/TT/logo.svg",
+      "decimals": 6,
       "chainId": 11155111
     },
     {
@@ -15632,6 +14919,14 @@
       "symbol": "UDT",
       "address": "0x447B1492C5038203f1927eB2a374F5Fcdc25999d",
       "logoURI": "https://ethereum-optimism.github.io/data/UDT/logo.svg",
+      "decimals": 18,
+      "chainId": 11155111
+    },
+    {
+      "name": "DOSE",
+      "symbol": "DOSE",
+      "address": "0x466027eea4c47dd172a3f0bdd5f9d74b230bde10",
+      "logoURI": "https://ethereum-optimism.github.io/data/DOSE/logo.svg",
       "decimals": 18,
       "chainId": 11155111
     },
@@ -15700,6 +14995,14 @@
       "chainId": 11155111
     },
     {
+      "name": "Ethix",
+      "symbol": "ETHIX",
+      "address": "0xf63eeab5ce6c49654708442ea1afb7b56693b734",
+      "logoURI": "https://ethereum-optimism.github.io/data/ETHIX/logo.svg",
+      "decimals": 18,
+      "chainId": 11155111
+    },
+    {
       "name": "OMI Token",
       "symbol": "OMI",
       "address": "0xfF36224B9CF97e7791D99fE19281Ff78B0b24208",
@@ -15744,6 +15047,14 @@
       "symbol": "ETH",
       "address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
       "logoURI": "https://ethereum-optimism.github.io/data/ETH/logo.svg",
+      "decimals": 18,
+      "chainId": 11155420
+    },
+    {
+      "name": "Ethix",
+      "symbol": "ETHIX",
+      "address": "0xFd09911130e6930Bf87F2B0554c44F400bD80D3e",
+      "logoURI": "https://ethereum-optimism.github.io/data/ETHIX/logo.svg",
       "decimals": 18,
       "chainId": 11155420
     },
