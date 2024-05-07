@@ -9,7 +9,7 @@ import { odosParser, oneInchParser } from "./parsers";
 export const generators: Record<string, ITokenList> = {
   balmy: {
     generator: new JsonGenericTokenListGenerator(
-      "https://raw.githubusercontent.com/balmy-protocol/token-list/main/mean-finance.tokenlist.json",
+      "https://raw.githubusercontent.com/balmy-protocol/token-list/main/balmy.tokenlist.json",
     ),
     priority: Infinity,
   },
