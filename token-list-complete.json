@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List - complete version",
   "description": "A list of tokens from all the token lists on Balmy",
-  "timestamp": "2024-05-07T00:02:15.648Z",
+  "timestamp": "2024-05-07T18:43:34.259Z",
   "tokens": [
     {
       "name": "Ether",
@@ -80621,16 +80621,6 @@
       ]
     },
     {
-      "name": "Lucky Lemu",
-      "symbol": "LEMU",
-      "address": "0x046360b7582fcd4487822c138279d255149F9aF2",
-      "decimals": 9,
-      "chainId": 8453,
-      "providers": [
-        "liquest"
-      ]
-    },
-    {
       "name": "MollyGenesisOG",
       "symbol": "YUMYUM",
       "address": "0x04835afE63561974065220fCD7C86DBF9422a850",
@@ -80684,16 +80674,6 @@
       "providers": [
         "liquest",
         "coingeckoBase"
-      ]
-    },
-    {
-      "name": "MAGA ON BASE",
-      "symbol": "$TRUMP",
-      "address": "0x05B69d89685bd00E0b3A9Df582F347Ccb40Cf387",
-      "decimals": 10,
-      "chainId": 8453,
-      "providers": [
-        "liquest"
       ]
     },
     {
@@ -80960,9 +80940,9 @@
       ]
     },
     {
-      "name": "Lando Norris - MiamiGP Winner",
-      "symbol": "LANDO",
-      "address": "0x0b417Dc9229fE70363BE176b6551656cc2E796D4",
+      "name": "Uniswap V2",
+      "symbol": "UNI-V2",
+      "address": "0x0b8A73DCc8355d0d778f3d33D7D859B1D6a6ccD4",
       "decimals": 18,
       "chainId": 8453,
       "providers": [
@@ -80970,9 +80950,9 @@
       ]
     },
     {
-      "name": "Uniswap V2",
-      "symbol": "UNI-V2",
-      "address": "0x0b8A73DCc8355d0d778f3d33D7D859B1D6a6ccD4",
+      "name": "BTC4PIZZA",
+      "symbol": "PIZZA",
+      "address": "0x0B8f990228C8EDb07092735fBF91c3E876F59B36",
       "decimals": 18,
       "chainId": 8453,
       "providers": [
@@ -81055,6 +81035,16 @@
       "providers": [
         "liquest",
         "coingeckoBase"
+      ]
+    },
+    {
+      "name": "Moonboots DAO",
+      "symbol": "MBDAO",
+      "address": "0x0DD7913197bFB6d2b1f03f9772CeD06298f1A644",
+      "decimals": 18,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
       ]
     },
     {
@@ -81858,6 +81848,16 @@
       "chainId": 8453,
       "providers": [
         "coingeckoBase"
+      ]
+    },
+    {
+      "name": "nextUSDC",
+      "symbol": "nextUSDC",
+      "address": "0x1ede59e0d39B14c038698B1036BDE9a4819C86D4",
+      "decimals": 6,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
       ]
     },
     {
@@ -83916,12 +83916,11 @@
     {
       "name": "Dewn",
       "symbol": "DEWN",
-      "address": "0x43e94BD32ac8E57a6009cDE6790d95761120D4E9",
+      "address": "0x43e94bd32ac8e57a6009cde6790d95761120d4e9",
       "logoURI": "https://assets.coingecko.com/coins/images/36379/thumb/dewn_logo.jpg?1711342993",
       "decimals": 18,
       "chainId": 8453,
       "providers": [
-        "liquest",
         "coingeckoBase"
       ]
     },
@@ -83996,17 +83995,20 @@
       "decimals": 18,
       "chainId": 8453,
       "providers": [
-        "optimism"
+        "optimism",
+        "coingeckoBase"
       ]
     },
     {
       "name": "Satoshi Nakamoto",
       "symbol": "SATOSHI",
       "address": "0x45e7EAEdb8E3360f850c963c5419a5236e451217",
+      "logoURI": "https://assets.coingecko.com/coins/images/37611/thumb/SATOSHI_LOGO.PNG?1715054986",
       "decimals": 9,
       "chainId": 8453,
       "providers": [
-        "liquest"
+        "liquest",
+        "coingeckoBase"
       ]
     },
     {
@@ -84455,7 +84457,7 @@
       "name": "WUFFI",
       "symbol": "WUF",
       "address": "0x4da78059d97f155e18b37765e2e042270f4e0fc4",
-      "logoURI": "https://assets.coingecko.com/coins/images/36933/thumb/WUFFI-Ticker-200x200.png?1712805241",
+      "logoURI": "https://assets.coingecko.com/coins/images/36933/thumb/WUFFI_Ticker_Animation_200x200_v2.gif?1715047002",
       "decimals": 4,
       "chainId": 8453,
       "providers": [
@@ -84971,6 +84973,16 @@
       ]
     },
     {
+      "name": "DILIGENT PEPE",
+      "symbol": "DILIGENT",
+      "address": "0x55A6f6CB50DB03259f6Ab17979a4891313Be2f45",
+      "decimals": 18,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
       "name": "Sam Baseman Fraud",
       "symbol": "FTX",
       "address": "0x55d37943F6C509ba892b1d8c35DC0399cdc3517C",
@@ -85479,17 +85491,6 @@
       "chainId": 8453,
       "providers": [
         "liquest",
-        "coingeckoBase"
-      ]
-    },
-    {
-      "name": "eBASE",
-      "symbol": "EBASE",
-      "address": "0x60cbb875d3c6314280dd90a4fe6cafc1d7ce5dfd",
-      "logoURI": "https://assets.coingecko.com/coins/images/32749/thumb/download.png?1699264126",
-      "decimals": 9,
-      "chainId": 8453,
-      "providers": [
         "coingeckoBase"
       ]
     },
@@ -86372,11 +86373,12 @@
     {
       "name": "Riky The Raccoon",
       "symbol": "RIKY",
-      "address": "0x729031b3995538ddf6b6bce6e68d5d6fdeb3ccb5",
+      "address": "0x729031B3995538DDF6B6BcE6E68D5D6fDEb3CCB5",
       "logoURI": "https://assets.coingecko.com/coins/images/37438/thumb/logo_200x.png?1714380580",
       "decimals": 18,
       "chainId": 8453,
       "providers": [
+        "liquest",
         "coingeckoBase"
       ]
     },
@@ -87079,6 +87081,16 @@
       ]
     },
     {
+      "name": "Donel Trump",
+      "symbol": "TRUMP",
+      "address": "0x7f92B3E474276139DDF1558470bCdFc2685e2616",
+      "decimals": 9,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
       "name": "BaseSwap LPs",
       "symbol": "BSWAP-LP",
       "address": "0x7fea0384F38EF6Ae79bB12295a9e10C464204F52",
@@ -87120,16 +87132,6 @@
       "chainId": 8453,
       "providers": [
         "smolDapp"
-      ]
-    },
-    {
-      "name": "OUTSYDE GLOBAL BVI CORP",
-      "symbol": "OUTSYDE",
-      "address": "0x807ee95958Fee908153a1Dcb9eF358d44E176ffE",
-      "decimals": 6,
-      "chainId": 8453,
-      "providers": [
-        "liquest"
       ]
     },
     {
@@ -87331,6 +87333,16 @@
         "liquest",
         "odosBase",
         "coingeckoBase"
+      ]
+    },
+    {
+      "name": "Consensys Win",
+      "symbol": "CONSENSYS",
+      "address": "0x83453C0Bba2e9b3E2a508f6395A307d348dC8Ea1",
+      "decimals": 18,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
       ]
     },
     {
@@ -88125,16 +88137,6 @@
       ]
     },
     {
-      "name": "Home Base",
-      "symbol": "HALO",
-      "address": "0x93b0948E70206be9a00f0A1F9D8952d2092756dA",
-      "decimals": 9,
-      "chainId": 8453,
-      "providers": [
-        "liquest"
-      ]
-    },
-    {
       "name": "Metronome2",
       "symbol": "MET",
       "address": "0x93dc5Cb35627A759848c7A7F0079EA7b49E435a5",
@@ -88453,6 +88455,16 @@
       "symbol": "axlOP",
       "address": "0x994ac01750047B9d35431a7Ae4Ed312ee955E030",
       "decimals": 18,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
+      "name": "CatDoge",
+      "symbol": "CatDoge",
+      "address": "0x994C5ee39175486314CE125a1D53bCEd48Ef9743",
+      "decimals": 9,
       "chainId": 8453,
       "providers": [
         "liquest"
@@ -88995,6 +89007,16 @@
       ]
     },
     {
+      "name": "Spoderman",
+      "symbol": "SPOODY",
+      "address": "0xA3218f67dC6256Aa3aa01f4a28B516621D26A388",
+      "decimals": 18,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
       "name": "Ethos Reserve Note",
       "symbol": "ERN",
       "address": "0xa334884bF6b0A066d553D19e507315E839409e62",
@@ -89478,13 +89500,14 @@
       ]
     },
     {
-      "name": "Etherisc DIP",
+      "name": "Decentralized Insurance Protocol Token",
       "symbol": "DIP",
-      "address": "0xac86f3556cbd2b4d800d17adc3a266b500fcb9f5",
+      "address": "0xAc86f3556cBd2b4d800D17ADC3a266B500FCB9F5",
       "logoURI": "https://assets.coingecko.com/coins/images/4586/thumb/dip.png?1696505164",
       "decimals": 18,
       "chainId": 8453,
       "providers": [
+        "liquest",
         "coingeckoBase"
       ]
     },
@@ -90020,6 +90043,16 @@
       "chainId": 8453,
       "providers": [
         "optimism",
+        "liquest"
+      ]
+    },
+    {
+      "name": "Shiba Inu On Base",
+      "symbol": "SHIBA",
+      "address": "0xbAa3125f73Cb4cADc04eC6d74FA085A4baC458CF",
+      "decimals": 18,
+      "chainId": 8453,
+      "providers": [
         "liquest"
       ]
     },
@@ -91041,6 +91074,16 @@
       ]
     },
     {
+      "name": "Tempest",
+      "symbol": "TMPST",
+      "address": "0xd03dd19A4dA6B65BABE948aBb9371279bEA1A705",
+      "decimals": 18,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
       "name": "Super USDC",
       "symbol": "USDCx",
       "address": "0xD04383398dD2426297da660F9CCA3d439AF9ce1b",
@@ -91257,7 +91300,7 @@
       "name": "Doomer",
       "symbol": "DOOMER",
       "address": "0xD3741ac9B3f280B0819191E4b30be4ECd990771e",
-      "logoURI": "https://assets.coingecko.com/coins/images/37448/thumb/1000009134.jpg?1714447823",
+      "logoURI": "https://assets.coingecko.com/coins/images/37448/thumb/DOOMER_ICON_final_CG.png?1715046773",
       "decimals": 8,
       "chainId": 8453,
       "providers": [
@@ -91385,6 +91428,16 @@
       "name": "AutoEarn Token",
       "symbol": "ATE",
       "address": "0xd5DA32Ad4C7510457C0e46Fa4332F75f6C4C4dC0",
+      "decimals": 18,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
+      "name": "Brave Robinhood Wins",
+      "symbol": "ROBINHOOD",
+      "address": "0xd60626fc36E149558F47E8fd6955cA6144cA9638",
       "decimals": 18,
       "chainId": 8453,
       "providers": [
@@ -92210,6 +92263,16 @@
       ]
     },
     {
+      "name": "TOTORO",
+      "symbol": "Totoro",
+      "address": "0xE9728D50Bd3A60d7622d16bA6920Da28fB1EC450",
+      "decimals": 18,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
       "name": "Yeti",
       "symbol": "YETI",
       "address": "0xea36fEc98e696C1049791E850E011A470169A091",
@@ -93010,16 +93073,6 @@
       "name": "The Base Meme",
       "symbol": "BMEME",
       "address": "0xFC06eEbda9FA128de6e69824d8B944b330c3b80F",
-      "decimals": 18,
-      "chainId": 8453,
-      "providers": [
-        "liquest"
-      ]
-    },
-    {
-      "name": "FoodPepe",
-      "symbol": "PWIF",
-      "address": "0xfC55d79FD5567fB18b3c5397eb60911c2f287538",
       "decimals": 18,
       "chainId": 8453,
       "providers": [
@@ -102213,7 +102266,6 @@
       "chainId": 43114,
       "providers": [
         "smolDapp",
-        "defillama",
         "avalance1inch"
       ]
     },
