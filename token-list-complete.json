@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List - complete version",
   "description": "A list of tokens from all the token lists on Balmy",
-  "timestamp": "2024-05-07T18:43:34.259Z",
+  "timestamp": "2024-05-07T20:44:35.556Z",
   "tokens": [
     {
       "name": "Ether",
@@ -55515,12 +55515,13 @@
     },
     {
       "name": "Boba Token",
-      "symbol": "BOBA",
+      "symbol": "Boba",
       "address": "0xa18bF3994C0Cc6E3b63ac420308E5383f53120D7",
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/boba.jpg",
+      "logoURI": "https://assets.coingecko.com/coins/images/20285/large/Boba-200x200---white.png",
       "decimals": 18,
       "chainId": 288,
       "providers": [
+        "balmy",
         "sushiswap"
       ]
     },
@@ -81003,6 +81004,17 @@
       ]
     },
     {
+      "name": "United Base Postal",
+      "symbol": "UBPS",
+      "address": "0x0c90c756350fb803a7d5d9f9ee5ac29e77369973",
+      "logoURI": "https://assets.coingecko.com/coins/images/37638/thumb/Logo-2-Dex-Tools.png?1715105556",
+      "decimals": 18,
+      "chainId": 8453,
+      "providers": [
+        "coingeckoBase"
+      ]
+    },
+    {
       "name": "BLARB",
       "symbol": "BLARB",
       "address": "0x0D30be9D9c2cf90AEff4fEf5B2E8C3D0B02596A0",
@@ -82601,6 +82613,16 @@
       "symbol": "BSTR",
       "address": "0x2a3F48Af62ce71c8829aA014c482B4bCFF2b8975",
       "decimals": 9,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
+      "name": "MYCELI",
+      "symbol": "MYCELI",
+      "address": "0x2AA6ED02F62eCd94624Baa2917b0ba1736FADA28",
+      "decimals": 18,
       "chainId": 8453,
       "providers": [
         "liquest"
@@ -85047,6 +85069,16 @@
       ]
     },
     {
+      "name": "Michael J.Saylor",
+      "symbol": "SAYLOR",
+      "address": "0x57db4edb913bc132c5A3569F73AF66d1600865a3",
+      "decimals": 18,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
       "name": "Uniswap V2",
       "symbol": "UNI-V2",
       "address": "0x57EB07e5E490287e72614F518Be7b547cdc09f67",
@@ -85372,6 +85404,16 @@
       "chainId": 8453,
       "providers": [
         "optimism"
+      ]
+    },
+    {
+      "name": "ARQx AI",
+      "symbol": "ARQX",
+      "address": "0x5e432eeCd01C12ee7071Ee9219C2477a347DA192",
+      "decimals": 18,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
       ]
     },
     {
@@ -86030,7 +86072,8 @@
       "decimals": 18,
       "chainId": 8453,
       "providers": [
-        "optimism"
+        "optimism",
+        "liquest"
       ]
     },
     {
@@ -87001,6 +87044,16 @@
       ]
     },
     {
+      "name": "RobotBulls",
+      "symbol": "RBT",
+      "address": "0x7eCc65A5E734a8bcAf24eEA0AC9C7cfE6355bc30",
+      "decimals": 18,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
       "name": "All Your Base",
       "symbol": "AYB",
       "address": "0x7ed613ab8b2b4c6a781ddc97ea98a666c6437511",
@@ -87333,16 +87386,6 @@
         "liquest",
         "odosBase",
         "coingeckoBase"
-      ]
-    },
-    {
-      "name": "Consensys Win",
-      "symbol": "CONSENSYS",
-      "address": "0x83453C0Bba2e9b3E2a508f6395A307d348dC8Ea1",
-      "decimals": 18,
-      "chainId": 8453,
-      "providers": [
-        "liquest"
       ]
     },
     {
@@ -89800,6 +89843,16 @@
       ]
     },
     {
+      "name": "Truflation",
+      "symbol": "TRUF",
+      "address": "0xB59c8912c83157a955f9D715E556257F432C35D7",
+      "decimals": 18,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
       "name": "OMNI404",
       "symbol": "O404",
       "address": "0xB5C457dDB4cE3312a6C5a2b056a1652bd542a208",
@@ -90932,8 +90985,7 @@
       "decimals": 18,
       "chainId": 8453,
       "providers": [
-        "smolDapp",
-        "liquest"
+        "smolDapp"
       ]
     },
     {
@@ -91428,16 +91480,6 @@
       "name": "AutoEarn Token",
       "symbol": "ATE",
       "address": "0xd5DA32Ad4C7510457C0e46Fa4332F75f6C4C4dC0",
-      "decimals": 18,
-      "chainId": 8453,
-      "providers": [
-        "liquest"
-      ]
-    },
-    {
-      "name": "Brave Robinhood Wins",
-      "symbol": "ROBINHOOD",
-      "address": "0xd60626fc36E149558F47E8fd6955cA6144cA9638",
       "decimals": 18,
       "chainId": 8453,
       "providers": [
@@ -92072,16 +92114,6 @@
       ]
     },
     {
-      "name": "Ski Mask Cat",
-      "symbol": "SKIC",
-      "address": "0xe48C3A357Dc4153bAEf2B86B7fF0d91837477A51",
-      "decimals": 8,
-      "chainId": 8453,
-      "providers": [
-        "liquest"
-      ]
-    },
-    {
       "name": "Giga Cat",
       "symbol": "gcat",
       "address": "0xE4fc328aE212232EFc5F5dd0e0b1537cd055d715",
@@ -92376,16 +92408,6 @@
       "name": "Boo Token",
       "symbol": "BOO",
       "address": "0xEc1Df7EdFcdC2e2042c63252c1cEF480f64F9189",
-      "decimals": 18,
-      "chainId": 8453,
-      "providers": [
-        "liquest"
-      ]
-    },
-    {
-      "name": "onchain summer II",
-      "symbol": "SPF",
-      "address": "0xEc201bA85202f8b479719B77504Cf786353AE31a",
       "decimals": 18,
       "chainId": 8453,
       "providers": [
@@ -94594,6 +94616,16 @@
       "providers": [
         "defillama",
         "sushiswap"
+      ]
+    },
+    {
+      "name": "xWETH-USDC05",
+      "symbol": "xWETH-USDC05",
+      "address": "0x10236953FD609Fe6a4Df9a786b938ced9c9e99d2",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "yearn"
       ]
     },
     {
