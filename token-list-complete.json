@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List - complete version",
   "description": "A list of tokens from all the token lists on Balmy",
-  "timestamp": "2024-05-08T00:02:11.691Z",
+  "timestamp": "2024-05-09T00:02:31.919Z",
   "tokens": [
     {
       "name": "Ether",
@@ -6609,13 +6609,12 @@
     },
     {
       "name": "Cover Protocol",
-      "symbol": "cover",
-      "address": "0x4688a8b1f292fdab17e9a90c8bc379dc1dbd8713",
-      "logoURI": "https://assets.coingecko.com/coins/images/13563/thumb/1_eWBbDaqpxXqt7WYPSP4qSw.jpeg?1609822578",
+      "symbol": "COVER",
+      "address": "0x4688a8b1F292FDaB17E9a90c8Bc379dC1DBd8713",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/cover.jpg",
       "decimals": 18,
       "chainId": 1,
       "providers": [
-        "defillama",
         "sushiswap"
       ]
     },
@@ -45724,10 +45723,10 @@
       ]
     },
     {
-      "name": "Magic Internet Money",
+      "name": "Magic Internet Money (Polygon)",
       "symbol": "mim",
       "address": "0x49a0400587a7f65072c87c4910449fdcc5c47242",
-      "logoURI": "https://assets.coingecko.com/coins/images/16786/thumb/mimlogopng.png?1624979612",
+      "logoURI": "https://assets.coingecko.com/coins/images/37661/thumb/mim.png?1715166109",
       "decimals": 18,
       "chainId": 137,
       "providers": [
@@ -54093,14 +54092,13 @@
       ]
     },
     {
-      "name": "Cover Protocol",
-      "symbol": "cover",
-      "address": "0xb01e8419d842beebf1b70a7b5f7142abbaf7159d",
-      "logoURI": "https://assets.coingecko.com/coins/images/13563/thumb/1_eWBbDaqpxXqt7WYPSP4qSw.jpeg?1609822578",
+      "name": "Cover",
+      "symbol": "COVER",
+      "address": "0xB01E8419d842beebf1b70A7b5f7142abbaf7159D",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/cover.jpg",
       "decimals": 18,
       "chainId": 250,
       "providers": [
-        "defillama",
         "sushiswap"
       ]
     },
@@ -81982,6 +81980,16 @@
       ]
     },
     {
+      "name": "SWAGGY CAT",
+      "symbol": "SWAGGY",
+      "address": "0x207B0a96493830998366E1Edf9F335c36a4C910c",
+      "decimals": 18,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
       "name": "Biochar",
       "symbol": "CHAR",
       "address": "0x20b048fA035D5763685D695e66aDF62c5D9F5055",
@@ -82072,16 +82080,6 @@
       "symbol": "sobUSDbC",
       "address": "0x225886C9beb5eeE254F79d58bbD80cf9F200D4d0",
       "decimals": 8,
-      "chainId": 8453,
-      "providers": [
-        "liquest"
-      ]
-    },
-    {
-      "name": "Somalio",
-      "symbol": "SOMALIO",
-      "address": "0x2266E0b44A93F1930378fead21864d93F923dC75",
-      "decimals": 18,
       "chainId": 8453,
       "providers": [
         "liquest"
@@ -82609,16 +82607,6 @@
       ]
     },
     {
-      "name": "Based Buster",
-      "symbol": "BSTR",
-      "address": "0x2a3F48Af62ce71c8829aA014c482B4bCFF2b8975",
-      "decimals": 9,
-      "chainId": 8453,
-      "providers": [
-        "liquest"
-      ]
-    },
-    {
       "name": "MYCELI",
       "symbol": "MYCELI",
       "address": "0x2AA6ED02F62eCd94624Baa2917b0ba1736FADA28",
@@ -82804,6 +82792,16 @@
       "symbol": "PUTIN",
       "address": "0x2f59Ed7528A504cE8E4aFA0C10a382Bb2e9d16DF",
       "decimals": 9,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
+      "name": "LUCKY LEMU",
+      "symbol": "LEMU",
+      "address": "0x2F626E22C3AbBe0744B76E1c72F2eAf4EA5823b9",
+      "decimals": 18,
       "chainId": 8453,
       "providers": [
         "liquest"
@@ -83214,7 +83212,8 @@
       "decimals": 18,
       "chainId": 8453,
       "providers": [
-        "optimism"
+        "optimism",
+        "liquest"
       ]
     },
     {
@@ -83283,7 +83282,9 @@
       "decimals": 18,
       "chainId": 8453,
       "providers": [
-        "optimism"
+        "optimism",
+        "liquest",
+        "coingeckoBase"
       ]
     },
     {
@@ -83685,6 +83686,17 @@
       ]
     },
     {
+      "name": "Pizzaverse",
+      "symbol": "PIZZA",
+      "address": "0x40468be13c4388d2ab68a09f56973fa95db5bca0",
+      "logoURI": "https://assets.coingecko.com/coins/images/37652/thumb/pizza-logo-fitted.png?1715198808",
+      "decimals": 18,
+      "chainId": 8453,
+      "providers": [
+        "coingeckoBase"
+      ]
+    },
+    {
       "name": "Zunami ETH",
       "symbol": "zunETH",
       "address": "0x40AeED4852Df0Ae3624E7027DEdDFb972Dbc8852",
@@ -84056,16 +84068,6 @@
         "liquest",
         "odosBase",
         "coingeckoBase"
-      ]
-    },
-    {
-      "name": "EYEs",
-      "symbol": "EYEs",
-      "address": "0x466205989D219555716579881B7cE8207F4c636e",
-      "decimals": 18,
-      "chainId": 8453,
-      "providers": [
-        "liquest"
       ]
     },
     {
@@ -85063,16 +85065,6 @@
       "symbol": "HOBBY",
       "address": "0x572dA05f842c9fEa26f3190C33f3F9afaF0743Ae",
       "decimals": 5,
-      "chainId": 8453,
-      "providers": [
-        "liquest"
-      ]
-    },
-    {
-      "name": "Michael J.Saylor",
-      "symbol": "SAYLOR",
-      "address": "0x57db4edb913bc132c5A3569F73AF66d1600865a3",
-      "decimals": 18,
       "chainId": 8453,
       "providers": [
         "liquest"
@@ -86447,6 +86439,16 @@
       ]
     },
     {
+      "name": "Degen Frens",
+      "symbol": "FRENS",
+      "address": "0x72d1EB99Bebadc114c52526f55c9bBAd5870DD5c",
+      "decimals": 18,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
       "name": "Uniswap V2",
       "symbol": "UNI-V2",
       "address": "0x736a886A2f05435F48F7b8D35Ee03F957430c6c7",
@@ -87144,16 +87146,6 @@
       ]
     },
     {
-      "name": "Donel Trump",
-      "symbol": "TRUMP",
-      "address": "0x7f92B3E474276139DDF1558470bCdFc2685e2616",
-      "decimals": 9,
-      "chainId": 8453,
-      "providers": [
-        "liquest"
-      ]
-    },
-    {
       "name": "BaseSwap LPs",
       "symbol": "BSWAP-LP",
       "address": "0x7fea0384F38EF6Ae79bB12295a9e10C464204F52",
@@ -87184,6 +87176,16 @@
       "chainId": 8453,
       "providers": [
         "coingeckoBase"
+      ]
+    },
+    {
+      "name": "$FRENS",
+      "symbol": "FRENS",
+      "address": "0x805AfC41645fd362609008D2c83C2d18EEEb9979",
+      "decimals": 9,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
       ]
     },
     {
@@ -88514,16 +88516,6 @@
       ]
     },
     {
-      "name": "CatDoge",
-      "symbol": "CatDoge",
-      "address": "0x994C5ee39175486314CE125a1D53bCEd48Ef9743",
-      "decimals": 9,
-      "chainId": 8453,
-      "providers": [
-        "liquest"
-      ]
-    },
-    {
       "name": "ARIANEE",
       "symbol": "ARIA20",
       "address": "0x998b3Fd0998bffF66D28aB03DfE417FC3B884188",
@@ -88868,10 +88860,12 @@
       "name": "MATH Token",
       "symbol": "MATH",
       "address": "0x9e81F6495BA29a6B4D48bDdD042C0598fA8abc9F",
+      "logoURI": "https://assets.coingecko.com/coins/images/11335/thumb/2020-05-19-token-200.png?1696511257",
       "decimals": 18,
       "chainId": 8453,
       "providers": [
-        "liquest"
+        "liquest",
+        "coingeckoBase"
       ]
     },
     {
@@ -89047,16 +89041,6 @@
       "chainId": 8453,
       "providers": [
         "coingeckoBase"
-      ]
-    },
-    {
-      "name": "Spoderman",
-      "symbol": "SPOODY",
-      "address": "0xA3218f67dC6256Aa3aa01f4a28B516621D26A388",
-      "decimals": 18,
-      "chainId": 8453,
-      "providers": [
-        "liquest"
       ]
     },
     {
@@ -89328,10 +89312,12 @@
       "name": "FOMO Token",
       "symbol": "FOMO",
       "address": "0xa7ea9d5d4d4c7cF7dbde5871E6D108603C6942a5",
+      "logoURI": "https://assets.coingecko.com/coins/images/37673/thumb/200px.png?1715189071",
       "decimals": 18,
       "chainId": 8453,
       "providers": [
-        "liquest"
+        "liquest",
+        "coingeckoBase"
       ]
     },
     {
@@ -89433,13 +89419,12 @@
     },
     {
       "name": "ElonRWA",
-      "symbol": "ElonRWA",
-      "address": "0xAa6Cccdce193698D33deb9ffd4be74eAa74c4898",
+      "symbol": "ELONRWA",
+      "address": "0xaa6cccdce193698d33deb9ffd4be74eaa74c4898",
       "logoURI": "https://assets.coingecko.com/coins/images/36970/thumb/elonrwa.png?1712910039",
       "decimals": 18,
       "chainId": 8453,
       "providers": [
-        "liquest",
         "coingeckoBase"
       ]
     },
@@ -89770,6 +89755,16 @@
       ]
     },
     {
+      "name": "Human Intelligence Machine",
+      "symbol": "HIM",
+      "address": "0xb3B367EB54765cFF53Cb2A78b968760561C66A08",
+      "decimals": 10,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
       "name": "SushiSwap LP Token",
       "symbol": "SLP",
       "address": "0xb463CD276809d9B2C3E182ADA5A22Cf7215a838d",
@@ -89966,16 +89961,6 @@
       ]
     },
     {
-      "name": "SweepCoin",
-      "symbol": "SWEEP",
-      "address": "0xB88a5Ac00917a02d82c7cd6CEBd73E2852d43574",
-      "decimals": 18,
-      "chainId": 8453,
-      "providers": [
-        "liquest"
-      ]
-    },
-    {
       "name": "Toby ToadGod",
       "symbol": "TOBY",
       "address": "0xb8d98a102b0079b69ffbc760c8d857a31653e56e",
@@ -90012,11 +89997,12 @@
     {
       "name": "OX Coin",
       "symbol": "OX",
-      "address": "0xba0dda8762c24da9487f5fa026a9b64b695a07ea",
+      "address": "0xba0Dda8762C24dA9487f5FA026a9B64b695A07Ea",
       "logoURI": "https://assets.coingecko.com/coins/images/35365/thumb/logo.png?1708395976",
       "decimals": 18,
       "chainId": 8453,
       "providers": [
+        "liquest",
         "coingeckoBase"
       ]
     },
@@ -90262,6 +90248,16 @@
       ]
     },
     {
+      "name": "Guardian of Ethereum",
+      "symbol": "JOSEPH",
+      "address": "0xbE17dfc2C6d26FeBe2aFc98ccB1EDFBB60854E91",
+      "decimals": 18,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
       "name": "KRAV",
       "symbol": "KRAV",
       "address": "0xbE3111856e4acA828593274eA6872f27968C8DD6",
@@ -90433,6 +90429,16 @@
       ]
     },
     {
+      "name": "Human Intelligence Machine",
+      "symbol": "HIM",
+      "address": "0xc1ffaeF4E7D553BBaF13926E258A1a555a363a07",
+      "decimals": 18,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
       "name": "NFTEarthOFT",
       "symbol": "NFTE",
       "address": "0xc2106ca72996e49bBADcB836eeC52B765977fd20",
@@ -90493,16 +90499,6 @@
       "name": "Definitive Shares Hyperstaking cbETH (Moonwell)",
       "symbol": "DEF_",
       "address": "0xC2cA42Ac871753d4623766581b7A963c2AD7209B",
-      "decimals": 18,
-      "chainId": 8453,
-      "providers": [
-        "liquest"
-      ]
-    },
-    {
-      "name": "NivIdiot",
-      "symbol": "NIVID",
-      "address": "0xc2F5b064e2212077a1284d1c7E8209ca8a024df4",
       "decimals": 18,
       "chainId": 8453,
       "providers": [
@@ -91607,6 +91603,17 @@
       ]
     },
     {
+      "name": "ISKRA Token",
+      "symbol": "ISK",
+      "address": "0xd85eff20288ca72ea9eecffb428f89ee5066ca5c",
+      "logoURI": "https://assets.coingecko.com/coins/images/27428/thumb/ISKRA_logo.png?1696526469",
+      "decimals": 18,
+      "chainId": 8453,
+      "providers": [
+        "coingeckoBase"
+      ]
+    },
+    {
       "name": "MPRO",
       "symbol": "MPRO",
       "address": "0xD88611A629265C9AF294FFDD2E7fa4546612273e",
@@ -92147,6 +92154,16 @@
       ]
     },
     {
+      "name": "Slepe",
+      "symbol": "SLEPE",
+      "address": "0xE54F5f641c74Af6A469F9935B214908631d457E0",
+      "decimals": 18,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
       "name": "Bmazon",
       "symbol": "BMAZON",
       "address": "0xE5f71DC1fE4a7599d1BB10E21E2bE062eFBE737C",
@@ -92329,12 +92346,11 @@
     {
       "name": "Infinite",
       "symbol": "INF",
-      "address": "0xeA930c80d8eac45993d127055E718555e7155fB1",
+      "address": "0xea930c80d8eac45993d127055e718555e7155fb1",
       "logoURI": "https://assets.coingecko.com/coins/images/36156/thumb/Design_sans_titre_25.png?1710743342",
       "decimals": 18,
       "chainId": 8453,
       "providers": [
-        "liquest",
         "coingeckoBase"
       ]
     },
@@ -92658,6 +92674,16 @@
       "symbol": "ZEB",
       "address": "0xF0ce1d83b5FC9c67F157d8B97fD09E2cF8AF899E",
       "decimals": 18,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
+      "name": "Suht Yr Pi Hool",
+      "symbol": "YrPi",
+      "address": "0xf0E71975ed873D435837C53554a4373EDC72015a",
+      "decimals": 9,
       "chainId": 8453,
       "providers": [
         "liquest"
@@ -93271,12 +93297,13 @@
     },
     {
       "name": "Boe",
-      "symbol": "BOE",
-      "address": "0xff62ddfa80e513114c3a0bf4d6ffff1c1d17aadf",
+      "symbol": "Boe",
+      "address": "0xfF62dDfa80E513114C3a0bf4d6fFff1c1D17aADf",
       "logoURI": "https://assets.coingecko.com/coins/images/36712/thumb/79jlrE4M_400x400_%282%29.jpg?1712127456",
       "decimals": 18,
       "chainId": 8453,
       "providers": [
+        "liquest",
         "coingeckoBase"
       ]
     },
