@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2024-05-23T00:02:24.128Z",
+  "timestamp": "2024-05-24T00:02:25.831Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -25083,6 +25083,14 @@
       "chainId": 1101
     },
     {
+      "name": "Wrapped liquid staked Ether 2.0",
+      "symbol": "wstETH",
+      "address": "0x5D8cfF95D7A57c0BF50B30b43c7CC0D52825D4a9",
+      "logoURI": "https://etherscan.io/token/images/wsteth3_32.png",
+      "decimals": 18,
+      "chainId": 1101
+    },
+    {
       "name": "QuickSwap",
       "symbol": "QUICK",
       "address": "0x68286607A1d43602d880D349187c3c48c0fD05E6",
@@ -25144,6 +25152,14 @@
       "address": "0xA8CE8aee21bC2A48a5EF670afCc9274C7bbbC035",
       "logoURI": "https://assets.polygon.technology/tokenAssets/usdc.svg",
       "decimals": 6,
+      "chainId": 1101
+    },
+    {
+      "name": "Rocket Pool ETH",
+      "symbol": "rETH",
+      "address": "0xb23C20EFcE6e24Acca0Cef9B7B7aA196b84EC942",
+      "logoURI": "https://etherscan.io/token/images/rocketpooleth_32.png",
+      "decimals": 18,
       "chainId": 1101
     },
     {
@@ -27295,6 +27311,14 @@
       "symbol": "SAM",
       "address": "0xed1779845520339693CDBffec49a74246E7D671b",
       "logoURI": "https://assets.smold.app/api/token/8453/0xed1779845520339693CDBffec49a74246E7D671b/logo-128.png",
+      "decimals": 18,
+      "chainId": 8453
+    },
+    {
+      "name": "Web 3 Dollar",
+      "symbol": "USD3",
+      "address": "0xEFb97aaF77993922aC4be4Da8Fbc9A2425322677",
+      "logoURI": "https://ethereum-optimism.github.io/data/USD3/logo.svg",
       "decimals": 18,
       "chainId": 8453
     },
@@ -30454,14 +30478,6 @@
       "address": "0x2140Ea50bc3B6Ac3971F9e9Ea93A1442665670e4",
       "logoURI": "https://assets.smold.app/api/token/59144/0x2140Ea50bc3B6Ac3971F9e9Ea93A1442665670e4/logo-128.png",
       "decimals": 18,
-      "chainId": 59144
-    },
-    {
-      "name": "Axelar",
-      "symbol": "AXL",
-      "address": "0x23ee2343B892b1BB63503a4FAbc840E0e2C6810f",
-      "logoURI": "https://storage.googleapis.com/ks-setting-1d682dca/94da0e0e-0c6a-4b61-af40-dbb19d6674c4.png",
-      "decimals": 6,
       "chainId": 59144
     },
     {
