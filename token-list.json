@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2024-05-29T00:02:28.288Z",
+  "timestamp": "2024-05-30T00:02:31.830Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -25235,14 +25235,6 @@
       "chainId": 1101
     },
     {
-      "name": "Wrapped liquid staked Ether 2.0",
-      "symbol": "wstETH",
-      "address": "0x5D8cfF95D7A57c0BF50B30b43c7CC0D52825D4a9",
-      "logoURI": "https://etherscan.io/token/images/wsteth3_32.png",
-      "decimals": 18,
-      "chainId": 1101
-    },
-    {
       "name": "QuickSwap",
       "symbol": "QUICK",
       "address": "0x68286607A1d43602d880D349187c3c48c0fD05E6",
@@ -25304,14 +25296,6 @@
       "address": "0xA8CE8aee21bC2A48a5EF670afCc9274C7bbbC035",
       "logoURI": "https://assets.polygon.technology/tokenAssets/usdc.svg",
       "decimals": 6,
-      "chainId": 1101
-    },
-    {
-      "name": "Rocket Pool ETH",
-      "symbol": "rETH",
-      "address": "0xb23C20EFcE6e24Acca0Cef9B7B7aA196b84EC942",
-      "logoURI": "https://etherscan.io/token/images/rocketpooleth_32.png",
-      "decimals": 18,
       "chainId": 1101
     },
     {
@@ -27519,6 +27503,14 @@
       "symbol": "DEUS",
       "address": "0xDE5ed76E7c05eC5e4572CfC88d1ACEA165109E44",
       "logoURI": "https://assets.smold.app/api/token/8453/0xDE5ed76E7c05eC5e4572CfC88d1ACEA165109E44/logo-128.png",
+      "decimals": 18,
+      "chainId": 8453
+    },
+    {
+      "name": "Rwax Token",
+      "symbol": "RWAX",
+      "address": "0xe0023E73aab4fE9a22f059a9d27E857E027eE3dc",
+      "logoURI": "https://assets.smold.app/api/token/8453/0xe0023E73aab4fE9a22f059a9d27E857E027eE3dc/logo-128.png",
       "decimals": 18,
       "chainId": 8453
     },
