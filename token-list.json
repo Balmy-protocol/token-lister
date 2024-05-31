@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2024-05-30T00:02:31.830Z",
+  "timestamp": "2024-05-31T00:02:20.224Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -4319,14 +4319,6 @@
       "symbol": "NMX",
       "address": "0xd32d01A43c869EdcD1117C640fBDcfCFD97d9d65",
       "logoURI": "https://tokens.1inch.io/0xd32d01a43c869edcd1117c640fbdcfcfd97d9d65.png",
-      "decimals": 18,
-      "chainId": 56
-    },
-    {
-      "name": "YEL Token",
-      "symbol": "YEL",
-      "address": "0xD3b71117E6C1558c1553305b44988cd944e97300",
-      "logoURI": "https://tokens.1inch.io/0xd3b71117e6c1558c1553305b44988cd944e97300.png",
       "decimals": 18,
       "chainId": 56
     },
@@ -25235,6 +25227,14 @@
       "chainId": 1101
     },
     {
+      "name": "Wrapped liquid staked Ether 2.0",
+      "symbol": "wstETH",
+      "address": "0x5D8cfF95D7A57c0BF50B30b43c7CC0D52825D4a9",
+      "logoURI": "https://etherscan.io/token/images/wsteth3_32.png",
+      "decimals": 18,
+      "chainId": 1101
+    },
+    {
       "name": "QuickSwap",
       "symbol": "QUICK",
       "address": "0x68286607A1d43602d880D349187c3c48c0fD05E6",
@@ -25296,6 +25296,14 @@
       "address": "0xA8CE8aee21bC2A48a5EF670afCc9274C7bbbC035",
       "logoURI": "https://assets.polygon.technology/tokenAssets/usdc.svg",
       "decimals": 6,
+      "chainId": 1101
+    },
+    {
+      "name": "Rocket Pool ETH",
+      "symbol": "rETH",
+      "address": "0xb23C20EFcE6e24Acca0Cef9B7B7aA196b84EC942",
+      "logoURI": "https://etherscan.io/token/images/rocketpooleth_32.png",
+      "decimals": 18,
       "chainId": 1101
     },
     {
