@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List - complete version",
   "description": "A list of tokens from all the token lists on Balmy",
-  "timestamp": "2024-05-31T00:02:20.247Z",
+  "timestamp": "2024-06-01T00:02:34.437Z",
   "tokens": [
     {
       "name": "Ether",
@@ -11479,7 +11479,7 @@
     },
     {
       "name": "Strike",
-      "symbol": "strk",
+      "symbol": "strike",
       "address": "0x74232704659ef37c08995e386a2e26cc27a8d7b1",
       "logoURI": "https://assets.coingecko.com/coins/images/14607/thumb/Jw-36llq_400x400.jpg?1617243607",
       "decimals": 18,
@@ -41626,6 +41626,17 @@
       ]
     },
     {
+      "name": "RMM yield generating REALTOKEN-S-9415-9417-RAVENSWOOD-ST-DETROIT-MI",
+      "symbol": "armmREALTOKEN-S-9415-9417-RAVENSWOOD-ST-DETROIT-MI",
+      "address": "0x03c4413365c7376a0ab90288c142bed8c05d2e97",
+      "logoURI": "https://tokens.1inch.io/0x03c4413365c7376a0ab90288c142bed8c05d2e97.png",
+      "decimals": 18,
+      "chainId": 100,
+      "providers": [
+        "xDai1inch"
+      ]
+    },
+    {
       "name": "Status Network Token on Gnosis",
       "symbol": "SNT",
       "address": "0x044f6ae3aef34fdb8fddc7c05f9cc17f19acd516",
@@ -41634,6 +41645,17 @@
       "chainId": 100,
       "providers": [
         "honeyswap"
+      ]
+    },
+    {
+      "name": "RMM yield generating USDC",
+      "symbol": "armmUSDC",
+      "address": "0x05d909006cd38ba9e73db72c083081726b67971d",
+      "logoURI": "https://tokens.1inch.io/0x05d909006cd38ba9e73db72c083081726b67971d.png",
+      "decimals": 6,
+      "chainId": 100,
+      "providers": [
+        "xDai1inch"
       ]
     },
     {
@@ -41701,6 +41723,17 @@
       "providers": [
         "smolDapp",
         "yearn"
+      ]
+    },
+    {
+      "name": "RealT RMM V3 WXDAI",
+      "symbol": "armmv3WXDAI",
+      "address": "0x0ca4f5554dd9da6217d62d8df2816c82bba4157b",
+      "logoURI": "https://tokens.1inch.io/0x0ca4f5554dd9da6217d62d8df2816c82bba4157b.png",
+      "decimals": 18,
+      "chainId": 100,
+      "providers": [
+        "xDai1inch"
       ]
     },
     {
@@ -41800,6 +41833,17 @@
       "chainId": 100,
       "providers": [
         "honeyswap"
+      ]
+    },
+    {
+      "name": "RMM yield generating REALTOKEN-S-17500-EVERGREEN-RD-DETROIT-MI",
+      "symbol": "armmREALTOKEN-S-17500-EVERGREEN-RD-DETROIT-MI",
+      "address": "0x1492860052d85d9df610d32f2353d8d1d805d884",
+      "logoURI": "https://tokens.1inch.io/0x1492860052d85d9df610d32f2353d8d1d805d884.png",
+      "decimals": 18,
+      "chainId": 100,
+      "providers": [
+        "xDai1inch"
       ]
     },
     {
@@ -42014,6 +42058,17 @@
       ]
     },
     {
+      "name": "RMM yield generating REALTOKEN-S-1-HOLDINGS-ROHNS-ST-DETROIT-MI",
+      "symbol": "armmREALTOKEN-S-1-HOLDINGS-ROHNS-ST-DETROIT-MI",
+      "address": "0x29480b83b31161ebf7cb501df122c7e69c4a22e7",
+      "logoURI": "https://tokens.1inch.io/0x29480b83b31161ebf7cb501df122c7e69c4a22e7.png",
+      "decimals": 18,
+      "chainId": 100,
+      "providers": [
+        "xDai1inch"
+      ]
+    },
+    {
       "name": "Bidao on Gnosis",
       "symbol": "BID",
       "address": "0x2977893f4c04bfbd6efc68d0e46598d27810d3db",
@@ -42057,6 +42112,17 @@
       "providers": [
         "honeyswap",
         "cowswap"
+      ]
+    },
+    {
+      "name": "RMM yield generating WETH",
+      "symbol": "armmWETH",
+      "address": "0x2cfab362fdb1e8c7d58659d0c6b04f575eaaba25",
+      "logoURI": "https://tokens.1inch.io/0x2cfab362fdb1e8c7d58659d0c6b04f575eaaba25.png",
+      "decimals": 18,
+      "chainId": 100,
+      "providers": [
+        "xDai1inch"
       ]
     },
     {
@@ -42861,6 +42927,17 @@
       ]
     },
     {
+      "name": "RMM yield generating REALTOKEN-S-16851-16881-GREENFIELD-RD-DETROIT-MI",
+      "symbol": "armmREALTOKEN-S-16851-16881-GREENFIELD-RD-DETROIT-MI",
+      "address": "0x682e27232f14313542dfa5b88a688cf683f6c3a7",
+      "logoURI": "https://tokens.1inch.io/0x682e27232f14313542dfa5b88a688cf683f6c3a7.png",
+      "decimals": 18,
+      "chainId": 100,
+      "providers": [
+        "xDai1inch"
+      ]
+    },
+    {
       "name": "Base Protocol on Gnosis",
       "symbol": "BASE",
       "address": "0x699d001ef13b15335193bc5fad6cfc6747eee8be",
@@ -42869,6 +42946,17 @@
       "chainId": 100,
       "providers": [
         "honeyswap"
+      ]
+    },
+    {
+      "name": "RealT RMM V3 Variable Debt USDC",
+      "symbol": "variableDebtrmmv3USDC",
+      "address": "0x69c731ae5f5356a779f44c355abb685d84e5e9e6",
+      "logoURI": "https://tokens.1inch.io/0x69c731ae5f5356a779f44c355abb685d84e5e9e6.png",
+      "decimals": 6,
+      "chainId": 100,
+      "providers": [
+        "xDai1inch"
       ]
     },
     {
@@ -42884,6 +42972,17 @@
         "sushiswap",
         "honeyswap",
         "cowswap",
+        "xDai1inch"
+      ]
+    },
+    {
+      "name": "RMM variable debt bearing rmmWXDAI",
+      "symbol": "variableDebtrmmWXDAI",
+      "address": "0x6a7ced66902d07066ad08c81179d17d0fbe36829",
+      "logoURI": "https://tokens.1inch.io/0x6a7ced66902d07066ad08c81179d17d0fbe36829.png",
+      "decimals": 18,
+      "chainId": 100,
+      "providers": [
         "xDai1inch"
       ]
     },
@@ -43040,6 +43139,17 @@
       ]
     },
     {
+      "name": "RMM yield generating WXDAI",
+      "symbol": "armmWXDAI",
+      "address": "0x7349c9eaa538e118725a6130e0f8341509b9f8a0",
+      "logoURI": "https://tokens.1inch.io/0x7349c9eaa538e118725a6130e0f8341509b9f8a0.png",
+      "decimals": 18,
+      "chainId": 100,
+      "providers": [
+        "xDai1inch"
+      ]
+    },
+    {
       "name": "AirSwap Token on Gnosis",
       "symbol": "AST",
       "address": "0x743a991365ba94bfc90ad0002cad433c7a33cb4a",
@@ -43128,6 +43238,17 @@
       ]
     },
     {
+      "name": "RMM yield generating REALTOKEN-S-10411-10421-CADIEUX-RD-DETROIT-MI",
+      "symbol": "armmREALTOKEN-S-10411-10421-CADIEUX-RD-DETROIT-MI",
+      "address": "0x7b8515a849c8b7ae5da5809d1a30db5a6c834202",
+      "logoURI": "https://tokens.1inch.io/0x7b8515a849c8b7ae5da5809d1a30db5a6c834202.png",
+      "decimals": 18,
+      "chainId": 100,
+      "providers": [
+        "xDai1inch"
+      ]
+    },
+    {
       "name": "Davincij15 Token on Gnosis",
       "symbol": "DJ15",
       "address": "0x7c16c63684d86bacc52e8793b08a5a1a3cb1ba1e",
@@ -43136,6 +43257,17 @@
       "chainId": 100,
       "providers": [
         "honeyswap"
+      ]
+    },
+    {
+      "name": "RMM stable debt bearing WXDAI",
+      "symbol": "stableDebtrmmWXDAI",
+      "address": "0x7d0b84f344cea96003076847a6da52d94c4ac1cc",
+      "logoURI": "https://tokens.1inch.io/0x7d0b84f344cea96003076847a6da52d94c4ac1cc.png",
+      "decimals": 18,
+      "chainId": 100,
+      "providers": [
+        "xDai1inch"
       ]
     },
     {
@@ -43251,6 +43383,17 @@
       "chainId": 100,
       "providers": [
         "honeyswap"
+      ]
+    },
+    {
+      "name": "RMM yield generating WBTC",
+      "symbol": "armmWBTC",
+      "address": "0x890ab77c02c2e85e78c05bbb431b46bab0bee220",
+      "logoURI": "https://tokens.1inch.io/0x890ab77c02c2e85e78c05bbb431b46bab0bee220.png",
+      "decimals": 8,
+      "chainId": 100,
+      "providers": [
+        "xDai1inch"
       ]
     },
     {
@@ -43438,6 +43581,28 @@
         "sushiswap",
         "honeyswap",
         "cowswap",
+        "xDai1inch"
+      ]
+    },
+    {
+      "name": "RMM yield generating REALTOKEN-S-12405-SANTA-ROSA-DR-DETROIT-MI",
+      "symbol": "armmREALTOKEN-S-12405-SANTA-ROSA-DR-DETROIT-MI",
+      "address": "0xa022e030d271e8faee5df3987953499adfc370cb",
+      "logoURI": "https://tokens.1inch.io/0xa022e030d271e8faee5df3987953499adfc370cb.png",
+      "decimals": 18,
+      "chainId": 100,
+      "providers": [
+        "xDai1inch"
+      ]
+    },
+    {
+      "name": "RMM yield generating USDT",
+      "symbol": "armmUSDT",
+      "address": "0xa0c95bebe678eeed33a51dc24acf60fd1900552a",
+      "logoURI": "https://tokens.1inch.io/0xa0c95bebe678eeed33a51dc24acf60fd1900552a.png",
+      "decimals": 6,
+      "chainId": 100,
+      "providers": [
         "xDai1inch"
       ]
     },
@@ -43690,6 +43855,17 @@
       "chainId": 100,
       "providers": [
         "honeyswap"
+      ]
+    },
+    {
+      "name": "RMM yield generating REALTOKEN-S-10040-CADIEUX-RD-DETROIT-MI",
+      "symbol": "armmREALTOKEN-S-10040-CADIEUX-RD-DETROIT-MI",
+      "address": "0xbb554a7523dce56a26fae111378ca7a56fbb0644",
+      "logoURI": "https://tokens.1inch.io/0xbb554a7523dce56a26fae111378ca7a56fbb0644.png",
+      "decimals": 18,
+      "chainId": 100,
+      "providers": [
+        "xDai1inch"
       ]
     },
     {
@@ -44344,6 +44520,28 @@
       ]
     },
     {
+      "name": "Citrus WXDAI on RMM Vault",
+      "symbol": "crmmWXDAI",
+      "address": "0xed538cc614208f66ac1c087fb4fa37532d47a5b6",
+      "logoURI": "https://tokens.1inch.io/0xed538cc614208f66ac1c087fb4fa37532d47a5b6.png",
+      "decimals": 18,
+      "chainId": 100,
+      "providers": [
+        "xDai1inch"
+      ]
+    },
+    {
+      "name": "RealT RMM V3 USDC",
+      "symbol": "armmv3USDC",
+      "address": "0xed56f76e9cbc6a64b821e9c016eafbd3db5436d1",
+      "logoURI": "https://tokens.1inch.io/0xed56f76e9cbc6a64b821e9c016eafbd3db5436d1.png",
+      "decimals": 6,
+      "chainId": 100,
+      "providers": [
+        "xDai1inch"
+      ]
+    },
+    {
       "name": "Trace Token on Gnosis",
       "symbol": "TRAC",
       "address": "0xeddd81e0792e764501aae206eb432399a0268db5",
@@ -44375,6 +44573,17 @@
       "chainId": 100,
       "providers": [
         "smolDapp",
+        "xDai1inch"
+      ]
+    },
+    {
+      "name": "RealT RMM V3 RTW-USD-01",
+      "symbol": "armmv3RTW-USD-01",
+      "address": "0xf3220cd8f66aeb86fc2a82502977eab4bfd2f647",
+      "logoURI": "https://tokens.1inch.io/0xf3220cd8f66aeb86fc2a82502977eab4bfd2f647.png",
+      "decimals": 18,
+      "chainId": 100,
+      "providers": [
         "xDai1inch"
       ]
     },
@@ -83905,16 +84114,6 @@
       ]
     },
     {
-      "name": "Anime",
-      "symbol": "ANIME",
-      "address": "0x04B8829746B7e0907e05E64e7c56aA9b6e1Da8c6",
-      "decimals": 18,
-      "chainId": 8453,
-      "providers": [
-        "liquest"
-      ]
-    },
-    {
       "name": "Wrapped eETH",
       "symbol": "weETH",
       "address": "0x04C0599Ae5A44757c0af6F9eC3b93da8976c150A",
@@ -83951,6 +84150,16 @@
         "smolDapp",
         "liquest",
         "coingeckoBase"
+      ]
+    },
+    {
+      "name": "Super BLEU",
+      "symbol": "BLEUx",
+      "address": "0x04fFB9ce95af003A3AA3611be6c6Ca1431151FB5",
+      "decimals": 18,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
       ]
     },
     {
@@ -84264,16 +84473,6 @@
       "symbol": "UNI-V2",
       "address": "0x0aEdaA099A9878Cd546182dc02D7480CB77098C8",
       "decimals": 18,
-      "chainId": 8453,
-      "providers": [
-        "liquest"
-      ]
-    },
-    {
-      "name": "BananaCat",
-      "symbol": "BCAT",
-      "address": "0x0Af1580f49121d7a42b0F9125f5F7dc172f8a469",
-      "decimals": 9,
       "chainId": 8453,
       "providers": [
         "liquest"
@@ -85039,7 +85238,8 @@
       "decimals": 9,
       "chainId": 8453,
       "providers": [
-        "optimism"
+        "optimism",
+        "liquest"
       ]
     },
     {
@@ -85146,16 +85346,6 @@
       "name": "Volatile AMM - SEAM/WETH",
       "symbol": "vAMM-SEAM/WETH",
       "address": "0x1B00a1aFE48aDB8D8C76b854da22a70011446481",
-      "decimals": 18,
-      "chainId": 8453,
-      "providers": [
-        "liquest"
-      ]
-    },
-    {
-      "name": "CABAL",
-      "symbol": "CABAL",
-      "address": "0x1B05393A3571103239b35296Fa6d2E698B02Ba46",
       "decimals": 18,
       "chainId": 8453,
       "providers": [
@@ -85574,6 +85764,16 @@
       "symbol": "$BALLS",
       "address": "0x200b4D65faB66692EE71b7aaF9877238ad3E8D02",
       "decimals": 18,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
+      "name": "TRUMP",
+      "symbol": "TRUMP",
+      "address": "0x2024cED2ddEC62a7EE6Caae747aB06d148D8ef22",
+      "decimals": 9,
       "chainId": 8453,
       "providers": [
         "liquest"
@@ -87188,16 +87388,6 @@
       ]
     },
     {
-      "name": "dogwifhat",
-      "symbol": "WIF",
-      "address": "0x395F288FEF9253e90F22c89d02b2cFa90704c987",
-      "decimals": 18,
-      "chainId": 8453,
-      "providers": [
-        "liquest"
-      ]
-    },
-    {
       "name": "MANTRA",
       "symbol": "OM",
       "address": "0x3992B27dA26848C2b19CeA6Fd25ad5568B68AB98",
@@ -87356,12 +87546,11 @@
     {
       "name": "Ducky City Earn",
       "symbol": "DCE",
-      "address": "0x3C3Aa127e6Ee3d2F2e432d0184dD36f2D2076b52",
+      "address": "0x3c3aa127e6ee3d2f2e432d0184dd36f2d2076b52",
       "logoURI": "https://assets.coingecko.com/coins/images/35158/thumb/logo_DCE_200.png?1707565577",
       "decimals": 18,
       "chainId": 8453,
       "providers": [
-        "liquest",
         "coingeckoBase"
       ]
     },
@@ -89632,6 +89821,16 @@
       ]
     },
     {
+      "name": "JESSE",
+      "symbol": "JESSE",
+      "address": "0x5f43fFA61595347122c46ebA3CD66E5afa687421",
+      "decimals": 18,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
       "name": "⌐▨-▨ Liquid",
       "symbol": "BNOUN",
       "address": "0x5FD19Bf407291Ae613D0B1099CAB410B29FB509e",
@@ -90514,6 +90713,16 @@
       ]
     },
     {
+      "name": "Uniswap V2",
+      "symbol": "UNI-V2",
+      "address": "0x6C2c3e1d22F73A9c1e4D57D49733Efd993035D0d",
+      "decimals": 18,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
       "name": "Volatile AMM - USDC/AERO",
       "symbol": "vAMM-USDC/AERO",
       "address": "0x6cDcb1C4A4D1C3C6d054b27AC5B77e89eAFb971d",
@@ -90551,10 +90760,12 @@
       "name": "SKOP Token",
       "symbol": "SKOP",
       "address": "0x6d3B8C76c5396642960243Febf736C6BE8b60562",
+      "logoURI": "https://assets.coingecko.com/coins/images/38342/thumb/skop.jpeg?1717141011",
       "decimals": 18,
       "chainId": 8453,
       "providers": [
-        "liquest"
+        "liquest",
+        "coingeckoBase"
       ]
     },
     {
@@ -90869,6 +91080,16 @@
       ]
     },
     {
+      "name": "BASE500",
+      "symbol": "BASE500",
+      "address": "0x73BB0b66A4e84A72859e05eFA545C01D8734Ba86",
+      "decimals": 9,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
       "name": "BASED",
       "symbol": "BASED",
       "address": "0x74235c64f806341C14bF2be0887EEcd55daE955E",
@@ -90920,16 +91141,6 @@
       "symbol": "UNI-V2",
       "address": "0x74E85533B189179515c7187cdc88BBfd8F357143",
       "decimals": 18,
-      "chainId": 8453,
-      "providers": [
-        "liquest"
-      ]
-    },
-    {
-      "name": "USD Coin Hop Token",
-      "symbol": "hUSDC",
-      "address": "0x74fa978EaFFa312bC92e76dF40FcC1bFE7637Aeb",
-      "decimals": 6,
       "chainId": 8453,
       "providers": [
         "liquest"
@@ -90991,6 +91202,16 @@
       "providers": [
         "liquest",
         "coingeckoBase"
+      ]
+    },
+    {
+      "name": "Unibit",
+      "symbol": "UIBT",
+      "address": "0x76BC2e765414E6C8b596c0f52c4240f80268f41D",
+      "decimals": 18,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
       ]
     },
     {
@@ -92993,6 +93214,16 @@
       ]
     },
     {
+      "name": "BURN CAT",
+      "symbol": "BCAT",
+      "address": "0x9646542f852b642988d456c4d1A6E2CDBFeC6f89",
+      "decimals": 18,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
       "name": "Ampleforth Governance",
       "symbol": "FORTH",
       "address": "0x968B2323d4b005C7D39c67D31774FE83c9943A60",
@@ -93164,6 +93395,16 @@
       "symbol": "$BAYC",
       "address": "0x98DF232C883D46E582c144d20a241f6C3669ec0B",
       "decimals": 9,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
+      "name": "Free Trump",
+      "symbol": "FREETRUMP",
+      "address": "0x98EdffA46837F93A0ddA850330A29ba02B016a22",
+      "decimals": 18,
       "chainId": 8453,
       "providers": [
         "liquest"
@@ -93534,12 +93775,11 @@
     {
       "name": "Rorschach",
       "symbol": "ROR",
-      "address": "0x9e13480a81Af1Dea2f255761810Ef8d6CbF21735",
+      "address": "0x9e13480a81af1dea2f255761810ef8d6cbf21735",
       "logoURI": "https://assets.coingecko.com/coins/images/37989/thumb/ink-blot-pixel-art-200x200.png?1716223607",
       "decimals": 18,
       "chainId": 8453,
       "providers": [
-        "liquest",
         "coingeckoBase"
       ]
     },
@@ -93964,6 +94204,16 @@
       "name": "Base Runners",
       "symbol": "RNRS",
       "address": "0xA4D70ad60d67bf8Badc8F44EbE61f2c27795a1a9",
+      "decimals": 18,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
+      "name": "PINEAPPLECAT",
+      "symbol": "PICA",
+      "address": "0xA4dc5a82839a148Ff172b5b8BA9d52e681FD2261",
       "decimals": 18,
       "chainId": 8453,
       "providers": [
@@ -95033,12 +95283,13 @@
     },
     {
       "name": "Sendit",
-      "symbol": "SENDIT",
-      "address": "0xba5b9b2d2d06a9021eb3190ea5fb0e02160839a4",
+      "symbol": "Sendit",
+      "address": "0xBa5B9B2D2d06a9021EB3190ea5Fb0e02160839A4",
       "logoURI": "https://assets.coingecko.com/coins/images/36789/thumb/Sendit-token-logo.png?1712416889",
       "decimals": 18,
       "chainId": 8453,
       "providers": [
+        "liquest",
         "coingeckoBase"
       ]
     },
@@ -95519,6 +95770,16 @@
       "chainId": 8453,
       "providers": [
         "coingeckoBase"
+      ]
+    },
+    {
+      "name": "FREE TRUMP",
+      "symbol": "TRUMP",
+      "address": "0xC22b928E91FDF3367ED4568b682BCC082a7DC4eE",
+      "decimals": 8,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
       ]
     },
     {
@@ -96629,6 +96890,16 @@
       ]
     },
     {
+      "name": "RiBT",
+      "symbol": "RIBT",
+      "address": "0xD51Bd031d82e99389CaAAD52E9e7A870F37AaBBC",
+      "decimals": 18,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
       "name": "Based Baby",
       "symbol": "BBB",
       "address": "0xd5b70ed3f2ba01bfaaa3beb09e31fe11f833b85f",
@@ -96997,6 +97268,16 @@
       "providers": [
         "liquest",
         "coingeckoBase"
+      ]
+    },
+    {
+      "name": "Jedimon",
+      "symbol": "$Jedimon",
+      "address": "0xDC6c6d79Ba7aCA197b2B6907152c5a09445E79A0",
+      "decimals": 18,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
       ]
     },
     {
@@ -97747,6 +98028,16 @@
       ]
     },
     {
+      "name": "Free Trump",
+      "symbol": "TRUMP",
+      "address": "0xEc0036f11dae847340e94a59CFCD51D99A47DF8B",
+      "decimals": 18,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
       "name": "Boo Token",
       "symbol": "BOO",
       "address": "0xEc1Df7EdFcdC2e2042c63252c1cEF480f64F9189",
@@ -98426,6 +98717,16 @@
       ]
     },
     {
+      "name": "Onchain Summer",
+      "symbol": "SUMMER",
+      "address": "0xf7cCB8a6e3400eB8Eb0c47619134f7516E025215",
+      "decimals": 8,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
       "name": "midi",
       "symbol": "MIDI",
       "address": "0xf7Cf2DF510bc0EC400232874f2fB4F2cDf9352d6",
@@ -98943,6 +99244,16 @@
       "name": "Uniswap V2",
       "symbol": "UNI-V2",
       "address": "0xfFDeF0038b8c7830D64D033b2a3F7cBE15262855",
+      "decimals": 18,
+      "chainId": 8453,
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
+      "name": "Uniswap V2",
+      "symbol": "UNI-V2",
+      "address": "0xFFFEd65c9fdAF0818867E8b6d841FDB0631BC223",
       "decimals": 18,
       "chainId": 8453,
       "providers": [
@@ -101760,6 +102071,18 @@
       "providers": [
         "balmy",
         "defillama"
+      ]
+    },
+    {
+      "name": "crvUSD",
+      "symbol": "crvusd",
+      "address": "0x498bf2b1e120fed3ad3d42ea2165e9b73f99c1e5",
+      "logoURI": "https://tokens.1inch.io/0x498bf2b1e120fed3ad3d42ea2165e9b73f99c1e5.png",
+      "decimals": 18,
+      "chainId": 42161,
+      "providers": [
+        "defillama",
+        "arbitrum1inch"
       ]
     },
     {
@@ -111265,6 +111588,16 @@
       "chainId": 59144,
       "providers": [
         "smolDapp"
+      ]
+    },
+    {
+      "name": "nextDAI",
+      "symbol": "nextDAI",
+      "address": "0x7360a597290612787833EE924C449C61Cc0689E4",
+      "decimals": 18,
+      "chainId": 59144,
+      "providers": [
+        "liquest"
       ]
     },
     {
