@@ -1,9 +1,10 @@
 import { Address, ChainId } from "@mean-finance/sdk";
-import { FullTokenData, TokenData } from "./types";
-import { sortTokens } from "./utils";
+import { equivalentCgCoinIds } from "./equivalentCgCoinIds";
+import { FullTokenData, TokenData } from "../types";
+import { sortTokens } from "../utils";
 
 type CgChainId = string;
-type CgCoinId = string;
+export type CgCoinId = string;
 
 type CoinGeckoCoin = {
   id: string;
@@ -18,43 +19,6 @@ type CoinGeckoPlatform = {
   name: string;
   shortname: string;
   native_coin_id: string;
-};
-
-const equivalentCgCoinIds: Record<CgCoinId, Set<CgCoinId>> = {
-  tether: new Set([
-    "bridged-usdt",
-    "arbitrum-bridged-usdt-arbitrum",
-    "bridged-tether-linea",
-    "bridged-tether-manta-pacific",
-    "bridged-tether-opbnb",
-    "bridged-tether-scroll",
-    "bridged-tether-stargate",
-    "bridged-tether-starkgate",
-    "bridged-usdt-core",
-    "celer-bridged-usdt-conflux",
-    "cronos-bridged-usdt-cronos",
-    "gnosis-xdai-bridged-usdt-gnosis",
-    "huobi-bridged-usdt-heco-chain",
-    "kucoin-bridged-usdt-kucoin-community-chain",
-    "lxly-bridged-usdt-astar-zkevm",
-    "mantle-bridged-usdt-mantle",
-    "mapped-usdt",
-    "mode-bridged-usdt-mode",
-    "multichain-bridged-usdt-moonbeam",
-    "multichain-bridged-usdt-moonriver",
-    "multichain-bridged-usdt-syscoin",
-    "multichain-bridged-usdt-telos",
-    "neonpass-bridged-usdt-neon",
-    "nova-tether-usd",
-    "polygon-bridged-usdt-polygon",
-    "polygon-hermez-bridged-usdt-polygon-zkevm",
-    "polygon-hermez-bridged-usdt-x-layer",
-    "shimmerbridge-bridged-usdt-shimmerevm",
-    "symbiosis-bridged-usdt-bahamut",
-    "tether-pulsechain",
-    "thundercore-bridged-usdt-thundercore",
-    "viction-bridged-usdt-viction",
-  ]),
 };
 
 class MultichainIdentifier {

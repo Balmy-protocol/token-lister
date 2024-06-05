@@ -75,12 +75,10 @@ async function run(): Promise<any> {
 
   const multichainIdentifier = await buildMultichainIdentifier();
 
-  const filteredListWithOtherChains = multichainIdentifier.populateChainAddresses(
-    filteredList,
-  );
-  const completeListWithOtherChains = multichainIdentifier.populateChainAddresses(
-    completeList,
-  );
+  const filteredListWithOtherChains =
+    multichainIdentifier.populateChainAddresses(filteredList);
+  const completeListWithOtherChains =
+    multichainIdentifier.populateChainAddresses(completeList);
 
   console.log("Token list size: ", filteredListWithOtherChains.length);
   saveTokenList(
