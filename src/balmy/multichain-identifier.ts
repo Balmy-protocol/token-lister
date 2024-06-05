@@ -57,7 +57,7 @@ const equivalentCgCoinIds: Record<CgCoinId, Set<CgCoinId>> = {
   ]),
 };
 
-export class MultichainIdentifier {
+class MultichainIdentifier {
   private cgChainMap: Record<CgChainId, ChainId>;
   private cgMultichainMap: Record<
     CgCoinId,
@@ -65,26 +65,18 @@ export class MultichainIdentifier {
   >;
   private tokenKeyToCgCoinId: Record<string, CgCoinId>;
 
-  constructor() {
+  constructor(cgCoinList: CoinGeckoCoin[], cgChainList: CoinGeckoPlatform[]) {
     this.cgChainMap = {};
     this.cgMultichainMap = {};
     this.tokenKeyToCgCoinId = {};
+
+    this.prepareData(cgCoinList, cgChainList);
   }
 
-  private async fetchData() {
-    const cgCoinsPromise: Promise<CoinGeckoCoin[]> = fetch(
-      "https://api.coingecko.com/api/v3/coins/list?include_platform=true"
-    ).then((res) => res.json());
-    const cgPlatformsResponse: Promise<CoinGeckoPlatform[]> = fetch(
-      "https://api.coingecko.com/api/v3/asset_platforms"
-    ).then((res) => res.json());
-
-    return await Promise.all([cgCoinsPromise, cgPlatformsResponse]);
-  }
-
-  async prepareData() {
-    const [cgCoinList, cgChainList] = await this.fetchData();
-
+  async prepareData(
+    cgCoinList: CoinGeckoCoin[],
+    cgChainList: CoinGeckoPlatform[]
+  ) {
     cgChainList.forEach((chain) => {
       if (chain.chain_identifier !== null) {
         this.cgChainMap[chain.id] = chain.chain_identifier;
@@ -141,3 +133,23 @@ export class MultichainIdentifier {
     });
   }
 }
+
+export const buildMultichainIdentifier = async () => {
+  const cgCoinsPromise: Promise<CoinGeckoCoin[]> = fetch(
+    "https://api.coingecko.com/api/v3/coins/list?include_platform=true"
+  ).then((res) => res.json());
+  const cgPlatformsResponse: Promise<CoinGeckoPlatform[]> = fetch(
+    "https://api.coingecko.com/api/v3/asset_platforms"
+  ).then((res) => res.json());
+
+  const [cgCoinList, cgChainList] = await Promise.all([
+    cgCoinsPromise,
+    cgPlatformsResponse,
+  ]);
+
+  const multichainIdentifier = new MultichainIdentifier(
+    cgCoinList,
+    cgChainList
+  );
+  return multichainIdentifier;
+};

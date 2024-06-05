@@ -4,7 +4,7 @@ import { generators } from "./list";
 import { FullTokenData, TokenData } from "./types";
 import * as fs from "fs";
 import { isCompleteToken, sortTokens, unifyTokenData } from "./utils";
-import { MultichainIdentifier } from "./multichain-identifier";
+import { buildMultichainIdentifier } from "./multichain-identifier";
 
 const APPEARANCES_RATIO = 0.4;
 
@@ -73,8 +73,7 @@ async function run(): Promise<any> {
     }
   }
 
-  const multichainIdentifier = new MultichainIdentifier();
-  await multichainIdentifier.prepareData();
+  const multichainIdentifier = await buildMultichainIdentifier();
 
   const filteredListWithOtherChains = multichainIdentifier.populateChainAddresses(
     filteredList,

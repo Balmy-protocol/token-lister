@@ -42,12 +42,12 @@ export function isCompleteToken(token: TokenData) {
   );
 }
 
-export function sortTokens<T extends { chainId: ChainId; address: string }>(tokens: T[]): T[] {
-  return tokens.sort((a, b) => {
-    if (a.chainId !== b.chainId) {
-      return a.chainId - b.chainId;
-    } else {
-      return a.address.toLowerCase().localeCompare(b.address.toLowerCase());
-    }
-  });
+export function sortTokens<T extends { chainId: ChainId; address: string }>(
+  tokens: T[]
+): T[] {
+  return tokens.sort(
+    (a, b) =>
+      a.chainId - b.chainId ||
+      a.address.toLowerCase().localeCompare(b.address.toLowerCase())
+  );
 }
