@@ -37,7 +37,7 @@ class MultichainIdentifier {
     this.prepareData(cgCoinList, cgChainList);
   }
 
-  async prepareData(
+  private prepareData(
     cgCoinList: CoinGeckoCoin[],
     cgChainList: CoinGeckoPlatform[]
   ) {
