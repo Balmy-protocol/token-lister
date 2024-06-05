@@ -3,7 +3,8 @@ import { isAddress } from "viem";
 import { generators } from "./list";
 import { FullTokenData, TokenData } from "./types";
 import * as fs from "fs";
-import { isCompleteToken, unifyTokenData } from "./utils";
+import { isCompleteToken, sortTokens, unifyTokenData } from "./utils";
+import { MultichainIdentifier } from "./multichain-identifier";
 
 const APPEARANCES_RATIO = 0.4;
 
@@ -72,16 +73,26 @@ async function run(): Promise<any> {
     }
   }
 
-  console.log("Token list size: ", filteredList.length);
-  saveTokenList(
+  const multichainIdentifier = new MultichainIdentifier();
+  await multichainIdentifier.prepareData();
+
+  const filteredListWithOtherChains = multichainIdentifier.populateChainAddresses(
     filteredList,
+  );
+  const completeListWithOtherChains = multichainIdentifier.populateChainAddresses(
+    completeList,
+  );
+
+  console.log("Token list size: ", filteredListWithOtherChains.length);
+  saveTokenList(
+    filteredListWithOtherChains,
     "token-list.json",
     "Balmy Token List",
     "A curated list of tokens from all the token lists on Balmy",
   );
-  console.log("Complete Token list size: ", allTokens.length);
+  console.log("Complete Token list size: ", completeListWithOtherChains.length);
   saveTokenList(
-    completeList,
+    completeListWithOtherChains,
     "token-list-complete.json",
     "Balmy Token List - complete version",
     "A list of tokens from all the token lists on Balmy",
@@ -101,15 +112,7 @@ function saveTokenList(
         name,
         description,
         timestamp: new Date().toISOString(),
-        tokens: tokens.sort((a, b) => {
-          if (a.chainId !== b.chainId) {
-            return a.chainId - b.chainId;
-          } else {
-            return a.address
-              .toLowerCase()
-              .localeCompare(b.address.toLowerCase());
-          }
-        }),
+        tokens: sortTokens(tokens),
       },
       null,
       2,
