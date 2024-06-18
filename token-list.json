@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2024-06-17T00:02:35.036Z",
+  "timestamp": "2024-06-18T00:02:36.921Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -736,6 +736,14 @@
       "symbol": "PENDLE",
       "address": "0x808507121B80c02388fAd14726482e061B8da827",
       "logoURI": "https://ethereum-optimism.github.io/data/PENDLE/logo.png",
+      "decimals": 18,
+      "chainId": 1
+    },
+    {
+      "name": "OriginToken",
+      "symbol": "OGN",
+      "address": "0x8207c1FfC5B6804F6024322CcF34F29c3541Ae26",
+      "logoURI": "https://ethereum-optimism.github.io/data/OGN/logo.svg",
       "decimals": 18,
       "chainId": 1
     },
@@ -26731,14 +26739,6 @@
       "chainId": 8453
     },
     {
-      "name": "Magnate Finance",
-      "symbol": "MAG",
-      "address": "0x2DC1cDa9186a4993bD36dE60D08787c0C382BEAD",
-      "logoURI": "https://assets.odos.xyz/tokens/MAG.webp",
-      "decimals": 18,
-      "chainId": 8453
-    },
-    {
       "name": "Aerodrome BMX-wBLT Factory yVault",
       "symbol": "yvAero-BMX-wBLT-f",
       "address": "0x31Ce9aB5A358E5c802Cc01080F29a65a14EB45b8",
@@ -31152,6 +31152,14 @@
       "chainId": 84532
     },
     {
+      "name": "LOCGame",
+      "symbol": "LOCG",
+      "address": "0x27229E11d98e5A431cB71F7a0A874480299C9C57",
+      "logoURI": "https://ethereum-optimism.github.io/data/LOCG/logo.png",
+      "decimals": 18,
+      "chainId": 84532
+    },
+    {
       "name": "MANTRA DAO",
       "symbol": "OM",
       "address": "0x3011f9ef02c27a6a678e0099584c1c5be64134a1",
@@ -31460,6 +31468,14 @@
       "symbol": "PRE",
       "address": "0x0765C04EF390A63E8b7Bb6A5FCA2F42169C7bB19",
       "logoURI": "https://ethereum-optimism.github.io/data/PRE/logo.svg",
+      "decimals": 18,
+      "chainId": 11155111
+    },
+    {
+      "name": "LOCGame",
+      "symbol": "LOCG",
+      "address": "0x10D8432B6AFE1096ee0b74F21F827F8F1ae09e96",
+      "logoURI": "https://ethereum-optimism.github.io/data/LOCG/logo.png",
       "decimals": 18,
       "chainId": 11155111
     },
