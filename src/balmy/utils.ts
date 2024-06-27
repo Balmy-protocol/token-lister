@@ -3,7 +3,7 @@ import { TokenData } from "./types";
 
 export function unifyTokenData(
   filteredTokens: any[],
-  chainId: ChainId,
+  chainId: ChainId
 ): Required<TokenData> {
   return {
     name: filteredTokens.find((t) => t.name != undefined)?.name,
@@ -14,6 +14,7 @@ export function unifyTokenData(
       .find((t) => t.logoURI != undefined)?.logoURI,
     decimals: filteredTokens.find((t) => t.decimals != undefined)?.decimals,
     chainId: chainId,
+    chainAddresses: [],
   };
 }
 
@@ -38,5 +39,15 @@ export function isCompleteToken(token: TokenData) {
     token.chainId &&
     token.name &&
     token.symbol
+  );
+}
+
+export function sortTokens<T extends { chainId: ChainId; address: string }>(
+  tokens: T[]
+): T[] {
+  return tokens.sort(
+    (a, b) =>
+      a.chainId - b.chainId ||
+      a.address.toLowerCase().localeCompare(b.address.toLowerCase())
   );
 }
