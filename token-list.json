@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2024-07-03T00:02:35.602Z",
+  "timestamp": "2024-07-03T20:31:27.470Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -5668,6 +5668,28 @@
       ]
     },
     {
+      "name": "Giveth",
+      "symbol": "giv",
+      "address": "0x528cdc92eab044e1e39fe43b9514bfdab4412b98",
+      "logoURI": "https://ethereum-optimism.github.io/data/GIV/logo.svg",
+      "decimals": 18,
+      "chainId": 10,
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0x900db999074d9277c5da2a43f252d74366230da0"
+        },
+        {
+          "chainId": 10,
+          "address": "0x528cdc92eab044e1e39fe43b9514bfdab4412b98"
+        },
+        {
+          "chainId": 100,
+          "address": "0x4f4f9b8d5b4d0dc10506e5551b0513b61fd59e75"
+        }
+      ]
+    },
+    {
       "name": "Connext",
       "symbol": "NEXT",
       "address": "0x58b9cB810A68a7f3e1E4f8Cb45D1B9B3c79705E8",
@@ -5725,6 +5747,48 @@
       ]
     },
     {
+      "name": "Aave Optimism USDC",
+      "symbol": "aOptUSDC",
+      "address": "0x625E7708f30cA75bfd92586e17077590C60eb4cD",
+      "logoURI": "https://assets.coingecko.com/coins/images/12645/large/AAVE.png",
+      "decimals": 6,
+      "chainId": 10,
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0x98c23e9d8f34fefb1b7bd6a91b7ff122f4e16f5c"
+        },
+        {
+          "chainId": 10,
+          "address": "0x625e7708f30ca75bfd92586e17077590c60eb4cd"
+        },
+        {
+          "chainId": 100,
+          "address": "0xc6b7aca6de8a6044e0e32d0c841a89244a10d284"
+        },
+        {
+          "chainId": 137,
+          "address": "0x625e7708f30ca75bfd92586e17077590c60eb4cd"
+        },
+        {
+          "chainId": 1088,
+          "address": "0x885c8aec5867571582545f894a5906971db9bf27"
+        },
+        {
+          "chainId": 8453,
+          "address": "0x0a1d576f3efef75b330424287a95a366e8281d54"
+        },
+        {
+          "chainId": 42161,
+          "address": "0x724dc807b04555b71ed48a6896b6f41593b8c637"
+        },
+        {
+          "chainId": 43114,
+          "address": "0x625e7708f30ca75bfd92586e17077590c60eb4cd"
+        }
+      ]
+    },
+    {
       "name": "Ethereum Name Service",
       "symbol": "ENS",
       "address": "0x65559aA14915a70190438eF90104769e5E890A00",
@@ -5732,6 +5796,57 @@
       "decimals": 18,
       "chainId": 10,
       "chainAddresses": []
+    },
+    {
+      "name": "Frax Share",
+      "symbol": "FXS",
+      "address": "0x67CCEA5bb16181E7b4109c9c2143c24a1c2205Be",
+      "logoURI": "https://ethereum-optimism.github.io/data/FXS/logo.svg",
+      "decimals": 18,
+      "chainId": 10,
+      "chainAddresses": []
+    },
+    {
+      "name": "Frax Ether",
+      "symbol": "frxeth",
+      "address": "0x6806411765af15bddd26f8f544a34cc40cb9838b",
+      "logoURI": "https://ethereum-optimism.github.io/data/frxETH/logo.svg",
+      "decimals": 18,
+      "chainId": 10,
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0x5e8422345238f34275888049021821e8e08caa1f"
+        },
+        {
+          "chainId": 10,
+          "address": "0x6806411765af15bddd26f8f544a34cc40cb9838b"
+        },
+        {
+          "chainId": 56,
+          "address": "0x64048a7eecf3a2f1ba9e144aac3d7db6e58f555e"
+        },
+        {
+          "chainId": 137,
+          "address": "0xee327f889d5947c1dc1934bb208a1e792f953e96"
+        },
+        {
+          "chainId": 250,
+          "address": "0x9e73f99ee061c8807f69f9c6ccc44ea3d8c373ee"
+        },
+        {
+          "chainId": 1101,
+          "address": "0xcf7ecee185f19e2e970a301ee37f93536ed66179"
+        },
+        {
+          "chainId": 1284,
+          "address": "0x82bbd1b6f6de2b7bb63d3e1546e6b1553508be99"
+        },
+        {
+          "chainId": 42161,
+          "address": "0x178412e79c25968a32e89b11f63b33f733770c2a"
+        }
+      ]
     },
     {
       "name": "Wrapped Bitcoin",
@@ -5868,6 +5983,54 @@
         {
           "chainId": 2046399126,
           "address": "0xcb011e86df014a46f4e3ac3f3cbb114a4eb80870"
+        }
+      ]
+    },
+    {
+      "name": "Ethereans",
+      "symbol": "os",
+      "address": "0x6af3cb766d6cd37449bfd321d961a61b0515c1bc",
+      "logoURI": "https://ethereum-optimism.github.io/data/OS/logo.svg",
+      "decimals": 18,
+      "chainId": 10,
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0x6100dd79fcaa88420750dcee3f735d168abcb771"
+        },
+        {
+          "chainId": 10,
+          "address": "0x6af3cb766d6cd37449bfd321d961a61b0515c1bc"
+        }
+      ]
+    },
+    {
+      "name": "Optimism tBTC v2",
+      "symbol": "tBTC",
+      "address": "0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40",
+      "logoURI": "https://assets.smold.app/api/token/10/0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40/logo-128.png",
+      "decimals": 18,
+      "chainId": 10,
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0x18084fba666a33d37592fa2633fd49a74dd93a88"
+        },
+        {
+          "chainId": 10,
+          "address": "0x6c84a8f1c29108f47a79964b5fe888d4f4d0de40"
+        },
+        {
+          "chainId": 137,
+          "address": "0x236aa50979d5f3de3bd1eeb40e81137f22ab794b"
+        },
+        {
+          "chainId": 8453,
+          "address": "0x236aa50979d5f3de3bd1eeb40e81137f22ab794b"
+        },
+        {
+          "chainId": 42161,
+          "address": "0x6c84a8f1c29108f47a79964b5fe888d4f4d0de40"
         }
       ]
     },
@@ -6190,6 +6353,28 @@
       ]
     },
     {
+      "name": "mStable Governance: Meta",
+      "symbol": "mta",
+      "address": "0x929b939f8524c3be977af57a4a0ad3fb1e374b50",
+      "logoURI": "https://ethereum-optimism.github.io/data/MTA/logo.svg",
+      "decimals": 18,
+      "chainId": 10,
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0xa3bed4e1c75d00fa6f4e5e6922db7261b5e9acd2"
+        },
+        {
+          "chainId": 10,
+          "address": "0x929b939f8524c3be977af57a4a0ad3fb1e374b50"
+        },
+        {
+          "chainId": 137,
+          "address": "0xf501dd45a1198c2e1b5aef5314a68b9006d842e0"
+        }
+      ]
+    },
+    {
       "name": "Tether USD",
       "symbol": "USDT",
       "address": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
@@ -6396,6 +6581,20 @@
       ]
     },
     {
+      "name": "VelodromeV2",
+      "symbol": "VELO",
+      "address": "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db",
+      "logoURI": "https://assets.smold.app/api/token/10/0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db/logo-128.png",
+      "decimals": 18,
+      "chainId": 10,
+      "chainAddresses": [
+        {
+          "chainId": 10,
+          "address": "0x9560e827af36c94d2ac33a39bce1fe78631088db"
+        }
+      ]
+    },
+    {
       "name": "Rocket Pool ETH",
       "symbol": "rETH",
       "address": "0x9bcef72be871e61ed4fbbc7630889bee758eb81d",
@@ -6480,6 +6679,15 @@
           "address": "0x753d224bcf9aafacd81558c32341416df61d3dac"
         }
       ]
+    },
+    {
+      "name": "dForce",
+      "symbol": "DF",
+      "address": "0x9e5AAC1Ba1a2e6aEd6b32689DFcF62A509Ca96f3",
+      "logoURI": "https://ethereum-optimism.github.io/data/DF/logo.svg",
+      "decimals": 18,
+      "chainId": 10,
+      "chainAddresses": []
     },
     {
       "name": "Kyber Network Crystal",
@@ -6632,6 +6840,40 @@
         {
           "chainId": 42161,
           "address": "0xb0b195aefa3650a6908f15cdac7d92f8a5791b0b"
+        }
+      ]
+    },
+    {
+      "name": "Zoomer",
+      "symbol": "zoomer",
+      "address": "0xb962150760f9a3bb00e3e9cf48297ee20ada4a33",
+      "logoURI": "https://ethereum-optimism.github.io/data/ZOOMER/logo.png",
+      "decimals": 18,
+      "chainId": 10,
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0x0d505c03d30e65f6e9b4ef88855a47a89e4b7676"
+        },
+        {
+          "chainId": 10,
+          "address": "0xb962150760f9a3bb00e3e9cf48297ee20ada4a33"
+        },
+        {
+          "chainId": 56,
+          "address": "0xb962150760f9a3bb00e3e9cf48297ee20ada4a33"
+        },
+        {
+          "chainId": 137,
+          "address": "0xb962150760f9a3bb00e3e9cf48297ee20ada4a33"
+        },
+        {
+          "chainId": 8453,
+          "address": "0xd1db4851bcf5b41442caa32025ce0afe6b8eabc2"
+        },
+        {
+          "chainId": 42170,
+          "address": "0xb962150760f9a3bb00e3e9cf48297ee20ada4a33"
         }
       ]
     },
@@ -6990,6 +7232,72 @@
         {
           "chainId": 10,
           "address": "0xe405de8f52ba7559f9df3c368500b6e6ae6cee49"
+        }
+      ]
+    },
+    {
+      "name": "Axelar Bridged USDC",
+      "symbol": "axlusdc",
+      "address": "0xeb466342c4d449bc9f53a865d5cb90586f405215",
+      "logoURI": "https://assets.coingecko.com/coins/images/26476/thumb/axlUSDC.png?1658207579",
+      "decimals": 6,
+      "chainId": 10,
+      "chainAddresses": [
+        {
+          "chainId": 10,
+          "address": "0xeb466342c4d449bc9f53a865d5cb90586f405215"
+        },
+        {
+          "chainId": 56,
+          "address": "0x4268b8f0b87b6eae5d897996e6b845ddbd99adf3"
+        },
+        {
+          "chainId": 137,
+          "address": "0x750e4c4984a9e0f12978ea6742bc1c5d248f40ed"
+        },
+        {
+          "chainId": 250,
+          "address": "0x1b6382dbdea11d97f24495c9a90b7c88469134a4"
+        },
+        {
+          "chainId": 252,
+          "address": "0xeb466342c4d449bc9f53a865d5cb90586f405215"
+        },
+        {
+          "chainId": 1284,
+          "address": "0xca01a1d0993565291051daff390892518acfad3a"
+        },
+        {
+          "chainId": 2222,
+          "address": "0xeb466342c4d449bc9f53a865d5cb90586f405215"
+        },
+        {
+          "chainId": 5000,
+          "address": "0xeb466342c4d449bc9f53a865d5cb90586f405215"
+        },
+        {
+          "chainId": 8453,
+          "address": "0xeb466342c4d449bc9f53a865d5cb90586f405215"
+        },
+        {
+          "chainId": 9001,
+          "address": "0x15c3eb3b621d1bff62cba1c9536b7c1ae9149b57"
+        },
+        {
+          "chainId": 42161,
+          "address": "0xeb466342c4d449bc9f53a865d5cb90586f405215"
+        },
+        {
+          "chainId": 42220,
+          "address": "0xeb466342c4d449bc9f53a865d5cb90586f405215"
+        },
+        {
+          "chainId": 43114,
+          "address": "0xfab550568c688d5d8a52c7d794cb93edc26ec0ec"
+        },
+        {
+          "chainId": 59144,
+          "address": "0xeb466342c4d449bc9f53a865d5cb90586f405215"
         }
       ]
     },
@@ -50920,6 +51228,15 @@
       ]
     },
     {
+      "name": "Rocket Pool ETH",
+      "symbol": "rETH",
+      "address": "0xb23C20EFcE6e24Acca0Cef9B7B7aA196b84EC942",
+      "logoURI": "https://etherscan.io/token/images/rocketpooleth_32.png",
+      "decimals": 18,
+      "chainId": 1101,
+      "chainAddresses": []
+    },
+    {
       "name": "Dai Stablecoin",
       "symbol": "DAI",
       "address": "0xC5015b9d9161Dca7e18e32f6f25C4aD850731Fd4",
@@ -56982,20 +57299,6 @@
       ]
     },
     {
-      "name": "BASO",
-      "symbol": "BASO",
-      "address": "0x23E1A3BcDcEE4C59209d8871140eB7DD2bD9d1cE",
-      "logoURI": "https://assets.odos.xyz/tokens/BASO.webp",
-      "decimals": 18,
-      "chainId": 8453,
-      "chainAddresses": [
-        {
-          "chainId": 8453,
-          "address": "0x23e1a3bcdcee4c59209d8871140eb7dd2bd9d1ce"
-        }
-      ]
-    },
-    {
       "name": "Renzo Restaked ETH",
       "symbol": "ezETH",
       "address": "0x2416092f143378750bb29b79eD961ab195CcEea5",
@@ -57839,36 +58142,6 @@
       "decimals": 18,
       "chainId": 8453,
       "chainAddresses": []
-    },
-    {
-      "name": "Quack Token",
-      "symbol": "QUACK",
-      "address": "0x639C0D019C257966C4907bD4E68E3F349bB58109",
-      "logoURI": "https://assets.odos.xyz/tokens/QUACK.webp",
-      "decimals": 18,
-      "chainId": 8453,
-      "chainAddresses": [
-        {
-          "chainId": 10,
-          "address": "0x59debed8d46a0cb823d8be8b957add987ead39aa"
-        },
-        {
-          "chainId": 8453,
-          "address": "0x639c0d019c257966c4907bd4e68e3f349bb58109"
-        },
-        {
-          "chainId": 42161,
-          "address": "0x59debed8d46a0cb823d8be8b957add987ead39aa"
-        },
-        {
-          "chainId": 59144,
-          "address": "0x59debed8d46a0cb823d8be8b957add987ead39aa"
-        },
-        {
-          "chainId": 534352,
-          "address": "0x59debed8d46a0cb823d8be8b957add987ead39aa"
-        }
-      ]
     },
     {
       "name": "DAI+",
@@ -62123,7 +62396,7 @@
     },
     {
       "name": "The Graph",
-      "symbol": "grt",
+      "symbol": "GRT",
       "address": "0x9623063377ad1b27544c965ccd7342f7ea7e88c7",
       "logoURI": "https://tokens.1inch.io/0xc944e90c64b2c07662a292be6244bdf05cda44a7.png",
       "decimals": 18,
@@ -70380,12 +70653,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/31537/large/LVC.png?1696530346",
       "decimals": 18,
       "chainId": 59144,
-      "chainAddresses": [
-        {
-          "chainId": 59144,
-          "address": "0xcc22f6aa610d1b2a0e89ef228079cb3e1831b1d1"
-        }
-      ]
+      "chainAddresses": []
     },
     {
       "name": "Wrapped Ether",
