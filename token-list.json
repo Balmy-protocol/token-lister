@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2024-07-03T20:31:27.470Z",
+  "timestamp": "2024-07-04T00:02:39.796Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -15054,6 +15054,10 @@
         {
           "chainId": 137,
           "address": "0xc3ec80343d2bae2f8e680fdadde7c17e71e114ea"
+        },
+        {
+          "chainId": 8453,
+          "address": "0x3992b27da26848c2b19cea6fd25ad5568b68ab98"
         }
       ]
     },
@@ -23280,6 +23284,10 @@
         {
           "chainId": 137,
           "address": "0xc3ec80343d2bae2f8e680fdadde7c17e71e114ea"
+        },
+        {
+          "chainId": 8453,
+          "address": "0x3992b27da26848c2b19cea6fd25ad5568b68ab98"
         }
       ]
     },
@@ -57545,6 +57553,32 @@
       ]
     },
     {
+      "name": "MANTRA",
+      "symbol": "OM",
+      "address": "0x3992B27dA26848C2b19CeA6Fd25ad5568B68AB98",
+      "logoURI": "https://ethereum-optimism.github.io/data/OM/logo.png",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0x3593d125a4f7849a1b059e64f4517a86dd60c95d"
+        },
+        {
+          "chainId": 56,
+          "address": "0xf78d2e7936f5fe18308a3b2951a93b6c4a41f5e2"
+        },
+        {
+          "chainId": 137,
+          "address": "0xc3ec80343d2bae2f8e680fdadde7c17e71e114ea"
+        },
+        {
+          "chainId": 8453,
+          "address": "0x3992b27da26848c2b19cea6fd25ad5568b68ab98"
+        }
+      ]
+    },
+    {
       "name": "Balancer",
       "symbol": "BAL",
       "address": "0x4158734D47Fc9692176B5085E0F52ee0Da5d47F1",
@@ -58142,6 +58176,36 @@
       "decimals": 18,
       "chainId": 8453,
       "chainAddresses": []
+    },
+    {
+      "name": "Quack Token",
+      "symbol": "QUACK",
+      "address": "0x639C0D019C257966C4907bD4E68E3F349bB58109",
+      "logoURI": "https://assets.odos.xyz/tokens/QUACK.webp",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": [
+        {
+          "chainId": 10,
+          "address": "0x59debed8d46a0cb823d8be8b957add987ead39aa"
+        },
+        {
+          "chainId": 8453,
+          "address": "0x639c0d019c257966c4907bd4e68e3f349bb58109"
+        },
+        {
+          "chainId": 42161,
+          "address": "0x59debed8d46a0cb823d8be8b957add987ead39aa"
+        },
+        {
+          "chainId": 59144,
+          "address": "0x59debed8d46a0cb823d8be8b957add987ead39aa"
+        },
+        {
+          "chainId": 534352,
+          "address": "0x59debed8d46a0cb823d8be8b957add987ead39aa"
+        }
+      ]
     },
     {
       "name": "DAI+",
