@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2024-07-04T00:02:39.796Z",
+  "timestamp": "2024-07-05T00:02:41.062Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -3284,6 +3284,10 @@
         {
           "chainId": 250,
           "address": "0xb67fa6defce4042070eb1ae1511dcd6dcc6a532e"
+        },
+        {
+          "chainId": 42161,
+          "address": "0xcb8fa9a76b8e203d8c3797bf438d8fb81ea3326a"
         }
       ]
     },
@@ -6005,10 +6009,10 @@
       ]
     },
     {
-      "name": "Optimism tBTC v2",
+      "name": "Threshold BTC",
       "symbol": "tBTC",
-      "address": "0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40",
-      "logoURI": "https://assets.smold.app/api/token/10/0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40/logo-128.png",
+      "address": "0x6c84a8f1c29108f47a79964b5fe888d4f4d0de40",
+      "logoURI": "ipfs://QmSDedawRhWurQE8X7AS7xk3fumc3JUWhntZfYD2T3kdwf",
       "decimals": 18,
       "chainId": 10,
       "chainAddresses": [
@@ -6581,10 +6585,10 @@
       ]
     },
     {
-      "name": "VelodromeV2",
+      "name": "Velodrome",
       "symbol": "VELO",
-      "address": "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db",
-      "logoURI": "https://assets.smold.app/api/token/10/0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db/logo-128.png",
+      "address": "0x9560e827af36c94d2ac33a39bce1fe78631088db",
+      "logoURI": "ipfs://QmPwEEv5kwxUExDavLFAU5HGmF4ABHMZnyTS5PVxqUh4ZF",
       "decimals": 18,
       "chainId": 10,
       "chainAddresses": [
@@ -10496,6 +10500,44 @@
         {
           "chainId": 56,
           "address": "0x3203c9e46ca618c8c1ce5dc67e7e9d75f5da2377"
+        }
+      ]
+    },
+    {
+      "name": "Verified USD",
+      "symbol": "USDV",
+      "address": "0x323665443cef804a3b5206103304bd4872ea4253",
+      "logoURI": "ipfs://QmQXpmGRjQgDjNWCwJzjYpzLcxaiiBDrN1j9z7JJj8qxwV",
+      "decimals": 18,
+      "chainId": 56,
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0x0e573ce2736dd9637a0b21058352e1667925c7a8"
+        },
+        {
+          "chainId": 10,
+          "address": "0x323665443cef804a3b5206103304bd4872ea4253"
+        },
+        {
+          "chainId": 56,
+          "address": "0x323665443cef804a3b5206103304bd4872ea4253"
+        },
+        {
+          "chainId": 88,
+          "address": "0x323665443cef804a3b5206103304bd4872ea4253"
+        },
+        {
+          "chainId": 137,
+          "address": "0x323665443cef804a3b5206103304bd4872ea4253"
+        },
+        {
+          "chainId": 42161,
+          "address": "0x323665443cef804a3b5206103304bd4872ea4253"
+        },
+        {
+          "chainId": 43114,
+          "address": "0x323665443cef804a3b5206103304bd4872ea4253"
         }
       ]
     },
@@ -27201,6 +27243,10 @@
         {
           "chainId": 250,
           "address": "0xb67fa6defce4042070eb1ae1511dcd6dcc6a532e"
+        },
+        {
+          "chainId": 42161,
+          "address": "0xcb8fa9a76b8e203d8c3797bf438d8fb81ea3326a"
         }
       ]
     },
@@ -57579,6 +57625,24 @@
       ]
     },
     {
+      "name": "Send Token",
+      "symbol": "send",
+      "address": "0x3f14920c99BEB920Afa163031c4e47a3e03B3e4A",
+      "logoURI": "https://ethereum-optimism.github.io/data/send/logo.svg",
+      "decimals": 0,
+      "chainId": 8453,
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0x3f14920c99beb920afa163031c4e47a3e03b3e4a"
+        },
+        {
+          "chainId": 8453,
+          "address": "0x3f14920c99beb920afa163031c4e47a3e03b3e4a"
+        }
+      ]
+    },
+    {
       "name": "Balancer",
       "symbol": "BAL",
       "address": "0x4158734D47Fc9692176B5085E0F52ee0Da5d47F1",
@@ -58176,36 +58240,6 @@
       "decimals": 18,
       "chainId": 8453,
       "chainAddresses": []
-    },
-    {
-      "name": "Quack Token",
-      "symbol": "QUACK",
-      "address": "0x639C0D019C257966C4907bD4E68E3F349bB58109",
-      "logoURI": "https://assets.odos.xyz/tokens/QUACK.webp",
-      "decimals": 18,
-      "chainId": 8453,
-      "chainAddresses": [
-        {
-          "chainId": 10,
-          "address": "0x59debed8d46a0cb823d8be8b957add987ead39aa"
-        },
-        {
-          "chainId": 8453,
-          "address": "0x639c0d019c257966c4907bd4e68e3f349bb58109"
-        },
-        {
-          "chainId": 42161,
-          "address": "0x59debed8d46a0cb823d8be8b957add987ead39aa"
-        },
-        {
-          "chainId": 59144,
-          "address": "0x59debed8d46a0cb823d8be8b957add987ead39aa"
-        },
-        {
-          "chainId": 534352,
-          "address": "0x59debed8d46a0cb823d8be8b957add987ead39aa"
-        }
-      ]
     },
     {
       "name": "DAI+",
@@ -61552,10 +61586,10 @@
     },
     {
       "name": "Verified USD",
-      "symbol": "usdv",
+      "symbol": "USDV",
       "address": "0x323665443cef804a3b5206103304bd4872ea4253",
-      "logoURI": "https://tokens.1inch.io/0x323665443cef804a3b5206103304bd4872ea4253.png",
-      "decimals": 6,
+      "logoURI": "ipfs://QmQXpmGRjQgDjNWCwJzjYpzLcxaiiBDrN1j9z7JJj8qxwV",
+      "decimals": 18,
       "chainId": 42161,
       "chainAddresses": [
         {
@@ -62091,6 +62125,36 @@
         {
           "chainId": 42161,
           "address": "0x6c2c06790b3e3e3c38e12ee22f8183b37a13ee55"
+        }
+      ]
+    },
+    {
+      "name": "Threshold BTC",
+      "symbol": "tBTC",
+      "address": "0x6c84a8f1c29108f47a79964b5fe888d4f4d0de40",
+      "logoURI": "ipfs://QmSDedawRhWurQE8X7AS7xk3fumc3JUWhntZfYD2T3kdwf",
+      "decimals": 18,
+      "chainId": 42161,
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0x18084fba666a33d37592fa2633fd49a74dd93a88"
+        },
+        {
+          "chainId": 10,
+          "address": "0x6c84a8f1c29108f47a79964b5fe888d4f4d0de40"
+        },
+        {
+          "chainId": 137,
+          "address": "0x236aa50979d5f3de3bd1eeb40e81137f22ab794b"
+        },
+        {
+          "chainId": 8453,
+          "address": "0x236aa50979d5f3de3bd1eeb40e81137f22ab794b"
+        },
+        {
+          "chainId": 42161,
+          "address": "0x6c84a8f1c29108f47a79964b5fe888d4f4d0de40"
         }
       ]
     },
