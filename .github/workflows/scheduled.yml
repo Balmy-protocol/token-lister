@@ -1,10 +1,7 @@
-name: 📑 Updating lists
+name: 📑 Updating lists - scheduled
 on:
-  push:
-    branches:
-      - main
-      - dev
-  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -12,6 +9,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
         with:
+          ref: main
           persist-credentials: false
           fetch-depth: 0
       - name: Install node
