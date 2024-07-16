@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2024-07-15T00:04:43.947Z",
+  "timestamp": "2024-07-16T00:04:42.848Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -21332,6 +21332,10 @@
         {
           "chainId": 137,
           "address": "0x2f800db0fdb5223b3c3f354886d907a671414a7f"
+        },
+        {
+          "chainId": 8453,
+          "address": "0x576bca23dcb6d94ff8e537d88b0d3e1bead444a2"
         }
       ]
     },
@@ -57166,6 +57170,32 @@
       ]
     },
     {
+      "name": "Zunami Token",
+      "symbol": "ZUN",
+      "address": "0x1db0Fc8933f545648b54A9eE4326209a9A259643",
+      "logoURI": "https://assets.smold.app/api/token/8453/0x1db0Fc8933f545648b54A9eE4326209a9A259643/logo-128.png",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0x6b5204b0be36771253cc38e88012e02b752f0f36"
+        },
+        {
+          "chainId": 10,
+          "address": "0x25193034153afb4251a8e02a8db0deaef4c876f6"
+        },
+        {
+          "chainId": 8453,
+          "address": "0x1db0fc8933f545648b54a9ee4326209a9a259643"
+        },
+        {
+          "chainId": 42161,
+          "address": "0x346e74dc9935a9b02eb34fb84658a66010fa056d"
+        }
+      ]
+    },
+    {
       "name": "AlienBase Token",
       "symbol": "ALB",
       "address": "0x1dd2d631c92b1aCdFCDd51A0F7145A50130050C4",
@@ -57274,6 +57304,20 @@
         {
           "chainId": 42161,
           "address": "0x6c84a8f1c29108f47a79964b5fe888d4f4d0de40"
+        }
+      ]
+    },
+    {
+      "name": "BASO",
+      "symbol": "BASO",
+      "address": "0x23E1A3BcDcEE4C59209d8871140eB7DD2bD9d1cE",
+      "logoURI": "https://assets.odos.xyz/tokens/BASO.webp",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": [
+        {
+          "chainId": 8453,
+          "address": "0x23e1a3bcdcee4c59209d8871140eb7dd2bd9d1ce"
         }
       ]
     },
@@ -58132,6 +58176,24 @@
         {
           "chainId": 8453,
           "address": "0x548f93779fbc992010c07467cbaf329dd5f059b7"
+        }
+      ]
+    },
+    {
+      "name": "Base Carbon Tonne",
+      "symbol": "BCT",
+      "address": "0x576Bca23DcB6d94fF8E537D88b0d3E1bEaD444a2",
+      "logoURI": "https://assets.smold.app/api/token/8453/0x576Bca23DcB6d94fF8E537D88b0d3E1bEaD444a2/logo-128.png",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": [
+        {
+          "chainId": 137,
+          "address": "0x2f800db0fdb5223b3c3f354886d907a671414a7f"
+        },
+        {
+          "chainId": 8453,
+          "address": "0x576bca23dcb6d94ff8e537d88b0d3e1bead444a2"
         }
       ]
     },
