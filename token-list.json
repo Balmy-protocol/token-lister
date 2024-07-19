@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2024-07-18T00:03:58.555Z",
+  "timestamp": "2024-07-19T00:04:06.330Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -3623,7 +3623,7 @@
       "name": "Aura",
       "symbol": "AURA",
       "address": "0xC0c293ce456fF0ED870ADd98a0828Dd4d2903DBF",
-      "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/1/0xc0c293ce456ff0ed870add98a0828dd4d2903dbf/logo.png",
+      "logoURI": "https://ethereum-optimism.github.io/data/AURA/logo.svg",
       "decimals": 18,
       "chainId": 1,
       "chainAddresses": [
@@ -55424,28 +55424,6 @@
       ]
     },
     {
-      "name": "Axelar Wrapped WBTC",
-      "symbol": "axlWBTC",
-      "address": "0x1a35EE4640b0A3B87705B0A4B45D227Ba60Ca2ad",
-      "logoURI": "https://assets.odos.xyz/tokens/axlWBTC.webp",
-      "decimals": 8,
-      "chainId": 8453,
-      "chainAddresses": [
-        {
-          "chainId": 2222,
-          "address": "0x1a35ee4640b0a3b87705b0a4b45d227ba60ca2ad"
-        },
-        {
-          "chainId": 8453,
-          "address": "0x1a35ee4640b0a3b87705b0a4b45d227ba60ca2ad"
-        },
-        {
-          "chainId": 9001,
-          "address": "0xf5b24c0093b65408ace53df7ce86a02448d53b25"
-        }
-      ]
-    },
-    {
       "name": "Seamless",
       "symbol": "SEAM",
       "address": "0x1C7a460413dD4e964f96D8dFC56E7223cE88CD85",
@@ -56553,36 +56531,6 @@
       "decimals": 18,
       "chainId": 8453,
       "chainAddresses": []
-    },
-    {
-      "name": "Quack Token",
-      "symbol": "QUACK",
-      "address": "0x639C0D019C257966C4907bD4E68E3F349bB58109",
-      "logoURI": "https://assets.odos.xyz/tokens/QUACK.webp",
-      "decimals": 18,
-      "chainId": 8453,
-      "chainAddresses": [
-        {
-          "chainId": 10,
-          "address": "0x59debed8d46a0cb823d8be8b957add987ead39aa"
-        },
-        {
-          "chainId": 8453,
-          "address": "0x639c0d019c257966c4907bd4e68e3f349bb58109"
-        },
-        {
-          "chainId": 42161,
-          "address": "0x59debed8d46a0cb823d8be8b957add987ead39aa"
-        },
-        {
-          "chainId": 59144,
-          "address": "0x59debed8d46a0cb823d8be8b957add987ead39aa"
-        },
-        {
-          "chainId": 534352,
-          "address": "0x59debed8d46a0cb823d8be8b957add987ead39aa"
-        }
-      ]
     },
     {
       "name": "RocketSwap",
@@ -59738,6 +59686,32 @@
         {
           "chainId": 42161,
           "address": "0x123389c2f0e9194d9ba98c21e63c375b67614108"
+        }
+      ]
+    },
+    {
+      "name": "Lido DAO",
+      "symbol": "ldo",
+      "address": "0x13ad51ed4f1b7e9dc168d8a00cb3f4ddd85efa60",
+      "logoURI": "https://tokens.1inch.io/0x13ad51ed4f1b7e9dc168d8a00cb3f4ddd85efa60.png",
+      "decimals": 18,
+      "chainId": 42161,
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0x5a98fcbea516cf06857215779fd812ca3bef1b32"
+        },
+        {
+          "chainId": 10,
+          "address": "0xfdb794692724153d1488ccdbe0c56c252596735f"
+        },
+        {
+          "chainId": 137,
+          "address": "0xc3c7d422809852031b44ab29eec9f1eff2a58756"
+        },
+        {
+          "chainId": 42161,
+          "address": "0x13ad51ed4f1b7e9dc168d8a00cb3f4ddd85efa60"
         }
       ]
     },
