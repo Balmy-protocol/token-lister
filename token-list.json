@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2024-07-19T00:04:06.330Z",
+  "timestamp": "2024-07-20T00:03:51.850Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -55572,6 +55572,20 @@
       ]
     },
     {
+      "name": "BASO",
+      "symbol": "BASO",
+      "address": "0x23E1A3BcDcEE4C59209d8871140eB7DD2bD9d1cE",
+      "logoURI": "https://assets.odos.xyz/tokens/BASO.webp",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": [
+        {
+          "chainId": 8453,
+          "address": "0x23e1a3bcdcee4c59209d8871140eb7dd2bd9d1ce"
+        }
+      ]
+    },
+    {
       "name": "Renzo Restaked ETH",
       "symbol": "ezETH",
       "address": "0x2416092f143378750bb29b79eD961ab195CcEea5",
@@ -56531,6 +56545,36 @@
       "decimals": 18,
       "chainId": 8453,
       "chainAddresses": []
+    },
+    {
+      "name": "Quack Token",
+      "symbol": "QUACK",
+      "address": "0x639C0D019C257966C4907bD4E68E3F349bB58109",
+      "logoURI": "https://assets.odos.xyz/tokens/QUACK.webp",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": [
+        {
+          "chainId": 10,
+          "address": "0x59debed8d46a0cb823d8be8b957add987ead39aa"
+        },
+        {
+          "chainId": 8453,
+          "address": "0x639c0d019c257966c4907bd4e68e3f349bb58109"
+        },
+        {
+          "chainId": 42161,
+          "address": "0x59debed8d46a0cb823d8be8b957add987ead39aa"
+        },
+        {
+          "chainId": 59144,
+          "address": "0x59debed8d46a0cb823d8be8b957add987ead39aa"
+        },
+        {
+          "chainId": 534352,
+          "address": "0x59debed8d46a0cb823d8be8b957add987ead39aa"
+        }
+      ]
     },
     {
       "name": "RocketSwap",
@@ -57909,6 +57953,24 @@
         {
           "chainId": 59144,
           "address": "0xeb466342c4d449bc9f53a865d5cb90586f405215"
+        }
+      ]
+    },
+    {
+      "name": "Web 3 Dollar",
+      "symbol": "USD3",
+      "address": "0xEFb97aaF77993922aC4be4Da8Fbc9A2425322677",
+      "logoURI": "https://ethereum-optimism.github.io/data/USD3/logo.svg",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0x0d86883faf4ffd7aeb116390af37746f45b6f378"
+        },
+        {
+          "chainId": 8453,
+          "address": "0xefb97aaf77993922ac4be4da8fbc9a2425322677"
         }
       ]
     },
