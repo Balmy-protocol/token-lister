@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2024-07-23T00:03:46.214Z",
+  "timestamp": "2024-07-24T00:03:59.289Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -7589,6 +7589,10 @@
         {
           "chainId": 137,
           "address": "0x65a05db8322701724c197af82c9cae41195b0aa8"
+        },
+        {
+          "chainId": 42161,
+          "address": "0xf929de51d91c77e42f5090069e0ad7a09e513c73"
         }
       ]
     },
@@ -22720,6 +22724,10 @@
         {
           "chainId": 137,
           "address": "0x65a05db8322701724c197af82c9cae41195b0aa8"
+        },
+        {
+          "chainId": 42161,
+          "address": "0xf929de51d91c77e42f5090069e0ad7a09e513c73"
         }
       ]
     },
@@ -31819,6 +31827,14 @@
         },
         {
           "chainId": 2222,
+          "address": "0xaf20f5f19698f1d19351028cd7103b63d30de7d7"
+        },
+        {
+          "chainId": 8453,
+          "address": "0xaf20f5f19698f1d19351028cd7103b63d30de7d7"
+        },
+        {
+          "chainId": 8822,
           "address": "0xaf20f5f19698f1d19351028cd7103b63d30de7d7"
         },
         {
@@ -46384,6 +46400,14 @@
           "address": "0xaf20f5f19698f1d19351028cd7103b63d30de7d7"
         },
         {
+          "chainId": 8453,
+          "address": "0xaf20f5f19698f1d19351028cd7103b63d30de7d7"
+        },
+        {
+          "chainId": 8822,
+          "address": "0xaf20f5f19698f1d19351028cd7103b63d30de7d7"
+        },
+        {
           "chainId": 42161,
           "address": "0xaf20f5f19698f1d19351028cd7103b63d30de7d7"
         },
@@ -58656,6 +58680,28 @@
       ]
     },
     {
+      "name": "Axelar Wrapped WBTC",
+      "symbol": "axlWBTC",
+      "address": "0x1a35EE4640b0A3B87705B0A4B45D227Ba60Ca2ad",
+      "logoURI": "https://assets.odos.xyz/tokens/axlWBTC.webp",
+      "decimals": 8,
+      "chainId": 8453,
+      "chainAddresses": [
+        {
+          "chainId": 2222,
+          "address": "0x1a35ee4640b0a3b87705b0a4b45d227ba60ca2ad"
+        },
+        {
+          "chainId": 8453,
+          "address": "0x1a35ee4640b0a3b87705b0a4b45d227ba60ca2ad"
+        },
+        {
+          "chainId": 9001,
+          "address": "0xf5b24c0093b65408ace53df7ce86a02448d53b25"
+        }
+      ]
+    },
+    {
       "name": "Seamless",
       "symbol": "SEAM",
       "address": "0x1C7a460413dD4e964f96D8dFC56E7223cE88CD85",
@@ -58791,6 +58837,20 @@
         {
           "chainId": 42161,
           "address": "0x6c84a8f1c29108f47a79964b5fe888d4f4d0de40"
+        }
+      ]
+    },
+    {
+      "name": "BASO",
+      "symbol": "BASO",
+      "address": "0x23E1A3BcDcEE4C59209d8871140eB7DD2bD9d1cE",
+      "logoURI": "https://assets.odos.xyz/tokens/BASO.webp",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": [
+        {
+          "chainId": 8453,
+          "address": "0x23e1a3bcdcee4c59209d8871140eb7dd2bd9d1ce"
         }
       ]
     },
