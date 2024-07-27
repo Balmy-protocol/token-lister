@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2024-07-26T00:03:42.222Z",
+  "timestamp": "2024-07-27T00:03:59.870Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -52534,6 +52534,15 @@
       ]
     },
     {
+      "name": "Rocket Pool ETH",
+      "symbol": "rETH",
+      "address": "0xb23C20EFcE6e24Acca0Cef9B7B7aA196b84EC942",
+      "logoURI": "https://etherscan.io/token/images/rocketpooleth_32.png",
+      "decimals": 18,
+      "chainId": 1101,
+      "chainAddresses": []
+    },
+    {
       "name": "Dai Stablecoin",
       "symbol": "DAI",
       "address": "0xC5015b9d9161Dca7e18e32f6f25C4aD850731Fd4",
@@ -61213,12 +61222,7 @@
       "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x2ab0e9e4ee70fff1fb9d67031e44f6410170d00e.png",
       "decimals": 18,
       "chainId": 9001,
-      "chainAddresses": [
-        {
-          "chainId": 9001,
-          "address": "0x2ab0e9e4ee70fff1fb9d67031e44f6410170d00e"
-        }
-      ]
+      "chainAddresses": []
     },
     {
       "name": "USD Coin - MultiChain",
