@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2024-07-27T00:03:59.870Z",
+  "timestamp": "2024-07-28T00:04:08.947Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -2325,6 +2325,14 @@
         {
           "chainId": 1,
           "address": "0x83f20f44975d03b1b09e64809b757c47f942beea"
+        },
+        {
+          "chainId": 10,
+          "address": "0x2218a117083f5b482b0bb821d27056ba9c04b1d3"
+        },
+        {
+          "chainId": 8453,
+          "address": "0x99ac4484e8a1dbd6a185380b3a811913ac884d87"
         }
       ]
     },
@@ -5168,6 +5176,28 @@
         {
           "chainId": 42161,
           "address": "0xe85b662fe97e8562f4099d8a1d5a92d4b453bf30"
+        }
+      ]
+    },
+    {
+      "name": "Savings Dai",
+      "symbol": "sdai",
+      "address": "0x2218a117083f5b482b0bb821d27056ba9c04b1d3",
+      "logoURI": "https://ethereum-optimism.github.io/data/sDAI/logo.svg",
+      "decimals": 18,
+      "chainId": 10,
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0x83f20f44975d03b1b09e64809b757c47f942beea"
+        },
+        {
+          "chainId": 10,
+          "address": "0x2218a117083f5b482b0bb821d27056ba9c04b1d3"
+        },
+        {
+          "chainId": 8453,
+          "address": "0x99ac4484e8a1dbd6a185380b3a811913ac884d87"
         }
       ]
     },
@@ -68184,6 +68214,10 @@
       "decimals": 18,
       "chainId": 43114,
       "chainAddresses": [
+        {
+          "chainId": 5000,
+          "address": "0x7f4db37d7beb31f445307782bc3da0f18df13696"
+        },
         {
           "chainId": 42161,
           "address": "0x7f4db37d7beb31f445307782bc3da0f18df13696"
