@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2024-07-29T00:04:18.189Z",
+  "timestamp": "2024-07-30T00:30:51.387Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -62326,6 +62326,15 @@
       ]
     },
     {
+      "name": "Volatile AMM - WETH/DAI",
+      "symbol": "vAMM-WETH/DAI",
+      "address": "0x9287C921f5d920cEeE0d07d7c58d476E46aCC640",
+      "logoURI": "https://assets.smold.app/api/token/8453/0x9287C921f5d920cEeE0d07d7c58d476E46aCC640/logo-128.png",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": []
+    },
+    {
       "name": "Aerodrome",
       "symbol": "AERO",
       "address": "0x940181a94A35A4569E4529A3CDfB74e38FD98631",
@@ -64321,6 +64330,15 @@
       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/haqq/0xFA3C22C069B9556A4B2f7EcE1Ee3B467909f4864.jpg",
       "decimals": 6,
       "chainId": 11235,
+      "chainAddresses": []
+    },
+    {
+      "name": "Savings Dai",
+      "symbol": "sDAI",
+      "address": "0x3390108E913824B8eaD638444cc52B9aBdF63798",
+      "logoURI": "https://ethereum-optimism.github.io/data/sDAI/logo.svg",
+      "decimals": 18,
+      "chainId": 34443,
       "chainAddresses": []
     },
     {
@@ -71416,6 +71434,44 @@
         {
           "chainId": 43114,
           "address": "0x69260b9483f9871ca57f81a90d91e2f96c2cd11d"
+        }
+      ]
+    },
+    {
+      "name": "LayerZero",
+      "symbol": "zro",
+      "address": "0x6985884c4392d348587b19cb9eaaf157f13271cd",
+      "logoURI": "https://tokens-data.1inch.io/images/43114/0x6985884c4392d348587b19cb9eaaf157f13271cd.png",
+      "decimals": 18,
+      "chainId": 43114,
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0x6985884c4392d348587b19cb9eaaf157f13271cd"
+        },
+        {
+          "chainId": 10,
+          "address": "0x6985884c4392d348587b19cb9eaaf157f13271cd"
+        },
+        {
+          "chainId": 56,
+          "address": "0x6985884c4392d348587b19cb9eaaf157f13271cd"
+        },
+        {
+          "chainId": 137,
+          "address": "0x6985884c4392d348587b19cb9eaaf157f13271cd"
+        },
+        {
+          "chainId": 8453,
+          "address": "0x6985884c4392d348587b19cb9eaaf157f13271cd"
+        },
+        {
+          "chainId": 42161,
+          "address": "0x6985884c4392d348587b19cb9eaaf157f13271cd"
+        },
+        {
+          "chainId": 43114,
+          "address": "0x6985884c4392d348587b19cb9eaaf157f13271cd"
         }
       ]
     },
