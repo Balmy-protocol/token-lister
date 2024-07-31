@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2024-07-30T00:30:51.387Z",
+  "timestamp": "2024-07-31T00:03:54.715Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -2526,7 +2526,7 @@
       "name": "Pendle",
       "symbol": "PENDLE",
       "address": "0x808507121B80c02388fAd14726482e061B8da827",
-      "logoURI": "https://ethereum-optimism.github.io/data/PENDLE/logo.png",
+      "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/1/0x808507121b80c02388fad14726482e061b8da827/logo.png",
       "decimals": 18,
       "chainId": 1,
       "chainAddresses": [
@@ -35228,12 +35228,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/30582/large/zkswap.jpeg?1696529446",
       "decimals": 18,
       "chainId": 324,
-      "chainAddresses": [
-        {
-          "chainId": 324,
-          "address": "0x7ecf006f7c45149b457e9116392279cc8a630f14"
-        }
-      ]
+      "chainAddresses": []
     },
     {
       "name": "HEX",
@@ -61763,6 +61758,10 @@
         {
           "chainId": 8453,
           "address": "0x548f93779fbc992010c07467cbaf329dd5f059b7"
+        },
+        {
+          "chainId": 34443,
+          "address": "0x66eed5ff1701e6ed8470dc391f05e27b1d0657eb"
         }
       ]
     },
