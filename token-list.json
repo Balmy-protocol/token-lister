@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2024-07-31T00:03:54.715Z",
+  "timestamp": "2024-08-01T00:04:33.180Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -2559,6 +2559,10 @@
         {
           "chainId": 1,
           "address": "0x8207c1ffc5b6804f6024322ccf34f29c3541ae26"
+        },
+        {
+          "chainId": 8453,
+          "address": "0x7002458b1df59eccb57387bc79ffc7c29e22e6f7"
         },
         {
           "chainId": 39797,
@@ -28540,6 +28544,10 @@
         {
           "chainId": 250,
           "address": "0x28a92dde19d9989f39a49905d7c9c2fac7799bdf"
+        },
+        {
+          "chainId": 42793,
+          "address": "0x796ea11fa2dd751ed01b53c372ffdb4aaa8f00f9"
         }
       ]
     },
@@ -61919,6 +61927,28 @@
         {
           "chainId": 42161,
           "address": "0x870908873b6f940e025a7c6879678cb82ec6c9b6"
+        }
+      ]
+    },
+    {
+      "name": "OriginToken",
+      "symbol": "OGN",
+      "address": "0x7002458B1DF59EccB57387bC79fFc7C29E22e6f7",
+      "logoURI": "https://ethereum-optimism.github.io/data/OGN/logo.svg",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0x8207c1ffc5b6804f6024322ccf34f29c3541ae26"
+        },
+        {
+          "chainId": 8453,
+          "address": "0x7002458b1df59eccb57387bc79ffc7c29e22e6f7"
+        },
+        {
+          "chainId": 39797,
+          "address": "0x1e3eed9c1eba5e5114d4c185dc71d13c3c66dd84"
         }
       ]
     },
