@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2024-08-01T00:04:33.180Z",
+  "timestamp": "2024-08-02T00:03:44.461Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -1486,6 +1486,20 @@
       ]
     },
     {
+      "name": "USDe",
+      "symbol": "USDe",
+      "address": "0x4c9EDD5852cd905f086C759E8383e09bff1E68B3",
+      "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/1/0x4c9edd5852cd905f086c759e8383e09bff1e68b3/logo.png",
+      "decimals": 18,
+      "chainId": 1,
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0x4c9edd5852cd905f086c759e8383e09bff1e68b3"
+        }
+      ]
+    },
+    {
       "name": "ApeCoin",
       "symbol": "APE",
       "address": "0x4d224452801ACEd8B2F0aebE155379bb5D594381",
@@ -2911,6 +2925,20 @@
       ]
     },
     {
+      "name": "Staked USDe",
+      "symbol": "sUSDe",
+      "address": "0x9D39A5DE30e57443BfF2A8307A4256c8797A3497",
+      "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/1/0x9d39a5de30e57443bff2a8307a4256c8797a3497/logo.png",
+      "decimals": 18,
+      "chainId": 1,
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0x9d39a5de30e57443bff2a8307a4256c8797a3497"
+        }
+      ]
+    },
+    {
       "name": "Yearn Compounding veCRV yVault",
       "symbol": "yvBOOST",
       "address": "0x9d409a0A012CFbA9B15F6D4B36Ac57A46966Ab9a",
@@ -3669,6 +3697,44 @@
         {
           "chainId": 42161,
           "address": "0x1debd73e752beaf79865fd6446b0c970eae7732f"
+        }
+      ]
+    },
+    {
+      "name": "Renzo Restaked ETH",
+      "symbol": "ezETH",
+      "address": "0xbf5495Efe5DB9ce00f80364C8B423567e58d2110",
+      "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/1/0xbf5495efe5db9ce00f80364c8b423567e58d2110/logo.png",
+      "decimals": 18,
+      "chainId": 1,
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0xbf5495efe5db9ce00f80364c8b423567e58d2110"
+        },
+        {
+          "chainId": 56,
+          "address": "0x2416092f143378750bb29b79ed961ab195cceea5"
+        },
+        {
+          "chainId": 8453,
+          "address": "0x2416092f143378750bb29b79ed961ab195cceea5"
+        },
+        {
+          "chainId": 34443,
+          "address": "0x2416092f143378750bb29b79ed961ab195cceea5"
+        },
+        {
+          "chainId": 42161,
+          "address": "0x2416092f143378750bb29b79ed961ab195cceea5"
+        },
+        {
+          "chainId": 59144,
+          "address": "0x2416092f143378750bb29b79ed961ab195cceea5"
+        },
+        {
+          "chainId": 81457,
+          "address": "0x2416092f143378750bb29b79ed961ab195cceea5"
         }
       ]
     },
@@ -4968,6 +5034,20 @@
         {
           "chainId": 42161,
           "address": "0xbc011a12da28e8f0f528d9ee5e7039e22f91cf18"
+        }
+      ]
+    },
+    {
+      "name": "rswETH",
+      "symbol": "rswETH",
+      "address": "0xFAe103DC9cf190eD75350761e95403b7b8aFa6c0",
+      "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/1/0xfae103dc9cf190ed75350761e95403b7b8afa6c0/logo.png",
+      "decimals": 18,
+      "chainId": 1,
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0xfae103dc9cf190ed75350761e95403b7b8afa6c0"
         }
       ]
     },
