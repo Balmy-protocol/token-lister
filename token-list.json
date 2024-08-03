@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2024-08-02T00:03:44.461Z",
+  "timestamp": "2024-08-03T00:04:02.737Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -7102,10 +7102,6 @@
           "address": "0x885c8aec5867571582545f894a5906971db9bf27"
         },
         {
-          "chainId": 8453,
-          "address": "0x0a1d576f3efef75b330424287a95a366e8281d54"
-        },
-        {
           "chainId": 42161,
           "address": "0x724dc807b04555b71ed48a6896b6f41593b8c637"
         },
@@ -7732,6 +7728,40 @@
         {
           "chainId": 1666600000,
           "address": "0x7b9c523d59aefd362247bd5601a89722e3774dd2"
+        }
+      ]
+    },
+    {
+      "name": "rsETHWrapper",
+      "symbol": "wrsETH",
+      "address": "0x87eEE96D50Fb761AD85B1c982d28A042169d61b1",
+      "logoURI": "https://assets.smold.app/api/token/10/0x87eEE96D50Fb761AD85B1c982d28A042169d61b1/logo-128.png",
+      "decimals": 18,
+      "chainId": 10,
+      "chainAddresses": [
+        {
+          "chainId": 10,
+          "address": "0x87eee96d50fb761ad85b1c982d28a042169d61b1"
+        },
+        {
+          "chainId": 8453,
+          "address": "0xedfa23602d0ec14714057867a78d01e94176bea0"
+        },
+        {
+          "chainId": 34443,
+          "address": "0xe7903b1f75c534dd8159b313d92cdcfbc62cb3cd"
+        },
+        {
+          "chainId": 59144,
+          "address": "0xd2671165570f41bbb3b0097893300b6eb6101e6c"
+        },
+        {
+          "chainId": 81457,
+          "address": "0xe7903b1f75c534dd8159b313d92cdcfbc62cb3cd"
+        },
+        {
+          "chainId": 534352,
+          "address": "0xa25b25548b4c98b0c7d3d27dca5d5ca743d68b7f"
         }
       ]
     },
@@ -22751,10 +22781,6 @@
       "decimals": 6,
       "chainId": 137,
       "chainAddresses": [
-        {
-          "chainId": 1,
-          "address": "0xbcca60bb61934080951369a648fb03df4f96263c"
-        },
         {
           "chainId": 137,
           "address": "0x1a13f4ca1d028320a707d99520abfefca3998b7f"
@@ -45842,10 +45868,6 @@
           "address": "0x885c8aec5867571582545f894a5906971db9bf27"
         },
         {
-          "chainId": 8453,
-          "address": "0x0a1d576f3efef75b330424287a95a366e8281d54"
-        },
-        {
           "chainId": 42161,
           "address": "0x724dc807b04555b71ed48a6896b6f41593b8c637"
         },
@@ -59191,6 +59213,10 @@
           "address": "0xc96de26018a54d51c097160568752c4e3bd6c364"
         },
         {
+          "chainId": 56,
+          "address": "0xc96de26018a54d51c097160568752c4e3bd6c364"
+        },
+        {
           "chainId": 5000,
           "address": "0xc96de26018a54d51c097160568752c4e3bd6c364"
         }
@@ -60691,36 +60717,12 @@
       "chainId": 8453,
       "chainAddresses": [
         {
-          "chainId": 1,
-          "address": "0x98c23e9d8f34fefb1b7bd6a91b7ff122f4e16f5c"
-        },
-        {
-          "chainId": 10,
-          "address": "0x625e7708f30ca75bfd92586e17077590c60eb4cd"
-        },
-        {
-          "chainId": 100,
-          "address": "0xc6b7aca6de8a6044e0e32d0c841a89244a10d284"
-        },
-        {
-          "chainId": 137,
-          "address": "0x625e7708f30ca75bfd92586e17077590c60eb4cd"
-        },
-        {
           "chainId": 1088,
-          "address": "0x885c8aec5867571582545f894a5906971db9bf27"
+          "address": ""
         },
         {
           "chainId": 8453,
           "address": "0x0a1d576f3efef75b330424287a95a366e8281d54"
-        },
-        {
-          "chainId": 42161,
-          "address": "0x724dc807b04555b71ed48a6896b6f41593b8c637"
-        },
-        {
-          "chainId": 43114,
-          "address": "0x625e7708f30ca75bfd92586e17077590c60eb4cd"
         }
       ]
     },
@@ -61609,32 +61611,6 @@
       "decimals": 18,
       "chainId": 8453,
       "chainAddresses": []
-    },
-    {
-      "name": "DOSE",
-      "symbol": "DOSE",
-      "address": "0x455234ab787665a219125235fb01b22b512dfcaa",
-      "logoURI": "https://ethereum-optimism.github.io/data/DOSE/logo.svg",
-      "decimals": 18,
-      "chainId": 8453,
-      "chainAddresses": [
-        {
-          "chainId": 1,
-          "address": "0xb31ef9e52d94d4120eb44fe1ddfde5b4654a6515"
-        },
-        {
-          "chainId": 56,
-          "address": "0x7837fd820ba38f95c54d6dac4ca3751b81511357"
-        },
-        {
-          "chainId": 137,
-          "address": "0x81382e9693de2afc33f69b70a6c12ca9b3a73f47"
-        },
-        {
-          "chainId": 8453,
-          "address": "0x455234ab787665a219125235fb01b22b512dfcaa"
-        }
-      ]
     },
     {
       "name": "Dola USD Stablecoin",
@@ -62832,28 +62808,6 @@
       ]
     },
     {
-      "name": "STAR",
-      "symbol": "STAR",
-      "address": "0xC19669A405067927865B40Ea045a2baabbbe57f5",
-      "logoURI": "https://assets.coingecko.com/coins/images/31277/thumb/STAR.png?1696530101",
-      "decimals": 18,
-      "chainId": 8453,
-      "chainAddresses": [
-        {
-          "chainId": 137,
-          "address": "0xc19669a405067927865b40ea045a2baabbbe57f5"
-        },
-        {
-          "chainId": 8453,
-          "address": "0xc19669a405067927865b40ea045a2baabbbe57f5"
-        },
-        {
-          "chainId": 42161,
-          "address": "0xc19669a405067927865b40ea045a2baabbbe57f5"
-        }
-      ]
-    },
-    {
       "name": "Wrapped liquid staked Ether 2.0",
       "symbol": "wstETH",
       "address": "0xc1CBa3fCea344f92D9239c08C0568f6F2F0ee452",
@@ -63299,6 +63253,40 @@
         {
           "chainId": 59144,
           "address": "0xeb466342c4d449bc9f53a865d5cb90586f405215"
+        }
+      ]
+    },
+    {
+      "name": "rsETHWrapper",
+      "symbol": "wrsETH",
+      "address": "0xEDfa23602D0EC14714057867A78d01e94176BEA0",
+      "logoURI": "https://assets.smold.app/api/token/8453/0xEDfa23602D0EC14714057867A78d01e94176BEA0/logo-128.png",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": [
+        {
+          "chainId": 10,
+          "address": "0x87eee96d50fb761ad85b1c982d28a042169d61b1"
+        },
+        {
+          "chainId": 8453,
+          "address": "0xedfa23602d0ec14714057867a78d01e94176bea0"
+        },
+        {
+          "chainId": 34443,
+          "address": "0xe7903b1f75c534dd8159b313d92cdcfbc62cb3cd"
+        },
+        {
+          "chainId": 59144,
+          "address": "0xd2671165570f41bbb3b0097893300b6eb6101e6c"
+        },
+        {
+          "chainId": 81457,
+          "address": "0xe7903b1f75c534dd8159b313d92cdcfbc62cb3cd"
+        },
+        {
+          "chainId": 534352,
+          "address": "0xa25b25548b4c98b0c7d3d27dca5d5ca743d68b7f"
         }
       ]
     },
@@ -66437,10 +66425,6 @@
         {
           "chainId": 1088,
           "address": "0x885c8aec5867571582545f894a5906971db9bf27"
-        },
-        {
-          "chainId": 8453,
-          "address": "0x0a1d576f3efef75b330424287a95a366e8281d54"
         },
         {
           "chainId": 42161,
@@ -71391,10 +71375,6 @@
         {
           "chainId": 1088,
           "address": "0x885c8aec5867571582545f894a5906971db9bf27"
-        },
-        {
-          "chainId": 8453,
-          "address": "0x0a1d576f3efef75b330424287a95a366e8281d54"
         },
         {
           "chainId": 42161,
