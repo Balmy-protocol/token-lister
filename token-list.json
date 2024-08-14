@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2024-08-13T00:04:23.909Z",
+  "timestamp": "2024-08-14T00:04:19.676Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -47373,45 +47373,6 @@
       ]
     },
     {
-      "name": "Wrapped liquid staked Ether 2.0",
-      "symbol": "wstETH",
-      "address": "0x5D8cfF95D7A57c0BF50B30b43c7CC0D52825D4a9",
-      "logoURI": "https://etherscan.io/token/images/wsteth3_32.png",
-      "decimals": 18,
-      "chainId": 1101,
-      "chainAddresses": []
-    },
-    {
-      "name": "QuickSwap",
-      "symbol": "QUICK",
-      "address": "0x68286607A1d43602d880D349187c3c48c0fD05E6",
-      "logoURI": "https://assets.polygon.technology/tokenAssets/quick.svg",
-      "decimals": 18,
-      "chainId": 1101,
-      "chainAddresses": [
-        {
-          "chainId": 1,
-          "address": "0xd2ba23de8a19316a638dc1e7a9adda1d74233368"
-        },
-        {
-          "chainId": 137,
-          "address": "0xb5c064f955d8e7f38fe0460c556a72987494ee17"
-        },
-        {
-          "chainId": 169,
-          "address": "0xe22e3d44ea9fb0a87ea3f7a8f41d869c677f0020"
-        },
-        {
-          "chainId": 1101,
-          "address": "0x68286607a1d43602d880d349187c3c48c0fd05e6"
-        },
-        {
-          "chainId": 2000,
-          "address": "0xb12c13e66ade1f72f71834f2fc5082db8c091358"
-        }
-      ]
-    },
-    {
       "name": "AAVE",
       "symbol": "AAVE",
       "address": "0x68791CFE079814c46e0E25C19Bcc5BFC71A744f7",
@@ -47741,15 +47702,6 @@
           "address": "0x985458e523db3d53125813ed68c274899e9dfab4"
         }
       ]
-    },
-    {
-      "name": "Rocket Pool ETH",
-      "symbol": "rETH",
-      "address": "0xb23C20EFcE6e24Acca0Cef9B7B7aA196b84EC942",
-      "logoURI": "https://etherscan.io/token/images/rocketpooleth_32.png",
-      "decimals": 18,
-      "chainId": 1101,
-      "chainAddresses": []
     },
     {
       "name": "Dai Stablecoin",
@@ -53921,24 +53873,6 @@
         {
           "chainId": 34443,
           "address": "0x18470019bf0e94611f15852f7e93cf5d65bc34ca"
-        }
-      ]
-    },
-    {
-      "name": "Send Token",
-      "symbol": "send",
-      "address": "0x3f14920c99BEB920Afa163031c4e47a3e03B3e4A",
-      "logoURI": "https://ethereum-optimism.github.io/data/send/logo.svg",
-      "decimals": 0,
-      "chainId": 8453,
-      "chainAddresses": [
-        {
-          "chainId": 1,
-          "address": "0x3f14920c99beb920afa163031c4e47a3e03b3e4a"
-        },
-        {
-          "chainId": 8453,
-          "address": "0x3f14920c99beb920afa163031c4e47a3e03b3e4a"
         }
       ]
     },
