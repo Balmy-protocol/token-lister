@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2024-08-24T00:04:02.842Z",
+  "timestamp": "2024-08-25T00:04:29.737Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -7459,7 +7459,12 @@
       "logoURI": "https://rifonchain.com/wp-content/uploads/2023/08/USDRIF-2.svg",
       "decimals": 18,
       "chainId": 30,
-      "chainAddresses": []
+      "chainAddresses": [
+        {
+          "chainId": 30,
+          "address": "0x3a15461d8ae0f0fb5fa2629e9da7d66a794a6e37"
+        }
+      ]
     },
     {
       "name": "BitPRO",
