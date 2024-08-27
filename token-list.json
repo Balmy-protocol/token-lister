@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2024-08-26T00:04:13.286Z",
+  "timestamp": "2024-08-27T00:04:26.602Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -463,6 +463,24 @@
       "decimals": 18,
       "chainId": 1,
       "chainAddresses": []
+    },
+    {
+      "name": "Worldcoin",
+      "symbol": "wld",
+      "address": "0x163f8c2467924be0ae7b5347228cabf260318753",
+      "logoURI": "https://ethereum-optimism.github.io/data/WLD/logo.svg",
+      "decimals": 18,
+      "chainId": 1,
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0x163f8c2467924be0ae7b5347228cabf260318753"
+        },
+        {
+          "chainId": 10,
+          "address": "0xdc6ff44d5d932cbd77b52e5612ba0529dc6226f1"
+        }
+      ]
     },
     {
       "name": "tBTC v2",
@@ -1352,6 +1370,20 @@
       ]
     },
     {
+      "name": "Blur",
+      "symbol": "BLUR",
+      "address": "0x5283D291DBCF85356A21bA090E6db59121208b44",
+      "logoURI": "https://assets.coingecko.com/coins/images/28453/large/blur.png?1670745921",
+      "decimals": 18,
+      "chainId": 1,
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0x5283d291dbcf85356a21ba090e6db59121208b44"
+        }
+      ]
+    },
+    {
       "name": "XY Oracle",
       "symbol": "XYO",
       "address": "0x55296f69f40Ea6d20E478533C15A6B08B654E758",
@@ -1867,6 +1899,24 @@
         {
           "chainId": 42161,
           "address": "0x0341c0c0ec423328621788d4854119b97f44e391"
+        }
+      ]
+    },
+    {
+      "name": "IoTeX Network",
+      "symbol": "IOTX",
+      "address": "0x6fB3e0A217407EFFf7Ca062D46c26E5d60a14d69",
+      "logoURI": "https://ethereum-optimism.github.io/data/IOTX/logo.svg",
+      "decimals": 18,
+      "chainId": 1,
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0x6fb3e0a217407efff7ca062d46c26e5d60a14d69"
+        },
+        {
+          "chainId": 8453,
+          "address": "0xbcbaf311cec8a4eac0430193a528d9ff27ae38c1"
         }
       ]
     },
@@ -3519,6 +3569,24 @@
       ]
     },
     {
+      "name": "FLOKI",
+      "symbol": "FLOKI",
+      "address": "0xcf0C122c6b73ff809C693DB761e7BaeBe62b6a2E",
+      "logoURI": "https://tokens.1inch.io/0xcf0c122c6b73ff809c693db761e7baebe62b6a2e_1.png",
+      "decimals": 9,
+      "chainId": 1,
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e"
+        },
+        {
+          "chainId": 56,
+          "address": "0xfb5b838b6cfeedc2873ab27866079ac55363d37e"
+        }
+      ]
+    },
+    {
       "name": "Manifold Finance",
       "symbol": "FOLD",
       "address": "0xd084944d3c05CD115C09d072B9F44bA3E0E45921",
@@ -4065,6 +4133,24 @@
         {
           "chainId": 1,
           "address": "0xdfdb7f72c1f195c5951a234e8db9806eb0635346"
+        }
+      ]
+    },
+    {
+      "name": "Injective Token",
+      "symbol": "INJ",
+      "address": "0xe28b3B32B6c345A34Ff64674606124Dd5Aceca30",
+      "logoURI": "https://tokens.1inch.io/0xe28b3b32b6c345a34ff64674606124dd5aceca30.png",
+      "decimals": 18,
+      "chainId": 1,
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0xe28b3b32b6c345a34ff64674606124dd5aceca30"
+        },
+        {
+          "chainId": 56,
+          "address": "0xa2b726b1145a4773f68593cf171187d8ebe4d495"
         }
       ]
     },
@@ -53211,7 +53297,16 @@
       "logoURI": "https://ethereum-optimism.github.io/data/TKN/logo.png",
       "decimals": 18,
       "chainId": 8453,
-      "chainAddresses": []
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0x82d09e30d5d682d69b4a5d97c61b7ba651457625"
+        },
+        {
+          "chainId": 8453,
+          "address": "0x78b3c724a2f663d11373c4a1978689271895256f"
+        }
+      ]
     },
     {
       "name": "USD Coin",
@@ -54980,12 +55075,7 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
       "decimals": 6,
       "chainId": 9001,
-      "chainAddresses": [
-        {
-          "chainId": 9001,
-          "address": "0x5fd55a1b9fc24967c4db09c513c3ba0dfa7ff687"
-        }
-      ]
+      "chainAddresses": []
     },
     {
       "name": "DAI - Nomad",
