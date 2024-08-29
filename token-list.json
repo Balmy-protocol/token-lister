@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2024-08-28T00:04:20.723Z",
+  "timestamp": "2024-08-29T00:04:42.378Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -9898,6 +9898,30 @@
         {
           "chainId": 56,
           "address": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82"
+        },
+        {
+          "chainId": 204,
+          "address": "0x2779106e4f4a8a28d77a24c18283651a2ae22d1c"
+        },
+        {
+          "chainId": 324,
+          "address": "0x3a287a06c66f9e95a56327185ca2bdf5f031cecd"
+        },
+        {
+          "chainId": 1101,
+          "address": "0x0d1e753a25ebda689453309112904807625befbe"
+        },
+        {
+          "chainId": 8453,
+          "address": "0x3055913c90fcc1a6ce9a358911721eeb942013a1"
+        },
+        {
+          "chainId": 42161,
+          "address": "0x1b896893dfc86bb67cf57767298b9073d2c1ba2c"
+        },
+        {
+          "chainId": 59144,
+          "address": "0x0d1e753a25ebda689453309112904807625befbe"
         }
       ]
     },
@@ -52572,6 +52596,10 @@
           "address": "0x4aae823a6a0b376de6a78e74ecc5b079d38cbcf7"
         },
         {
+          "chainId": 4200,
+          "address": "0x41d9036454be47d3745a823c4aacd0e29cfb0f71"
+        },
+        {
           "chainId": 5000,
           "address": "0xa68d25fc2af7278db4bcdcaabce31814252642a9"
         },
@@ -54459,6 +54487,48 @@
         {
           "chainId": 8453,
           "address": "0x2f3b1a07e3efb1fcc64bd09b86bd0fa885d93552"
+        }
+      ]
+    },
+    {
+      "name": "PancakeSwap Token",
+      "symbol": "Cake",
+      "address": "0x3055913c90Fcc1A6CE9a358911721eEb942013A1",
+      "logoURI": "https://assets.odos.xyz/tokens/Cake.webp",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0x152649ea73beab28c5b49b26eb48f7ead6d4c898"
+        },
+        {
+          "chainId": 56,
+          "address": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82"
+        },
+        {
+          "chainId": 204,
+          "address": "0x2779106e4f4a8a28d77a24c18283651a2ae22d1c"
+        },
+        {
+          "chainId": 324,
+          "address": "0x3a287a06c66f9e95a56327185ca2bdf5f031cecd"
+        },
+        {
+          "chainId": 1101,
+          "address": "0x0d1e753a25ebda689453309112904807625befbe"
+        },
+        {
+          "chainId": 8453,
+          "address": "0x3055913c90fcc1a6ce9a358911721eeb942013a1"
+        },
+        {
+          "chainId": 42161,
+          "address": "0x1b896893dfc86bb67cf57767298b9073d2c1ba2c"
+        },
+        {
+          "chainId": 59144,
+          "address": "0x0d1e753a25ebda689453309112904807625befbe"
         }
       ]
     },
@@ -56807,6 +56877,36 @@
       ]
     },
     {
+      "name": "Wrapped PAW",
+      "symbol": "wPAW",
+      "address": "0xc11158c5dA9db1D553ED28f0C2BA1CbEDD42CFcb",
+      "logoURI": "https://ethereum-optimism.github.io/data/WPAW/logo.svg",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0xc11158c5da9db1d553ed28f0c2ba1cbedd42cfcb"
+        },
+        {
+          "chainId": 56,
+          "address": "0xc11158c5da9db1d553ed28f0c2ba1cbedd42cfcb"
+        },
+        {
+          "chainId": 137,
+          "address": "0xc11158c5da9db1d553ed28f0c2ba1cbedd42cfcb"
+        },
+        {
+          "chainId": 8453,
+          "address": "0xc11158c5da9db1d553ed28f0c2ba1cbedd42cfcb"
+        },
+        {
+          "chainId": 42161,
+          "address": "0xc11158c5da9db1d553ed28f0c2ba1cbedd42cfcb"
+        }
+      ]
+    },
+    {
       "name": "STAR",
       "symbol": "STAR",
       "address": "0xC19669A405067927865B40Ea045a2baabbbe57f5",
@@ -57371,6 +57471,15 @@
           "address": "0x3082cc23568ea640225c2467653db90e9250aaa0"
         }
       ]
+    },
+    {
+      "name": "USDC-1 yVault",
+      "symbol": "yvUSDC-1",
+      "address": "0xd80c675366966Ef42B175125BBf1AcB1DB4151ac",
+      "logoURI": "https://assets.smold.app/api/token/8453/0xd80c675366966Ef42B175125BBf1AcB1DB4151ac/logo-128.png",
+      "decimals": 6,
+      "chainId": 8453,
+      "chainAddresses": []
     },
     {
       "name": "USD Base Coin",
@@ -59736,6 +59845,48 @@
         {
           "chainId": 42161,
           "address": "0x1a5b0aaf478bf1fda7b934c76e7692d722982a6d"
+        }
+      ]
+    },
+    {
+      "name": "PancakeSwap",
+      "symbol": "cake",
+      "address": "0x1b896893dfc86bb67cf57767298b9073d2c1ba2c",
+      "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/42161/0x1b896893dfc86bb67cf57767298b9073d2c1ba2c/logo.png",
+      "decimals": 18,
+      "chainId": 42161,
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0x152649ea73beab28c5b49b26eb48f7ead6d4c898"
+        },
+        {
+          "chainId": 56,
+          "address": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82"
+        },
+        {
+          "chainId": 204,
+          "address": "0x2779106e4f4a8a28d77a24c18283651a2ae22d1c"
+        },
+        {
+          "chainId": 324,
+          "address": "0x3a287a06c66f9e95a56327185ca2bdf5f031cecd"
+        },
+        {
+          "chainId": 1101,
+          "address": "0x0d1e753a25ebda689453309112904807625befbe"
+        },
+        {
+          "chainId": 8453,
+          "address": "0x3055913c90fcc1a6ce9a358911721eeb942013a1"
+        },
+        {
+          "chainId": 42161,
+          "address": "0x1b896893dfc86bb67cf57767298b9073d2c1ba2c"
+        },
+        {
+          "chainId": 59144,
+          "address": "0x0d1e753a25ebda689453309112904807625befbe"
         }
       ]
     },
@@ -64358,7 +64509,40 @@
       "logoURI": "https://storage.googleapis.com/ks-setting-1d682dca/8638da4d-ed10-4196-891d-7cd4c54937cf1713784061589.png",
       "decimals": 18,
       "chainId": 59144,
-      "chainAddresses": []
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0x152649ea73beab28c5b49b26eb48f7ead6d4c898"
+        },
+        {
+          "chainId": 56,
+          "address": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82"
+        },
+        {
+          "chainId": 204,
+          "address": "0x2779106e4f4a8a28d77a24c18283651a2ae22d1c"
+        },
+        {
+          "chainId": 324,
+          "address": "0x3a287a06c66f9e95a56327185ca2bdf5f031cecd"
+        },
+        {
+          "chainId": 1101,
+          "address": "0x0d1e753a25ebda689453309112904807625befbe"
+        },
+        {
+          "chainId": 8453,
+          "address": "0x3055913c90fcc1a6ce9a358911721eeb942013a1"
+        },
+        {
+          "chainId": 42161,
+          "address": "0x1b896893dfc86bb67cf57767298b9073d2c1ba2c"
+        },
+        {
+          "chainId": 59144,
+          "address": "0x0d1e753a25ebda689453309112904807625befbe"
+        }
+      ]
     },
     {
       "name": "HAPI",
@@ -64919,6 +65103,40 @@
         {
           "chainId": 59144,
           "address": "0x5fbdf89403270a1846f5ae7d113a989f850d1566"
+        }
+      ]
+    },
+    {
+      "name": "WeFi",
+      "symbol": "WEFI",
+      "address": "0x60892e742d91d16Be2cB0ffE847e85445989e30B",
+      "logoURI": "https://storage.googleapis.com/ks-setting-1d682dca/d5a78328-a28e-495c-8d3b-303da6716ade1700651602206.png",
+      "decimals": 18,
+      "chainId": 59144,
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0xffa188493c15dfaf2c206c97d8633377847b6a52"
+        },
+        {
+          "chainId": 56,
+          "address": "0xffa188493c15dfaf2c206c97d8633377847b6a52"
+        },
+        {
+          "chainId": 137,
+          "address": "0xffa188493c15dfaf2c206c97d8633377847b6a52"
+        },
+        {
+          "chainId": 324,
+          "address": "0x81e7186947fb59aaaaeb476a47daac60680cbbaf"
+        },
+        {
+          "chainId": 42161,
+          "address": "0xffa188493c15dfaf2c206c97d8633377847b6a52"
+        },
+        {
+          "chainId": 59144,
+          "address": "0x60892e742d91d16be2cb0ffe847e85445989e30b"
         }
       ]
     },
@@ -66137,6 +66355,15 @@
       "chainAddresses": []
     },
     {
+      "name": "BLOCKLORDS",
+      "symbol": "LRDS",
+      "address": "0x9A7bE36dF8221F5a3971693f5d71d2c471785478",
+      "logoURI": "https://ethereum-optimism.github.io/data/LRDS/logo.svg",
+      "decimals": 18,
+      "chainId": 84532,
+      "chainAddresses": []
+    },
+    {
       "name": "Open Loot",
       "symbol": "OPENLOOT",
       "address": "0x9acd8e640636b616844c57569028359e46beed43",
@@ -66987,6 +67214,15 @@
       "symbol": "OM",
       "address": "0xCbC45aaD4a64B081a51b8ebD12a16864F3c0a930",
       "logoURI": "https://ethereum-optimism.github.io/data/OM/logo.png",
+      "decimals": 18,
+      "chainId": 11155111,
+      "chainAddresses": []
+    },
+    {
+      "name": "BLOCKLORDS",
+      "symbol": "LRDS",
+      "address": "0xDFcffFF1b184F2051cbeA17dF11d4e074aB5271E",
+      "logoURI": "https://ethereum-optimism.github.io/data/LRDS/logo.svg",
       "decimals": 18,
       "chainId": 11155111,
       "chainAddresses": []
