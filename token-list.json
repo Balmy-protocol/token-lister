@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2024-08-29T00:04:42.378Z",
+  "timestamp": "2024-08-30T00:04:28.009Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -49853,7 +49853,12 @@
       "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbeam/0xfA9343C3897324496A05fC75abeD6bAC29f8A40f/logo.png",
       "decimals": 18,
       "chainId": 1284,
-      "chainAddresses": []
+      "chainAddresses": [
+        {
+          "chainId": 1284,
+          "address": "0xab3f0245b83feb11d15aaffefd7ad465a59817ed"
+        }
+      ]
     },
     {
       "name": "Wrapped Glimmer",
@@ -53695,7 +53700,12 @@
       "logoURI": "https://assets.smold.app/api/token/8453/0x04C0599Ae5A44757c0af6F9eC3b93da8976c150A/logo-128.png",
       "decimals": 18,
       "chainId": 8453,
-      "chainAddresses": []
+      "chainAddresses": [
+        {
+          "chainId": 8453,
+          "address": "0x04c0599ae5a44757c0af6f9ec3b93da8976c150a"
+        }
+      ]
     },
     {
       "name": "SoftDAO",
@@ -58161,7 +58171,12 @@
       "logoURI": "https://assets.smold.app/api/token/8453/0xfde4C96c8593536E31F229EA8f37b2ADa2699bb2/logo-128.png",
       "decimals": 6,
       "chainId": 8453,
-      "chainAddresses": []
+      "chainAddresses": [
+        {
+          "chainId": 8453,
+          "address": "0xfde4c96c8593536e31f229ea8f37b2ada2699bb2"
+        }
+      ]
     },
     {
       "name": "Fren Pet",
@@ -60521,6 +60536,20 @@
         {
           "chainId": 59144,
           "address": "0xb5bedd42000b71fdde22d3ee8a79bd49a568fc8f"
+        }
+      ]
+    },
+    {
+      "name": "USDe",
+      "symbol": "USDe",
+      "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
+      "logoURI": "https://assets.smold.app/api/token/42161/0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34/logo-128.png",
+      "decimals": 18,
+      "chainId": 42161,
+      "chainAddresses": [
+        {
+          "chainId": 42161,
+          "address": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34"
         }
       ]
     },
@@ -65682,6 +65711,32 @@
       "decimals": 18,
       "chainId": 59144,
       "chainAddresses": []
+    },
+    {
+      "name": "ARYZE eUSD",
+      "symbol": "eUSD",
+      "address": "0xBA2f9e7ae9F5f03FCe7D560f986743659e768bbF",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/32422/large/ARYZE_eUSD.png?1698118313",
+      "decimals": 18,
+      "chainId": 59144,
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0xa4335da338ec4c07c391fc1a9bf75f306adadc08"
+        },
+        {
+          "chainId": 56,
+          "address": "0xa4335da338ec4c07c391fc1a9bf75f306adadc08"
+        },
+        {
+          "chainId": 137,
+          "address": "0xa4335da338ec4c07c391fc1a9bf75f306adadc08"
+        },
+        {
+          "chainId": 59144,
+          "address": "0xba2f9e7ae9f5f03fce7d560f986743659e768bbf"
+        }
+      ]
     },
     {
       "name": "Linea Velocore",
