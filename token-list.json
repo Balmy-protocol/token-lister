@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2024-09-02T00:04:21.729Z",
+  "timestamp": "2024-09-03T00:04:12.014Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -3288,6 +3288,10 @@
           "address": "0x56ee926bd8c72b2d5fa1af4d9e4cbb515a1e3adc"
         },
         {
+          "chainId": 8453,
+          "address": "0x22e6966b799c4d5b13be962e1d117b56327fda66"
+        },
+        {
           "chainId": 39797,
           "address": "0xa255461ff545d6ece153283f421d67d2de5d0e29"
         },
@@ -5889,6 +5893,10 @@
         {
           "chainId": 250,
           "address": "0x56ee926bd8c72b2d5fa1af4d9e4cbb515a1e3adc"
+        },
+        {
+          "chainId": 8453,
+          "address": "0x22e6966b799c4d5b13be962e1d117b56327fda66"
         },
         {
           "chainId": 39797,
@@ -14333,6 +14341,10 @@
           "address": "0x56ee926bd8c72b2d5fa1af4d9e4cbb515a1e3adc"
         },
         {
+          "chainId": 8453,
+          "address": "0x22e6966b799c4d5b13be962e1d117b56327fda66"
+        },
+        {
           "chainId": 39797,
           "address": "0xa255461ff545d6ece153283f421d67d2de5d0e29"
         },
@@ -16443,6 +16455,10 @@
         {
           "chainId": 250,
           "address": "0x56ee926bd8c72b2d5fa1af4d9e4cbb515a1e3adc"
+        },
+        {
+          "chainId": 8453,
+          "address": "0x22e6966b799c4d5b13be962e1d117b56327fda66"
         },
         {
           "chainId": 39797,
@@ -20887,6 +20903,10 @@
         {
           "chainId": 250,
           "address": "0x56ee926bd8c72b2d5fa1af4d9e4cbb515a1e3adc"
+        },
+        {
+          "chainId": 8453,
+          "address": "0x22e6966b799c4d5b13be962e1d117b56327fda66"
         },
         {
           "chainId": 39797,
@@ -49727,7 +49747,44 @@
       "logoURI": "https://ethereum-optimism.github.io/data/SNX/logo.svg",
       "decimals": 18,
       "chainId": 8453,
-      "chainAddresses": []
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f"
+        },
+        {
+          "chainId": 10,
+          "address": "0x8700daec35af8ff88c16bdf0418774cb3d7599b4"
+        },
+        {
+          "chainId": 128,
+          "address": "0x777850281719d5a96c29812ab72f822e0e09f3da"
+        },
+        {
+          "chainId": 137,
+          "address": "0x50b728d8d964fd00c2d0aad81718b71311fef68a"
+        },
+        {
+          "chainId": 250,
+          "address": "0x56ee926bd8c72b2d5fa1af4d9e4cbb515a1e3adc"
+        },
+        {
+          "chainId": 8453,
+          "address": "0x22e6966b799c4d5b13be962e1d117b56327fda66"
+        },
+        {
+          "chainId": 39797,
+          "address": "0xa255461ff545d6ece153283f421d67d2de5d0e29"
+        },
+        {
+          "chainId": 43114,
+          "address": "0xbec243c995409e6520d7c41e404da5deba4b209b"
+        },
+        {
+          "chainId": 1666600000,
+          "address": "0x7b9c523d59aefd362247bd5601a89722e3774dd2"
+        }
+      ]
     },
     {
       "name": "Base tBTC v2",
@@ -51069,20 +51126,6 @@
       "chainAddresses": []
     },
     {
-      "name": "WAGMI",
-      "symbol": "WAGMI",
-      "address": "0x7466dE7bb8B5E41Ee572f4167de6be782a7fA75d",
-      "logoURI": "https://assets.smold.app/api/token/8453/0x7466dE7bb8B5E41Ee572f4167de6be782a7fA75d/logo-128.png",
-      "decimals": 18,
-      "chainId": 8453,
-      "chainAddresses": [
-        {
-          "chainId": 8453,
-          "address": "0x7466de7bb8b5e41ee572f4167de6be782a7fa75d"
-        }
-      ]
-    },
-    {
       "name": "Fantom Bomb",
       "symbol": "fBOMB",
       "address": "0x74ccbe53F77b08632ce0CB91D3A545bF6B8E0979",
@@ -51498,6 +51541,24 @@
         {
           "chainId": 81457,
           "address": "0x870a8f46b62b8bdeda4c02530c1750cddf2ed32e"
+        }
+      ]
+    },
+    {
+      "name": "SubQueryToken",
+      "symbol": "SQT",
+      "address": "0x858c50C3AF1913b0E849aFDB74617388a1a5340d",
+      "logoURI": "https://ethereum-optimism.github.io/data/SQT/logo.svg",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0x09395a2a58db45db0da254c7eaa5ac469d8bdc85"
+        },
+        {
+          "chainId": 8453,
+          "address": "0x858c50c3af1913b0e849afdb74617388a1a5340d"
         }
       ]
     },
@@ -52025,6 +52086,20 @@
         {
           "chainId": 8453,
           "address": "0xac12f930318be4f9d37f602cbf89cd33e99aa9d4"
+        }
+      ]
+    },
+    {
+      "name": "Toshi",
+      "symbol": "TOSHI",
+      "address": "0xAC1Bd2486aAf3B5C0fc3Fd868558b082a531B2B4",
+      "logoURI": "https://assets.smold.app/api/token/8453/0xAC1Bd2486aAf3B5C0fc3Fd868558b082a531B2B4/logo-128.png",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": [
+        {
+          "chainId": 8453,
+          "address": "0xac1bd2486aaf3b5c0fc3fd868558b082a531b2b4"
         }
       ]
     },
@@ -55577,6 +55652,24 @@
         {
           "chainId": 42161,
           "address": "0x3a8b787f78d775aecfeea15706d4221b40f345ab"
+        }
+      ]
+    },
+    {
+      "name": "Universal ETH",
+      "symbol": "uniETH",
+      "address": "0x3d15fD46CE9e551498328B1C83071D9509E2C3a0",
+      "logoURI": "https://assets.smold.app/api/token/42161/0x3d15fD46CE9e551498328B1C83071D9509E2C3a0/logo-128.png",
+      "decimals": 18,
+      "chainId": 42161,
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0xf1376bcef0f78459c0ed0ba5ddce976f1ddf51f4"
+        },
+        {
+          "chainId": 42161,
+          "address": "0x3d15fd46ce9e551498328b1c83071d9509e2c3a0"
         }
       ]
     },
@@ -65093,6 +65186,10 @@
         {
           "chainId": 250,
           "address": "0x56ee926bd8c72b2d5fa1af4d9e4cbb515a1e3adc"
+        },
+        {
+          "chainId": 8453,
+          "address": "0x22e6966b799c4d5b13be962e1d117b56327fda66"
         },
         {
           "chainId": 39797,
