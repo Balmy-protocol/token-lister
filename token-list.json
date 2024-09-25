@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2024-09-24T00:04:42.623Z",
+  "timestamp": "2024-09-25T00:04:35.069Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -52432,6 +52432,54 @@
       ]
     },
     {
+      "name": "Saakuru",
+      "symbol": "SKR",
+      "address": "0xe2dCA969624795985F2f083BcD0b674337ba130a",
+      "logoURI": "https://assets.smold.app/api/token/8453/0xe2dCA969624795985F2f083BcD0b674337ba130a/logo-128.png",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0xe2dca969624795985f2f083bcd0b674337ba130a"
+        },
+        {
+          "chainId": 10,
+          "address": "0xe2dca969624795985f2f083bcd0b674337ba130a"
+        },
+        {
+          "chainId": 56,
+          "address": "0xe2dca969624795985f2f083bcd0b674337ba130a"
+        },
+        {
+          "chainId": 8453,
+          "address": "0xe2dca969624795985f2f083bcd0b674337ba130a"
+        }
+      ]
+    },
+    {
+      "name": "Staked USDz",
+      "symbol": "sUSDz",
+      "address": "0xe31eE12bDFDD0573D634124611e85338e2cBF0cF",
+      "logoURI": "https://assets.odos.xyz/tokens/sUSDz.webp",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": [
+        {
+          "chainId": 169,
+          "address": "0x8f08a3b5bceadef10c0b26c8bb720ebb8fa91758"
+        },
+        {
+          "chainId": 8453,
+          "address": "0xe31ee12bdfdd0573d634124611e85338e2cbf0cf"
+        },
+        {
+          "chainId": 81457,
+          "address": "0x73d23f3778a90be8846e172354a115543df2a7e4"
+        }
+      ]
+    },
+    {
       "name": "MusicProtocolRECORDToken",
       "symbol": "RECORD",
       "address": "0xE642657E4F43e6DcF0bd73Ef24008394574Dee28",
@@ -52662,6 +52710,15 @@
       ]
     },
     {
+      "name": "Stable AMM - DOLA/USDC",
+      "symbol": "sAMM-DOLA/USDC",
+      "address": "0xf213F2D02837012dC0236cC105061e121bB03e37",
+      "logoURI": "https://assets.smold.app/api/token/8453/0xf213F2D02837012dC0236cC105061e121bB03e37/logo-128.png",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": []
+    },
+    {
       "name": "Optimistic Thales Token",
       "symbol": "THALES",
       "address": "0xf34e0cff046e154CAfCae502C7541b9E5FD8C249",
@@ -52755,6 +52812,41 @@
         {
           "chainId": 43114,
           "address": "0x5ecfec22aa950cb5a3b4fd7249dc30b2bd160f18"
+        }
+      ]
+    },
+    {
+      "name": "Stable AMM - MAI/USDbC",
+      "symbol": "sAMM-MAI/USDbC",
+      "address": "0xf6Aec4F97623E691a9426a69BaF5501509fCa05D",
+      "logoURI": "https://assets.smold.app/api/token/8453/0xf6Aec4F97623E691a9426a69BaF5501509fCa05D/logo-128.png",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": []
+    },
+    {
+      "name": "TOWER",
+      "symbol": "TOWER",
+      "address": "0xf7C1CEfCf7E1dd8161e00099facD3E1Db9e528ee",
+      "logoURI": "https://ethereum-optimism.github.io/data/TOWER/logo.svg",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0x1c9922314ed1415c95b9fd453c3818fd41867d0b"
+        },
+        {
+          "chainId": 56,
+          "address": "0xe7c9c6bc87b86f9e5b57072f907ee6460b593924"
+        },
+        {
+          "chainId": 137,
+          "address": "0x2bc07124d8dac638e290f401046ad584546bc47b"
+        },
+        {
+          "chainId": 8453,
+          "address": "0xf7c1cefcf7e1dd8161e00099facd3e1db9e528ee"
         }
       ]
     },
@@ -52869,6 +52961,15 @@
           "address": "0xff0c532fdb8cd566ae169c1cb157ff2bdc83e105"
         }
       ]
+    },
+    {
+      "name": "Volatile AMM - WETH/WELL",
+      "symbol": "vAMM-WETH/WELL",
+      "address": "0xffA3F8737C39e36dec4300B162c2153c67c8352f",
+      "logoURI": "https://assets.smold.app/api/token/8453/0xffA3F8737C39e36dec4300B162c2153c67c8352f/logo-128.png",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": []
     },
     {
       "name": "MOCK Osmosis",
