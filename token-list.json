@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2024-09-25T00:04:35.069Z",
+  "timestamp": "2024-09-26T00:04:29.647Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -44068,19 +44068,10 @@
       "chainAddresses": []
     },
     {
-      "name": "ETH",
-      "symbol": "ETH",
-      "address": "0x0000000000000000000000000000000000000000",
-      "logoURI": "https://assets.polygon.technology/tokenAssets/eth.svg",
-      "decimals": 18,
-      "chainId": 1101,
-      "chainAddresses": []
-    },
-    {
       "name": "Balancer",
       "symbol": "BAL",
       "address": "0x120eF59b80774F02211563834d8E3b72cb1649d6",
-      "logoURI": "https://assets.polygon.technology/tokenAssets/bal.svg",
+      "logoURI": "https://assets.smold.app/api/token/1101/0x120eF59b80774F02211563834d8E3b72cb1649d6/logo-128.png",
       "decimals": 18,
       "chainId": 1101,
       "chainAddresses": [
@@ -44134,7 +44125,7 @@
       "name": "Tether USD",
       "symbol": "USDT",
       "address": "0x1E4a5963aBFD975d8c9021ce480b42188849D41d",
-      "logoURI": "https://assets.polygon.technology/tokenAssets/usdt.svg",
+      "logoURI": "https://assets.smold.app/api/token/1101/0x1E4a5963aBFD975d8c9021ce480b42188849D41d/logo-128.png",
       "decimals": 6,
       "chainId": 1101,
       "chainAddresses": [
@@ -44321,19 +44312,10 @@
       ]
     },
     {
-      "name": "Uniswap",
-      "symbol": "UNI",
-      "address": "0x2548C94A3092494dB3aF864cc2cF781a72f55678",
-      "logoURI": "https://assets.polygon.technology/tokenAssets/uni.svg",
-      "decimals": 18,
-      "chainId": 1101,
-      "chainAddresses": []
-    },
-    {
       "name": "Curve DAO Token",
       "symbol": "CRV",
       "address": "0x3d5320821BfCa19fb0B5428F2c79d63bd5246f89",
-      "logoURI": "https://assets.polygon.technology/tokenAssets/crv.svg",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/polygon-zkevm/0x3d5320821BfCa19fb0B5428F2c79d63bd5246f89.jpg",
       "decimals": 18,
       "chainId": 1101,
       "chainAddresses": []
@@ -44342,7 +44324,7 @@
       "name": "Chain Link",
       "symbol": "LINK",
       "address": "0x4B16e4752711A7ABEc32799C976F3CeFc0111f2B",
-      "logoURI": "https://assets.polygon.technology/tokenAssets/link.svg",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/polygon-zkevm/0x4B16e4752711A7ABEc32799C976F3CeFc0111f2B.jpg",
       "decimals": 18,
       "chainId": 1101,
       "chainAddresses": []
@@ -44351,7 +44333,7 @@
       "name": "Wrapped Ether",
       "symbol": "WETH",
       "address": "0x4F9A0e7FD2Bf6067db6994CF12E4495Df938E6e9",
-      "logoURI": "https://assets.polygon.technology/tokenAssets/weth.svg",
+      "logoURI": "https://assets.smold.app/api/token/1101/0x4F9A0e7FD2Bf6067db6994CF12E4495Df938E6e9/logo-128.png",
       "decimals": 18,
       "chainId": 1101,
       "chainAddresses": [
@@ -44362,49 +44344,10 @@
       ]
     },
     {
-      "name": "Wrapped liquid staked Ether 2.0",
-      "symbol": "wstETH",
-      "address": "0x5D8cfF95D7A57c0BF50B30b43c7CC0D52825D4a9",
-      "logoURI": "https://etherscan.io/token/images/wsteth3_32.png",
-      "decimals": 18,
-      "chainId": 1101,
-      "chainAddresses": []
-    },
-    {
-      "name": "QuickSwap",
-      "symbol": "QUICK",
-      "address": "0x68286607A1d43602d880D349187c3c48c0fD05E6",
-      "logoURI": "https://assets.polygon.technology/tokenAssets/quick.svg",
-      "decimals": 18,
-      "chainId": 1101,
-      "chainAddresses": [
-        {
-          "chainId": 1,
-          "address": "0xd2ba23de8a19316a638dc1e7a9adda1d74233368"
-        },
-        {
-          "chainId": 137,
-          "address": "0xb5c064f955d8e7f38fe0460c556a72987494ee17"
-        },
-        {
-          "chainId": 169,
-          "address": "0xe22e3d44ea9fb0a87ea3f7a8f41d869c677f0020"
-        },
-        {
-          "chainId": 1101,
-          "address": "0x68286607a1d43602d880d349187c3c48c0fd05e6"
-        },
-        {
-          "chainId": 2000,
-          "address": "0xb12c13e66ade1f72f71834f2fc5082db8c091358"
-        }
-      ]
-    },
-    {
       "name": "AAVE",
       "symbol": "AAVE",
       "address": "0x68791CFE079814c46e0E25C19Bcc5BFC71A744f7",
-      "logoURI": "https://assets.polygon.technology/tokenAssets/aave.svg",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/polygon-zkevm/0x68791CFE079814c46e0E25C19Bcc5BFC71A744f7.jpg",
       "decimals": 18,
       "chainId": 1101,
       "chainAddresses": []
@@ -44413,7 +44356,7 @@
       "name": "Frax Share",
       "symbol": "FXS",
       "address": "0x6b856a14CeA1d7dCfaF80fA6936c0b75972cCacE",
-      "logoURI": "https://assets.polygon.technology/tokenAssets/fxs.svg",
+      "logoURI": "https://assets.smold.app/api/token/1101/0x6b856a14CeA1d7dCfaF80fA6936c0b75972cCacE/logo-128.png",
       "decimals": 18,
       "chainId": 1101,
       "chainAddresses": [
@@ -44460,28 +44403,10 @@
       ]
     },
     {
-      "name": "Staked Frax Ether",
-      "symbol": "sfrxETH",
-      "address": "0x7c2aF1Fb79D0b1c67d4eb802d44C673D0A1D2C04",
-      "logoURI": "https://etherscan.io/token/images/fraxprice_32.png",
-      "decimals": 18,
-      "chainId": 1101,
-      "chainAddresses": []
-    },
-    {
-      "name": "Lido DAO",
-      "symbol": "LDO",
-      "address": "0x7e2feEa957b7D1606335e339754F4e52b452B792",
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8000.png",
-      "decimals": 18,
-      "chainId": 1101,
-      "chainAddresses": []
-    },
-    {
       "name": "Staked MATIC",
       "symbol": "stMATIC",
       "address": "0x83b874c1e09D316059d929da402dcB1A98e92082",
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18688.png",
+      "logoURI": "https://assets.smold.app/api/token/1101/0x83b874c1e09D316059d929da402dcB1A98e92082/logo-128.png",
       "decimals": 18,
       "chainId": 1101,
       "chainAddresses": [
@@ -44503,7 +44428,7 @@
       "name": "Matic Token",
       "symbol": "MATIC",
       "address": "0xa2036f0538221a77A3937F1379699f44945018d0",
-      "logoURI": "https://assets.polygon.technology/tokenAssets/matic.svg",
+      "logoURI": "https://assets.smold.app/api/token/1101/0xa2036f0538221a77A3937F1379699f44945018d0/logo-128.png",
       "decimals": 18,
       "chainId": 1101,
       "chainAddresses": [
@@ -44545,7 +44470,7 @@
       "name": "USD Coin",
       "symbol": "USDC",
       "address": "0xA8CE8aee21bC2A48a5EF670afCc9274C7bbbC035",
-      "logoURI": "https://assets.polygon.technology/tokenAssets/usdc.svg",
+      "logoURI": "https://assets.smold.app/api/token/1101/0xA8CE8aee21bC2A48a5EF670afCc9274C7bbbC035/logo-128.png",
       "decimals": 6,
       "chainId": 1101,
       "chainAddresses": [
@@ -44736,19 +44661,10 @@
       ]
     },
     {
-      "name": "Rocket Pool ETH",
-      "symbol": "rETH",
-      "address": "0xb23C20EFcE6e24Acca0Cef9B7B7aA196b84EC942",
-      "logoURI": "https://etherscan.io/token/images/rocketpooleth_32.png",
-      "decimals": 18,
-      "chainId": 1101,
-      "chainAddresses": []
-    },
-    {
       "name": "Dai Stablecoin",
       "symbol": "DAI",
       "address": "0xC5015b9d9161Dca7e18e32f6f25C4aD850731Fd4",
-      "logoURI": "https://assets.polygon.technology/tokenAssets/dai.svg",
+      "logoURI": "https://assets.smold.app/api/token/1101/0xC5015b9d9161Dca7e18e32f6f25C4aD850731Fd4/logo-128.png",
       "decimals": 18,
       "chainId": 1101,
       "chainAddresses": [
@@ -44762,7 +44678,7 @@
       "name": "Frax Ether",
       "symbol": "frxETH",
       "address": "0xCf7eceE185f19e2E970a301eE37F93536ed66179",
-      "logoURI": "https://etherscan.io/token/images/fraxethcanonical2_32.png",
+      "logoURI": "https://assets.smold.app/api/token/1101/0xCf7eceE185f19e2E970a301eE37F93536ed66179/logo-128.png",
       "decimals": 18,
       "chainId": 1101,
       "chainAddresses": [
@@ -44804,7 +44720,7 @@
       "name": "Wrapped BTC",
       "symbol": "WBTC",
       "address": "0xEA034fb02eB1808C2cc3adbC15f447B93CbE08e1",
-      "logoURI": "https://assets.polygon.technology/tokenAssets/wbtc.svg",
+      "logoURI": "https://assets.smold.app/api/token/1101/0xEA034fb02eB1808C2cc3adbC15f447B93CbE08e1/logo-128.png",
       "decimals": 8,
       "chainId": 1101,
       "chainAddresses": [
@@ -44818,7 +44734,7 @@
       "name": "Frax",
       "symbol": "FRAX",
       "address": "0xFf8544feD5379D9ffa8D47a74cE6b91e632AC44D",
-      "logoURI": "https://assets.polygon.technology/tokenAssets/frax.svg",
+      "logoURI": "https://assets.smold.app/api/token/1101/0xFf8544feD5379D9ffa8D47a74cE6b91e632AC44D/logo-128.png",
       "decimals": 18,
       "chainId": 1101,
       "chainAddresses": [
@@ -50660,20 +50576,6 @@
       "chainAddresses": []
     },
     {
-      "name": "WAGMI",
-      "symbol": "WAGMI",
-      "address": "0x7466dE7bb8B5E41Ee572f4167de6be782a7fA75d",
-      "logoURI": "https://assets.smold.app/api/token/8453/0x7466dE7bb8B5E41Ee572f4167de6be782a7fA75d/logo-128.png",
-      "decimals": 18,
-      "chainId": 8453,
-      "chainAddresses": [
-        {
-          "chainId": 8453,
-          "address": "0x7466de7bb8b5e41ee572f4167de6be782a7fa75d"
-        }
-      ]
-    },
-    {
       "name": "Workie",
       "symbol": "WORKIE",
       "address": "0x7480527815ccAE421400Da01E052b120Cc4255E9",
@@ -51663,33 +51565,6 @@
       ]
     },
     {
-      "name": "Volatile AMM - hyUSD/eUSD",
-      "symbol": "vAMM-hyUSD/eUSD",
-      "address": "0xb5E331615FdbA7DF49e05CdEACEb14Acdd5091c3",
-      "logoURI": "https://assets.smold.app/api/token/8453/0xb5E331615FdbA7DF49e05CdEACEb14Acdd5091c3/logo-128.png",
-      "decimals": 18,
-      "chainId": 8453,
-      "chainAddresses": []
-    },
-    {
-      "name": "BLOCKLORDS",
-      "symbol": "LRDS",
-      "address": "0xB676f87A6E701f0DE8De5Ab91B56b66109766DB1",
-      "logoURI": "https://ethereum-optimism.github.io/data/LRDS/logo.svg",
-      "decimals": 18,
-      "chainId": 8453,
-      "chainAddresses": [
-        {
-          "chainId": 1,
-          "address": "0xd0a6053f087e87a25dc60701ba6e663b1a548e85"
-        },
-        {
-          "chainId": 8453,
-          "address": "0xb676f87a6e701f0de8de5ab91b56b66109766db1"
-        }
-      ]
-    },
-    {
       "name": "Rocket Pool ETH",
       "symbol": "rETH",
       "address": "0xB6fe221Fe9EeF5aBa221c348bA20A1Bf5e73624c",
@@ -52070,6 +51945,24 @@
         {
           "chainId": 8453,
           "address": "0xcacf1ca03983ce6c7e235fb20c70acc70ed13509"
+        }
+      ]
+    },
+    {
+      "name": "Coinbase Wrapped BTC",
+      "symbol": "cbBTC",
+      "address": "0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf",
+      "logoURI": "https://assets.odos.xyz/tokens/cbBTC.webp",
+      "decimals": 8,
+      "chainId": 8453,
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf"
+        },
+        {
+          "chainId": 8453,
+          "address": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf"
         }
       ]
     },
