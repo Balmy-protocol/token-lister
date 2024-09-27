@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2024-09-26T00:04:29.647Z",
+  "timestamp": "2024-09-27T00:04:56.675Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -32928,12 +32928,7 @@
       "logoURI": "https://assets.smold.app/api/token/1088/0x573BBA446294927618075d2805f0aA51E347266D/logo-128.png",
       "decimals": 18,
       "chainId": 1088,
-      "chainAddresses": [
-        {
-          "chainId": 1088,
-          "address": "0x573bba446294927618075d2805f0aa51e347266d"
-        }
-      ]
+      "chainAddresses": []
     },
     {
       "name": "Marathon Hermes",
@@ -45237,6 +45232,15 @@
       "chainAddresses": []
     },
     {
+      "name": "Tellor",
+      "symbol": "TRB",
+      "address": "0x665060707c3ea3c31b3eabad7f409072446e1d50",
+      "logoURI": "https://ethereum-optimism.github.io/data/TRB/logo.png",
+      "decimals": 18,
+      "chainId": 1135,
+      "chainAddresses": []
+    },
+    {
       "name": "Lisk",
       "symbol": "LSK",
       "address": "0xac485391EB2d7D88253a7F1eF18C37f4242D1A24",
@@ -46195,6 +46199,15 @@
       "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbase/0xF4e32D699274674733bF10071051aaD324Cc5a02/logo.png",
       "decimals": 18,
       "chainId": 1287,
+      "chainAddresses": []
+    },
+    {
+      "name": "Mugloo",
+      "symbol": "MUGLOO",
+      "address": "0xf1F9Ccc7638F124c3d9354Be0edE2ACb5F0A15Bc",
+      "logoURI": "https://ethereum-optimism.github.io/data/MUGLOO/logo.svg",
+      "decimals": 4,
+      "chainId": 1750,
       "chainAddresses": []
     },
     {
@@ -47853,6 +47866,10 @@
         {
           "chainId": 42161,
           "address": "0x3647c54c4c2c65bc7a2d63c0da2809b399dbbdc0"
+        },
+        {
+          "chainId": 43114,
+          "address": "0xbc78d84ba0c46dfe32cf2895a19939c86b81a777"
         },
         {
           "chainId": 810180,
@@ -50103,6 +50120,24 @@
       ]
     },
     {
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "address": "0x50dA645f148798F68EF2d7dB7C1CB22A6819bb2C",
+      "logoURI": "https://ethereum-optimism.github.io/data/SPX/logo.svg",
+      "decimals": 8,
+      "chainId": 8453,
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0xe0f63a424a4439cbe457d80e4f4b51ad25b2c56c"
+        },
+        {
+          "chainId": 8453,
+          "address": "0x50da645f148798f68ef2d7db7c1cb22a6819bb2c"
+        }
+      ]
+    },
+    {
       "name": "MOBY",
       "symbol": "MOBY",
       "address": "0x51B75da3Da2e413eA1B8eD3Eb078dc712304761C",
@@ -51561,6 +51596,33 @@
         {
           "chainId": 42161,
           "address": "0xb59c8912c83157a955f9d715e556257f432c35d7"
+        }
+      ]
+    },
+    {
+      "name": "Volatile AMM - hyUSD/eUSD",
+      "symbol": "vAMM-hyUSD/eUSD",
+      "address": "0xb5E331615FdbA7DF49e05CdEACEb14Acdd5091c3",
+      "logoURI": "https://assets.smold.app/api/token/8453/0xb5E331615FdbA7DF49e05CdEACEb14Acdd5091c3/logo-128.png",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": []
+    },
+    {
+      "name": "BLOCKLORDS",
+      "symbol": "LRDS",
+      "address": "0xB676f87A6E701f0DE8De5Ab91B56b66109766DB1",
+      "logoURI": "https://ethereum-optimism.github.io/data/LRDS/logo.svg",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0xd0a6053f087e87a25dc60701ba6e663b1a548e85"
+        },
+        {
+          "chainId": 8453,
+          "address": "0xb676f87a6e701f0de8de5ab91b56b66109766db1"
         }
       ]
     },
@@ -60911,40 +60973,6 @@
         {
           "chainId": 59144,
           "address": "0x5fbdf89403270a1846f5ae7d113a989f850d1566"
-        }
-      ]
-    },
-    {
-      "name": "WeFi",
-      "symbol": "WEFI",
-      "address": "0x60892e742d91d16Be2cB0ffE847e85445989e30B",
-      "logoURI": "https://storage.googleapis.com/ks-setting-1d682dca/d5a78328-a28e-495c-8d3b-303da6716ade1700651602206.png",
-      "decimals": 18,
-      "chainId": 59144,
-      "chainAddresses": [
-        {
-          "chainId": 1,
-          "address": "0xffa188493c15dfaf2c206c97d8633377847b6a52"
-        },
-        {
-          "chainId": 56,
-          "address": "0xffa188493c15dfaf2c206c97d8633377847b6a52"
-        },
-        {
-          "chainId": 137,
-          "address": "0xffa188493c15dfaf2c206c97d8633377847b6a52"
-        },
-        {
-          "chainId": 324,
-          "address": "0x81e7186947fb59aaaaeb476a47daac60680cbbaf"
-        },
-        {
-          "chainId": 42161,
-          "address": "0xffa188493c15dfaf2c206c97d8633377847b6a52"
-        },
-        {
-          "chainId": 59144,
-          "address": "0x60892e742d91d16be2cb0ffe847e85445989e30b"
         }
       ]
     },
