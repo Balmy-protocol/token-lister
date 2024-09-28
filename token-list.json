@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2024-09-27T00:04:56.675Z",
+  "timestamp": "2024-09-28T00:04:30.098Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -9230,32 +9230,6 @@
         {
           "chainId": 43114,
           "address": "0xa384bc7cdc0a93e686da9e7b8c0807cd040f4e0b"
-        }
-      ]
-    },
-    {
-      "name": "SUPER-ERC20",
-      "symbol": "SUPER",
-      "address": "0x51BA0b044d96C3aBfcA52B64D733603CCC4F0d4D",
-      "logoURI": "https://tokens.1inch.io/0x51ba0b044d96c3abfca52b64d733603ccc4f0d4d.png",
-      "decimals": 18,
-      "chainId": 56,
-      "chainAddresses": [
-        {
-          "chainId": 1,
-          "address": "0xe53ec727dbdeb9e2d5456c3be40cff031ab40a55"
-        },
-        {
-          "chainId": 56,
-          "address": "0x51ba0b044d96c3abfca52b64d733603ccc4f0d4d"
-        },
-        {
-          "chainId": 137,
-          "address": "0xa1428174f516f527fafdd146b883bb4428682737"
-        },
-        {
-          "chainId": 39797,
-          "address": "0x8b2ed0247a3fd9706ac033dd7e926161e5c4753b"
         }
       ]
     },
@@ -47116,6 +47090,10 @@
         {
           "chainId": 42161,
           "address": "0x346c574c56e1a4aaa8dc88cda8f7eb12b39947ab"
+        },
+        {
+          "chainId": 43114,
+          "address": "0xcc0966d8418d412c599a6421b760a847eb169a8c"
         }
       ]
     },
@@ -50611,6 +50589,20 @@
       "chainAddresses": []
     },
     {
+      "name": "WAGMI",
+      "symbol": "WAGMI",
+      "address": "0x7466dE7bb8B5E41Ee572f4167de6be782a7fA75d",
+      "logoURI": "https://assets.smold.app/api/token/8453/0x7466dE7bb8B5E41Ee572f4167de6be782a7fA75d/logo-128.png",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": [
+        {
+          "chainId": 8453,
+          "address": "0x7466de7bb8b5e41ee572f4167de6be782a7fa75d"
+        }
+      ]
+    },
+    {
       "name": "Workie",
       "symbol": "WORKIE",
       "address": "0x7480527815ccAE421400Da01E052b120Cc4255E9",
@@ -52409,6 +52401,10 @@
         {
           "chainId": 8453,
           "address": "0xe2dca969624795985f2f083bcd0b674337ba130a"
+        },
+        {
+          "chainId": 7225878,
+          "address": "0xe2dca969624795985f2f083bcd0b674337ba130a"
         }
       ]
     },
@@ -52611,24 +52607,6 @@
         {
           "chainId": 534352,
           "address": "0xa25b25548b4c98b0c7d3d27dca5d5ca743d68b7f"
-        }
-      ]
-    },
-    {
-      "name": "Web 3 Dollar",
-      "symbol": "USD3",
-      "address": "0xEFb97aaF77993922aC4be4Da8Fbc9A2425322677",
-      "logoURI": "https://ethereum-optimism.github.io/data/USD3/logo.svg",
-      "decimals": 18,
-      "chainId": 8453,
-      "chainAddresses": [
-        {
-          "chainId": 1,
-          "address": "0x0d86883faf4ffd7aeb116390af37746f45b6f378"
-        },
-        {
-          "chainId": 8453,
-          "address": "0xefb97aaf77993922ac4be4da8fbc9a2425322677"
         }
       ]
     },
