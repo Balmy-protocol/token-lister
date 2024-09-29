@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2024-09-28T00:04:30.098Z",
+  "timestamp": "2024-09-29T00:04:58.687Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -10716,6 +10716,10 @@
         {
           "chainId": 204,
           "address": "0x3e2e61f1c075881f3fb8dd568043d8c221fd5c61"
+        },
+        {
+          "chainId": 324,
+          "address": "0xd78abd81a3d57712a3af080dc4185b698fe9ac5a"
         },
         {
           "chainId": 42161,
@@ -52607,6 +52611,24 @@
         {
           "chainId": 534352,
           "address": "0xa25b25548b4c98b0c7d3d27dca5d5ca743d68b7f"
+        }
+      ]
+    },
+    {
+      "name": "Web 3 Dollar",
+      "symbol": "USD3",
+      "address": "0xEFb97aaF77993922aC4be4Da8Fbc9A2425322677",
+      "logoURI": "https://ethereum-optimism.github.io/data/USD3/logo.svg",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0x0d86883faf4ffd7aeb116390af37746f45b6f378"
+        },
+        {
+          "chainId": 8453,
+          "address": "0xefb97aaf77993922ac4be4da8fbc9a2425322677"
         }
       ]
     },
