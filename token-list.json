@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2024-10-03T00:04:25.039Z",
+  "timestamp": "2024-10-04T00:04:29.717Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -745,6 +745,32 @@
         {
           "chainId": 1,
           "address": "0x24ae2da0f361aa4be46b48eb19c91e02c5e4f27e"
+        }
+      ]
+    },
+    {
+      "name": "Yield Guild Games Token",
+      "symbol": "YGG",
+      "address": "0x25f8087EAD173b73D6e8B84329989A8eEA16CF73",
+      "logoURI": "https://ethereum-optimism.github.io/data/YGG/logo.svg",
+      "decimals": 18,
+      "chainId": 1,
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0x25f8087ead173b73d6e8b84329989a8eea16cf73"
+        },
+        {
+          "chainId": 137,
+          "address": "0x82617aa52dddf5ed9bb7b370ed777b3182a30fd1"
+        },
+        {
+          "chainId": 2020,
+          "address": "0x1c306872bc82525d72bf3562e8f0aa3f8f26e857"
+        },
+        {
+          "chainId": 1666600000,
+          "address": "0x63cf309500d8be0b9fdb8f1fb66c821236c0438c"
         }
       ]
     },
@@ -7276,54 +7302,6 @@
       ]
     },
     {
-      "name": "Dogelon Mars",
-      "symbol": "ELON",
-      "address": "0x02DCcaf514C98451320a9365C5b46C61d3246ff3",
-      "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0x02DCcaf514C98451320a9365C5b46C61d3246ff3/logo.png",
-      "decimals": 18,
-      "chainId": 25,
-      "chainAddresses": [
-        {
-          "chainId": 1,
-          "address": "0x761d38e5ddf6ccf6cf7c55759d5210750b5d60f3"
-        },
-        {
-          "chainId": 25,
-          "address": "0x02dccaf514c98451320a9365c5b46c61d3246ff3"
-        },
-        {
-          "chainId": 56,
-          "address": "0x7bd6fabd64813c48545c9c0e312a0099d9be2540"
-        },
-        {
-          "chainId": 122,
-          "address": "0x5dd8015cec49f4db01fd228f688bf30337d3e0a9"
-        },
-        {
-          "chainId": 137,
-          "address": "0xe0339c80ffde91f3e20494df88d4206d86024cdf"
-        }
-      ]
-    },
-    {
-      "name": "MetaversePixels",
-      "symbol": "MetaPx",
-      "address": "0x03627840190152771e86e5E702175B00219F6471",
-      "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0x03627840190152771e86e5E702175B00219F6471/logo.png",
-      "decimals": 18,
-      "chainId": 25,
-      "chainAddresses": []
-    },
-    {
-      "name": "Defido Coin",
-      "symbol": "BASE",
-      "address": "0x0422b63182798ae9876cae3caBd225d96B284D14",
-      "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0x0422b63182798ae9876cae3caBd225d96B284D14/logo.png",
-      "decimals": 18,
-      "chainId": 25,
-      "chainAddresses": []
-    },
-    {
       "name": "Wrapped Bitcoin",
       "symbol": "WBTC",
       "address": "0x062E66477Faf219F25D27dCED647BF57C3107d52",
@@ -7336,118 +7314,6 @@
           "address": "0x062e66477faf219f25d27dced647bf57c3107d52"
         }
       ]
-    },
-    {
-      "name": "Adamant Token",
-      "symbol": "CADDY",
-      "address": "0x09ad12552ec45f82bE90B38dFE7b06332A680864",
-      "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0x09ad12552ec45f82bE90B38dFE7b06332A680864/logo.png",
-      "decimals": 18,
-      "chainId": 25,
-      "chainAddresses": []
-    },
-    {
-      "name": "AUTOv2 Token",
-      "symbol": "AUTO",
-      "address": "0x0dCb0CB0120d355CdE1ce56040be57Add0185BAa",
-      "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0x0dCb0CB0120d355CdE1ce56040be57Add0185BAa/logo.png",
-      "decimals": 18,
-      "chainId": 25,
-      "chainAddresses": []
-    },
-    {
-      "name": "ADA Token",
-      "symbol": "ADA",
-      "address": "0x0e517979C2c1c1522ddB0c73905e0D39b3F990c0",
-      "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0x0e517979C2c1c1522ddB0c73905e0D39b3F990c0/logo.svg",
-      "decimals": 6,
-      "chainId": 25,
-      "chainAddresses": [
-        {
-          "chainId": 25,
-          "address": "0x0e517979c2c1c1522ddb0c73905e0d39b3f990c0"
-        },
-        {
-          "chainId": 2001,
-          "address": "0xae83571000af4499798d1e3b0fa0070eb3a3e3f9"
-        },
-        {
-          "chainId": 39797,
-          "address": "0xe13b07c79de28bd34d021663744258ec456e8484"
-        }
-      ]
-    },
-    {
-      "name": "CrO cRo",
-      "symbol": "CROCRO",
-      "address": "0x17C00923Ce44f2748DB6A14f979D55C497A267e4",
-      "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0x17C00923Ce44f2748DB6A14f979D55C497A267e4/logo.png",
-      "decimals": 18,
-      "chainId": 25,
-      "chainAddresses": []
-    },
-    {
-      "name": "CRO Max Token",
-      "symbol": "CROMAX",
-      "address": "0x1985127d1B21af04d09a69Cdcb1dD33fd8961e9c",
-      "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0x1985127d1B21af04d09a69Cdcb1dD33fd8961e9c/logo.png",
-      "decimals": 9,
-      "chainId": 25,
-      "chainAddresses": []
-    },
-    {
-      "name": "Arcane",
-      "symbol": "ARC",
-      "address": "0x289B8f552c9fD66f9cEA35B193F7ca73ae24A5d5",
-      "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0x289B8f552c9fD66f9cEA35B193F7ca73ae24A5d5/logo.png",
-      "decimals": 18,
-      "chainId": 25,
-      "chainAddresses": []
-    },
-    {
-      "name": "StormSwap Finance",
-      "symbol": "WIND",
-      "address": "0x48713151E5AFB7b4CC45f3653c1c59CF81E88D4B",
-      "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0x48713151E5AFB7b4CC45f3653c1c59CF81E88D4B/logo.png",
-      "decimals": 18,
-      "chainId": 25,
-      "chainAddresses": []
-    },
-    {
-      "name": "Cougar Token",
-      "symbol": "CGS",
-      "address": "0x4e57e27e4166275Eb7f4966b42A201d76e481B03",
-      "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0x4e57e27e4166275Eb7f4966b42A201d76e481B03/logo.png",
-      "decimals": 18,
-      "chainId": 25,
-      "chainAddresses": []
-    },
-    {
-      "name": "Singular.farm",
-      "symbol": "DUO",
-      "address": "0x4ff6334aa95aFfC85F09738eEfc866cBEA7DC7c6",
-      "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0x4ff6334aa95aFfC85F09738eEfc866cBEA7DC7c6/logo.png",
-      "decimals": 18,
-      "chainId": 25,
-      "chainAddresses": []
-    },
-    {
-      "name": "CroBank",
-      "symbol": "BANK",
-      "address": "0x55210C2a69b4c52a9d9289A257D54d35C4a2d2eC",
-      "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0x55210C2a69b4c52a9d9289A257D54d35C4a2d2eC/logo.png",
-      "decimals": 9,
-      "chainId": 25,
-      "chainAddresses": []
-    },
-    {
-      "name": "PegasusDAO",
-      "symbol": "SUS",
-      "address": "0x5b5Fe1238aca91C65683aCd7f9D9Bf922e271EAA",
-      "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0x5b5Fe1238aca91C65683aCd7f9D9Bf922e271EAA/logo.png",
-      "decimals": 9,
-      "chainId": 25,
-      "chainAddresses": []
     },
     {
       "name": "Wrapped CRO",
@@ -7472,16 +7338,7 @@
       ]
     },
     {
-      "name": "Salem Finance",
-      "symbol": "SALEM",
-      "address": "0x637CB66526244029407046867E1E0DFD28b2294E",
-      "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0x637CB66526244029407046867E1E0DFD28b2294E/logo.png",
-      "decimals": 18,
-      "chainId": 25,
-      "chainAddresses": []
-    },
-    {
-      "name": "Tether USD",
+      "name": "USDT",
       "symbol": "USDT",
       "address": "0x66e428c3f67a68878562e79A0234c1F83c208770",
       "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0x66e428c3f67a68878562e79A0234c1F83c208770/logo.png",
@@ -7671,232 +7528,19 @@
       ]
     },
     {
-      "name": "Binance USD",
+      "name": "BUSD",
       "symbol": "BUSD",
-      "address": "0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8",
+      "address": "0x6ab6d61428fde76768d7b45d8bfeec19c6ef91a8",
       "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8/logo.png",
       "decimals": 18,
       "chainId": 25,
       "chainAddresses": []
     },
     {
-      "name": "Hibiki finance",
-      "symbol": "cHIBIKI",
-      "address": "0x6B66fCB66Dba37F99876a15303b759c73fc54ed0",
-      "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0x6B66fCB66Dba37F99876a15303b759c73fc54ed0/logo.png",
-      "decimals": 18,
-      "chainId": 25,
-      "chainAddresses": []
-    },
-    {
-      "name": "CroNodes Finance",
-      "symbol": "CRNF",
-      "address": "0x6eDd4e7A5bd9688AAb374E5A0447c2A2FF10fAEA",
-      "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0x6eDd4e7A5bd9688AAb374E5A0447c2A2FF10fAEA/logo.png",
-      "decimals": 18,
-      "chainId": 25,
-      "chainAddresses": []
-    },
-    {
-      "name": "AvtoCROSS",
-      "symbol": "CROSS",
-      "address": "0x6ef20cA7E493c52095e892DAB78a7FD0e7e2a279",
-      "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0x6ef20cA7E493c52095e892DAB78a7FD0e7e2a279/logo.png",
-      "decimals": 18,
-      "chainId": 25,
-      "chainAddresses": []
-    },
-    {
-      "name": "CROTerra",
-      "symbol": "CROTERRA",
-      "address": "0x74F53e67D68A348611979e3012EDf9781C437529",
-      "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0x74F53e67D68A348611979e3012EDf9781C437529/logo.png",
-      "decimals": 18,
-      "chainId": 25,
-      "chainAddresses": []
-    },
-    {
-      "name": "Avalanche",
-      "symbol": "AVAX",
-      "address": "0x765277EebeCA2e31912C9946eAe1021199B39C61",
-      "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0x765277EebeCA2e31912C9946eAe1021199B39C61/logo.png",
-      "decimals": 18,
-      "chainId": 25,
-      "chainAddresses": []
-    },
-    {
-      "name": "CbrdogToken",
-      "symbol": "CBRDOG",
-      "address": "0x7a6a832eB5F58245F7d75eD980cED849D69A98FD",
-      "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0x7a6a832eB5F58245F7d75eD980cED849D69A98FD/logo.png",
-      "decimals": 18,
-      "chainId": 25,
-      "chainAddresses": []
-    },
-    {
-      "name": "ApeCoin",
-      "symbol": "APE",
-      "address": "0x7aE97042a4A0eB4D1eB370C34BfEC71042a056B7",
-      "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0x7aE97042a4A0eB4D1eB370C34BfEC71042a056B7/logo.png",
-      "decimals": 18,
-      "chainId": 25,
-      "chainAddresses": []
-    },
-    {
-      "name": "CroNode",
-      "symbol": "CRN",
-      "address": "0x8174BaC1453c3AC7CaED909c20ceaDeb5E1CDA00",
-      "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0x8174BaC1453c3AC7CaED909c20ceaDeb5E1CDA00/logo.png",
-      "decimals": 18,
-      "chainId": 25,
-      "chainAddresses": []
-    },
-    {
-      "name": " DarkCrypto",
-      "symbol": "DARK",
-      "address": "0x83b2AC8642aE46FC2823Bc959fFEB3c1742c48B5",
-      "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0x83b2AC8642aE46FC2823Bc959fFEB3c1742c48B5/logo.png",
-      "decimals": 18,
-      "chainId": 25,
-      "chainAddresses": [
-        {
-          "chainId": 25,
-          "address": "0x83b2ac8642ae46fc2823bc959ffeb3c1742c48b5"
-        }
-      ]
-    },
-    {
-      "name": "CroATOM",
-      "symbol": "CroATOM",
-      "address": "0x8b0D1164e98DD0592598B56C1Baa86462c73A2d1",
-      "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0x8b0D1164e98DD0592598B56C1Baa86462c73A2d1/logo.png",
-      "decimals": 9,
-      "chainId": 25,
-      "chainAddresses": []
-    },
-    {
-      "name": "LUNA Token",
-      "symbol": "LUNA",
-      "address": "0x9278C8693e7328bef49804BacbFb63253565dffD",
-      "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0x9278C8693e7328bef49804BacbFb63253565dffD/logo.png",
-      "decimals": 6,
-      "chainId": 25,
-      "chainAddresses": []
-    },
-    {
-      "name": "DOT",
-      "symbol": "DOT",
-      "address": "0x994047FE66406CbD646cd85B990E11D7F5dB8fC7",
-      "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0x994047FE66406CbD646cd85B990E11D7F5dB8fC7/logo.png",
-      "decimals": 10,
-      "chainId": 25,
-      "chainAddresses": []
-    },
-    {
-      "name": "Croissant Games",
-      "symbol": "CROISSANT",
-      "address": "0xa0C3c184493f2Fae7d2f2Bd83F195a1c300FA353",
-      "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0xa0C3c184493f2Fae7d2f2Bd83F195a1c300FA353/logo.png",
-      "decimals": 18,
-      "chainId": 25,
-      "chainAddresses": [
-        {
-          "chainId": 25,
-          "address": "0xa0c3c184493f2fae7d2f2bd83f195a1c300fa353"
-        }
-      ]
-    },
-    {
-      "name": "V3S-Peg Tectonic",
-      "symbol": "V3TONIC",
-      "address": "0xA29EB0318F522ca98FdB5cEdc0c7549526625517",
-      "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0xA29EB0318F522ca98FdB5cEdc0c7549526625517/logo.png",
-      "decimals": 18,
-      "chainId": 25,
-      "chainAddresses": []
-    },
-    {
-      "name": "EOS",
-      "symbol": "EOS",
-      "address": "0xA37caA841072a305a0799718aFA16cd504C52118",
-      "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0xA37caA841072a305a0799718aFA16cd504C52118/logo.png",
-      "decimals": 4,
-      "chainId": 25,
-      "chainAddresses": []
-    },
-    {
-      "name": "Agile",
-      "symbol": "AGL",
-      "address": "0xA4434AFEae0dECb9820D906BF01b13291D00651a",
-      "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0xA4434AFEae0dECb9820D906BF01b13291D00651a/logo.png",
-      "decimals": 18,
-      "chainId": 25,
-      "chainAddresses": []
-    },
-    {
-      "name": "Liquidus",
-      "symbol": "LIQ",
-      "address": "0xABd380327Fe66724FFDa91A87c772FB8D00bE488",
-      "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0xABd380327Fe66724FFDa91A87c772FB8D00bE488/logo.png",
-      "decimals": 18,
-      "chainId": 25,
-      "chainAddresses": [
-        {
-          "chainId": 25,
-          "address": "0xabd380327fe66724ffda91a87c772fb8d00be488"
-        },
-        {
-          "chainId": 56,
-          "address": "0xc7981767f644c7f8e483dabdc413e8a371b83079"
-        }
-      ]
-    },
-    {
-      "name": "Crona Token",
-      "symbol": "CRONA",
-      "address": "0xadbd1231fb360047525BEdF962581F3eee7b49fe",
-      "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0xadbd1231fb360047525BEdF962581F3eee7b49fe/logo.png",
-      "decimals": 18,
-      "chainId": 25,
-      "chainAddresses": [
-        {
-          "chainId": 25,
-          "address": "0xadbd1231fb360047525bedf962581f3eee7b49fe"
-        }
-      ]
-    },
-    {
-      "name": "multi Fantom",
-      "symbol": "multiFTM",
+      "name": "Fantom",
+      "symbol": "FTM",
       "address": "0xB44a9B6905aF7c801311e8F4E76932ee959c663C",
       "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0xB44a9B6905aF7c801311e8F4E76932ee959c663C/logo.png",
-      "decimals": 18,
-      "chainId": 25,
-      "chainAddresses": []
-    },
-    {
-      "name": "Kaguni",
-      "symbol": "Kagu",
-      "address": "0xB73b49aAb0B354A7868f9AD36c7a6AC357E20492",
-      "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0xB73b49aAb0B354A7868f9AD36c7a6AC357E20492/logo.png",
-      "decimals": 18,
-      "chainId": 25,
-      "chainAddresses": []
-    },
-    {
-      "name": "ATOM Coin",
-      "symbol": "ATOM",
-      "address": "0xB888d8Dd1733d72681b30c00ee76BDE93ae7aa93",
-      "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0xB888d8Dd1733d72681b30c00ee76BDE93ae7aa93/logo.png",
-      "decimals": 6,
-      "chainId": 25,
-      "chainAddresses": []
-    },
-    {
-      "name": "SHIBA INU",
-      "symbol": "SHIB",
-      "address": "0xbED48612BC69fA1CaB67052b42a95FB30C1bcFee",
-      "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0xbED48612BC69fA1CaB67052b42a95FB30C1bcFee/logo.png",
       "decimals": 18,
       "chainId": 25,
       "chainAddresses": []
@@ -8096,52 +7740,7 @@
       ]
     },
     {
-      "name": "V3SToken",
-      "symbol": "V3S",
-      "address": "0xC7e99a2f064Cf86aF91Db252a9D8Bc16e6fE7427",
-      "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0xC7e99a2f064Cf86aF91Db252a9D8Bc16e6fE7427/logo.png",
-      "decimals": 18,
-      "chainId": 25,
-      "chainAddresses": []
-    },
-    {
-      "name": "ESSO Token",
-      "symbol": "ESSO",
-      "address": "0xc82eA25896F065cB6E3ae298cD1f23FE58516A35",
-      "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0xc82eA25896F065cB6E3ae298cD1f23FE58516A35/logo.svg",
-      "decimals": 8,
-      "chainId": 25,
-      "chainAddresses": []
-    },
-    {
-      "name": "Polygon",
-      "symbol": "multiMATIC",
-      "address": "0xc9BAA8cfdDe8E328787E29b4B078abf2DaDc2055",
-      "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0xc9BAA8cfdDe8E328787E29b4B078abf2DaDc2055/logo.png",
-      "decimals": 18,
-      "chainId": 25,
-      "chainAddresses": []
-    },
-    {
-      "name": "SPHERE Token",
-      "symbol": "SPHERE",
-      "address": "0xc9FDE867a14376829Ab759F4C4871F67e2d3E441",
-      "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0xc9FDE867a14376829Ab759F4C4871F67e2d3E441/logo.png",
-      "decimals": 18,
-      "chainId": 25,
-      "chainAddresses": []
-    },
-    {
-      "name": "FortuneDAO",
-      "symbol": "FORT",
-      "address": "0xcA558149225Fb386B9c26716e8C35a650C74d35e",
-      "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0xcA558149225Fb386B9c26716e8C35a650C74d35e/logo.png",
-      "decimals": 9,
-      "chainId": 25,
-      "chainAddresses": []
-    },
-    {
-      "name": "CRYSTL Token",
+      "name": "CRYSTL",
       "symbol": "CRYSTL",
       "address": "0xCbDE0E17d14F49e10a10302a32d17AE88a7Ecb8B",
       "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0xCbDE0E17d14F49e10a10302a32d17AE88a7Ecb8B/logo.png",
@@ -8155,38 +7754,6 @@
         {
           "chainId": 137,
           "address": "0x76bf0c28e604cc3fe9967c83b3c3f31c213cfe64"
-        }
-      ]
-    },
-    {
-      "name": "Corgi",
-      "symbol": "CORGI",
-      "address": "0xCC6e924721F75af3A8F8282216569276f3F2a104",
-      "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0xCC6e924721F75af3A8F8282216569276f3F2a104/logo.png",
-      "decimals": 9,
-      "chainId": 25,
-      "chainAddresses": []
-    },
-    {
-      "name": "Croblanc Token",
-      "symbol": "CROBLANC",
-      "address": "0xD3ceCBE5639D05Aed446Da11F08D495CA6bF359F",
-      "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0xD3ceCBE5639D05Aed446Da11F08D495CA6bF359F/logo.png",
-      "decimals": 18,
-      "chainId": 25,
-      "chainAddresses": []
-    },
-    {
-      "name": "VSHARE",
-      "symbol": "VSHARE",
-      "address": "0xdcC261c03cD2f33eBea404318Cdc1D9f8b78e1AD",
-      "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0xdcC261c03cD2f33eBea404318Cdc1D9f8b78e1AD/logo.png",
-      "decimals": 18,
-      "chainId": 25,
-      "chainAddresses": [
-        {
-          "chainId": 25,
-          "address": "0xdcc261c03cd2f33ebea404318cdc1d9f8b78e1ad"
         }
       ]
     },
@@ -8233,34 +7800,7 @@
       ]
     },
     {
-      "name": "Bank Of Cronos",
-      "symbol": "BOC",
-      "address": "0xe5786DDFc4D6DcA0973D1c5b02987cBbac66ed87",
-      "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0xe5786DDFc4D6DcA0973D1c5b02987cBbac66ed87/logo.png",
-      "decimals": 9,
-      "chainId": 25,
-      "chainAddresses": []
-    },
-    {
-      "name": "Cross USD Stablecoin",
-      "symbol": "xUSD",
-      "address": "0xe6052a9a4c0A2f14ADC9876A3A1a7b2882f5F139",
-      "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0xe6052a9a4c0A2f14ADC9876A3A1a7b2882f5F139/logo.png",
-      "decimals": 18,
-      "chainId": 25,
-      "chainAddresses": []
-    },
-    {
-      "name": "Lazy Horse Race Club",
-      "symbol": "LHRC",
-      "address": "0xEfD450027bD0EE84AfaFbC75f5A80C367eFBF651",
-      "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0xEfD450027bD0EE84AfaFbC75f5A80C367eFBF651/logo.png",
-      "decimals": 18,
-      "chainId": 25,
-      "chainAddresses": []
-    },
-    {
-      "name": "Dai Stablecoin",
+      "name": "DAI",
       "symbol": "DAI",
       "address": "0xF2001B145b43032AAF5Ee2884e456CCd805F677D",
       "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0xF2001B145b43032AAF5Ee2884e456CCd805F677D/logo.png",
@@ -8274,9 +7814,9 @@
       ]
     },
     {
-      "name": "Binance",
+      "name": "BNB",
       "symbol": "BNB",
-      "address": "0xfA9343C3897324496A05fC75abeD6bAC29f8A40f",
+      "address": "0xfa9343c3897324496a05fc75abed6bac29f8a40f",
       "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0xfA9343C3897324496A05fC75abeD6bAC29f8A40f/logo.png",
       "decimals": 18,
       "chainId": 25,
@@ -47477,15 +47017,6 @@
       "chainAddresses": []
     },
     {
-      "name": "Chain Link",
-      "symbol": "LINK",
-      "address": "0x4B16e4752711A7ABEc32799C976F3CeFc0111f2B",
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/polygon-zkevm/0x4B16e4752711A7ABEc32799C976F3CeFc0111f2B.jpg",
-      "decimals": 18,
-      "chainId": 1101,
-      "chainAddresses": []
-    },
-    {
       "name": "Wrapped Ether",
       "symbol": "WETH",
       "address": "0x4F9A0e7FD2Bf6067db6994CF12E4495Df938E6e9",
@@ -47498,15 +47029,6 @@
           "address": "0x4f9a0e7fd2bf6067db6994cf12e4495df938e6e9"
         }
       ]
-    },
-    {
-      "name": "AAVE",
-      "symbol": "AAVE",
-      "address": "0x68791CFE079814c46e0E25C19Bcc5BFC71A744f7",
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/polygon-zkevm/0x68791CFE079814c46e0E25C19Bcc5BFC71A744f7.jpg",
-      "decimals": 18,
-      "chainId": 1101,
-      "chainAddresses": []
     },
     {
       "name": "Frax Share",
@@ -52284,20 +51806,6 @@
       ]
     },
     {
-      "name": "Base God",
-      "symbol": "TYBG",
-      "address": "0x0d97F261b1e88845184f678e2d1e7a98D9FD38dE",
-      "logoURI": "https://assets.smold.app/api/token/8453/0x0d97F261b1e88845184f678e2d1e7a98D9FD38dE/logo-128.png",
-      "decimals": 18,
-      "chainId": 8453,
-      "chainAddresses": [
-        {
-          "chainId": 8453,
-          "address": "0x0d97f261b1e88845184f678e2d1e7a98d9fd38de"
-        }
-      ]
-    },
-    {
       "name": "Anime",
       "symbol": "ANIME",
       "address": "0x0e0c9756a3290cD782CF4aB73ac24D25291c9564",
@@ -55326,6 +54834,24 @@
       "decimals": 18,
       "chainId": 8453,
       "chainAddresses": []
+    },
+    {
+      "name": "BTRST",
+      "symbol": "BTRST",
+      "address": "0xA7d68d155d17cB30e311367c2Ef1E82aB6022b67",
+      "logoURI": "https://ethereum-optimism.github.io/data/BTRST/logo.svg",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0x799ebfabe77a6e34311eeee9825190b9ece32824"
+        },
+        {
+          "chainId": 8453,
+          "address": "0xa7d68d155d17cb30e311367c2ef1e82ab6022b67"
+        }
+      ]
     },
     {
       "name": "WELL",
@@ -64736,40 +64262,6 @@
         {
           "chainId": 59144,
           "address": "0x5fbdf89403270a1846f5ae7d113a989f850d1566"
-        }
-      ]
-    },
-    {
-      "name": "WeFi",
-      "symbol": "WEFI",
-      "address": "0x60892e742d91d16Be2cB0ffE847e85445989e30B",
-      "logoURI": "https://storage.googleapis.com/ks-setting-1d682dca/d5a78328-a28e-495c-8d3b-303da6716ade1700651602206.png",
-      "decimals": 18,
-      "chainId": 59144,
-      "chainAddresses": [
-        {
-          "chainId": 1,
-          "address": "0xffa188493c15dfaf2c206c97d8633377847b6a52"
-        },
-        {
-          "chainId": 56,
-          "address": "0xffa188493c15dfaf2c206c97d8633377847b6a52"
-        },
-        {
-          "chainId": 137,
-          "address": "0xffa188493c15dfaf2c206c97d8633377847b6a52"
-        },
-        {
-          "chainId": 324,
-          "address": "0x81e7186947fb59aaaaeb476a47daac60680cbbaf"
-        },
-        {
-          "chainId": 42161,
-          "address": "0xffa188493c15dfaf2c206c97d8633377847b6a52"
-        },
-        {
-          "chainId": 59144,
-          "address": "0x60892e742d91d16be2cb0ffe847e85445989e30b"
         }
       ]
     },
