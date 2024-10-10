@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2024-10-10T13:54:41.415Z",
+  "timestamp": "2024-10-10T18:22:48.004Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -3517,24 +3517,6 @@
         {
           "chainId": 137,
           "address": "0x42d61d766b85431666b39b89c43011f24451bff6"
-        }
-      ]
-    },
-    {
-      "name": "Coinbase Wrapped BTC",
-      "symbol": "cbBTC",
-      "address": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
-      "logoURI": "https://assets.coingecko.com/coins/images/40143/large/cbbtc.webp",
-      "decimals": 18,
-      "chainId": 1,
-      "chainAddresses": [
-        {
-          "chainId": 1,
-          "address": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf"
-        },
-        {
-          "chainId": 8453,
-          "address": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf"
         }
       ]
     },
@@ -51675,9 +51657,35 @@
       ]
     },
     {
+      "name": "XPRT native asset",
+      "symbol": "XPRT",
+      "address": "0xc7Edf7B7b3667a06992508e7B156eff794a9e1c8",
+      "logoURI": "https://assets.smold.app/api/token/8453/0xc7Edf7B7b3667a06992508e7B156eff794a9e1c8/logo-128.png",
+      "decimals": 6,
+      "chainId": 8453,
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0xd454b59f16d42667be2fa55292d16647e27f40c4"
+        },
+        {
+          "chainId": 10,
+          "address": "0xc7edf7b7b3667a06992508e7b156eff794a9e1c8"
+        },
+        {
+          "chainId": 8453,
+          "address": "0xc7edf7b7b3667a06992508e7b156eff794a9e1c8"
+        },
+        {
+          "chainId": 81457,
+          "address": "0xc7edf7b7b3667a06992508e7b156eff794a9e1c8"
+        }
+      ]
+    },
+    {
       "name": "Coinbase Wrapped BTC",
       "symbol": "cbBTC",
-      "address": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
+      "address": "0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf",
       "logoURI": "https://assets.smold.app/api/token/8453/0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf/logo-128.png",
       "decimals": 8,
       "chainId": 8453,
@@ -51903,6 +51911,20 @@
       ]
     },
     {
+      "name": "BaseX",
+      "symbol": "BSX",
+      "address": "0xd5046B976188EB40f6DE40fB527F89c05b323385",
+      "logoURI": "https://assets.odos.xyz/tokens/BSX.webp",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": [
+        {
+          "chainId": 8453,
+          "address": "0xd5046b976188eb40f6de40fb527f89c05b323385"
+        }
+      ]
+    },
+    {
       "name": "PoolTogether",
       "symbol": "POOL",
       "address": "0xd652C5425aea2Afd5fb142e120FeCf79e18fafc3",
@@ -51959,6 +51981,15 @@
       ]
     },
     {
+      "name": "USDC-1 yVault",
+      "symbol": "yvUSDC-1",
+      "address": "0xd80c675366966Ef42B175125BBf1AcB1DB4151ac",
+      "logoURI": "https://assets.smold.app/api/token/8453/0xd80c675366966Ef42B175125BBf1AcB1DB4151ac/logo-128.png",
+      "decimals": 6,
+      "chainId": 8453,
+      "chainAddresses": []
+    },
+    {
       "name": "USD Base Coin",
       "symbol": "USDbC",
       "address": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
@@ -51969,6 +52000,24 @@
         {
           "chainId": 8453,
           "address": "0xd9aaec86b65d86f6a7b5b1b0c42ffa531710b6ca"
+        }
+      ]
+    },
+    {
+      "name": "Klima DAO",
+      "symbol": "KLIMA",
+      "address": "0xDCEFd8C8fCc492630B943ABcaB3429F12Ea9Fea2",
+      "logoURI": "https://assets.odos.xyz/tokens/KLIMA.webp",
+      "decimals": 9,
+      "chainId": 8453,
+      "chainAddresses": [
+        {
+          "chainId": 137,
+          "address": "0x4e78011ce80ee02d2c3e649fb657e45898257815"
+        },
+        {
+          "chainId": 8453,
+          "address": "0xdcefd8c8fcc492630b943abcab3429f12ea9fea2"
         }
       ]
     },
@@ -52133,6 +52182,20 @@
         {
           "chainId": 59144,
           "address": "0xeb466342c4d449bc9f53a865d5cb90586f405215"
+        }
+      ]
+    },
+    {
+      "name": "ChompCoin",
+      "symbol": "CHOMP",
+      "address": "0xebfF2db643Cf955247339c8c6bCD8406308ca437",
+      "logoURI": "https://assets.smold.app/api/token/8453/0xebfF2db643Cf955247339c8c6bCD8406308ca437/logo-128.png",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": [
+        {
+          "chainId": 8453,
+          "address": "0xebff2db643cf955247339c8c6bcd8406308ca437"
         }
       ]
     },
@@ -52353,6 +52416,32 @@
         {
           "chainId": 43114,
           "address": "0x5ecfec22aa950cb5a3b4fd7249dc30b2bd160f18"
+        }
+      ]
+    },
+    {
+      "name": "TOWER",
+      "symbol": "TOWER",
+      "address": "0xf7C1CEfCf7E1dd8161e00099facD3E1Db9e528ee",
+      "logoURI": "https://ethereum-optimism.github.io/data/TOWER/logo.svg",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0x1c9922314ed1415c95b9fd453c3818fd41867d0b"
+        },
+        {
+          "chainId": 56,
+          "address": "0xe7c9c6bc87b86f9e5b57072f907ee6460b593924"
+        },
+        {
+          "chainId": 137,
+          "address": "0x2bc07124d8dac638e290f401046ad584546bc47b"
+        },
+        {
+          "chainId": 8453,
+          "address": "0xf7c1cefcf7e1dd8161e00099facd3e1db9e528ee"
         }
       ]
     },
