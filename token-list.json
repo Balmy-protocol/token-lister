@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2024-10-11T00:04:30.763Z",
+  "timestamp": "2024-10-11T16:42:09.689Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -3517,6 +3517,24 @@
         {
           "chainId": 137,
           "address": "0x42d61d766b85431666b39b89c43011f24451bff6"
+        }
+      ]
+    },
+    {
+      "name": "Coinbase Wrapped BTC",
+      "symbol": "cbBTC",
+      "address": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
+      "logoURI": "https://assets.coingecko.com/coins/images/40143/large/cbbtc.webp",
+      "decimals": 18,
+      "chainId": 1,
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf"
+        },
+        {
+          "chainId": 8453,
+          "address": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf"
         }
       ]
     },
@@ -51689,7 +51707,7 @@
     {
       "name": "Coinbase Wrapped BTC",
       "symbol": "cbBTC",
-      "address": "0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf",
+      "address": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
       "logoURI": "https://assets.smold.app/api/token/8453/0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf/logo-128.png",
       "decimals": 8,
       "chainId": 8453,
