@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2024-10-11T16:50:16.421Z",
+  "timestamp": "2024-10-12T00:04:23.501Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -48754,6 +48754,15 @@
       "chainAddresses": []
     },
     {
+      "name": "dlcBTC",
+      "symbol": "dlcBTC",
+      "address": "0x12418783e860997eb99e8aCf682DF952F721cF62",
+      "logoURI": "https://assets.smold.app/api/token/8453/0x12418783e860997eb99e8aCf682DF952F721cF62/logo-128.png",
+      "decimals": 8,
+      "chainId": 8453,
+      "chainAddresses": []
+    },
+    {
       "name": "TAIKAI Token",
       "symbol": "TKAI",
       "address": "0x1287A235474E0331C0975e373bdD066444d1Bd35",
@@ -51679,6 +51688,15 @@
       ]
     },
     {
+      "name": "Moo BIFI",
+      "symbol": "mooBIFI",
+      "address": "0xc55E93C62874D8100dBd2DfE307EDc1036ad5434",
+      "logoURI": "https://assets.smold.app/api/token/8453/0xc55E93C62874D8100dBd2DfE307EDc1036ad5434/logo-128.png",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": []
+    },
+    {
       "name": "XPRT native asset",
       "symbol": "XPRT",
       "address": "0xc7Edf7B7b3667a06992508e7B156eff794a9e1c8",
@@ -52022,6 +52040,20 @@
         {
           "chainId": 8453,
           "address": "0xd9aaec86b65d86f6a7b5b1b0c42ffa531710b6ca"
+        }
+      ]
+    },
+    {
+      "name": "Super OETH",
+      "symbol": "superOETHb",
+      "address": "0xDBFeFD2e8460a6Ee4955A68582F85708BAEA60A3",
+      "logoURI": "https://assets.smold.app/api/token/8453/0xDBFeFD2e8460a6Ee4955A68582F85708BAEA60A3/logo-128.png",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": [
+        {
+          "chainId": 8453,
+          "address": "0xdbfefd2e8460a6ee4955a68582f85708baea60a3"
         }
       ]
     },
