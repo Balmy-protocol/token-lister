@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2024-10-12T00:04:23.501Z",
+  "timestamp": "2024-10-13T00:04:26.805Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -51719,6 +51719,24 @@
         {
           "chainId": 81457,
           "address": "0xc7edf7b7b3667a06992508e7b156eff794a9e1c8"
+        }
+      ]
+    },
+    {
+      "name": "AstroPepeX",
+      "symbol": "APX",
+      "address": "0xcacf1ca03983CE6c7E235fb20C70aCC70ed13509",
+      "logoURI": "https://assets.smold.app/api/token/8453/0xcacf1ca03983CE6c7E235fb20C70aCC70ed13509/logo-128.png",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0xed4e879087ebd0e8a77d66870012b5e0dffd0fa4"
+        },
+        {
+          "chainId": 8453,
+          "address": "0xcacf1ca03983ce6c7e235fb20c70acc70ed13509"
         }
       ]
     },
