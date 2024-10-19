@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2024-10-18T00:04:17.603Z",
+  "timestamp": "2024-10-19T00:04:23.109Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -479,6 +479,10 @@
         {
           "chainId": 10,
           "address": "0xdc6ff44d5d932cbd77b52e5612ba0529dc6226f1"
+        },
+        {
+          "chainId": 480,
+          "address": "0x2cfc85d8e48f8eab294be644d9e25c3030863003"
         }
       ]
     },
@@ -6652,6 +6656,10 @@
         {
           "chainId": 10,
           "address": "0xdc6ff44d5d932cbd77b52e5612ba0529dc6226f1"
+        },
+        {
+          "chainId": 480,
+          "address": "0x2cfc85d8e48f8eab294be644d9e25c3030863003"
         }
       ]
     },
@@ -14754,8 +14762,8 @@
       ]
     },
     {
-      "name": "Wrapped Matic",
-      "symbol": "WMATIC",
+      "name": "Wrapped POL",
+      "symbol": "WPOL",
       "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0/logo.png",
       "decimals": 18,
@@ -46444,28 +46452,6 @@
         {
           "chainId": 8453,
           "address": "0x858c50c3af1913b0e849afdb74617388a1a5340d"
-        }
-      ]
-    },
-    {
-      "name": "Revenue Generating USD",
-      "symbol": "rgUSD",
-      "address": "0x8E5E9DF4F0EA39aE5270e79bbABFCc34203A3470",
-      "logoURI": "https://ethereum-optimism.github.io/data/rgUSD/logo.svg",
-      "decimals": 18,
-      "chainId": 8453,
-      "chainAddresses": [
-        {
-          "chainId": 1,
-          "address": "0x78da5799cf427fee11e9996982f4150ece7a99a7"
-        },
-        {
-          "chainId": 8453,
-          "address": "0x8e5e9df4f0ea39ae5270e79bbabfcc34203a3470"
-        },
-        {
-          "chainId": 42161,
-          "address": "0x96a993f06951b01430523d0d5590192d650ebf3e"
         }
       ]
     },
