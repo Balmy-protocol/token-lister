@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2024-10-19T00:04:23.109Z",
+  "timestamp": "2024-10-20T00:04:36.053Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -46456,6 +46456,28 @@
       ]
     },
     {
+      "name": "Revenue Generating USD",
+      "symbol": "rgUSD",
+      "address": "0x8E5E9DF4F0EA39aE5270e79bbABFCc34203A3470",
+      "logoURI": "https://ethereum-optimism.github.io/data/rgUSD/logo.svg",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0x78da5799cf427fee11e9996982f4150ece7a99a7"
+        },
+        {
+          "chainId": 8453,
+          "address": "0x8e5e9df4f0ea39ae5270e79bbabfcc34203a3470"
+        },
+        {
+          "chainId": 42161,
+          "address": "0x96a993f06951b01430523d0d5590192d650ebf3e"
+        }
+      ]
+    },
+    {
       "name": "Curve DAO Token",
       "symbol": "CRV",
       "address": "0x8Ee73c484A26e0A5df2Ee2a4960B789967dd0415",
@@ -57430,6 +57452,15 @@
           "address": "0xacb54d07ca167934f57f829bee2cc665e1a5ebef"
         }
       ]
+    },
+    {
+      "name": "LYVE Debt Token",
+      "symbol": "LYU",
+      "address": "0xb20116eE399f15647BB1eEf9A74f6ef3b58bc951",
+      "logoURI": "https://storage.googleapis.com/ks-setting-1d682dca/9416bf3d-3df3-49db-85e3-aa75e22a757a1700135562848.png",
+      "decimals": 18,
+      "chainId": 59144,
+      "chainAddresses": []
     },
     {
       "name": "Wrapped liquid staked Ether 2.0",
