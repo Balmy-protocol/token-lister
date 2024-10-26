@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2024-10-25T00:04:36.718Z",
+  "timestamp": "2024-10-26T00:04:37.699Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -52729,6 +52729,20 @@
       "decimals": 18,
       "chainId": 42220,
       "chainAddresses": []
+    },
+    {
+      "name": "PUSO",
+      "symbol": "PUSO",
+      "address": "0x105d4A9306D2E55a71d2Eb95B81553AE1dC20d7B",
+      "logoURI": "https://github.com/mento-protocol/mento-web/blob/main/src/images/tokens/PUSO.svg",
+      "decimals": 18,
+      "chainId": 42220,
+      "chainAddresses": [
+        {
+          "chainId": 42220,
+          "address": "0x105d4a9306d2e55a71d2eb95b81553ae1dc20d7b"
+        }
+      ]
     },
     {
       "name": "Wrapped Ether",
