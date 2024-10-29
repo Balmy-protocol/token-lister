@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2024-10-28T00:04:45.196Z",
+  "timestamp": "2024-10-29T00:04:34.859Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -1790,6 +1790,20 @@
         {
           "chainId": 42161,
           "address": "0xf0cb2dc0db5e6c66b9a70ac27b06b878da017028"
+        }
+      ]
+    },
+    {
+      "name": "ether.fi BTC",
+      "symbol": "eBTC",
+      "address": "0x657e8C867D8B37dCC18fA4Caead9C45EB088C642",
+      "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/1/0x657e8c867d8b37dcc18fa4caead9c45eb088c642/logo.png",
+      "decimals": 8,
+      "chainId": 1,
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0x657e8c867d8b37dcc18fa4caead9c45eb088c642"
         }
       ]
     },
@@ -3745,7 +3759,7 @@
       "name": "Coinbase Wrapped BTC",
       "symbol": "cbBTC",
       "address": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
-      "logoURI": "https://assets.smold.app/api/token/1/0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf/logo-128.png",
+      "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/1/0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf/logo.png",
       "decimals": 8,
       "chainId": 1,
       "chainAddresses": [
@@ -45075,10 +45089,10 @@
       "chainAddresses": []
     },
     {
-      "name": "Klaytn",
-      "symbol": "KLAY",
+      "name": "Kaia",
+      "symbol": "KAIA",
       "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
-      "logoURI": "https://tokens.1inch.io/0xe4f05a66ec68b54a58b17c22107b02e0232cc817.png",
+      "logoURI": "https://tokens-data.1inch.io/images/8217/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.png",
       "decimals": 18,
       "chainId": 8217,
       "chainAddresses": []
@@ -48449,8 +48463,8 @@
     {
       "name": "Tether USD",
       "symbol": "USDT",
-      "address": "0xfde4C96c8593536E31F229EA8f37b2ADa2699bb2",
-      "logoURI": "https://assets.odos.xyz/tokens/USDT.webp",
+      "address": "0xfde4c96c8593536e31f229ea8f37b2ada2699bb2",
+      "logoURI": "ipfs://QmP2rfXa8kZRbdk5i9CJtW85FJNJj8B4JdDccS3jyLBjDv",
       "decimals": 6,
       "chainId": 8453,
       "chainAddresses": [
@@ -48745,12 +48759,7 @@
       "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x4E2D4F33d759976381D9DeE04B197bF52F6bC1FC.png",
       "decimals": 18,
       "chainId": 9001,
-      "chainAddresses": [
-        {
-          "chainId": 9001,
-          "address": "0x4e2d4f33d759976381d9dee04b197bf52f6bc1fc"
-        }
-      ]
+      "chainAddresses": []
     },
     {
       "name": "Wrapped Ether - Axelar",
