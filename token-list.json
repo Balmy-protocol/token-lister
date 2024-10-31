@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2024-10-30T00:04:22.568Z",
+  "timestamp": "2024-10-31T00:04:35.083Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -1616,36 +1616,6 @@
         {
           "chainId": 1666600000,
           "address": "0xbd3e698b51d340cc53b0cc549b598c13e0172b7c"
-        }
-      ]
-    },
-    {
-      "name": "Mountain Protocol USD",
-      "symbol": "USDM",
-      "address": "0x59D9356E565Ab3A36dD77763Fc0d87fEaf85508C",
-      "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/1/0x59d9356e565ab3a36dd77763fc0d87feaf85508c/logo.png",
-      "decimals": 18,
-      "chainId": 1,
-      "chainAddresses": [
-        {
-          "chainId": 1,
-          "address": "0x59d9356e565ab3a36dd77763fc0d87feaf85508c"
-        },
-        {
-          "chainId": 10,
-          "address": "0x59d9356e565ab3a36dd77763fc0d87feaf85508c"
-        },
-        {
-          "chainId": 137,
-          "address": "0x59d9356e565ab3a36dd77763fc0d87feaf85508c"
-        },
-        {
-          "chainId": 8453,
-          "address": "0x59d9356e565ab3a36dd77763fc0d87feaf85508c"
-        },
-        {
-          "chainId": 42161,
-          "address": "0x59d9356e565ab3a36dd77763fc0d87feaf85508c"
         }
       ]
     },
@@ -5695,6 +5665,40 @@
       ]
     },
     {
+      "name": "Glo Dollar",
+      "symbol": "usdglo",
+      "address": "0x4f604735c1cf31399c6e711d5962b2b3e0225ad3",
+      "logoURI": "https://ethereum-optimism.github.io/data/USDGLO/logo.svg",
+      "decimals": 18,
+      "chainId": 10,
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0x4f604735c1cf31399c6e711d5962b2b3e0225ad3"
+        },
+        {
+          "chainId": 10,
+          "address": "0x4f604735c1cf31399c6e711d5962b2b3e0225ad3"
+        },
+        {
+          "chainId": 137,
+          "address": "0x4f604735c1cf31399c6e711d5962b2b3e0225ad3"
+        },
+        {
+          "chainId": 8453,
+          "address": "0x4f604735c1cf31399c6e711d5962b2b3e0225ad3"
+        },
+        {
+          "chainId": 42161,
+          "address": "0x4f604735c1cf31399c6e711d5962b2b3e0225ad3"
+        },
+        {
+          "chainId": 42220,
+          "address": "0x4f604735c1cf31399c6e711d5962b2b3e0225ad3"
+        }
+      ]
+    },
+    {
       "name": "Lyra",
       "symbol": "LYRA",
       "address": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
@@ -7852,6 +7856,10 @@
         {
           "chainId": 2001,
           "address": "0xe3f5a90f9cb311505cd691a46596599aa1a0ad7d"
+        },
+        {
+          "chainId": 42793,
+          "address": "0xfc24f770f94edbca6d6f885e12d4317320bcb401"
         },
         {
           "chainId": 1313161554,
@@ -13015,6 +13023,10 @@
         {
           "chainId": 2001,
           "address": "0xe3f5a90f9cb311505cd691a46596599aa1a0ad7d"
+        },
+        {
+          "chainId": 42793,
+          "address": "0xfc24f770f94edbca6d6f885e12d4317320bcb401"
         },
         {
           "chainId": 1313161554,
@@ -24139,6 +24151,10 @@
         {
           "chainId": 2001,
           "address": "0xe3f5a90f9cb311505cd691a46596599aa1a0ad7d"
+        },
+        {
+          "chainId": 42793,
+          "address": "0xfc24f770f94edbca6d6f885e12d4317320bcb401"
         },
         {
           "chainId": 1313161554,
@@ -46228,6 +46244,40 @@
       ]
     },
     {
+      "name": "Glo Dollar",
+      "symbol": "USDGLO",
+      "address": "0x4f604735c1cf31399c6e711d5962b2b3e0225ad3",
+      "logoURI": "https://ethereum-optimism.github.io/data/USDGLO/logo.svg",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0x4f604735c1cf31399c6e711d5962b2b3e0225ad3"
+        },
+        {
+          "chainId": 10,
+          "address": "0x4f604735c1cf31399c6e711d5962b2b3e0225ad3"
+        },
+        {
+          "chainId": 137,
+          "address": "0x4f604735c1cf31399c6e711d5962b2b3e0225ad3"
+        },
+        {
+          "chainId": 8453,
+          "address": "0x4f604735c1cf31399c6e711d5962b2b3e0225ad3"
+        },
+        {
+          "chainId": 42161,
+          "address": "0x4f604735c1cf31399c6e711d5962b2b3e0225ad3"
+        },
+        {
+          "chainId": 42220,
+          "address": "0x4f604735c1cf31399c6e711d5962b2b3e0225ad3"
+        }
+      ]
+    },
+    {
       "name": "Dai Stablecoin",
       "symbol": "DAI",
       "address": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
@@ -50182,7 +50232,7 @@
       "name": "Frax",
       "symbol": "frax",
       "address": "0x17fc002b466eec40dae837fc4be5c67993ddbd6f",
-      "logoURI": "https://assets.coingecko.com/coins/images/13422/thumb/frax_logo.png?1608476506",
+      "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/42161/0x17fc002b466eec40dae837fc4be5c67993ddbd6f/logo.png",
       "decimals": 18,
       "chainId": 42161,
       "chainAddresses": [
@@ -50944,10 +50994,40 @@
       ]
     },
     {
+      "name": "Mountain Protocol USD",
+      "symbol": "usdm",
+      "address": "0x59d9356e565ab3a36dd77763fc0d87feaf85508c",
+      "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/42161/0x59d9356e565ab3a36dd77763fc0d87feaf85508c/logo.png",
+      "decimals": 18,
+      "chainId": 42161,
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0x59d9356e565ab3a36dd77763fc0d87feaf85508c"
+        },
+        {
+          "chainId": 10,
+          "address": "0x59d9356e565ab3a36dd77763fc0d87feaf85508c"
+        },
+        {
+          "chainId": 137,
+          "address": "0x59d9356e565ab3a36dd77763fc0d87feaf85508c"
+        },
+        {
+          "chainId": 8453,
+          "address": "0x59d9356e565ab3a36dd77763fc0d87feaf85508c"
+        },
+        {
+          "chainId": 42161,
+          "address": "0x59d9356e565ab3a36dd77763fc0d87feaf85508c"
+        }
+      ]
+    },
+    {
       "name": "USDe",
       "symbol": "USDe",
       "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
-      "logoURI": "https://assets.smold.app/api/token/42161/0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34/logo-128.png",
+      "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/42161/0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34/logo.png",
       "decimals": 18,
       "chainId": 42161,
       "chainAddresses": [
@@ -54914,12 +54994,7 @@
       "logoURI": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDTpo_wh.png",
       "decimals": 6,
       "chainId": 42262,
-      "chainAddresses": [
-        {
-          "chainId": 42262,
-          "address": "0xfffd69e757d8220cea60dc80b9fe1a30b58c94f3"
-        }
-      ]
+      "chainAddresses": []
     },
     {
       "name": "Wrapped AVAX",
@@ -60859,6 +60934,10 @@
         {
           "chainId": 2001,
           "address": "0xe3f5a90f9cb311505cd691a46596599aa1a0ad7d"
+        },
+        {
+          "chainId": 42793,
+          "address": "0xfc24f770f94edbca6d6f885e12d4317320bcb401"
         },
         {
           "chainId": 1313161554,
