@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2024-11-02T00:04:17.649Z",
+  "timestamp": "2024-11-03T00:04:34.330Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -31481,7 +31481,12 @@
       "logoURI": "https://assets.smold.app/api/token/1088/0x966B25D174bE6Ba703E0fF80c68BB6e167236BA2/logo-128.png",
       "decimals": 18,
       "chainId": 1088,
-      "chainAddresses": []
+      "chainAddresses": [
+        {
+          "chainId": 1088,
+          "address": "0x966b25d174be6ba703e0ff80c68bb6e167236ba2"
+        }
+      ]
     },
     {
       "name": "God of Wealth",
