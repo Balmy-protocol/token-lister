@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2024-11-05T00:04:25.626Z",
+  "timestamp": "2024-11-06T00:04:22.454Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -43853,6 +43853,28 @@
       ]
     },
     {
+      "name": "Epoch",
+      "symbol": "EPOCH",
+      "address": "0x287f0D88e29a3D7AEb4d0c10BAE5B902dB69B17D",
+      "logoURI": "https://ethereum-optimism.github.io/data/EPOCH/logo.svg",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0x97d0cfeb4fde54b430307c9482d6f79c761fe9b6"
+        },
+        {
+          "chainId": 8453,
+          "address": "0x287f0d88e29a3d7aeb4d0c10bae5b902db69b17d"
+        },
+        {
+          "chainId": 42161,
+          "address": "0x4939ac5c1855302891c5888634b2f65cc30b9155"
+        }
+      ]
+    },
+    {
       "name": "Swarm Markets",
       "symbol": "SMT",
       "address": "0x2974dC646e375e83bd1c0342625b49f288987fA4",
@@ -44914,6 +44936,20 @@
       ]
     },
     {
+      "name": "Wrapped Super OETH",
+      "symbol": "wsuperOETHb",
+      "address": "0x7FcD174E80f264448ebeE8c88a7C4476AAF58Ea6",
+      "logoURI": "https://assets.odos.xyz/tokens/wsuperOETHb.webp",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": [
+        {
+          "chainId": 8453,
+          "address": "0x7fcd174e80f264448ebee8c88a7c4476aaf58ea6"
+        }
+      ]
+    },
+    {
       "name": "USD Coin",
       "symbol": "USDC",
       "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
@@ -45715,6 +45751,15 @@
       ]
     },
     {
+      "name": "Cod3x USD",
+      "symbol": "cdxUSD",
+      "address": "0xC0D3700000987C99b3C9009069E4f8413fD22330",
+      "logoURI": "https://assets.smold.app/api/token/8453/0xC0D3700000987C99b3C9009069E4f8413fD22330/logo-128.png",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": []
+    },
+    {
       "name": "Wrapped liquid staked Ether 2.0",
       "symbol": "wstETH",
       "address": "0xc1CBa3fCea344f92D9239c08C0568f6F2F0ee452",
@@ -45862,6 +45907,44 @@
       "decimals": 18,
       "chainId": 8453,
       "chainAddresses": []
+    },
+    {
+      "name": "Gyro Dollar",
+      "symbol": "GYD",
+      "address": "0xCA5d8F8a8d49439357d3CF46Ca2e720702F132b8",
+      "logoURI": "https://assets.odos.xyz/tokens/GYD.webp",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": [
+        {
+          "chainId": 10,
+          "address": "0xca5d8f8a8d49439357d3cf46ca2e720702f132b8"
+        },
+        {
+          "chainId": 100,
+          "address": "0xca5d8f8a8d49439357d3cf46ca2e720702f132b8"
+        },
+        {
+          "chainId": 137,
+          "address": "0xca5d8f8a8d49439357d3cf46ca2e720702f132b8"
+        },
+        {
+          "chainId": 1101,
+          "address": "0xca5d8f8a8d49439357d3cf46ca2e720702f132b8"
+        },
+        {
+          "chainId": 8453,
+          "address": "0xca5d8f8a8d49439357d3cf46ca2e720702f132b8"
+        },
+        {
+          "chainId": 42161,
+          "address": "0xca5d8f8a8d49439357d3cf46ca2e720702f132b8"
+        },
+        {
+          "chainId": 43114,
+          "address": "0xca5d8f8a8d49439357d3cf46ca2e720702f132b8"
+        }
+      ]
     },
     {
       "name": "Coinbase Wrapped BTC",
