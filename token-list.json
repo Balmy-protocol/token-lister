@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2024-11-09T00:04:21.959Z",
+  "timestamp": "2024-11-10T00:04:35.601Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -4366,6 +4366,24 @@
         {
           "chainId": 250,
           "address": "0xf16e81dce15b08f326220742020379b855b87df9"
+        }
+      ]
+    },
+    {
+      "name": "Biconomy Token",
+      "symbol": "BICO",
+      "address": "0xF17e65822b568B3903685a7c9F496CF7656Cc6C2",
+      "logoURI": "https://ethereum-optimism.github.io/data/BICO/logo.svg",
+      "decimals": 18,
+      "chainId": 1,
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0xf17e65822b568b3903685a7c9f496cf7656cc6c2"
+        },
+        {
+          "chainId": 42161,
+          "address": "0xa68ec98d7ca870cf1dd0b00ebbb7c4bf60a8e74d"
         }
       ]
     },
@@ -43202,12 +43220,7 @@
       "logoURI": "https://tokens.1inch.io/0xb15183d0d4d5e86ba702ce9bb7b633376e7db29f.png",
       "decimals": 18,
       "chainId": 8217,
-      "chainAddresses": [
-        {
-          "chainId": 8217,
-          "address": "0xb15183d0d4d5e86ba702ce9bb7b633376e7db29f"
-        }
-      ]
+      "chainAddresses": []
     },
     {
       "name": "KlaySwap Protocol",
