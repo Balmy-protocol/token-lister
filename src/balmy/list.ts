@@ -61,7 +61,7 @@ export const generators: Record<string, ITokenList> = {
   },
   bebopMode: {
     generator: new JsonGenericTokenListGenerator(
-      "https://api.bebop.xyz/tokens/v1/mode/tokenlist/",
+      "https://api.bebop.xyz/tokens/v1/mode/tokenlist",
     ),
   },
   zkevmPolygonZkEvm: {
