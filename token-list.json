@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2024-11-11T00:04:34.892Z",
+  "timestamp": "2024-11-11T17:44:05.296Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -44064,6 +44064,40 @@
       ]
     },
     {
+      "name": "Wrapped Mountain Protocol USD",
+      "symbol": "wUSDM",
+      "address": "0x57F5E098CaD7A3D1Eed53991D4d66C45C9AF7812",
+      "logoURI": "https://assets.smold.app/api/token/8453/0x57F5E098CaD7A3D1Eed53991D4d66C45C9AF7812/logo-128.png",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0x57f5e098cad7a3d1eed53991d4d66c45c9af7812"
+        },
+        {
+          "chainId": 10,
+          "address": "0x57f5e098cad7a3d1eed53991d4d66c45c9af7812"
+        },
+        {
+          "chainId": 137,
+          "address": "0x57f5e098cad7a3d1eed53991d4d66c45c9af7812"
+        },
+        {
+          "chainId": 324,
+          "address": "0xa900cbe7739c96d2b153a273953620a701d5442b"
+        },
+        {
+          "chainId": 8453,
+          "address": "0x57f5e098cad7a3d1eed53991d4d66c45c9af7812"
+        },
+        {
+          "chainId": 42161,
+          "address": "0x57f5e098cad7a3d1eed53991d4d66c45c9af7812"
+        }
+      ]
+    },
+    {
       "name": "Mountain Protocol USD",
       "symbol": "USDM",
       "address": "0x59D9356E565Ab3A36dD77763Fc0d87fEaf85508C",
@@ -45174,6 +45208,24 @@
         {
           "chainId": 534352,
           "address": "0xa25b25548b4c98b0c7d3d27dca5d5ca743d68b7f"
+        }
+      ]
+    },
+    {
+      "name": "Web 3 Dollar",
+      "symbol": "USD3",
+      "address": "0xEFb97aaF77993922aC4be4Da8Fbc9A2425322677",
+      "logoURI": "https://ethereum-optimism.github.io/data/USD3/logo.svg",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0x0d86883faf4ffd7aeb116390af37746f45b6f378"
+        },
+        {
+          "chainId": 8453,
+          "address": "0xefb97aaf77993922ac4be4da8fbc9a2425322677"
         }
       ]
     },
@@ -46485,6 +46537,20 @@
         {
           "chainId": 1666600000,
           "address": "0x985458e523db3d53125813ed68c274899e9dfab4"
+        }
+      ]
+    },
+    {
+      "name": "Mode",
+      "symbol": "MODE",
+      "address": "0xdfc7c877a950e49d2610114102175a06c2e3167a",
+      "logoURI": "ipfs://QmYwG8Y5bLLqjM5asadsnrHAsKYnuKjHzg4uew4eqG5Ru5",
+      "decimals": 18,
+      "chainId": 34443,
+      "chainAddresses": [
+        {
+          "chainId": 34443,
+          "address": "0xdfc7c877a950e49d2610114102175a06c2e3167a"
         }
       ]
     },
