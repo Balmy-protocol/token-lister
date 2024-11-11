@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2024-11-11T20:42:23.355Z",
+  "timestamp": "2024-11-11T21:04:27.060Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -46261,6 +46261,137 @@
       "chainAddresses": []
     },
     {
+      "name": "Bridged Wrapped eETH",
+      "symbol": "weETH",
+      "address": "0x028227c4dd1e5419d11Bb6fa6e661920c519D4F5",
+      "logoURI": "https://bebop-public-images.s3.eu-west-2.amazonaws.com/34443-0x028227c4dd1e5419d11Bb6fa6e661920c519D4F5.svg",
+      "decimals": 18,
+      "chainId": 34443,
+      "chainAddresses": []
+    },
+    {
+      "name": "Renzo Restaked ETH",
+      "symbol": "ezETH",
+      "address": "0x2416092f143378750bb29b79eD961ab195CcEea5",
+      "logoURI": "https://bebop-public-images.s3.eu-west-2.amazonaws.com/34443-0x2416092f143378750bb29b79eD961ab195CcEea5.svg",
+      "decimals": 18,
+      "chainId": 34443,
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0xbf5495efe5db9ce00f80364c8b423567e58d2110"
+        },
+        {
+          "chainId": 56,
+          "address": "0x2416092f143378750bb29b79ed961ab195cceea5"
+        },
+        {
+          "chainId": 8453,
+          "address": "0x2416092f143378750bb29b79ed961ab195cceea5"
+        },
+        {
+          "chainId": 34443,
+          "address": "0x2416092f143378750bb29b79ed961ab195cceea5"
+        },
+        {
+          "chainId": 42161,
+          "address": "0x2416092f143378750bb29b79ed961ab195cceea5"
+        },
+        {
+          "chainId": 81457,
+          "address": "0x2416092f143378750bb29b79ed961ab195cceea5"
+        }
+      ]
+    },
+    {
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "address": "0x4200000000000000000000000000000000000006",
+      "logoURI": "https://bebop-public-images.s3.eu-west-2.amazonaws.com/34443-0x4200000000000000000000000000000000000006.svg",
+      "decimals": 18,
+      "chainId": 34443,
+      "chainAddresses": [
+        {
+          "chainId": 34443,
+          "address": "0x4200000000000000000000000000000000000006"
+        }
+      ]
+    },
+    {
+      "name": "StakeStone Ether",
+      "symbol": "STONE",
+      "address": "0x80137510979822322193FC997d400D5A6C747bf7",
+      "logoURI": "https://bebop-public-images.s3.eu-west-2.amazonaws.com/34443-0x80137510979822322193FC997d400D5A6C747bf7.svg",
+      "decimals": 18,
+      "chainId": 34443,
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0x7122985656e38bdc0302db86685bb972b145bd3c"
+        },
+        {
+          "chainId": 10,
+          "address": "0x80137510979822322193fc997d400d5a6c747bf7"
+        },
+        {
+          "chainId": 56,
+          "address": "0x80137510979822322193fc997d400d5a6c747bf7"
+        },
+        {
+          "chainId": 82,
+          "address": "0x0978c36bcaa1887ad0335e76e184290baa6731d0"
+        },
+        {
+          "chainId": 169,
+          "address": "0xec901da9c68e90798bbbb74c11406a32a70652c3"
+        },
+        {
+          "chainId": 196,
+          "address": "0x80137510979822322193fc997d400d5a6c747bf7`"
+        },
+        {
+          "chainId": 1088,
+          "address": "0x80137510979822322193fc997d400d5a6c747bf7"
+        },
+        {
+          "chainId": 3776,
+          "address": "0x80137510979822322193fc997d400d5a6c747bf7"
+        },
+        {
+          "chainId": 4200,
+          "address": "0xb5d8b1e73c79483d7750c5b8df8db45a0d24e2cf"
+        },
+        {
+          "chainId": 5000,
+          "address": "0x2fde62942759d7c0aaf25952da4098423bc1264c"
+        },
+        {
+          "chainId": 8453,
+          "address": "0xd2012fc1b913ce50732ebcaa7e601fe37ac728c6"
+        },
+        {
+          "chainId": 34443,
+          "address": "0x80137510979822322193fc997d400d5a6c747bf7"
+        },
+        {
+          "chainId": 42161,
+          "address": "0x80137510979822322193fc997d400d5a6c747bf7"
+        },
+        {
+          "chainId": 48900,
+          "address": "0x80137510979822322193fc997d400d5a6c747bf7"
+        },
+        {
+          "chainId": 59144,
+          "address": "0x93f4d0ab6a8b4271f4a28db399b5e30612d21116"
+        },
+        {
+          "chainId": 534352,
+          "address": "0x80137510979822322193fc997d400d5a6c747bf7"
+        }
+      ]
+    },
+    {
       "name": "Wrapped BTC",
       "symbol": "WBTC",
       "address": "0xcDd475325D6F564d27247D1DddBb0DAc6fA0a5CF",
@@ -46661,6 +46792,20 @@
         {
           "chainId": 1666600000,
           "address": "0x3c2b8be99c50593081eaa2a724f0b8285f5aba8f"
+        }
+      ]
+    },
+    {
+      "name": "SwapMode",
+      "symbol": "SMD",
+      "address": "0xFDa619b6d20975be80A10332cD39b9a4b0FAa8BB",
+      "logoURI": "https://bebop-public-images.s3.eu-west-2.amazonaws.com/34443-0xFDa619b6d20975be80A10332cD39b9a4b0FAa8BB.svg",
+      "decimals": 18,
+      "chainId": 34443,
+      "chainAddresses": [
+        {
+          "chainId": 34443,
+          "address": "0xfda619b6d20975be80a10332cd39b9a4b0faa8bb"
         }
       ]
     },
