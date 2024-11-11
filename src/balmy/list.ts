@@ -59,6 +59,11 @@ export const generators: Record<string, ITokenList> = {
       odosParser(1101),
     ),
   },
+  bebopMode: {
+    generator: new JsonGenericTokenListGenerator(
+      "https://api.bebop.xyz/tokens/v1/mode/tokenlist/",
+    ),
+  },
   zkevmPolygonZkEvm: {
     generator: new JsonGenericTokenListGenerator(
       "https://api-polygon-tokens.polygon.technology/tokenlists/zkevmPopular.tokenlist.json",
