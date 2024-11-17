@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2024-11-16T00:06:01.528Z",
+  "timestamp": "2024-11-17T00:04:43.379Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -10537,32 +10537,10 @@
       "chainAddresses": []
     },
     {
-      "name": "Aura Finance",
-      "symbol": "aura",
-      "address": "0x1509706a6c66ca549ff0cb464de88231ddbe213b",
-      "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/100/0x1509706a6c66ca549ff0cb464de88231ddbe213b/logo.png",
-      "decimals": 18,
-      "chainId": 100,
-      "chainAddresses": [
-        {
-          "chainId": 1,
-          "address": "0xc0c293ce456ff0ed870add98a0828dd4d2903dbf"
-        },
-        {
-          "chainId": 100,
-          "address": "0x1509706a6c66ca549ff0cb464de88231ddbe213b"
-        },
-        {
-          "chainId": 8453,
-          "address": "0x1509706a6c66ca549ff0cb464de88231ddbe213b"
-        }
-      ]
-    },
-    {
       "name": "CoW Protocol Token from Mainnet",
       "symbol": "COW",
       "address": "0x177127622c4A00F3d409B75571e12cB3c8973d3c",
-      "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/100/0x177127622c4a00f3d409b75571e12cb3c8973d3c/logo.png",
+      "logoURI": "https://tokens-data.1inch.io/images/100/0x177127622c4a00f3d409b75571e12cb3c8973d3c.png",
       "decimals": 18,
       "chainId": 100,
       "chainAddresses": [
@@ -10584,7 +10562,7 @@
       "name": "Agave",
       "symbol": "agve",
       "address": "0x3a97704a1b25f08aa230ae53b352e2e72ef52843",
-      "logoURI": "https://raw.githubusercontent.com/centfinance/assets/master/blockchains/xdai/assets/0x3a97704a1b25f08aa230ae53b352e2e72ef52843/logo.png",
+      "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/xdai/0x3a97704a1b25f08aa230ae53b352e2e72ef52843/logo.png",
       "decimals": 18,
       "chainId": 100,
       "chainAddresses": [
@@ -10602,7 +10580,7 @@
       "name": "Dai Stablecoin on xDai",
       "symbol": "DAI",
       "address": "0x44fA8E6f47987339850636F88629646662444217",
-      "logoURI": "https://raw.githubusercontent.com/centfinance/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png",
+      "logoURI": "https://tokens.1inch.io/0x6b175474e89094c44da98b954eedeac495271d0f.png",
       "decimals": 18,
       "chainId": 100,
       "chainAddresses": [
@@ -10613,28 +10591,10 @@
       ]
     },
     {
-      "name": "Safe",
-      "symbol": "safe",
-      "address": "0x4d18815d14fe5c3304e87b3fa18318baa5c23820",
-      "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/100/0x4d18815d14fe5c3304e87b3fa18318baa5c23820/logo.png",
-      "decimals": 18,
-      "chainId": 100,
-      "chainAddresses": [
-        {
-          "chainId": 1,
-          "address": "0x5afe3855358e112b5647b952709e6165e1c1eeee"
-        },
-        {
-          "chainId": 100,
-          "address": "0x4d18815d14fe5c3304e87b3fa18318baa5c23820"
-        }
-      ]
-    },
-    {
       "name": "Tether USD on xDai",
       "symbol": "USDT",
       "address": "0x4ECaBa5870353805a9F068101A40E0f32ed605C6",
-      "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/100/0x4ecaba5870353805a9f068101a40e0f32ed605c6/logo.png",
+      "logoURI": "https://tokens.1inch.io/0xdac17f958d2ee523a2206206994597c13d831ec7.png",
       "decimals": 6,
       "chainId": 100,
       "chainAddresses": [
@@ -10816,7 +10776,7 @@
       "name": "Giveth from Mainnet",
       "symbol": "GIV",
       "address": "0x4f4F9b8D5B4d0Dc10506e5551B0513B61fD59e75",
-      "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x4f4f9b8d5b4d0dc10506e5551b0513b61fd59e75/logo.png",
+      "logoURI": "https://raw.githubusercontent.com/Giveth/giveth-design-assets/master/02-logos/GIV%20Token/GIVToken_200x200.png",
       "decimals": 18,
       "chainId": 100,
       "chainAddresses": [
@@ -10887,19 +10847,10 @@
       ]
     },
     {
-      "name": "AjnaToken from Mainnet",
-      "symbol": "AJNA",
-      "address": "0x67Ee2155601e168F7777F169Cd74f3E22BB5E0cE",
-      "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x67ee2155601e168f7777f169cd74f3e22bb5e0ce/logo.png",
-      "decimals": 18,
-      "chainId": 100,
-      "chainAddresses": []
-    },
-    {
       "name": "Wrapped Ether on xDai",
       "symbol": "WETH",
       "address": "0x6A023CCd1ff6F2045C3309768eAd9E68F978f6e1",
-      "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/100/0x6a023ccd1ff6f2045c3309768ead9e68f978f6e1/logo.png",
+      "logoURI": "https://tokens.1inch.io/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png",
       "decimals": 18,
       "chainId": 100,
       "chainAddresses": [
@@ -10913,7 +10864,7 @@
       "name": "Bridged Wrapped stETH (Gnosis)",
       "symbol": "wsteth",
       "address": "0x6c76971f98945ae98dd7d4dfca8711ebea946ea6",
-      "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/100/0x6c76971f98945ae98dd7d4dfca8711ebea946ea6/logo.png",
+      "logoURI": "https://tokens.1inch.io/0x6c76971f98945ae98dd7d4dfca8711ebea946ea6.png",
       "decimals": 18,
       "chainId": 100,
       "chainAddresses": [
@@ -10927,7 +10878,7 @@
       "name": "Honey",
       "symbol": "hny",
       "address": "0x71850b7e9ee3f13ab46d67167341e4bdc905eef9",
-      "logoURI": "https://raw.githubusercontent.com/centfinance/assets/master/blockchains/xdai/assets/0x71850b7E9Ee3f13Ab46d67167341E4bDc905Eef9/logo.png",
+      "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/xdai/0x71850b7E9Ee3f13Ab46d67167341E4bDc905Eef9/logo.png",
       "decimals": 18,
       "chainId": 100,
       "chainAddresses": [
@@ -10945,7 +10896,7 @@
       "name": "Wrapped BTC on xDai",
       "symbol": "WBTC",
       "address": "0x8e5bBbb09Ed1ebdE8674Cda39A0c169401db4252",
-      "logoURI": "https://raw.githubusercontent.com/centfinance/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png",
+      "logoURI": "https://tokens.1inch.io/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599.png",
       "decimals": 8,
       "chainId": 100,
       "chainAddresses": [
@@ -10959,7 +10910,7 @@
       "name": "Gnosis Token on xDai",
       "symbol": "GNO",
       "address": "0x9C58BAcC331c9aa871AFD802DB6379a98e80CEdb",
-      "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/100/0x9c58bacc331c9aa871afd802db6379a98e80cedb/logo.png",
+      "logoURI": "https://tokens.1inch.io/0x6810e776880c02933d47db1b9fc05908e5386b96.png",
       "decimals": 18,
       "chainId": 100,
       "chainAddresses": [
@@ -10982,48 +10933,10 @@
       ]
     },
     {
-      "name": "crvUSD",
-      "symbol": "crvusd",
-      "address": "0xabef652195f98a91e490f047a5006b71c85f058d",
-      "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/100/0xabef652195f98a91e490f047a5006b71c85f058d/logo.png",
-      "decimals": 18,
-      "chainId": 100,
-      "chainAddresses": [
-        {
-          "chainId": 1,
-          "address": "0xf939e0a03fb07f59a73314e73794be0e57ac1b4e"
-        },
-        {
-          "chainId": 10,
-          "address": "0xc52d7f23a2e460248db6ee192cb23dd12bddcbf6"
-        },
-        {
-          "chainId": 56,
-          "address": "0xe2fb3f127f5450dee44afe054385d74c392bdef4"
-        },
-        {
-          "chainId": 100,
-          "address": "0xabef652195f98a91e490f047a5006b71c85f058d"
-        },
-        {
-          "chainId": 137,
-          "address": "0xc4ce1d6f5d98d65ee25cf85e9f2e9dcfee6cb5d6"
-        },
-        {
-          "chainId": 8453,
-          "address": "0x417ac0e078398c154edfadd9ef675d30be60af93"
-        },
-        {
-          "chainId": 42161,
-          "address": "0x498bf2b1e120fed3ad3d42ea2165e9b73f99c1e5"
-        }
-      ]
-    },
-    {
       "name": "Savings xDAI",
       "symbol": "sdai",
       "address": "0xaf204776c7245bf4147c2612bf6e5972ee483701",
-      "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/100/0xaf204776c7245bf4147c2612bf6e5972ee483701/logo.png",
+      "logoURI": "https://tokens.1inch.io/0xaf204776c7245bf4147c2612bf6e5972ee483701.png",
       "decimals": 18,
       "chainId": 100,
       "chainAddresses": [
@@ -11055,7 +10968,7 @@
       "name": "STAKE",
       "symbol": "stake",
       "address": "0xb7d311e2eb55f2f68a9440da38e7989210b9a05e",
-      "logoURI": "https://raw.githubusercontent.com/centfinance/assets/master/blockchains/ethereum/assets/0x0Ae055097C6d159879521C384F1D2123D1f195e6/logo.png",
+      "logoURI": "https://tokens.1inch.io/0x0ae055097c6d159879521c384f1d2123d1f195e6.png",
       "decimals": 18,
       "chainId": 100,
       "chainAddresses": [
@@ -11077,7 +10990,7 @@
       "name": "Monerium EUR emoney",
       "symbol": "EURe",
       "address": "0xcB444e90D8198415266c6a2724b7900fb12FC56E",
-      "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/100/0xcb444e90d8198415266c6a2724b7900fb12fc56e/logo.png",
+      "logoURI": "https://tokens.1inch.io/0xcb444e90d8198415266c6a2724b7900fb12fc56e.png",
       "decimals": 18,
       "chainId": 100,
       "chainAddresses": [
@@ -11096,76 +11009,10 @@
       ]
     },
     {
-      "name": "Autonolas",
-      "symbol": "olas",
-      "address": "0xce11e14225575945b8e6dc0d4f2dd4c570f79d9f",
-      "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/100/0xcE11e14225575945b8E6Dc0D4F2dD4C570f79d9f/logo.png",
-      "decimals": 18,
-      "chainId": 100,
-      "chainAddresses": [
-        {
-          "chainId": 1,
-          "address": "0x0001a500a6b18995b03f44bb040a5ffc28e45cb0"
-        },
-        {
-          "chainId": 100,
-          "address": "0xce11e14225575945b8e6dc0d4f2dd4c570f79d9f"
-        },
-        {
-          "chainId": 137,
-          "address": "0xfef5d947472e72efbb2e388c730b7428406f2f95"
-        }
-      ]
-    },
-    {
-      "name": "DeFi Pulse Index",
-      "symbol": "dpi",
-      "address": "0xd3d47d5578e55c880505dc40648f7f9307c3e7a8",
-      "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0xd3d47d5578e55c880505dc40648f7f9307c3e7a8/logo.png",
-      "decimals": 18,
-      "chainId": 100,
-      "chainAddresses": [
-        {
-          "chainId": 1,
-          "address": "0x1494ca1f11d487c2bbe4543e90080aeba4ba3c2b"
-        },
-        {
-          "chainId": 100,
-          "address": "0xd3d47d5578e55c880505dc40648f7f9307c3e7a8"
-        },
-        {
-          "chainId": 137,
-          "address": "0x85955046df4668e1dd369d2de9f3aeb98dd2a369"
-        },
-        {
-          "chainId": 39797,
-          "address": "0x8b8e6090542b612b7e2d73a934f9f5ea7e9a40af"
-        }
-      ]
-    },
-    {
-      "name": "Swarm",
-      "symbol": "bzz",
-      "address": "0xdbf3ea6f5bee45c02255b2c26a16f300502f68da",
-      "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/100/0xdbf3ea6f5bee45c02255b2c26a16f300502f68da/logo.png",
-      "decimals": 16,
-      "chainId": 100,
-      "chainAddresses": [
-        {
-          "chainId": 1,
-          "address": "0x19062190b1925b5b6689d7073fdfc8c2976ef8cb"
-        },
-        {
-          "chainId": 100,
-          "address": "0xdbf3ea6f5bee45c02255b2c26a16f300502f68da"
-        }
-      ]
-    },
-    {
       "name": "USD//C on xDai",
       "symbol": "USDC",
       "address": "0xDDAfbb505ad214D7b80b1f830fcCc89B60fb7A83",
-      "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/100/0xddafbb505ad214d7b80b1f830fccc89b60fb7a83/logo.png",
+      "logoURI": "https://tokens.1inch.io/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.png",
       "decimals": 6,
       "chainId": 100,
       "chainAddresses": [
@@ -11359,7 +11206,7 @@
       "name": "ChainLink Token on xDai",
       "symbol": "LINK",
       "address": "0xE2e73A1c69ecF83F464EFCE6A5be353a37cA09b2",
-      "logoURI": "https://raw.githubusercontent.com/centfinance/assets/master/blockchains/ethereum/assets/0x514910771AF9Ca656af840dff83E8264EcF986CA/logo.png",
+      "logoURI": "https://tokens.1inch.io/0x514910771af9ca656af840dff83e8264ecf986ca.png",
       "decimals": 18,
       "chainId": 100,
       "chainAddresses": [
@@ -11417,7 +11264,7 @@
       "name": "Wrapped XDAI",
       "symbol": "WXDAI",
       "address": "0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d",
-      "logoURI": "https://raw.githubusercontent.com/centfinance/assets/master/blockchains/xdai/assets/0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d/logo.png",
+      "logoURI": "https://tokens.1inch.io/0xe91d153e0b41518a2ce8dd3d7944fa863463a97d.png",
       "decimals": 18,
       "chainId": 100,
       "chainAddresses": [
@@ -11438,24 +11285,6 @@
         {
           "chainId": 100,
           "address": "0xf490c80aae5f2616d3e3bda2483e30c4cb21d1a0"
-        }
-      ]
-    },
-    {
-      "name": "Mt Pelerin Shares",
-      "symbol": "mps",
-      "address": "0xfa57aa7beed63d03aaf85ffd1753f5f6242588fb",
-      "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0xfa57aa7beed63d03aaf85ffd1753f5f6242588fb/logo.png",
-      "decimals": 0,
-      "chainId": 100,
-      "chainAddresses": [
-        {
-          "chainId": 1,
-          "address": "0x96c645d3d3706f793ef52c19bbace441900ed47d"
-        },
-        {
-          "chainId": 100,
-          "address": "0xfa57aa7beed63d03aaf85ffd1753f5f6242588fb"
         }
       ]
     },
