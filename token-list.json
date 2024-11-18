@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2024-11-17T00:04:43.379Z",
+  "timestamp": "2024-11-18T00:04:48.520Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -44245,6 +44245,24 @@
         {
           "chainId": 8453,
           "address": "0xfa980ced6895ac314e7de34ef1bfae90a5add21b"
+        }
+      ]
+    },
+    {
+      "name": "Wild Goat Coin",
+      "symbol": "WGC",
+      "address": "0xfB18511F1590a494360069F3640c27d55c2B5290",
+      "logoURI": "https://ethereum-optimism.github.io/data/WGC/logo.svg",
+      "decimals": 6,
+      "chainId": 8453,
+      "chainAddresses": [
+        {
+          "chainId": 137,
+          "address": "0x04565fe9aa3ae571ada8e1bebf8282c4e5247b2a"
+        },
+        {
+          "chainId": 8453,
+          "address": "0xfb18511f1590a494360069f3640c27d55c2b5290"
         }
       ]
     },
