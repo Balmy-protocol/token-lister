@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2024-11-19T00:04:44.392Z",
+  "timestamp": "2024-11-20T00:04:35.292Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -3606,6 +3606,10 @@
         },
         {
           "chainId": 8453,
+          "address": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf"
+        },
+        {
+          "chainId": 42161,
           "address": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf"
         }
       ]
@@ -38727,24 +38731,6 @@
       ]
     },
     {
-      "name": "Curve DAO Token",
-      "symbol": "CRV",
-      "address": "0x3d5320821BfCa19fb0B5428F2c79d63bd5246f89",
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/polygon-zkevm/0x3d5320821BfCa19fb0B5428F2c79d63bd5246f89.jpg",
-      "decimals": 18,
-      "chainId": 1101,
-      "chainAddresses": []
-    },
-    {
-      "name": "Chain Link",
-      "symbol": "LINK",
-      "address": "0x4B16e4752711A7ABEc32799C976F3CeFc0111f2B",
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/polygon-zkevm/0x4B16e4752711A7ABEc32799C976F3CeFc0111f2B.jpg",
-      "decimals": 18,
-      "chainId": 1101,
-      "chainAddresses": []
-    },
-    {
       "name": "Wrapped Ether",
       "symbol": "WETH",
       "address": "0x4F9A0e7FD2Bf6067db6994CF12E4495Df938E6e9",
@@ -38757,15 +38743,6 @@
           "address": "0x4f9a0e7fd2bf6067db6994cf12e4495df938e6e9"
         }
       ]
-    },
-    {
-      "name": "AAVE",
-      "symbol": "AAVE",
-      "address": "0x68791CFE079814c46e0E25C19Bcc5BFC71A744f7",
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/polygon-zkevm/0x68791CFE079814c46e0E25C19Bcc5BFC71A744f7.jpg",
-      "decimals": 18,
-      "chainId": 1101,
-      "chainAddresses": []
     },
     {
       "name": "Frax Share",
@@ -44100,6 +44077,10 @@
         },
         {
           "chainId": 8453,
+          "address": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf"
+        },
+        {
+          "chainId": 42161,
           "address": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf"
         }
       ]
