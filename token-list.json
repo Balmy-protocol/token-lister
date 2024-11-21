@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2024-11-20T00:04:35.292Z",
+  "timestamp": "2024-11-21T00:04:31.698Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -4505,6 +4505,24 @@
         {
           "chainId": 42161,
           "address": "0x58b9cb810a68a7f3e1e4f8cb45d1b9b3c79705e8"
+        }
+      ]
+    },
+    {
+      "name": "Amp",
+      "symbol": "AMP",
+      "address": "0xfF20817765cB7f73d4bde2e66e067E58D11095C2",
+      "logoURI": "https://ethereum-optimism.github.io/data/AMP/logo.svg",
+      "decimals": 18,
+      "chainId": 1,
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0xff20817765cb7f73d4bde2e66e067e58d11095c2"
+        },
+        {
+          "chainId": 39797,
+          "address": "0xad7abe6f12f1059bdf48ae67bff92b00438ced95"
         }
       ]
     },
@@ -9252,6 +9270,56 @@
         {
           "chainId": 1666600000,
           "address": "0x1ee5839950fd7a227f91cf679b1931dd6f5798b3"
+        }
+      ]
+    },
+    {
+      "name": "Sushi",
+      "symbol": "sushi",
+      "address": "0x947950bcc74888a40ffa2593c5798f11fc9124c4",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6758.png",
+      "decimals": 18,
+      "chainId": 56,
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2"
+        },
+        {
+          "chainId": 56,
+          "address": "0x947950bcc74888a40ffa2593c5798f11fc9124c4"
+        },
+        {
+          "chainId": 137,
+          "address": "0x0b3f868e0be5597d5db7feb59e1cadbb0fdda50a"
+        },
+        {
+          "chainId": 250,
+          "address": "0xae75a438b2e0cb8bb01ec1e1e376de11d44477cc"
+        },
+        {
+          "chainId": 8453,
+          "address": "0x7d49a065d17d6d4a55dc13649901fdbb98b2afba"
+        },
+        {
+          "chainId": 39797,
+          "address": "0x32aff6adc46331dac93e608a9cd4b0332d93a23a"
+        },
+        {
+          "chainId": 42161,
+          "address": "0xd4d42f0b6def4ce0383636770ef773390d85c61a"
+        },
+        {
+          "chainId": 42220,
+          "address": "0xd15ec721c2a896512ad29c671997dd68f9593226"
+        },
+        {
+          "chainId": 43114,
+          "address": "0x37b608519f91f70f2eeb0e5ed9af4061722e4f76"
+        },
+        {
+          "chainId": 1666600000,
+          "address": "0xbec775cb42abfa4288de81f387a9b1a3c4bc552a"
         }
       ]
     },
@@ -38731,6 +38799,24 @@
       ]
     },
     {
+      "name": "Curve DAO Token",
+      "symbol": "CRV",
+      "address": "0x3d5320821BfCa19fb0B5428F2c79d63bd5246f89",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/polygon-zkevm/0x3d5320821BfCa19fb0B5428F2c79d63bd5246f89.jpg",
+      "decimals": 18,
+      "chainId": 1101,
+      "chainAddresses": []
+    },
+    {
+      "name": "Chain Link",
+      "symbol": "LINK",
+      "address": "0x4B16e4752711A7ABEc32799C976F3CeFc0111f2B",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/polygon-zkevm/0x4B16e4752711A7ABEc32799C976F3CeFc0111f2B.jpg",
+      "decimals": 18,
+      "chainId": 1101,
+      "chainAddresses": []
+    },
+    {
       "name": "Wrapped Ether",
       "symbol": "WETH",
       "address": "0x4F9A0e7FD2Bf6067db6994CF12E4495Df938E6e9",
@@ -38743,6 +38829,15 @@
           "address": "0x4f9a0e7fd2bf6067db6994cf12e4495df938e6e9"
         }
       ]
+    },
+    {
+      "name": "AAVE",
+      "symbol": "AAVE",
+      "address": "0x68791CFE079814c46e0E25C19Bcc5BFC71A744f7",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/polygon-zkevm/0x68791CFE079814c46e0E25C19Bcc5BFC71A744f7.jpg",
+      "decimals": 18,
+      "chainId": 1101,
+      "chainAddresses": []
     },
     {
       "name": "Frax Share",
@@ -49312,24 +49407,7 @@
       "logoURI": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDCpo_wh.png",
       "decimals": 6,
       "chainId": 42262,
-      "chainAddresses": [
-        {
-          "chainId": 1,
-          "address": "0x566957ef80f9fd5526cd2bef8be67035c0b81130"
-        },
-        {
-          "chainId": 56,
-          "address": "0x672147dd47674757c457eb155baa382cc10705dd"
-        },
-        {
-          "chainId": 42262,
-          "address": "0x3e62a9c3af8b810de79645c4579acc8f0d06a241"
-        },
-        {
-          "chainId": 43114,
-          "address": "0x543672e9cbec728cbba9c3ccd99ed80ac3607fa8"
-        }
-      ]
+      "chainAddresses": []
     },
     {
       "name": "Tether USD (Celer)",
@@ -52845,6 +52923,15 @@
       "chainAddresses": []
     },
     {
+      "name": "OPENLOOT",
+      "symbol": "OL",
+      "address": "0x189e5d3e8b540a9f9a5a15BAd683d26fF87E3DdE",
+      "logoURI": "https://ethereum-optimism.github.io/data/OL/logo.svg",
+      "decimals": 18,
+      "chainId": 84532,
+      "chainAddresses": []
+    },
+    {
       "name": "LOCGame",
       "symbol": "LOCG",
       "address": "0x27229E11d98e5A431cB71F7a0A874480299C9C57",
@@ -53678,6 +53765,15 @@
       "symbol": "OUTb",
       "address": "0x12608ff9dac79d8443F17A4d39D93317BAD026Aa",
       "logoURI": "https://ethereum-optimism.github.io/data/OUTb/logo.svg",
+      "decimals": 18,
+      "chainId": 11155111,
+      "chainAddresses": []
+    },
+    {
+      "name": "OPENLOOT",
+      "symbol": "OL",
+      "address": "0x12630f88B4ac181bad45089Ba1D0d5DBed708083",
+      "logoURI": "https://ethereum-optimism.github.io/data/OL/logo.svg",
       "decimals": 18,
       "chainId": 11155111,
       "chainAddresses": []
