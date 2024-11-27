@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2024-11-26T00:04:35.715Z",
+  "timestamp": "2024-11-27T00:04:32.041Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -39708,7 +39708,12 @@
       "logoURI": "https://ethereum-optimism.github.io/data/WBTC/logo.svg",
       "decimals": 8,
       "chainId": 1135,
-      "chainAddresses": []
+      "chainAddresses": [
+        {
+          "chainId": 1135,
+          "address": "0x03c7054bcb39f7b2e5b2c7acb37583e32d70cfa3"
+        }
+      ]
     },
     {
       "name": "Tether USD",
@@ -39717,7 +39722,12 @@
       "logoURI": "https://ethereum-optimism.github.io/data/USDT/logo.png",
       "decimals": 6,
       "chainId": 1135,
-      "chainAddresses": []
+      "chainAddresses": [
+        {
+          "chainId": 1135,
+          "address": "0x05d032ac25d322df992303dca074ee7392c117b9"
+        }
+      ]
     },
     {
       "name": "Tellor",
@@ -39726,7 +39736,36 @@
       "logoURI": "https://ethereum-optimism.github.io/data/TRB/logo.png",
       "decimals": 18,
       "chainId": 1135,
-      "chainAddresses": []
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0x88df592f8eb5d7bd38bfef7deb0fbc02cf3778a0"
+        },
+        {
+          "chainId": 10,
+          "address": "0xaf8ca653fa2772d58f4368b0a71980e9e3ceb888"
+        },
+        {
+          "chainId": 100,
+          "address": "0xaad66432d27737ecf6ed183160adc5ef36ab99f2"
+        },
+        {
+          "chainId": 137,
+          "address": "0xe3322702bedaaed36cddab233360b939775ae5f1"
+        },
+        {
+          "chainId": 169,
+          "address": "0x8d7090ddda057f48fdbbb2abcea22d1113ab566a"
+        },
+        {
+          "chainId": 1135,
+          "address": "0x665060707c3ea3c31b3eabad7f409072446e1d50"
+        },
+        {
+          "chainId": 42161,
+          "address": "0xd58d345fd9c82262e087d2d0607624b410d88242"
+        }
+      ]
     },
     {
       "name": "Lisk",
