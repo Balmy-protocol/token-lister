@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2024-11-27T00:04:32.041Z",
+  "timestamp": "2024-11-28T00:04:41.412Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -1686,6 +1686,10 @@
         {
           "chainId": 324,
           "address": "0x503234f203fc7eb888eec8513210612a43cf6115"
+        },
+        {
+          "chainId": 8453,
+          "address": "0x368181499736d0c0cc614dbb145e2ec1ac86b8c6"
         },
         {
           "chainId": 42161,
@@ -4343,6 +4347,28 @@
       ]
     },
     {
+      "name": "Melon Token",
+      "symbol": "MLN",
+      "address": "0xec67005c4E498Ec7f55E092bd1d35cbC47C91892",
+      "logoURI": "https://ethereum-optimism.github.io/data/MLN/logo.svg",
+      "decimals": 18,
+      "chainId": 1,
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0xec67005c4e498ec7f55e092bd1d35cbc47c91892"
+        },
+        {
+          "chainId": 137,
+          "address": "0xa9f37d84c856fda3812ad0519dad44fa0a3fe207"
+        },
+        {
+          "chainId": 42161,
+          "address": "0x8f5c1a99b1df736ad685006cb6adca7b7ae4b514"
+        }
+      ]
+    },
+    {
       "name": "IceToken",
       "symbol": "ICE",
       "address": "0xf16e81dce15B08F326220742020379B855B87DF9",
@@ -6694,6 +6720,10 @@
         {
           "chainId": 324,
           "address": "0x503234f203fc7eb888eec8513210612a43cf6115"
+        },
+        {
+          "chainId": 8453,
+          "address": "0x368181499736d0c0cc614dbb145e2ec1ac86b8c6"
         },
         {
           "chainId": 42161,
@@ -39792,7 +39822,12 @@
       "logoURI": "https://ethereum-optimism.github.io/data/BridgedUSDC/logo.png",
       "decimals": 6,
       "chainId": 1135,
-      "chainAddresses": []
+      "chainAddresses": [
+        {
+          "chainId": 1135,
+          "address": "0xf242275d3a6527d877f2c927a82d9b057609cc71"
+        }
+      ]
     },
     {
       "name": "StellaSwap",
@@ -43583,6 +43618,40 @@
       ]
     },
     {
+      "name": "LUSD Stablecoin",
+      "symbol": "LUSD",
+      "address": "0x368181499736d0c0CC614DBB145E2EC1AC86b8c6",
+      "logoURI": "https://ethereum-optimism.github.io/data/LUSD/logo.svg",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0x5f98805a4e8be255a32880fdec7f6728c6568ba0"
+        },
+        {
+          "chainId": 10,
+          "address": "0xc40f949f8a4e094d1b49a23ea9241d289b7b2819"
+        },
+        {
+          "chainId": 137,
+          "address": "0x23001f892c0c82b79303edc9b9033cd190bb21c7"
+        },
+        {
+          "chainId": 324,
+          "address": "0x503234f203fc7eb888eec8513210612a43cf6115"
+        },
+        {
+          "chainId": 8453,
+          "address": "0x368181499736d0c0cc614dbb145e2ec1ac86b8c6"
+        },
+        {
+          "chainId": 42161,
+          "address": "0x93b346b6bc2548da6a1e7d98e9a421b42541425b"
+        }
+      ]
+    },
+    {
       "name": "Balancer",
       "symbol": "BAL",
       "address": "0x4158734D47Fc9692176B5085E0F52ee0Da5d47F1",
@@ -47175,6 +47244,10 @@
         {
           "chainId": 324,
           "address": "0x503234f203fc7eb888eec8513210612a43cf6115"
+        },
+        {
+          "chainId": 8453,
+          "address": "0x368181499736d0c0cc614dbb145e2ec1ac86b8c6"
         },
         {
           "chainId": 42161,
