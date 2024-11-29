@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2024-11-28T00:04:41.412Z",
+  "timestamp": "2024-11-29T00:04:40.636Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -45038,16 +45038,7 @@
       "logoURI": "https://storage.googleapis.com/us-central1-dgc-berlin-0-470cbba9-bucket/tokenlist/wevmos.png",
       "decimals": 18,
       "chainId": 9001,
-      "chainAddresses": [
-        {
-          "chainId": 1,
-          "address": "0x93581991f68dbae1ea105233b67f7fa0d6bdee7b"
-        },
-        {
-          "chainId": 9001,
-          "address": "0xd4949664cd82660aae99bedc034a0dea8a0bd517"
-        }
-      ]
+      "chainAddresses": []
     },
     {
       "name": "Dai Stablecoin - Gravity",
@@ -46267,6 +46258,48 @@
         {
           "chainId": 42161,
           "address": "0x1a5b0aaf478bf1fda7b934c76e7692d722982a6d"
+        }
+      ]
+    },
+    {
+      "name": "PancakeSwap",
+      "symbol": "cake",
+      "address": "0x1b896893dfc86bb67cf57767298b9073d2c1ba2c",
+      "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/42161/0x1b896893dfc86bb67cf57767298b9073d2c1ba2c/logo.png",
+      "decimals": 18,
+      "chainId": 42161,
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0x152649ea73beab28c5b49b26eb48f7ead6d4c898"
+        },
+        {
+          "chainId": 56,
+          "address": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82"
+        },
+        {
+          "chainId": 204,
+          "address": "0x2779106e4f4a8a28d77a24c18283651a2ae22d1c"
+        },
+        {
+          "chainId": 324,
+          "address": "0x3a287a06c66f9e95a56327185ca2bdf5f031cecd"
+        },
+        {
+          "chainId": 1101,
+          "address": "0x0d1e753a25ebda689453309112904807625befbe"
+        },
+        {
+          "chainId": 8453,
+          "address": "0x3055913c90fcc1a6ce9a358911721eeb942013a1"
+        },
+        {
+          "chainId": 42161,
+          "address": "0x1b896893dfc86bb67cf57767298b9073d2c1ba2c"
+        },
+        {
+          "chainId": 59144,
+          "address": "0x0d1e753a25ebda689453309112904807625befbe"
         }
       ]
     },
