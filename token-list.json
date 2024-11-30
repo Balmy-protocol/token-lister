@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2024-11-29T00:04:40.636Z",
+  "timestamp": "2024-11-30T00:04:20.159Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -17392,6 +17392,10 @@
         {
           "chainId": 8453,
           "address": "0xfb1aaba03c31ea98a3eec7591808acb1947ee7ac"
+        },
+        {
+          "chainId": 33139,
+          "address": "0xe31c676d8235437597581b44c1c4f8a30e90b38a"
         },
         {
           "chainId": 42161,
@@ -46242,6 +46246,10 @@
           "address": "0xfb1aaba03c31ea98a3eec7591808acb1947ee7ac"
         },
         {
+          "chainId": 33139,
+          "address": "0xe31c676d8235437597581b44c1c4f8a30e90b38a"
+        },
+        {
           "chainId": 42161,
           "address": "0x18c11fd286c5ec11c3b683caa813b77f5163a122"
         }
@@ -51981,6 +51989,18 @@
       "chainId": 59144,
       "chainAddresses": [
         {
+          "chainId": 169,
+          "address": "0x35a57efb9b4ae833e9a200bb191ff69420cafa1d"
+        },
+        {
+          "chainId": 196,
+          "address": "0x843d794ed4335b27d02184ca86787c14e6247074"
+        },
+        {
+          "chainId": 324,
+          "address": "0x27d0a2b5316b98088294378692f4eabfb3222e36"
+        },
+        {
           "chainId": 59144,
           "address": "0x78354f8dccb269a615a7e0a24f9b0718fdc3c7a7"
         }
@@ -53108,6 +53128,15 @@
       "chainAddresses": []
     },
     {
+      "name": "Lizcoin",
+      "symbol": "LIZ",
+      "address": "0xBbF7ddbfBFeD11610CA2165ed5d94485f09D98E1",
+      "logoURI": "https://ethereum-optimism.github.io/data/LIZCOIN/logo.png",
+      "decimals": 18,
+      "chainId": 84532,
+      "chainAddresses": []
+    },
+    {
       "name": "Presearch",
       "symbol": "PRE",
       "address": "0xc0C034725e4eC6DDd23B8D4e6412094BcfB3F5D6",
@@ -53139,6 +53168,15 @@
       "symbol": "BTRST",
       "address": "0xE490c7698F2b80789Fe312162d9D0a1Bd8C9beeE",
       "logoURI": "https://ethereum-optimism.github.io/data/BTRST/logo.svg",
+      "decimals": 18,
+      "chainId": 84532,
+      "chainAddresses": []
+    },
+    {
+      "name": "ArcBlock",
+      "symbol": "ABT",
+      "address": "0xf92620d8d20e0197885FF1005506EF4d0Be5bd54",
+      "logoURI": "https://ethereum-optimism.github.io/data/ABT/logo.svg",
       "decimals": 18,
       "chainId": 84532,
       "chainAddresses": []
@@ -53946,6 +53984,15 @@
       "chainAddresses": []
     },
     {
+      "name": "Covalent X Token",
+      "symbol": "CXT",
+      "address": "0x72E2f504a0769458ACdCdd24236912f48342457C",
+      "logoURI": "https://ethereum-optimism.github.io/data/CXT/logo.svg",
+      "decimals": 18,
+      "chainId": 11155111,
+      "chainAddresses": []
+    },
+    {
       "name": "True",
       "symbol": "TRUE",
       "address": "0x90C9155EC3c2C4aD624Db896864fC62eb3D62626",
@@ -53959,6 +54006,24 @@
       "symbol": "BKN",
       "address": "0x97a13487f889dc770Ac925Be2d3b6c833FA7746a",
       "logoURI": "https://ethereum-optimism.github.io/data/BKN/logo.svg",
+      "decimals": 18,
+      "chainId": 11155111,
+      "chainAddresses": []
+    },
+    {
+      "name": "ArcBlock",
+      "symbol": "ABT",
+      "address": "0xA5a69f91E14c135727983924C671EC564739b961",
+      "logoURI": "https://ethereum-optimism.github.io/data/ABT/logo.svg",
+      "decimals": 18,
+      "chainId": 11155111,
+      "chainAddresses": []
+    },
+    {
+      "name": "Lizcoin",
+      "symbol": "LIZ",
+      "address": "0xAF9F5cC2384C33dE30a7eDB933A3fb0626eAf542",
+      "logoURI": "https://ethereum-optimism.github.io/data/LIZCOIN/logo.png",
       "decimals": 18,
       "chainId": 11155111,
       "chainAddresses": []
