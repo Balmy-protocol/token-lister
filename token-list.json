@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2024-12-03T00:04:57.135Z",
+  "timestamp": "2024-12-04T00:04:46.912Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -1578,6 +1578,24 @@
         {
           "chainId": 1666600000,
           "address": "0xbd3e698b51d340cc53b0cc549b598c13e0172b7c"
+        }
+      ]
+    },
+    {
+      "name": "Morpho",
+      "symbol": "morpho",
+      "address": "0x58d97b57bb95320f9a05dc918aef65434969c2b2",
+      "logoURI": "https://ethereum-optimism.github.io/data/MORPHO/logo.svg",
+      "decimals": 18,
+      "chainId": 1,
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0x58d97b57bb95320f9a05dc918aef65434969c2b2"
+        },
+        {
+          "chainId": 8453,
+          "address": "0xbaa5cc21fd487b8fcc2f632f3f4e8d37262a0842"
         }
       ]
     },
@@ -21373,7 +21391,7 @@
       "name": "WigoSwap",
       "symbol": "WIGO",
       "address": "0xe992beab6659bff447893641a378fbbf031c5bd6",
-      "logoURI": "https://assets.coingecko.com/coins/images/23603/large/wigo.png",
+      "logoURI": "https://tokens-data.1inch.io/images/250/0xe992beab6659bff447893641a378fbbf031c5bd6.png",
       "decimals": 18,
       "chainId": 250,
       "chainAddresses": [
@@ -44176,6 +44194,24 @@
         {
           "chainId": 8453,
           "address": "0xb79dd08ea68a908a97220c76d19a6aa9cbde4376"
+        }
+      ]
+    },
+    {
+      "name": "Morpho Token",
+      "symbol": "MORPHO",
+      "address": "0xBAa5CC21fd487B8Fcc2F632f3F4E8D37262a0842",
+      "logoURI": "https://ethereum-optimism.github.io/data/MORPHO/logo.svg",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0x58d97b57bb95320f9a05dc918aef65434969c2b2"
+        },
+        {
+          "chainId": 8453,
+          "address": "0xbaa5cc21fd487b8fcc2f632f3f4e8d37262a0842"
         }
       ]
     },
