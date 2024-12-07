@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2024-12-06T00:04:59.161Z",
+  "timestamp": "2024-12-07T00:04:46.404Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -795,6 +795,36 @@
       ]
     },
     {
+      "name": "Yield Guild Games Token",
+      "symbol": "YGG",
+      "address": "0x25f8087EAD173b73D6e8B84329989A8eEA16CF73",
+      "logoURI": "https://ethereum-optimism.github.io/data/YGG/logo.svg",
+      "decimals": 18,
+      "chainId": 1,
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0x25f8087ead173b73d6e8b84329989a8eea16cf73"
+        },
+        {
+          "chainId": 137,
+          "address": "0x82617aa52dddf5ed9bb7b370ed777b3182a30fd1"
+        },
+        {
+          "chainId": 2020,
+          "address": "0x1c306872bc82525d72bf3562e8f0aa3f8f26e857"
+        },
+        {
+          "chainId": 8453,
+          "address": "0xaac78d1219c08aecc8e37e03858fe885f5ef1799"
+        },
+        {
+          "chainId": 1666600000,
+          "address": "0x63cf309500d8be0b9fdb8f1fb66c821236c0438c"
+        }
+      ]
+    },
+    {
       "name": "Origin Dollar",
       "symbol": "OUSD",
       "address": "0x2A8e1E676Ec238d8A992307B495b45B3fEAa5e86",
@@ -1001,10 +1031,6 @@
         {
           "chainId": 1,
           "address": "0x3506424f91fd33084466f402d5d97f05f8e3b4af"
-        },
-        {
-          "chainId": 39797,
-          "address": "0xa82fc24687ffbde40776dede7c70f845b67f3ef7"
         }
       ]
     },
@@ -51504,6 +51530,36 @@
       "chainAddresses": []
     },
     {
+      "name": "Metavault Trade",
+      "symbol": "MVX",
+      "address": "0x0018D96C579121a94307249d47F053E2D687b5e7",
+      "logoURI": "https://storage.googleapis.com/ks-setting-1d682dca/b427489f-45dd-4fe8-a9e7-50c5498576571707245599968.png",
+      "decimals": 18,
+      "chainId": 59144,
+      "chainAddresses": [
+        {
+          "chainId": 137,
+          "address": "0x2760e46d9bb43dafcbecaad1f64b93207f9f0ed7"
+        },
+        {
+          "chainId": 324,
+          "address": "0xc8ac6191cdc9c7bf846ad6b52aaaa7a0757ee305"
+        },
+        {
+          "chainId": 2222,
+          "address": "0x0018d96c579121a94307249d47f053e2d687b5e7"
+        },
+        {
+          "chainId": 59144,
+          "address": "0x0018d96c579121a94307249d47f053e2d687b5e7"
+        },
+        {
+          "chainId": 534352,
+          "address": "0x0018d96c579121a94307249d47f053e2d687b5e7"
+        }
+      ]
+    },
+    {
       "name": "PancakeSwap Token",
       "symbol": "Cake",
       "address": "0x0D1E753a25eBda689453309112904807625bEFBe",
@@ -55770,6 +55826,10 @@
       "decimals": 18,
       "chainId": 1666600000,
       "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0x25f8087ead173b73d6e8b84329989a8eea16cf73"
+        },
         {
           "chainId": 137,
           "address": "0x82617aa52dddf5ed9bb7b370ed777b3182a30fd1"
