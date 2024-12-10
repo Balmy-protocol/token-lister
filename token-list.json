@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2024-12-09T00:04:43.479Z",
+  "timestamp": "2024-12-10T00:04:50.518Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -805,6 +805,10 @@
         {
           "chainId": 1,
           "address": "0x25f8087ead173b73d6e8b84329989a8eea16cf73"
+        },
+        {
+          "chainId": 56,
+          "address": "0x13ab6739368a4e4abf24695bf52959224367391f"
         },
         {
           "chainId": 137,
@@ -43294,16 +43298,7 @@
       "logoURI": "https://tokens.1inch.io/0x588c62ed9aa7367d7cd9c2a9aaac77e44fe8221b.png",
       "decimals": 18,
       "chainId": 8217,
-      "chainAddresses": [
-        {
-          "chainId": 1,
-          "address": "0xd1420af453fd7bf940573431d416cace7ff8280c"
-        },
-        {
-          "chainId": 8217,
-          "address": "0x588c62ed9aa7367d7cd9c2a9aaac77e44fe8221b"
-        }
-      ]
+      "chainAddresses": []
     },
     {
       "name": "Dai",
@@ -48424,6 +48419,10 @@
       "decimals": 18,
       "chainId": 42170,
       "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0xb2490e357980ce57bf5745e181e537a64eb367b1"
+        },
         {
           "chainId": 42161,
           "address": "0x24404dc041d74cd03cfe28855f555559390c931b"
@@ -55829,6 +55828,10 @@
         {
           "chainId": 1,
           "address": "0x25f8087ead173b73d6e8b84329989a8eea16cf73"
+        },
+        {
+          "chainId": 56,
+          "address": "0x13ab6739368a4e4abf24695bf52959224367391f"
         },
         {
           "chainId": 137,
