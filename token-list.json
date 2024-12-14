@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2024-12-13T00:04:49.228Z",
+  "timestamp": "2024-12-14T00:04:37.317Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -5993,7 +5993,20 @@
       "logoURI": "https://ethereum-optimism.github.io/data/FOAM/logo.svg",
       "decimals": 18,
       "chainId": 10,
-      "chainAddresses": []
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0x4946fcea7c692606e8908002e55a582af44ac121"
+        },
+        {
+          "chainId": 10,
+          "address": "0x79e6c6b6aaba4432fabacb30cc0c879d8f3e598e"
+        },
+        {
+          "chainId": 8453,
+          "address": "0x6059d0ed9368c36941514d2864fd114a84853d5a"
+        }
+      ]
     },
     {
       "name": "VitaDAO Token",
