@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2024-12-18T00:04:36.133Z",
+  "timestamp": "2024-12-19T00:04:31.571Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -4041,6 +4041,10 @@
         {
           "chainId": 1,
           "address": "0xdc035d45d973e3ec169d2276ddab16f1e407384f"
+        },
+        {
+          "chainId": 8453,
+          "address": "0x820c137fa70c8691f0e44dc420a5e53c168921dc"
         }
       ]
     },
@@ -29573,16 +29577,7 @@
       "logoURI": "https://assets.smold.app/api/token/1088/0x72c232D56542Ba082592DEE7C77b1C6CFA758BCD/logo-128.png",
       "decimals": 9,
       "chainId": 1088,
-      "chainAddresses": [
-        {
-          "chainId": 1088,
-          "address": "0x72c232d56542ba082592dee7c77b1c6cfa758bcd"
-        },
-        {
-          "chainId": 42161,
-          "address": "0x00000000ea00f3f4000e7ed5ed91965b19f1009b"
-        }
-      ]
+      "chainAddresses": []
     },
     {
       "name": "MetisBabyDoge",
@@ -33556,16 +33551,7 @@
       "logoURI": "https://assets.smold.app/api/token/1088/0xb27BbeaACA2C00d6258C3118BAB6b5B6975161c8/logo-128.png",
       "decimals": 18,
       "chainId": 1088,
-      "chainAddresses": [
-        {
-          "chainId": 1088,
-          "address": "0xb27bbeaaca2c00d6258c3118bab6b5b6975161c8"
-        },
-        {
-          "chainId": 42161,
-          "address": "0x45940000009600102a1c002f0097c4a500fa00ab"
-        }
-      ]
+      "chainAddresses": []
     },
     {
       "name": "Unicorn Nodes",
@@ -43860,6 +43846,20 @@
       ]
     },
     {
+      "name": "Make Fun",
+      "symbol": "MF",
+      "address": "0x474cb5B5087E13EA006E13702e330c93C825ab5d",
+      "logoURI": "https://assets.smold.app/api/token/8453/0x474cb5B5087E13EA006E13702e330c93C825ab5d/logo-128.png",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": [
+        {
+          "chainId": 8453,
+          "address": "0x474cb5b5087e13ea006e13702e330c93c825ab5d"
+        }
+      ]
+    },
+    {
       "name": "Dai Stablecoin",
       "symbol": "DAI",
       "address": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
@@ -44480,6 +44480,28 @@
         {
           "chainId": 8453,
           "address": "0xd9aaec86b65d86f6a7b5b1b0c42ffa531710b6ca"
+        }
+      ]
+    },
+    {
+      "name": "Lombard Staked Bitcoin",
+      "symbol": "LBTC",
+      "address": "0xecAc9C5F704e954931349Da37F60E39f515c11c1",
+      "logoURI": "https://assets.odos.xyz/tokens/LBTC.webp",
+      "decimals": 8,
+      "chainId": 8453,
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0x8236a87084f8b84306f72007f36f2618a5634494"
+        },
+        {
+          "chainId": 56,
+          "address": "0xecac9c5f704e954931349da37f60e39f515c11c1"
+        },
+        {
+          "chainId": 8453,
+          "address": "0xecac9c5f704e954931349da37f60e39f515c11c1"
         }
       ]
     },
