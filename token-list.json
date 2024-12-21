@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2024-12-20T00:04:21.825Z",
+  "timestamp": "2024-12-21T00:04:26.125Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -9710,6 +9710,10 @@
         {
           "chainId": 324,
           "address": "0xd78abd81a3d57712a3af080dc4185b698fe9ac5a"
+        },
+        {
+          "chainId": 8453,
+          "address": "0xebb7873213c8d1d9913d8ea39aa12d74cb107995"
         },
         {
           "chainId": 42161,
@@ -44019,6 +44023,20 @@
         {
           "chainId": 42161,
           "address": "0xc5102fe9359fd9a28f877a67e36b0f050d81a3cc"
+        }
+      ]
+    },
+    {
+      "name": "Odos Token",
+      "symbol": "ODOS",
+      "address": "0xca73ed1815e5915489570014e024b7EbE65dE679",
+      "logoURI": "https://assets.smold.app/api/token/8453/0xca73ed1815e5915489570014e024b7EbE65dE679/logo-128.png",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": [
+        {
+          "chainId": 8453,
+          "address": "0xca73ed1815e5915489570014e024b7ebe65de679"
         }
       ]
     },
