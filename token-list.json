@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2025-01-03T00:04:18.137Z",
+  "timestamp": "2025-01-04T00:04:06.590Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -21132,7 +21132,16 @@
       "logoURI": "https://tokens.1inch.io/0xf24bcf4d1e507740041c9cfd2dddb29585adce1e.png",
       "decimals": 18,
       "chainId": 250,
-      "chainAddresses": []
+      "chainAddresses": [
+        {
+          "chainId": 10,
+          "address": "0xb4bc46bc6cb217b59ea8f4530bae26bf69f677f0"
+        },
+        {
+          "chainId": 250,
+          "address": "0xf24bcf4d1e507740041c9cfd2dddb29585adce1e"
+        }
+      ]
     },
     {
       "name": "FantOHM",
