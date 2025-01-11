@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2025-01-10T00:04:23.103Z",
+  "timestamp": "2025-01-11T00:04:23.170Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -18467,10 +18467,6 @@
           "address": "0xeca82185adce47f39c684352b0439f030f860318"
         },
         {
-          "chainId": 56,
-          "address": "0x0f9e4d49f25de22c2202af916b681fbb3790497b"
-        },
-        {
           "chainId": 137,
           "address": "0xb121fcd122daaa153bb8a102754127b2682645cb"
         }
@@ -32797,12 +32793,7 @@
       "logoURI": "https://assets.smold.app/api/token/1088/0x85b70D7e56BC8C4dDD7a5BB30E59b223DA383E34/logo-128.png",
       "decimals": 18,
       "chainId": 1088,
-      "chainAddresses": [
-        {
-          "chainId": 1088,
-          "address": "0x85b70d7e56bc8c4ddd7a5bb30e59b223da383e34"
-        }
-      ]
+      "chainAddresses": []
     },
     {
       "name": "GanjaPolis",
@@ -47029,8 +47020,8 @@
     {
       "name": "Morpho Token",
       "symbol": "MORPHO",
-      "address": "0xBAa5CC21fd487B8Fcc2F632f3F4E8D37262a0842",
-      "logoURI": "https://ethereum-optimism.github.io/data/MORPHO/logo.svg",
+      "address": "0xbaa5cc21fd487b8fcc2f632f3f4e8d37262a0842",
+      "logoURI": "ipfs://QmUfoQeR87cbMzFqQtNWznBw39HKRJBkndYinHzzwEim5s",
       "decimals": 18,
       "chainId": 8453,
       "chainAddresses": [
@@ -55709,11 +55700,11 @@
       ]
     },
     {
-      "name": "Gravita Debt Token",
-      "symbol": "GRAI",
-      "address": "0x894134a25a5faC1c2C26F1d8fBf05111a3CB9487",
-      "logoURI": "https://storage.googleapis.com/ks-setting-1d682dca/a27c03b8-fbd5-4ba4-b5ab-b1ac66f3341f1700081678981.png",
-      "decimals": 18,
+      "name": "Axelar Wrapped USDT",
+      "symbol": "axlUSDT",
+      "address": "0x7f5373AE26c3E8FfC4c77b7255DF7eC1A9aF52a6",
+      "logoURI": "https://storage.googleapis.com/ks-setting-1d682dca/a38192ff-8deb-4957-b407-da6ba650d756.png",
+      "decimals": 6,
       "chainId": 59144,
       "chainAddresses": []
     },
@@ -55988,10 +55979,10 @@
       ]
     },
     {
-      "name": "LYVE Debt Token",
-      "symbol": "LYU",
-      "address": "0xb20116eE399f15647BB1eEf9A74f6ef3b58bc951",
-      "logoURI": "https://storage.googleapis.com/ks-setting-1d682dca/9416bf3d-3df3-49db-85e3-aa75e22a757a1700135562848.png",
+      "name": "Axelar Wrapped KNC",
+      "symbol": "axlKNC",
+      "address": "0xB448eC505C924944ca8B2C55EF05c299eE0781df",
+      "logoURI": "https://storage.googleapis.com/ks-setting-1d682dca/62350353-4882-4887-90de-6b459fab5cf6.png",
       "decimals": 18,
       "chainId": 59144,
       "chainAddresses": []
