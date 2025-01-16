@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2025-01-15T00:04:26.688Z",
+  "timestamp": "2025-01-16T00:04:17.855Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -2914,6 +2914,28 @@
         {
           "chainId": 1,
           "address": "0xab846fb6c81370327e784ae7cbb6d6a6af6ff4bf"
+        }
+      ]
+    },
+    {
+      "name": "AdEx Network",
+      "symbol": "ADX",
+      "address": "0xADE00C28244d5CE17D72E40330B1c318cD12B7c3",
+      "logoURI": "https://ethereum-optimism.github.io/data/ADEX/logo.svg",
+      "decimals": 18,
+      "chainId": 1,
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0xade00c28244d5ce17d72e40330b1c318cd12b7c3"
+        },
+        {
+          "chainId": 56,
+          "address": "0x6bff4fb161347ad7de4a625ae5aa3a1ca7077819"
+        },
+        {
+          "chainId": 137,
+          "address": "0xdda7b23d2d72746663e7939743f929a3d85fc975"
         }
       ]
     },
@@ -52659,6 +52681,15 @@
       "symbol": "ABT",
       "address": "0xf92620d8d20e0197885FF1005506EF4d0Be5bd54",
       "logoURI": "https://ethereum-optimism.github.io/data/ABT/logo.svg",
+      "decimals": 18,
+      "chainId": 84532,
+      "chainAddresses": []
+    },
+    {
+      "name": "Status Test Token",
+      "symbol": "STT",
+      "address": "0xfDB3b57944943a7724fCc0520eE2B10659969a06",
+      "logoURI": "https://ethereum-optimism.github.io/data/SNT/logo.svg",
       "decimals": 18,
       "chainId": 84532,
       "chainAddresses": []
