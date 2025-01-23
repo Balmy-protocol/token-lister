@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2025-01-22T00:04:35.050Z",
+  "timestamp": "2025-01-23T00:04:12.769Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -963,6 +963,10 @@
         {
           "chainId": 250,
           "address": "0x7d016eec9c25232b01f23ef992d98ca97fc2af5a"
+        },
+        {
+          "chainId": 252,
+          "address": "0xfc00000000000000000000000000000000000002"
         },
         {
           "chainId": 1101,
@@ -2297,6 +2301,10 @@
         {
           "chainId": 250,
           "address": "0xdc301622e621166bd8e82f2ca0a26c13ad0be355"
+        },
+        {
+          "chainId": 252,
+          "address": "0xfc00000000000000000000000000000000000001"
         },
         {
           "chainId": 288,
@@ -5228,6 +5236,10 @@
         {
           "chainId": 250,
           "address": "0xdc301622e621166bd8e82f2ca0a26c13ad0be355"
+        },
+        {
+          "chainId": 252,
+          "address": "0xfc00000000000000000000000000000000000001"
         },
         {
           "chainId": 288,
@@ -9179,6 +9191,10 @@
         {
           "chainId": 250,
           "address": "0xdc301622e621166bd8e82f2ca0a26c13ad0be355"
+        },
+        {
+          "chainId": 252,
+          "address": "0xfc00000000000000000000000000000000000001"
         },
         {
           "chainId": 288,
@@ -14674,6 +14690,10 @@
           "address": "0xdc301622e621166bd8e82f2ca0a26c13ad0be355"
         },
         {
+          "chainId": 252,
+          "address": "0xfc00000000000000000000000000000000000001"
+        },
+        {
           "chainId": 288,
           "address": "0x7562f525106f5d54e891e005867bf489b5988cd9"
         },
@@ -19414,6 +19434,10 @@
           "address": "0x7d016eec9c25232b01f23ef992d98ca97fc2af5a"
         },
         {
+          "chainId": 252,
+          "address": "0xfc00000000000000000000000000000000000002"
+        },
+        {
           "chainId": 1101,
           "address": "0x6b856a14cea1d7dcfaf80fa6936c0b75972ccace"
         },
@@ -20592,6 +20616,10 @@
         {
           "chainId": 250,
           "address": "0xdc301622e621166bd8e82f2ca0a26c13ad0be355"
+        },
+        {
+          "chainId": 252,
+          "address": "0xfc00000000000000000000000000000000000001"
         },
         {
           "chainId": 288,
@@ -38237,6 +38265,10 @@
           "address": "0x7d016eec9c25232b01f23ef992d98ca97fc2af5a"
         },
         {
+          "chainId": 252,
+          "address": "0xfc00000000000000000000000000000000000002"
+        },
+        {
           "chainId": 1101,
           "address": "0x6b856a14cea1d7dcfaf80fa6936c0b75972ccace"
         },
@@ -38621,6 +38653,10 @@
         {
           "chainId": 250,
           "address": "0xdc301622e621166bd8e82f2ca0a26c13ad0be355"
+        },
+        {
+          "chainId": 252,
+          "address": "0xfc00000000000000000000000000000000000001"
         },
         {
           "chainId": 288,
@@ -39438,6 +39474,10 @@
           "address": "0xdc301622e621166bd8e82f2ca0a26c13ad0be355"
         },
         {
+          "chainId": 252,
+          "address": "0xfc00000000000000000000000000000000000001"
+        },
+        {
           "chainId": 288,
           "address": "0x7562f525106f5d54e891e005867bf489b5988cd9"
         },
@@ -39637,6 +39677,10 @@
         {
           "chainId": 250,
           "address": "0x7d016eec9c25232b01f23ef992d98ca97fc2af5a"
+        },
+        {
+          "chainId": 252,
+          "address": "0xfc00000000000000000000000000000000000002"
         },
         {
           "chainId": 1101,
@@ -43722,6 +43766,32 @@
       ]
     },
     {
+      "name": "Wild Goat Coin",
+      "symbol": "WGC",
+      "address": "0xfB18511F1590a494360069F3640c27d55c2B5290",
+      "logoURI": "https://ethereum-optimism.github.io/data/WGC/logo.svg",
+      "decimals": 6,
+      "chainId": 8453,
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0x6acb9ac319bafe509af9e96be642ead00526b9fa"
+        },
+        {
+          "chainId": 10,
+          "address": "0x67631ff69130ea1a6c4feaa4a0abf0a1e0148be7"
+        },
+        {
+          "chainId": 137,
+          "address": "0x04565fe9aa3ae571ada8e1bebf8282c4e5247b2a"
+        },
+        {
+          "chainId": 8453,
+          "address": "0xfb18511f1590a494360069f3640c27d55c2b5290"
+        }
+      ]
+    },
+    {
       "name": "Tether USD",
       "symbol": "USDT",
       "address": "0xfde4c96c8593536e31f229ea8f37b2ada2699bb2",
@@ -44350,6 +44420,10 @@
           "address": "0x7d016eec9c25232b01f23ef992d98ca97fc2af5a"
         },
         {
+          "chainId": 252,
+          "address": "0xfc00000000000000000000000000000000000002"
+        },
+        {
           "chainId": 1101,
           "address": "0x6b856a14cea1d7dcfaf80fa6936c0b75972ccace"
         },
@@ -44402,6 +44476,10 @@
         {
           "chainId": 250,
           "address": "0xdc301622e621166bd8e82f2ca0a26c13ad0be355"
+        },
+        {
+          "chainId": 252,
+          "address": "0xfc00000000000000000000000000000000000001"
         },
         {
           "chainId": 288,
@@ -45494,6 +45572,10 @@
         {
           "chainId": 250,
           "address": "0xdc301622e621166bd8e82f2ca0a26c13ad0be355"
+        },
+        {
+          "chainId": 252,
+          "address": "0xfc00000000000000000000000000000000000001"
         },
         {
           "chainId": 288,
@@ -49250,6 +49332,10 @@
           "address": "0x7d016eec9c25232b01f23ef992d98ca97fc2af5a"
         },
         {
+          "chainId": 252,
+          "address": "0xfc00000000000000000000000000000000000002"
+        },
+        {
           "chainId": 1101,
           "address": "0x6b856a14cea1d7dcfaf80fa6936c0b75972ccace"
         },
@@ -50310,6 +50396,10 @@
           "address": "0xdc301622e621166bd8e82f2ca0a26c13ad0be355"
         },
         {
+          "chainId": 252,
+          "address": "0xfc00000000000000000000000000000000000001"
+        },
+        {
           "chainId": 288,
           "address": "0x7562f525106f5d54e891e005867bf489b5988cd9"
         },
@@ -51142,7 +51232,7 @@
     },
     {
       "name": "Axelar Wrapped USDT",
-      "symbol": "axlUSDT",
+      "symbol": "USDT(Axelar)",
       "address": "0x7f5373AE26c3E8FfC4c77b7255DF7eC1A9aF52a6",
       "logoURI": "https://storage.googleapis.com/ks-setting-1d682dca/a38192ff-8deb-4957-b407-da6ba650d756.png",
       "decimals": 6,
@@ -51430,7 +51520,7 @@
     },
     {
       "name": "Axelar Wrapped KNC",
-      "symbol": "axlKNC",
+      "symbol": "KNC(Axelar)",
       "address": "0xB448eC505C924944ca8B2C55EF05c299eE0781df",
       "logoURI": "https://storage.googleapis.com/ks-setting-1d682dca/62350353-4882-4887-90de-6b459fab5cf6.png",
       "decimals": 18,
@@ -54090,6 +54180,10 @@
           "address": "0x7d016eec9c25232b01f23ef992d98ca97fc2af5a"
         },
         {
+          "chainId": 252,
+          "address": "0xfc00000000000000000000000000000000000002"
+        },
+        {
           "chainId": 1101,
           "address": "0x6b856a14cea1d7dcfaf80fa6936c0b75972ccace"
         },
@@ -55450,6 +55544,10 @@
         {
           "chainId": 250,
           "address": "0xdc301622e621166bd8e82f2ca0a26c13ad0be355"
+        },
+        {
+          "chainId": 252,
+          "address": "0xfc00000000000000000000000000000000000001"
         },
         {
           "chainId": 288,
