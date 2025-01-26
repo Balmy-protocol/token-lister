@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2025-01-25T00:04:03.746Z",
+  "timestamp": "2025-01-26T00:04:35.655Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -843,6 +843,28 @@
         {
           "chainId": 592,
           "address": "0x29f6e49c6e3397c3a84f715885f9f233a441165c"
+        }
+      ]
+    },
+    {
+      "name": "HEX",
+      "symbol": "hex",
+      "address": "0x2b591e99afe9f32eaa6214f7b7629768c40eeb39",
+      "logoURI": "https://ethereum-optimism.github.io/data/HEX/logo.svg",
+      "decimals": 8,
+      "chainId": 1,
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0x2b591e99afe9f32eaa6214f7b7629768c40eeb39"
+        },
+        {
+          "chainId": 137,
+          "address": "0x23d29d30e35c5e8d321e1dc9a8a61bfd846d4c5c"
+        },
+        {
+          "chainId": 1666600000,
+          "address": "0xf26d8c787e66254ee8b7a500073da8fb1ab1992d"
         }
       ]
     },
@@ -42543,12 +42565,7 @@
       "logoURI": "https://tokens.1inch.io/0x27dcd181459bcddc63c37bab1e404a313c0dfd79.png",
       "decimals": 6,
       "chainId": 8217,
-      "chainAddresses": [
-        {
-          "chainId": 8217,
-          "address": "0x27dcd181459bcddc63c37bab1e404a313c0dfd79"
-        }
-      ]
+      "chainAddresses": []
     },
     {
       "name": "Orbit Bridge Klaytn Ethereum",
@@ -46226,6 +46243,14 @@
         },
         {
           "chainId": 42161,
+          "address": "0x59d9356e565ab3a36dd77763fc0d87feaf85508c"
+        },
+        {
+          "chainId": 42220,
+          "address": "0x59d9356e565ab3a36dd77763fc0d87feaf85508c"
+        },
+        {
+          "chainId": 43114,
           "address": "0x59d9356e565ab3a36dd77763fc0d87feaf85508c"
         }
       ]
