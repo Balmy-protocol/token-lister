@@ -1,6 +1,7 @@
 import {
   defillamaTokenListGenerator,
   liquestTokenListGenerator,
+  morphoTokenListGenerator,
   yearnTokenListGenerator,
 } from "./adapters";
 import { JsonGenericTokenListGenerator } from "./adapters/generics/json-generic-adapter";
@@ -13,6 +14,7 @@ export const generators: Record<string, ITokenList> = {
     ),
     priority: Infinity,
   },
+  morpho: { generator: new morphoTokenListGenerator(), priority: Infinity },
   smolDapp: {
     generator: new JsonGenericTokenListGenerator(
       "https://raw.githubusercontent.com/SmolDapp/tokenLists/main/lists/tokenlistooor.json",
