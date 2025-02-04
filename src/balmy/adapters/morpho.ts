@@ -8,14 +8,12 @@ interface MorphoGraphQLResponse {
         address: string;
         symbol: string;
         name: string;
-        whitelisted: boolean;
         asset: {
           name: string;
           address: string;
         };
         chain: {
           id: number;
-          network: string;
         };
       }>;
     };
@@ -73,14 +71,12 @@ export class MorphoTokenListGenerator implements ITokenListGenerator {
             address
             symbol
             name
-            whitelisted
             asset {
               name
               address
             }
             chain {
               id
-              network
             }
           }
         }
