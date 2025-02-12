@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2025-02-12T00:04:34.245Z",
+  "timestamp": "2025-02-12T17:41:51.350Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -482,6 +482,10 @@
         {
           "chainId": 250,
           "address": "0xe55e19fb4f2d85af758950957714292dac1e25b2"
+        },
+        {
+          "chainId": 8453,
+          "address": "0x432036208d2717394d2614d6697c46df3ed69540"
         },
         {
           "chainId": 42161,
@@ -1347,7 +1351,7 @@
         },
         {
           "chainId": 8453,
-          "address": "0x6bb7a212910682dcfdbd5bcbb3e28fb4e8da10ee#code"
+          "address": "0x6bb7a212910682dcfdbd5bcbb3e28fb4e8da10ee"
         },
         {
           "chainId": 42161,
@@ -6941,6 +6945,10 @@
           "address": "0xe55e19fb4f2d85af758950957714292dac1e25b2"
         },
         {
+          "chainId": 8453,
+          "address": "0x432036208d2717394d2614d6697c46df3ed69540"
+        },
+        {
           "chainId": 42161,
           "address": "0x080f6aed32fc474dd5717105dba5ea57268f46eb"
         },
@@ -7424,6 +7432,15 @@
       "symbol": "VITA",
       "address": "0x7D14206C937E70e19E3A5B94011fAF0d5b3928e2",
       "logoURI": "https://ethereum-optimism.github.io/data/VITA/logo.svg",
+      "decimals": 18,
+      "chainId": 10,
+      "chainAddresses": []
+    },
+    {
+      "name": "Compound",
+      "symbol": "COMP",
+      "address": "0x7e7d4467112689329f7e06571ed0e8cbad4910ee",
+      "logoURI": "ipfs://QmTiGZB1suSfu3GprUby98sUFxV4h2AEhvUWt5QQva6KEf/comp.png",
       "decimals": 18,
       "chainId": 10,
       "chainAddresses": []
@@ -15287,7 +15304,12 @@
       "logoURI": "https://ethereum-optimism.github.io/data/USDC/logo.png",
       "decimals": 6,
       "chainId": 130,
-      "chainAddresses": []
+      "chainAddresses": [
+        {
+          "chainId": 130,
+          "address": "0x078d782b760474a361dda0af3839290b0ef57ad6"
+        }
+      ]
     },
     {
       "name": "pSTAKE Finance",
@@ -20376,7 +20398,7 @@
       "name": "Instadapp (PoS)",
       "symbol": "INST",
       "address": "0xf50D05A1402d0adAfA880D36050736f9f6ee7dee",
-      "logoURI": "https://tokens.1inch.io/0xf50d05a1402d0adafa880d36050736f9f6ee7dee.png",
+      "logoURI": "https://tokens-data.1inch.io/images/137/0xf50d05a1402d0adafa880d36050736f9f6ee7dee_0x566b5a49b9e1ac279fc07d1d0ef383c322df68e33e3bfe153670d375a74ccfcb.png",
       "decimals": 18,
       "chainId": 137,
       "chainAddresses": [
@@ -23929,6 +23951,10 @@
         {
           "chainId": 250,
           "address": "0xe55e19fb4f2d85af758950957714292dac1e25b2"
+        },
+        {
+          "chainId": 8453,
+          "address": "0x432036208d2717394d2614d6697c46df3ed69540"
         },
         {
           "chainId": 42161,
@@ -46467,6 +46493,48 @@
       "chainAddresses": []
     },
     {
+      "name": "Compound",
+      "symbol": "COMP",
+      "address": "0x9e1028f5f1d5ede59748ffcee5532509976840e0",
+      "logoURI": "ipfs://QmTiGZB1suSfu3GprUby98sUFxV4h2AEhvUWt5QQva6KEf/comp.png",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0xc00e94cb662c3520282e6f5717214004a7f26888"
+        },
+        {
+          "chainId": 56,
+          "address": "0x52ce071bd9b1c4b00a0b92d298c512478cad67e8"
+        },
+        {
+          "chainId": 137,
+          "address": "0x8505b9d2254a7ae468c0e9dd10ccea3a837aef5c"
+        },
+        {
+          "chainId": 8453,
+          "address": "0x9e1028f5f1d5ede59748ffcee5532509976840e0"
+        },
+        {
+          "chainId": 39797,
+          "address": "0x66bc411714e16b6f0c68be12bd9c666cc4576063"
+        },
+        {
+          "chainId": 42161,
+          "address": "0x354a6da3fcde098f8389cad84b0182725c6c91de"
+        },
+        {
+          "chainId": 43114,
+          "address": "0xc3048e19e76cb9a3aa9d77d8c03c29fc906e2437"
+        },
+        {
+          "chainId": 1666600000,
+          "address": "0x32137b9275ea35162812883582623cd6f6950958"
+        }
+      ]
+    },
+    {
       "name": "yearn.finance",
       "symbol": "YFI",
       "address": "0x9EaF8C1E34F05a589EDa6BAfdF391Cf6Ad3CB239",
@@ -48441,6 +48509,10 @@
         {
           "chainId": 250,
           "address": "0xe55e19fb4f2d85af758950957714292dac1e25b2"
+        },
+        {
+          "chainId": 8453,
+          "address": "0x432036208d2717394d2614d6697c46df3ed69540"
         },
         {
           "chainId": 42161,
@@ -52602,6 +52674,10 @@
           "address": "0xe55e19fb4f2d85af758950957714292dac1e25b2"
         },
         {
+          "chainId": 8453,
+          "address": "0x432036208d2717394d2614d6697c46df3ed69540"
+        },
+        {
           "chainId": 42161,
           "address": "0x080f6aed32fc474dd5717105dba5ea57268f46eb"
         },
@@ -55410,7 +55486,12 @@
       "logoURI": "https://assets.smold.app/api/token/80094/0x0555E30da8f98308EdB960aa94C0Db47230d2B9c/logo-128.png",
       "decimals": 8,
       "chainId": 80094,
-      "chainAddresses": []
+      "chainAddresses": [
+        {
+          "chainId": 80094,
+          "address": "0x0555e30da8f98308edb960aa94c0db47230d2b9c"
+        }
+      ]
     },
     {
       "name": "WETH",
@@ -55433,7 +55514,12 @@
       "logoURI": "https://assets.smold.app/api/token/80094/0x549943e04f40284185054145c6E4e9568C1D3241/logo-128.png",
       "decimals": 6,
       "chainId": 80094,
-      "chainAddresses": []
+      "chainAddresses": [
+        {
+          "chainId": 80094,
+          "address": "0x549943e04f40284185054145c6e4e9568c1d3241"
+        }
+      ]
     },
     {
       "name": "BYUSD",
