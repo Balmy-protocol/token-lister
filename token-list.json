@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2025-02-14T00:04:24.852Z",
+  "timestamp": "2025-02-15T00:04:20.513Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -3203,6 +3203,10 @@
         {
           "chainId": 8453,
           "address": "0x5875eee11cf8398102fdad704c9e96607675467a"
+        },
+        {
+          "chainId": 42161,
+          "address": "0xddb46999f8891663a8f2828d25298f70416d7610"
         }
       ]
     },
@@ -4518,6 +4522,10 @@
         {
           "chainId": 8453,
           "address": "0x820c137fa70c8691f0e44dc420a5e53c168921dc"
+        },
+        {
+          "chainId": 42161,
+          "address": "0x6491c05a82219b8d1479057361ff1654749b876b"
         }
       ]
     },
@@ -10233,12 +10241,7 @@
       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/telos/0xf390830DF829cf22c53c8840554B98eafC5dCBc2.jpg",
       "decimals": 8,
       "chainId": 40,
-      "chainAddresses": [
-        {
-          "chainId": 40,
-          "address": "0xf390830df829cf22c53c8840554b98eafc5dcbc2"
-        }
-      ]
+      "chainAddresses": []
     },
     {
       "name": "Ether (Anyswap)",
