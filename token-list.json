@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2025-02-15T00:04:20.513Z",
+  "timestamp": "2025-02-16T00:04:44.919Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -19048,24 +19048,6 @@
       ]
     },
     {
-      "name": "EURO3",
-      "symbol": "EURO3",
-      "address": "0xA0e4c84693266a9d3BBef2f394B33712c76599Ab",
-      "logoURI": "https://asset-images.messari.io/images/6ff0cf9b-e946-4402-8bc4-2167b6db69a8/128.png",
-      "decimals": 18,
-      "chainId": 137,
-      "chainAddresses": [
-        {
-          "chainId": 137,
-          "address": "0xa0e4c84693266a9d3bbef2f394b33712c76599ab"
-        },
-        {
-          "chainId": 59144,
-          "address": "0x3f817b28da4940f018c6b5c0a11c555ebb1264f9"
-        }
-      ]
-    },
-    {
       "name": "SuperFarm (PoS)",
       "symbol": "SUPER",
       "address": "0xa1428174F516F527fafdD146b883bB4428682737",
@@ -20742,28 +20724,7 @@
       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bttc/0x17F235FD5974318E4E2a5e37919a209f7c37A6d1.jpg",
       "decimals": 18,
       "chainId": 199,
-      "chainAddresses": [
-        {
-          "chainId": 1,
-          "address": "0x0c10bf8fcb7bf5412187a595ab97a3609160b5c6"
-        },
-        {
-          "chainId": 56,
-          "address": "0xd17479997f34dd9156deef8f95a52d81d265be9c"
-        },
-        {
-          "chainId": 199,
-          "address": "0x17f235fd5974318e4e2a5e37919a209f7c37a6d1"
-        },
-        {
-          "chainId": 42161,
-          "address": "0x680447595e8b7b3aa1b43beb9f6098c79ac2ab3f"
-        },
-        {
-          "chainId": 43114,
-          "address": "0xb514cabd09ef5b169ed3fe0fa8dbd590741e81c2"
-        }
-      ]
+      "chainAddresses": []
     },
     {
       "name": "Binance Coin",
@@ -42514,6 +42475,15 @@
       ]
     },
     {
+      "name": "Wrapped liquid staked Ether 2.0",
+      "symbol": "wstETH",
+      "address": "0x76D8de471F54aAA87784119c60Df1bbFc852C415",
+      "logoURI": "https://ethereum-optimism.github.io/data/wstETH/logo.svg",
+      "decimals": 18,
+      "chainId": 1135,
+      "chainAddresses": []
+    },
+    {
       "name": "Lisk",
       "symbol": "LSK",
       "address": "0xac485391EB2d7D88253a7F1eF18C37f4242D1A24",
@@ -44146,6 +44116,15 @@
       "logoURI": "https://cryptologos.cc/logos/fantom-ftm-logo.svg?v=003",
       "decimals": 18,
       "chainId": 4002,
+      "chainAddresses": []
+    },
+    {
+      "name": "Wrapped liquid staked Ether 2.0",
+      "symbol": "wstETH",
+      "address": "0x03F1259b4986b8ae9040E250f958CEf09DaD8b6C",
+      "logoURI": "https://ethereum-optimism.github.io/data/wstETH/logo.svg",
+      "decimals": 18,
+      "chainId": 4202,
       "chainAddresses": []
     },
     {
@@ -50043,15 +50022,15 @@
       "chainAddresses": [
         {
           "chainId": 1,
-          "address": "0x0c10bf8fcb7bf5412187a595ab97a3609160b5c6"
+          "address": "0x3d7975eccfc61a2102b08925cbba0a4d4dbb6555"
         },
         {
           "chainId": 56,
-          "address": "0xd17479997f34dd9156deef8f95a52d81d265be9c"
+          "address": "0x392004bee213f1ff580c867359c246924f21e6ad"
         },
         {
           "chainId": 199,
-          "address": "0x17f235fd5974318e4e2a5e37919a209f7c37a6d1"
+          "address": "0x392004bee213f1ff580c867359c246924f21e6ad"
         },
         {
           "chainId": 42161,
