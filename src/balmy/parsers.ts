@@ -17,3 +17,12 @@ export function oneInchParser(chainId: ChainId) {
       chainId: chainId,
     }));
 }
+
+export function smolDappFilter(excludedChainIds: ChainId[]) {
+  return (list: { tokens: any[] }) =>
+    list.tokens
+      .filter((token) => !excludedChainIds.includes(token.chainId))
+      .map((token) => ({
+        ...token,
+      }));
+}
