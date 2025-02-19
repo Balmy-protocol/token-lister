@@ -23,7 +23,7 @@ export const generators: Record<string, ITokenList> = {
   smolDapp: {
     generator: new JsonGenericTokenListGenerator(
       "https://raw.githubusercontent.com/SmolDapp/tokenLists/main/lists/tokenlistooor.json",
-      // Small dapp tokens for Mantle network (5000) have broken logouri
+      // Smoldapp tokens for Mantle network (5000) have broken logouri
       smolDappFilter([5000]),
     ),
   },
