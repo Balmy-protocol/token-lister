@@ -1,11 +1,12 @@
 import {
   defillamaTokenListGenerator,
   liquestTokenListGenerator,
+  morphoTokenListGenerator,
   yearnTokenListGenerator,
 } from "./adapters";
 import { JsonGenericTokenListGenerator } from "./adapters/generics/json-generic-adapter";
 import { ITokenList } from "./types";
-import { odosParser, oneInchParser } from "./parsers";
+import { odosParser, oneInchParser, smolDappFilter } from "./parsers";
 export const generators: Record<string, ITokenList> = {
   balmy: {
     generator: new JsonGenericTokenListGenerator(
@@ -13,9 +14,17 @@ export const generators: Record<string, ITokenList> = {
     ),
     priority: Infinity,
   },
+  mantle: {
+    generator: new JsonGenericTokenListGenerator(
+      "https://raw.githubusercontent.com/mantlenetworkio/mantle-token-lists/refs/heads/main/mantle.tokenlist.json",
+    ),
+  },
+  morpho: { generator: new morphoTokenListGenerator(), priority: Infinity },
   smolDapp: {
     generator: new JsonGenericTokenListGenerator(
       "https://raw.githubusercontent.com/SmolDapp/tokenLists/main/lists/tokenlistooor.json",
+      // Smoldapp tokens for Mantle network (5000) have broken logouri
+      smolDappFilter([5000]),
     ),
   },
   compound: {
