@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2025-02-21T00:16:53.707Z",
+  "timestamp": "2025-02-22T00:16:13.604Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -28197,12 +28197,7 @@
       "logoURI": "https://assets.smold.app/api/token/1088/0x4651B38e7ec14BB3db731369BFE5B08F2466Bd0A/logo-128.png",
       "decimals": 18,
       "chainId": 1088,
-      "chainAddresses": [
-        {
-          "chainId": 1088,
-          "address": "0x4651b38e7ec14bb3db731369bfe5b08f2466bd0a"
-        }
-      ]
+      "chainAddresses": []
     },
     {
       "name": "Kabochan Metis",
@@ -44907,6 +44902,14 @@
       ]
     },
     {
+      "name": "Apostro Resolv USR",
+      "symbol": "aprUSR",
+      "address": "0xC484D83F667b779cc9907248101214235642258B",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": []
+    },
+    {
       "name": "Hop",
       "symbol": "HOP",
       "address": "0xc5102fe9359fd9a28f877a67e36b0f050d81a3cc",
@@ -44992,6 +44995,15 @@
       "name": "Ionic Ecosystem USDC",
       "symbol": "ionicUSDC",
       "address": "0xCd347c1e7d600a9A3e403497562eDd0A7Bc3Ef21",
+      "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/8453/0x833589fcd6edb6e08f4c7c32d4f71b54bda02913/logo.png",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": []
+    },
+    {
+      "name": "Apostro Resolv USDC",
+      "symbol": "aprUSDC",
+      "address": "0xcdDCDd18A16ED441F6CB10c3909e5e7ec2B9e8f3",
       "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/8453/0x833589fcd6edb6e08f4c7c32d4f71b54bda02913/logo.png",
       "decimals": 18,
       "chainId": 8453,
@@ -46857,12 +46869,7 @@
       "logoURI": "ipfs://QmboWL5YvU9Yw1sFLiqLChSdJpJTeQm5SFkH4XA1YTxbwS",
       "decimals": 18,
       "chainId": 42161,
-      "chainAddresses": [
-        {
-          "chainId": 42161,
-          "address": "0x1a5b0aaf478bf1fda7b934c76e7692d722982a6d"
-        }
-      ]
+      "chainAddresses": []
     },
     {
       "name": "PancakeSwap",
@@ -53739,32 +53746,6 @@
       "decimals": 6,
       "chainId": 59144,
       "chainAddresses": []
-    },
-    {
-      "name": "ZeroLend",
-      "symbol": "ZERO",
-      "address": "0x78354f8DcCB269a615A7e0a24f9B0718FDC3C7A7",
-      "logoURI": "https://storage.googleapis.com/ks-setting-1d682dca/9506e680-6135-45f0-8448-7ffc54bceec41714991431163.png",
-      "decimals": 18,
-      "chainId": 59144,
-      "chainAddresses": [
-        {
-          "chainId": 169,
-          "address": "0x35a57efb9b4ae833e9a200bb191ff69420cafa1d"
-        },
-        {
-          "chainId": 196,
-          "address": "0x843d794ed4335b27d02184ca86787c14e6247074"
-        },
-        {
-          "chainId": 324,
-          "address": "0x27d0a2b5316b98088294378692f4eabfb3222e36"
-        },
-        {
-          "chainId": 59144,
-          "address": "0x78354f8dccb269a615a7e0a24f9b0718fdc3c7a7"
-        }
-      ]
     },
     {
       "name": "Binance USD",
