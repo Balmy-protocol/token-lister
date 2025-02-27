@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2025-02-26T00:16:54.776Z",
+  "timestamp": "2025-02-27T00:16:54.775Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -2829,6 +2829,10 @@
         {
           "chainId": 1,
           "address": "0xab846fb6c81370327e784ae7cbb6d6a6af6ff4bf"
+        },
+        {
+          "chainId": 146,
+          "address": "0xe4a4353cd8f008f1a70f1a564535990479e8ceb7"
         }
       ]
     },
@@ -3360,20 +3364,6 @@
         {
           "chainId": 42161,
           "address": "0x589d35656641d6ab57a545f08cf473ecd9b6d5f7"
-        }
-      ]
-    },
-    {
-      "name": "MEV Capital USD0",
-      "symbol": "MC.USD0",
-      "address": "0xC0A14627D6a23f70c809777CEd873238581C1032",
-      "logoURI": "https://coin-images.coingecko.com/coins/images/51341/thumb/USD0LOGO.png?1730815062",
-      "decimals": 18,
-      "chainId": 1,
-      "chainAddresses": [
-        {
-          "chainId": 1,
-          "address": "0xc0a14627d6a23f70c809777ced873238581c1032"
         }
       ]
     },
@@ -10167,7 +10157,7 @@
       ]
     },
     {
-      "name": "Wrapped SOL",
+      "name": "Binance-Peg SOL",
       "symbol": "sol",
       "address": "0x570a5d26f7765ecb712c0924e4de545b89fd43df",
       "logoURI": "https://tokens.1inch.io/0x570a5d26f7765ecb712c0924e4de545b89fd43df.png",
@@ -41100,6 +41090,15 @@
       ]
     },
     {
+      "name": "UTU Coin",
+      "symbol": "UTU",
+      "address": "0x398697b203cA909e05690B6684D56938964b07A0",
+      "logoURI": "https://ethereum-optimism.github.io/data/UTU/logo.svg",
+      "decimals": 18,
+      "chainId": 1135,
+      "chainAddresses": []
+    },
+    {
       "name": "Tellor",
       "symbol": "TRB",
       "address": "0x665060707c3ea3c31b3eabad7f409072446e1d50",
@@ -42026,6 +42025,15 @@
       "symbol": "wstETH",
       "address": "0x03F1259b4986b8ae9040E250f958CEf09DaD8b6C",
       "logoURI": "https://ethereum-optimism.github.io/data/wstETH/logo.svg",
+      "decimals": 18,
+      "chainId": 4202,
+      "chainAddresses": []
+    },
+    {
+      "name": "UTUCoinMock",
+      "symbol": "UTUM",
+      "address": "0x4b82a31EBCD41fD4b98123cF141853aCD1166875",
+      "logoURI": "https://ethereum-optimism.github.io/data/UTU/logo.svg",
       "decimals": 18,
       "chainId": 4202,
       "chainAddresses": []
@@ -45289,32 +45297,6 @@
         {
           "chainId": 8453,
           "address": "0xfa980ced6895ac314e7de34ef1bfae90a5add21b"
-        }
-      ]
-    },
-    {
-      "name": "Wild Goat Coin",
-      "symbol": "WGC",
-      "address": "0xfB18511F1590a494360069F3640c27d55c2B5290",
-      "logoURI": "https://ethereum-optimism.github.io/data/WGC/logo.svg",
-      "decimals": 6,
-      "chainId": 8453,
-      "chainAddresses": [
-        {
-          "chainId": 1,
-          "address": "0x6acb9ac319bafe509af9e96be642ead00526b9fa"
-        },
-        {
-          "chainId": 10,
-          "address": "0x67631ff69130ea1a6c4feaa4a0abf0a1e0148be7"
-        },
-        {
-          "chainId": 137,
-          "address": "0x04565fe9aa3ae571ada8e1bebf8282c4e5247b2a"
-        },
-        {
-          "chainId": 8453,
-          "address": "0xfb18511f1590a494360069f3640c27d55c2b5290"
         }
       ]
     },
@@ -54171,6 +54153,32 @@
       "chainAddresses": []
     },
     {
+      "name": "ARYZE eUSD",
+      "symbol": "eUSD",
+      "address": "0xBA2f9e7ae9F5f03FCe7D560f986743659e768bbF",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/32422/large/ARYZE_eUSD.png?1698118313",
+      "decimals": 18,
+      "chainId": 59144,
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0xa4335da338ec4c07c391fc1a9bf75f306adadc08"
+        },
+        {
+          "chainId": 56,
+          "address": "0xa4335da338ec4c07c391fc1a9bf75f306adadc08"
+        },
+        {
+          "chainId": 137,
+          "address": "0xa4335da338ec4c07c391fc1a9bf75f306adadc08"
+        },
+        {
+          "chainId": 59144,
+          "address": "0xba2f9e7ae9f5f03fce7d560f986743659e768bbf"
+        }
+      ]
+    },
+    {
       "name": "Wrapped Ether",
       "symbol": "WETH",
       "address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
@@ -55826,6 +55834,15 @@
       "symbol": "EVERY",
       "address": "0xbABedB663F3E70E6CEdb26558e8ceFB12d321Caa",
       "logoURI": "https://ethereum-optimism.github.io/data/EVERY/logo.svg",
+      "decimals": 18,
+      "chainId": 11155111,
+      "chainAddresses": []
+    },
+    {
+      "name": "UTUCoinMock",
+      "symbol": "UTUM",
+      "address": "0xC3586558ddb1Cc6C7c5338691842b8d5F47D253d",
+      "logoURI": "https://ethereum-optimism.github.io/data/UTU/logo.svg",
       "decimals": 18,
       "chainId": 11155111,
       "chainAddresses": []
