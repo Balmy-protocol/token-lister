@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2025-02-27T00:16:54.775Z",
+  "timestamp": "2025-02-28T00:16:50.886Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -1693,6 +1693,10 @@
         {
           "chainId": 42161,
           "address": "0xf0cb2dc0db5e6c66b9a70ac27b06b878da017028"
+        },
+        {
+          "chainId": 80094,
+          "address": "0x18878df23e2a36f81e820e4b47b4a40576d3159c"
         }
       ]
     },
@@ -23625,7 +23629,7 @@
       "name": "Popsicle Finance",
       "symbol": "ICE",
       "address": "0xf16e81dce15b08f326220742020379b855b87df9",
-      "logoURI": "https://tokens.1inch.io/0xe0ce60af0850bf54072635e66e79df17082a1109.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/14586/large/ice.png",
       "decimals": 18,
       "chainId": 250,
       "chainAddresses": [
@@ -45297,6 +45301,32 @@
         {
           "chainId": 8453,
           "address": "0xfa980ced6895ac314e7de34ef1bfae90a5add21b"
+        }
+      ]
+    },
+    {
+      "name": "Wild Goat Coin",
+      "symbol": "WGC",
+      "address": "0xfB18511F1590a494360069F3640c27d55c2B5290",
+      "logoURI": "https://ethereum-optimism.github.io/data/WGC/logo.svg",
+      "decimals": 6,
+      "chainId": 8453,
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0x6acb9ac319bafe509af9e96be642ead00526b9fa"
+        },
+        {
+          "chainId": 10,
+          "address": "0x67631ff69130ea1a6c4feaa4a0abf0a1e0148be7"
+        },
+        {
+          "chainId": 137,
+          "address": "0x04565fe9aa3ae571ada8e1bebf8282c4e5247b2a"
+        },
+        {
+          "chainId": 8453,
+          "address": "0xfb18511f1590a494360069f3640c27d55c2b5290"
         }
       ]
     },
