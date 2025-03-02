@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2025-03-01T00:18:43.079Z",
+  "timestamp": "2025-03-02T00:18:13.517Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -10365,36 +10365,6 @@
       ]
     },
     {
-      "name": "ApeSwap",
-      "symbol": "banana",
-      "address": "0x603c7f932ed1fc6575303d8fb018fdcbb0f39a95",
-      "logoURI": "https://tokens.1inch.io/0x603c7f932ed1fc6575303d8fb018fdcbb0f39a95.png",
-      "decimals": 18,
-      "chainId": 56,
-      "chainAddresses": [
-        {
-          "chainId": 1,
-          "address": "0x92df60c51c710a1b1c20e42d85e221f3a1bfc7f2"
-        },
-        {
-          "chainId": 40,
-          "address": "0x667fd83e24ca1d935d36717d305d54fa0cac991c"
-        },
-        {
-          "chainId": 56,
-          "address": "0x603c7f932ed1fc6575303d8fb018fdcbb0f39a95"
-        },
-        {
-          "chainId": 137,
-          "address": "0x5d47baba0d66083c52009271faf3f50dcc01023c"
-        },
-        {
-          "chainId": 42161,
-          "address": "0xd978f8489e1245568704407a479a71fcce2afe8f"
-        }
-      ]
-    },
-    {
       "name": "Beam",
       "symbol": "beam",
       "address": "0x62d0a8458ed7719fdaf978fe5929c6d342b0bfce",
@@ -12827,36 +12797,6 @@
         {
           "chainId": 43114,
           "address": "0x4e3642603a75528489c2d94f86e9507260d3c5a1"
-        }
-      ]
-    },
-    {
-      "name": "EverRise",
-      "symbol": "rise",
-      "address": "0xc17c30e98541188614df99239cabd40280810ca3",
-      "logoURI": "https://tokens.1inch.io/0xc17c30e98541188614df99239cabd40280810ca3.png",
-      "decimals": 18,
-      "chainId": 56,
-      "chainAddresses": [
-        {
-          "chainId": 1,
-          "address": "0xc17c30e98541188614df99239cabd40280810ca3"
-        },
-        {
-          "chainId": 56,
-          "address": "0xc17c30e98541188614df99239cabd40280810ca3"
-        },
-        {
-          "chainId": 137,
-          "address": "0xc17c30e98541188614df99239cabd40280810ca3"
-        },
-        {
-          "chainId": 250,
-          "address": "0xc17c30e98541188614df99239cabd40280810ca3"
-        },
-        {
-          "chainId": 43114,
-          "address": "0xc17c30e98541188614df99239cabd40280810ca3"
         }
       ]
     },
@@ -52004,20 +51944,6 @@
       ]
     },
     {
-      "name": "Kalao",
-      "symbol": "klo",
-      "address": "0xb27c8941a7df8958a1778c0259f76d1f8b711c35",
-      "logoURI": "https://tokens.1inch.io/0xb27c8941a7df8958a1778c0259f76d1f8b711c35.png",
-      "decimals": 18,
-      "chainId": 43114,
-      "chainAddresses": [
-        {
-          "chainId": 43114,
-          "address": "0xb27c8941a7df8958a1778c0259f76d1f8b711c35"
-        }
-      ]
-    },
-    {
       "name": "Roco Finance",
       "symbol": "roco",
       "address": "0xb2a85c5ecea99187a977ac34303b80acbddfa208",
@@ -52298,36 +52224,6 @@
         {
           "chainId": 1666600000,
           "address": "0x7b9c523d59aefd362247bd5601a89722e3774dd2"
-        }
-      ]
-    },
-    {
-      "name": "EverRise",
-      "symbol": "rise",
-      "address": "0xc17c30e98541188614df99239cabd40280810ca3",
-      "logoURI": "https://tokens.1inch.io/0xc17c30e98541188614df99239cabd40280810ca3.png",
-      "decimals": 18,
-      "chainId": 43114,
-      "chainAddresses": [
-        {
-          "chainId": 1,
-          "address": "0xc17c30e98541188614df99239cabd40280810ca3"
-        },
-        {
-          "chainId": 56,
-          "address": "0xc17c30e98541188614df99239cabd40280810ca3"
-        },
-        {
-          "chainId": 137,
-          "address": "0xc17c30e98541188614df99239cabd40280810ca3"
-        },
-        {
-          "chainId": 250,
-          "address": "0xc17c30e98541188614df99239cabd40280810ca3"
-        },
-        {
-          "chainId": 43114,
-          "address": "0xc17c30e98541188614df99239cabd40280810ca3"
         }
       ]
     },
@@ -53833,6 +53729,32 @@
       "decimals": 6,
       "chainId": 59144,
       "chainAddresses": []
+    },
+    {
+      "name": "ZeroLend",
+      "symbol": "ZERO",
+      "address": "0x78354f8DcCB269a615A7e0a24f9B0718FDC3C7A7",
+      "logoURI": "https://storage.googleapis.com/ks-setting-1d682dca/9506e680-6135-45f0-8448-7ffc54bceec41714991431163.png",
+      "decimals": 18,
+      "chainId": 59144,
+      "chainAddresses": [
+        {
+          "chainId": 169,
+          "address": "0x35a57efb9b4ae833e9a200bb191ff69420cafa1d"
+        },
+        {
+          "chainId": 196,
+          "address": "0x843d794ed4335b27d02184ca86787c14e6247074"
+        },
+        {
+          "chainId": 324,
+          "address": "0x27d0a2b5316b98088294378692f4eabfb3222e36"
+        },
+        {
+          "chainId": 59144,
+          "address": "0x78354f8dccb269a615a7e0a24f9b0718fdc3c7a7"
+        }
+      ]
     },
     {
       "name": "Binance USD",
