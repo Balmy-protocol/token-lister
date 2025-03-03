@@ -1,4 +1,4 @@
-import { ChainId } from "@mean-finance/sdk";
+import { ChainId } from "@balmy/sdk";
 import { ITokenListGenerator, TokenData } from "../types";
 
 const url = "https://defillama-datasets.llama.fi/tokenlist/all.json";

@@ -1,4 +1,4 @@
-import { ChainId, Chains } from "@mean-finance/sdk";
+import { ChainId, Chains } from "@balmy/sdk";
 import { ITokenListGenerator, TokenData } from "../types";
 
 interface MorphoGraphQLResponse {

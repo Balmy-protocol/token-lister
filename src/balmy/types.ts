@@ -1,4 +1,4 @@
-import { Address, ChainId } from "@mean-finance/sdk";
+import { Address, ChainId } from "@balmy/sdk";
 
 export type ITokenListGenerator = {
   fetchTokens(): Promise<void>;

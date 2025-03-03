@@ -1,4 +1,4 @@
-import { ChainId } from "@mean-finance/sdk";
+import { ChainId } from "@balmy/sdk";
 
 export function odosParser(chainId: ChainId) {
   return (list: { tokenMap: Record<string, any> }) =>
