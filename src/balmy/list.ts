@@ -3,9 +3,9 @@ import {
   liquestTokenListGenerator,
   morphoTokenListGenerator,
   yearnTokenListGenerator,
+  balmyFarmTokenListGenerator,
 } from "./adapters";
 import { JsonGenericTokenListGenerator } from "./adapters/generics/json-generic-adapter";
-import { BalmyFarmTokenListGenerator } from "./adapters/balmyFarmTokens";
 import { ITokenList } from "./types";
 import { odosParser, oneInchParser, smolDappFilter } from "./parsers";
 export const generators: Record<string, ITokenList> = {
@@ -16,7 +16,7 @@ export const generators: Record<string, ITokenList> = {
     priority: Infinity,
   },
   balmyFarmTokens: {
-    generator: new BalmyFarmTokenListGenerator(),
+    generator: new balmyFarmTokenListGenerator(),
   },
   mantle: {
     generator: new JsonGenericTokenListGenerator(
