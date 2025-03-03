@@ -1,4 +1,4 @@
-import { Address, ChainId } from "@mean-finance/sdk";
+import { Address, ChainId } from "@balmy/sdk";
 import { equivalentCgCoinIds } from "./equivalentCgCoinIds";
 import { FullTokenData, TokenData } from "../types";
 import { sortTokens } from "../utils";

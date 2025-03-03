@@ -1,4 +1,4 @@
-import { ChainId } from "@mean-finance/sdk";
+import { ChainId } from "@balmy/sdk";
 import { TokenData } from "./types";
 
 export function unifyTokenData(

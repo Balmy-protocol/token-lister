@@ -1,4 +1,4 @@
-import { Address, ChainId, isSameAddress } from "@mean-finance/sdk";
+import { Address, ChainId, isSameAddress } from "@balmy/sdk";
 import { isAddress } from "viem";
 import { generators } from "./list";
 import { FullTokenData, TokenData } from "./types";

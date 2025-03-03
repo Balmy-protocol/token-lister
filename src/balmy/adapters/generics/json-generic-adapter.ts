@@ -1,4 +1,4 @@
-import { ChainId } from "@mean-finance/sdk";
+import { ChainId } from "@balmy/sdk";
 import { ITokenListGenerator, TokenData } from "../../types";
 
 export class JsonGenericTokenListGenerator implements ITokenListGenerator {

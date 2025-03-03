@@ -5,6 +5,7 @@ import {
   yearnTokenListGenerator,
 } from "./adapters";
 import { JsonGenericTokenListGenerator } from "./adapters/generics/json-generic-adapter";
+import { BalmyFarmTokenListGenerator } from "./adapters/balmyFarmTokens";
 import { ITokenList } from "./types";
 import { odosParser, oneInchParser, smolDappFilter } from "./parsers";
 export const generators: Record<string, ITokenList> = {
@@ -13,6 +14,9 @@ export const generators: Record<string, ITokenList> = {
       "https://raw.githubusercontent.com/balmy-protocol/token-list/main/balmy.tokenlist.json",
     ),
     priority: Infinity,
+  },
+  balmyFarmTokens: {
+    generator: new BalmyFarmTokenListGenerator(),
   },
   mantle: {
     generator: new JsonGenericTokenListGenerator(
@@ -33,11 +37,6 @@ export const generators: Record<string, ITokenList> = {
     ),
   },
   defillama: { generator: new defillamaTokenListGenerator() },
-  sushiswap: {
-    generator: new JsonGenericTokenListGenerator(
-      "https://token-list.sushi.com/",
-    ),
-  },
   optimism: {
     generator: new JsonGenericTokenListGenerator(
       "https://raw.githubusercontent.com/ethereum-optimism/ethereum-optimism.github.io/master/optimism.tokenlist.json",
