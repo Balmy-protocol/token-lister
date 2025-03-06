@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2025-03-05T00:17:07.989Z",
+  "timestamp": "2025-03-06T00:17:20.997Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -14648,24 +14648,6 @@
       ]
     },
     {
-      "name": "Raid",
-      "symbol": "raid",
-      "address": "0x18e9262e68cc6c6004db93105cc7c001bb103e49",
-      "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/xdai/0x18e9262e68cc6c6004db93105cc7c001bb103e49/logo.png",
-      "decimals": 18,
-      "chainId": 100,
-      "chainAddresses": [
-        {
-          "chainId": 1,
-          "address": "0x154e35c2b0024b3e079c5c5e4fc31c979c189ccb"
-        },
-        {
-          "chainId": 100,
-          "address": "0x18e9262e68cc6c6004db93105cc7c001bb103e49"
-        }
-      ]
-    },
-    {
       "name": "Backed CSPX Core S&P 500",
       "symbol": "bCSPX",
       "address": "0x1e2C4fb7eDE391d116E6B41cD0608260e8801D59",
@@ -14789,7 +14771,7 @@
       "name": "Agave",
       "symbol": "agve",
       "address": "0x3a97704a1b25f08aa230ae53b352e2e72ef52843",
-      "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/xdai/0x3a97704a1b25f08aa230ae53b352e2e72ef52843/logo.png",
+      "logoURI": "https://raw.githubusercontent.com/centfinance/assets/master/blockchains/xdai/assets/0x3a97704a1b25f08aa230ae53b352e2e72ef52843/logo.png",
       "decimals": 18,
       "chainId": 100,
       "chainAddresses": [
@@ -15190,7 +15172,7 @@
       "name": "Honey",
       "symbol": "hny",
       "address": "0x71850b7e9ee3f13ab46d67167341e4bdc905eef9",
-      "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/xdai/0x71850b7E9Ee3f13Ab46d67167341E4bDc905Eef9/logo.png",
+      "logoURI": "https://raw.githubusercontent.com/centfinance/assets/master/blockchains/xdai/assets/0x71850b7E9Ee3f13Ab46d67167341E4bDc905Eef9/logo.png",
       "decimals": 18,
       "chainId": 100,
       "chainAddresses": [
@@ -18630,20 +18612,6 @@
       ]
     },
     {
-      "name": "Giddy",
-      "symbol": "giddy",
-      "address": "0x67eb41a14c0fe5cd701fc9d5a3d6597a72f641a6",
-      "logoURI": "https://tokens.1inch.io/0x67eb41a14c0fe5cd701fc9d5a3d6597a72f641a6.png",
-      "decimals": 18,
-      "chainId": 137,
-      "chainAddresses": [
-        {
-          "chainId": 137,
-          "address": "0x67eb41a14c0fe5cd701fc9d5a3d6597a72f641a6"
-        }
-      ]
-    },
-    {
       "name": "Wrapped UST Token (PoS)",
       "symbol": "UST",
       "address": "0x692597b009d13C4049a947CAB2239b7d6517875F",
@@ -18921,24 +18889,6 @@
         {
           "chainId": 137,
           "address": "0x831753dd7087cac61ab5644b308642cc1c33dc13"
-        }
-      ]
-    },
-    {
-      "name": "SX Network (OLD)",
-      "symbol": "sx",
-      "address": "0x840195888db4d6a99ed9f73fcd3b225bb3cb1a79",
-      "logoURI": "https://tokens.1inch.io/0x99fe3b1391503a1bc1788051347a1324bff41452.png",
-      "decimals": 18,
-      "chainId": 137,
-      "chainAddresses": [
-        {
-          "chainId": 1,
-          "address": "0x99fe3b1391503a1bc1788051347a1324bff41452"
-        },
-        {
-          "chainId": 137,
-          "address": "0x840195888db4d6a99ed9f73fcd3b225bb3cb1a79"
         }
       ]
     },
@@ -43870,6 +43820,14 @@
       "logoURI": "https://tokens.1inch.io/0xff3e7cf0c007f919807b32b30a4a9e7bd7bc4121.png",
       "decimals": 18,
       "chainId": 8217,
+      "chainAddresses": []
+    },
+    {
+      "name": "Re7 Resolv USR",
+      "symbol": "Re7USR",
+      "address": "0x00dfDb8C7295a03DCf1ADfF4D21eB5D9D19FB330",
+      "decimals": 18,
+      "chainId": 8453,
       "chainAddresses": []
     },
     {
