@@ -73,6 +73,12 @@ export const generators: Record<string, ITokenList> = {
       odosParser(34443),
     ),
   },
+  odosSonic: {
+    generator: new JsonGenericTokenListGenerator(
+      "https://api.odos.xyz/info/tokens/146",
+      odosParser(146),
+    ),
+  },
   bebopMode: {
     generator: new JsonGenericTokenListGenerator(
       "https://api.bebop.xyz/tokens/v1/mode/tokenlist",
