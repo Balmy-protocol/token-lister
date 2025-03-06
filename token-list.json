@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2025-03-06T00:17:20.997Z",
+  "timestamp": "2025-03-06T20:39:34.782Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -24,6 +24,14 @@
           "address": "0x1c20e891bab6b1727d14da358fae2984ed9b59eb"
         }
       ]
+    },
+    {
+      "name": "9S Mount Kosciuszko USR",
+      "symbol": "9SUSR",
+      "address": "0x00B6f2C15E4439749f192D10c70f65354848Cf4b",
+      "decimals": 18,
+      "chainId": 1,
+      "chainAddresses": []
     },
     {
       "name": "Lyra Token",
@@ -568,6 +576,15 @@
           "address": "0x09f24e5e54db6705df1a1a71d2bd5eac0d692bea"
         }
       ]
+    },
+    {
+      "name": "9S Mount Denali USDC Core",
+      "symbol": "9SUSDC11Core",
+      "address": "0x1E2aAaDcF528b9cC08F43d4fd7db488cE89F5741",
+      "logoURI": "ipfs://Qme7nin6zU5FjsvBtjvs4pJkEGyqrQKCuh9Eo66AGqapL2",
+      "decimals": 18,
+      "chainId": 1,
+      "chainAddresses": []
     },
     {
       "name": "Gauntlet WETH Ecosystem",
@@ -1601,6 +1618,15 @@
       ]
     },
     {
+      "name": "Spectra USDC",
+      "symbol": "specUSDC",
+      "address": "0x59D9571A54593a5EC47d6A20837D96745ECF5C37",
+      "logoURI": "ipfs://Qme7nin6zU5FjsvBtjvs4pJkEGyqrQKCuh9Eo66AGqapL2",
+      "decimals": 18,
+      "chainId": 1,
+      "chainAddresses": []
+    },
+    {
       "name": "Lido DAO Token",
       "symbol": "LDO",
       "address": "0x5A98FcBEA516Cf06857215779Fd812CA3beF1B32",
@@ -2015,6 +2041,14 @@
           "address": "0x6bb14afedc740dce4904b7a65807fe3b967f4c94"
         }
       ]
+    },
+    {
+      "name": "MEV Capital USD0",
+      "symbol": "MC_USD0",
+      "address": "0x749794E985Af5a9A384B9cEe6D88DaB4CE1576A1",
+      "decimals": 18,
+      "chainId": 1,
+      "chainAddresses": []
     },
     {
       "name": "Steakhouse EURCV",
@@ -20415,6 +20449,589 @@
           "address": "0xfe712251173a2cd5f5be2b46bb528328ea3565e1"
         }
       ]
+    },
+    {
+      "name": "Sonic",
+      "symbol": "S",
+      "address": "0x0000000000000000000000000000000000000000",
+      "logoURI": "https://assets.odos.xyz/tokens/S.webp",
+      "decimals": 18,
+      "chainId": 146,
+      "chainAddresses": []
+    },
+    {
+      "name": "Silver",
+      "symbol": "$AG",
+      "address": "0x005851f943ee2957B1748957F26319e4f9EdeBC1",
+      "logoURI": "https://assets.odos.xyz/tokens/$AG.webp",
+      "decimals": 18,
+      "chainId": 146,
+      "chainAddresses": [
+        {
+          "chainId": 146,
+          "address": "0x005851f943ee2957b1748957f26319e4f9edebc1"
+        }
+      ]
+    },
+    {
+      "name": "Wrapped Sonic",
+      "symbol": "wS",
+      "address": "0x039e2fB66102314Ce7b64Ce5Ce3E5183bc94aD38",
+      "logoURI": "https://assets.odos.xyz/tokens/wS.webp",
+      "decimals": 18,
+      "chainId": 146,
+      "chainAddresses": [
+        {
+          "chainId": 146,
+          "address": "0x039e2fb66102314ce7b64ce5ce3e5183bc94ad38"
+        }
+      ]
+    },
+    {
+      "name": "FantomSonicInu",
+      "symbol": "fSONIC",
+      "address": "0x05e31a691405d06708A355C029599c12d5da8b28",
+      "logoURI": "https://assets.odos.xyz/tokens/fSONIC.webp",
+      "decimals": 18,
+      "chainId": 146,
+      "chainAddresses": [
+        {
+          "chainId": 146,
+          "address": "0x05e31a691405d06708a355c029599c12d5da8b28"
+        }
+      ]
+    },
+    {
+      "name": "Wagmi",
+      "symbol": "WAGMI",
+      "address": "0x0e0Ce4D450c705F8a0B6Dd9d5123e3df2787D16B",
+      "logoURI": "https://assets.odos.xyz/tokens/WAGMI.webp",
+      "decimals": 18,
+      "chainId": 146,
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0x92cc36d66e9d739d50673d1f27929a371fb83a67"
+        },
+        {
+          "chainId": 10,
+          "address": "0xaf20f5f19698f1d19351028cd7103b63d30de7d7"
+        },
+        {
+          "chainId": 56,
+          "address": "0xaf20f5f19698f1d19351028cd7103b63d30de7d7"
+        },
+        {
+          "chainId": 137,
+          "address": "0x07ed33a242bd9c08ca3c198e01189e35265024da"
+        },
+        {
+          "chainId": 146,
+          "address": "0x0e0ce4d450c705f8a0b6dd9d5123e3df2787d16b"
+        },
+        {
+          "chainId": 250,
+          "address": "0xb1f795776cb9ddac6e7e162f31c7419dd3d48297"
+        },
+        {
+          "chainId": 324,
+          "address": "0x3613ad277df1d5935d41400a181aa9ec1dc2dc9e"
+        },
+        {
+          "chainId": 1088,
+          "address": "0xaf20f5f19698f1d19351028cd7103b63d30de7d7"
+        },
+        {
+          "chainId": 2222,
+          "address": "0xaf20f5f19698f1d19351028cd7103b63d30de7d7"
+        },
+        {
+          "chainId": 8453,
+          "address": "0xaf20f5f19698f1d19351028cd7103b63d30de7d7"
+        },
+        {
+          "chainId": 8822,
+          "address": "0xaf20f5f19698f1d19351028cd7103b63d30de7d7"
+        },
+        {
+          "chainId": 42161,
+          "address": "0xaf20f5f19698f1d19351028cd7103b63d30de7d7"
+        },
+        {
+          "chainId": 43114,
+          "address": "0xaf20f5f19698f1d19351028cd7103b63d30de7d7"
+        }
+      ]
+    },
+    {
+      "name": "Wrapped USD+",
+      "symbol": "wUSD+",
+      "address": "0x281A4b9FBa11971F28901c320f34908A779fE3ad",
+      "logoURI": "https://assets.odos.xyz/tokens/wUSD+.webp",
+      "decimals": 6,
+      "chainId": 146,
+      "chainAddresses": []
+    },
+    {
+      "name": "Bridged USDC (Sonic Labs)",
+      "symbol": "USDC.e",
+      "address": "0x29219dd400f2Bf60E5a23d13Be72B486D4038894",
+      "logoURI": "https://assets.odos.xyz/tokens/USDC.e.webp",
+      "decimals": 6,
+      "chainId": 146,
+      "chainAddresses": [
+        {
+          "chainId": 146,
+          "address": "0x29219dd400f2bf60e5a23d13be72b486d4038894"
+        }
+      ]
+    },
+    {
+      "name": "Beets",
+      "symbol": "BEETS",
+      "address": "0x2D0E0814E62D80056181F5cd932274405966e4f0",
+      "logoURI": "https://assets.odos.xyz/tokens/BEETS.webp",
+      "decimals": 18,
+      "chainId": 146,
+      "chainAddresses": [
+        {
+          "chainId": 146,
+          "address": "0x2d0e0814e62d80056181f5cd932274405966e4f0"
+        }
+      ]
+    },
+    {
+      "name": "Shadow Liquid Staking Token",
+      "symbol": "x33",
+      "address": "0x3333111A391cC08fa51353E9195526A70b333333",
+      "logoURI": "https://assets.odos.xyz/tokens/x33.webp",
+      "decimals": 18,
+      "chainId": 146,
+      "chainAddresses": [
+        {
+          "chainId": 146,
+          "address": "0x3333111a391cc08fa51353e9195526a70b333333"
+        }
+      ]
+    },
+    {
+      "name": "Shadow",
+      "symbol": "SHADOW",
+      "address": "0x3333b97138D4b086720b5aE8A7844b1345a33333",
+      "logoURI": "https://assets.odos.xyz/tokens/SHADOW.webp",
+      "decimals": 18,
+      "chainId": 146,
+      "chainAddresses": [
+        {
+          "chainId": 146,
+          "address": "0x3333b97138d4b086720b5ae8a7844b1345a33333"
+        }
+      ]
+    },
+    {
+      "name": "SNAKE",
+      "symbol": "SNAKE",
+      "address": "0x3a516e01f82c1e18916ED69a81Dd498eF64bB157",
+      "logoURI": "https://assets.odos.xyz/tokens/SNAKE.webp",
+      "decimals": 18,
+      "chainId": 146,
+      "chainAddresses": []
+    },
+    {
+      "name": "Sonic ETH",
+      "symbol": "scETH",
+      "address": "0x3bcE5CB273F0F148010BbEa2470e7b5df84C7812",
+      "logoURI": "https://assets.odos.xyz/tokens/scETH.webp",
+      "decimals": 18,
+      "chainId": 146,
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0x3bce5cb273f0f148010bbea2470e7b5df84c7812"
+        },
+        {
+          "chainId": 146,
+          "address": "0x3bce5cb273f0f148010bbea2470e7b5df84c7812"
+        }
+      ]
+    },
+    {
+      "name": "Frax Ether",
+      "symbol": "frxETH",
+      "address": "0x43eDD7f3831b08FE70B7555ddD373C8bF65a9050",
+      "logoURI": "https://assets.odos.xyz/tokens/frxETH.webp",
+      "decimals": 18,
+      "chainId": 146,
+      "chainAddresses": []
+    },
+    {
+      "name": "Indi",
+      "symbol": "INDI",
+      "address": "0x4EEC869d847A6d13b0F6D1733C5DEC0d1E741B4f",
+      "logoURI": "https://assets.odos.xyz/tokens/INDI.webp",
+      "decimals": 18,
+      "chainId": 146,
+      "chainAddresses": [
+        {
+          "chainId": 146,
+          "address": "0x4eec869d847a6d13b0f6d1733c5dec0d1e741b4f"
+        }
+      ]
+    },
+    {
+      "name": "Wrapped Ether on Sonic",
+      "symbol": "WETH",
+      "address": "0x50c42dEAcD8Fc9773493ED674b675bE577f2634b",
+      "logoURI": "https://assets.odos.xyz/tokens/WETH.webp",
+      "decimals": 18,
+      "chainId": 146,
+      "chainAddresses": [
+        {
+          "chainId": 146,
+          "address": "0x50c42deacd8fc9773493ed674b675be577f2634b"
+        }
+      ]
+    },
+    {
+      "name": "USD+",
+      "symbol": "USD+",
+      "address": "0x53e24706D6642CA495498557415b1af7A025D8Da",
+      "logoURI": "https://assets.odos.xyz/tokens/USD+.webp",
+      "decimals": 6,
+      "chainId": 146,
+      "chainAddresses": []
+    },
+    {
+      "name": "Bridged USDT (Sonic Labs)",
+      "symbol": "USDT",
+      "address": "0x6047828dc181963ba44974801FF68e538dA5eaF9",
+      "logoURI": "https://assets.odos.xyz/tokens/USDT.webp",
+      "decimals": 6,
+      "chainId": 146,
+      "chainAddresses": []
+    },
+    {
+      "name": "SupraFi Staked Sonic",
+      "symbol": "sS",
+      "address": "0x6BA47940f738175d3F8C22Aa8EE8606eaAe45eb2",
+      "logoURI": "https://assets.odos.xyz/tokens/sS.webp",
+      "decimals": 18,
+      "chainId": 146,
+      "chainAddresses": []
+    },
+    {
+      "name": "HEDGY the hedgehog",
+      "symbol": "HEDGY",
+      "address": "0x6fB9897896Fe5D05025Eb43306675727887D0B7c",
+      "logoURI": "https://assets.odos.xyz/tokens/HEDGY.webp",
+      "decimals": 18,
+      "chainId": 146,
+      "chainAddresses": [
+        {
+          "chainId": 146,
+          "address": "0x6fb9897896fe5d05025eb43306675727887d0b7c"
+        }
+      ]
+    },
+    {
+      "name": "Metropolis Token",
+      "symbol": "METRO",
+      "address": "0x71E99522EaD5E21CF57F1f542Dc4ad2E841F7321",
+      "logoURI": "https://assets.odos.xyz/tokens/METRO.webp",
+      "decimals": 18,
+      "chainId": 146,
+      "chainAddresses": [
+        {
+          "chainId": 146,
+          "address": "0x71e99522ead5e21cf57f1f542dc4ad2e841f7321"
+        }
+      ]
+    },
+    {
+      "name": "Solidly",
+      "symbol": "SOLID",
+      "address": "0x777CF5ba9C291A1A8f57FF14836F6F9dC5c0F9Dd",
+      "logoURI": "https://assets.odos.xyz/tokens/SOLID.webp",
+      "decimals": 18,
+      "chainId": 146,
+      "chainAddresses": []
+    },
+    {
+      "name": "HeyAnon",
+      "symbol": "Anon",
+      "address": "0x79bbF4508B1391af3A0F4B30bb5FC4aa9ab0E07C",
+      "logoURI": "https://assets.odos.xyz/tokens/Anon.webp",
+      "decimals": 18,
+      "chainId": 146,
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0x79bbf4508b1391af3a0f4b30bb5fc4aa9ab0e07c"
+        },
+        {
+          "chainId": 56,
+          "address": "0x79bbf4508b1391af3a0f4b30bb5fc4aa9ab0e07c"
+        },
+        {
+          "chainId": 146,
+          "address": "0x79bbf4508b1391af3a0f4b30bb5fc4aa9ab0e07c"
+        },
+        {
+          "chainId": 1088,
+          "address": "0x79bbf4508b1391af3a0f4b30bb5fc4aa9ab0e07c"
+        },
+        {
+          "chainId": 2222,
+          "address": "0x79bbf4508b1391af3a0f4b30bb5fc4aa9ab0e07c"
+        },
+        {
+          "chainId": 8453,
+          "address": "0x79bbf4508b1391af3a0f4b30bb5fc4aa9ab0e07c"
+        },
+        {
+          "chainId": 8822,
+          "address": "0x79bbf4508b1391af3a0f4b30bb5fc4aa9ab0e07c"
+        },
+        {
+          "chainId": 42161,
+          "address": "0x79bbf4508b1391af3a0f4b30bb5fc4aa9ab0e07c"
+        }
+      ]
+    },
+    {
+      "name": "SonicEco",
+      "symbol": "ECO",
+      "address": "0x7A08Bf5304094CA4C7b4132Ef62b5EDc4a3478B7",
+      "logoURI": "https://assets.odos.xyz/tokens/ECO.webp",
+      "decimals": 18,
+      "chainId": 146,
+      "chainAddresses": [
+        {
+          "chainId": 146,
+          "address": "0x7a08bf5304094ca4c7b4132ef62b5edc4a3478b7"
+        }
+      ]
+    },
+    {
+      "name": "SpookyToken V2",
+      "symbol": "BOO",
+      "address": "0x7A0C53F7eb34C5BC8B01691723669adA9D6CB384",
+      "logoURI": "https://assets.odos.xyz/tokens/BOO.webp",
+      "decimals": 18,
+      "chainId": 146,
+      "chainAddresses": []
+    },
+    {
+      "name": "Sonic Name Service",
+      "symbol": "SNS",
+      "address": "0x7B0a41f0c17474e41a0c36c0Bf33b9AED06eE9f5",
+      "logoURI": "https://assets.odos.xyz/tokens/SNS.webp",
+      "decimals": 18,
+      "chainId": 146,
+      "chainAddresses": [
+        {
+          "chainId": 146,
+          "address": "0x7b0a41f0c17474e41a0c36c0bf33b9aed06ee9f5"
+        }
+      ]
+    },
+    {
+      "name": "Frax USD",
+      "symbol": "frxUSD",
+      "address": "0x80Eede496655FB9047dd39d9f418d5483ED600df",
+      "logoURI": "https://assets.odos.xyz/tokens/frxUSD.webp",
+      "decimals": 18,
+      "chainId": 146,
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0xcacd6fd266af91b8aed52accc382b4e165586e29"
+        },
+        {
+          "chainId": 146,
+          "address": "0x80eede496655fb9047dd39d9f418d5483ed600df"
+        }
+      ]
+    },
+    {
+      "name": "Wrapped OS",
+      "symbol": "wOS",
+      "address": "0x9F0dF7799f6FDAd409300080cfF680f5A23df4b1",
+      "logoURI": "https://assets.odos.xyz/tokens/wOS.webp",
+      "decimals": 18,
+      "chainId": 146,
+      "chainAddresses": [
+        {
+          "chainId": 146,
+          "address": "0x9f0df7799f6fdad409300080cff680f5a23df4b1"
+        }
+      ]
+    },
+    {
+      "name": "GOGGLES",
+      "symbol": "GOGLZ",
+      "address": "0x9fDbC3f8Abc05Fa8f3Ad3C17D2F806c1230c4564",
+      "logoURI": "https://assets.odos.xyz/tokens/GOGLZ.webp",
+      "decimals": 18,
+      "chainId": 146,
+      "chainAddresses": [
+        {
+          "chainId": 146,
+          "address": "0x9fdbc3f8abc05fa8f3ad3c17d2f806c1230c4564"
+        }
+      ]
+    },
+    {
+      "name": "SwapX",
+      "symbol": "SWPx",
+      "address": "0xA04BC7140c26fc9BB1F36B1A604C7A5a88fb0E70",
+      "logoURI": "https://assets.odos.xyz/tokens/SWPx.webp",
+      "decimals": 18,
+      "chainId": 146,
+      "chainAddresses": [
+        {
+          "chainId": 146,
+          "address": "0xa04bc7140c26fc9bb1f36b1a604c7a5a88fb0e70"
+        }
+      ]
+    },
+    {
+      "name": "DeFive",
+      "symbol": "FIVE",
+      "address": "0xb0695ce12c56AAe40894235e2d1888D0b62Dd110",
+      "logoURI": "https://assets.odos.xyz/tokens/FIVE.webp",
+      "decimals": 18,
+      "chainId": 146,
+      "chainAddresses": [
+        {
+          "chainId": 146,
+          "address": "0xb0695ce12c56aae40894235e2d1888d0b62dd110"
+        }
+      ]
+    },
+    {
+      "name": "Origin Sonic",
+      "symbol": "OS",
+      "address": "0xb1e25689D55734FD3ffFc939c4C3Eb52DFf8A794",
+      "logoURI": "https://assets.odos.xyz/tokens/OS.webp",
+      "decimals": 18,
+      "chainId": 146,
+      "chainAddresses": [
+        {
+          "chainId": 146,
+          "address": "0xb1e25689d55734fd3fffc939c4c3eb52dff8a794"
+        }
+      ]
+    },
+    {
+      "name": "Lumos",
+      "symbol": "LUMOS",
+      "address": "0xC0dA8629599b364eb0A8921A477Fb80440a68BD4",
+      "logoURI": "https://assets.odos.xyz/tokens/LUMOS.webp",
+      "decimals": 18,
+      "chainId": 146,
+      "chainAddresses": [
+        {
+          "chainId": 146,
+          "address": "0xc0da8629599b364eb0a8921a477fb80440a68bd4"
+        }
+      ]
+    },
+    {
+      "name": "Fire Bitcoin",
+      "symbol": "FBTC",
+      "address": "0xC96dE26018A54D51c097160568752c4E3BD6C364",
+      "logoURI": "https://assets.odos.xyz/tokens/FBTC.webp",
+      "decimals": 8,
+      "chainId": 146,
+      "chainAddresses": []
+    },
+    {
+      "name": "Sonic USD",
+      "symbol": "scUSD",
+      "address": "0xd3DCe716f3eF535C5Ff8d041c1A41C3bd89b97aE",
+      "logoURI": "https://assets.odos.xyz/tokens/scUSD.webp",
+      "decimals": 6,
+      "chainId": 146,
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0xd3dce716f3ef535c5ff8d041c1a41c3bd89b97ae"
+        },
+        {
+          "chainId": 146,
+          "address": "0xd3dce716f3ef535c5ff8d041c1a41c3bd89b97ae"
+        }
+      ]
+    },
+    {
+      "name": "Equalizer on Sonic",
+      "symbol": "EQUAL",
+      "address": "0xddF26B42C1d903De8962d3F79a74a501420d5F19",
+      "logoURI": "https://assets.odos.xyz/tokens/EQUAL.webp",
+      "decimals": 18,
+      "chainId": 146,
+      "chainAddresses": [
+        {
+          "chainId": 146,
+          "address": "0xddf26b42c1d903de8962d3f79a74a501420d5f19"
+        }
+      ]
+    },
+    {
+      "name": "PaintSwap",
+      "symbol": "BRUSH",
+      "address": "0xE51EE9868C1f0d6cd968A8B8C8376Dc2991BFE44",
+      "logoURI": "https://assets.odos.xyz/tokens/BRUSH.webp",
+      "decimals": 18,
+      "chainId": 146,
+      "chainAddresses": [
+        {
+          "chainId": 146,
+          "address": "0xe51ee9868c1f0d6cd968a8b8c8376dc2991bfe44"
+        },
+        {
+          "chainId": 250,
+          "address": "0x85dec8c4b2680793661bca91a8f129607571863d"
+        }
+      ]
+    },
+    {
+      "name": "Beets Staked Sonic",
+      "symbol": "stS",
+      "address": "0xE5DA20F15420aD15DE0fa650600aFc998bbE3955",
+      "logoURI": "https://assets.odos.xyz/tokens/stS.webp",
+      "decimals": 18,
+      "chainId": 146,
+      "chainAddresses": [
+        {
+          "chainId": 146,
+          "address": "0xe5da20f15420ad15de0fa650600afc998bbe3955"
+        }
+      ]
+    },
+    {
+      "name": "LUDWIG",
+      "symbol": "LUDWIG",
+      "address": "0xe6cc4D855B4fD4A9D02F46B9adae4C5EfB1764B5",
+      "logoURI": "https://assets.odos.xyz/tokens/LUDWIG.webp",
+      "decimals": 18,
+      "chainId": 146,
+      "chainAddresses": [
+        {
+          "chainId": 146,
+          "address": "0xe6cc4d855b4fd4a9d02f46b9adae4c5efb1764b5"
+        }
+      ]
+    },
+    {
+      "name": "Bridged EURC (Sonic Labs)",
+      "symbol": "EURC",
+      "address": "0xe715cbA7B5cCb33790ceBFF1436809d36cb17E57",
+      "logoURI": "https://assets.odos.xyz/tokens/EURC.webp",
+      "decimals": 6,
+      "chainId": 146,
+      "chainAddresses": []
     },
     {
       "name": "Iron Bank",
@@ -51529,6 +52146,10 @@
         {
           "chainId": 137,
           "address": "0x4fb71290ac171e1d144f7221d882becac7196eb5"
+        },
+        {
+          "chainId": 8453,
+          "address": "0xfb8718a69aed7726afb3f04d2bd4bfde1bdcb294"
         },
         {
           "chainId": 43114,

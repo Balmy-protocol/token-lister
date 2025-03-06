@@ -2,7 +2,7 @@ import { ChainId } from "@balmy/sdk";
 import { ITokenListGenerator, TokenData } from "../types";
 
 const url = "https://li.quest/v1/tokens";
-const chains = [1101, 8453, 59144];
+const chains = [146, 1101, 8453, 59144];
 export class LiquestTokenListGenerator implements ITokenListGenerator {
   private tokenList: TokenData[];
   constructor() {
