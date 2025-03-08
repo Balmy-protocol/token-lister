@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2025-03-07T00:17:08.984Z",
+  "timestamp": "2025-03-08T00:14:24.877Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -2582,6 +2582,15 @@
           "address": "0x99a17fb61fbdc4e42f6b0f496fe92ba820ce5d2b"
         }
       ]
+    },
+    {
+      "name": "Hakutora USDC",
+      "symbol": "hUSDC",
+      "address": "0x974c8FBf4fd795F66B85B73ebC988A51F1A040a9",
+      "logoURI": "ipfs://Qme7nin6zU5FjsvBtjvs4pJkEGyqrQKCuh9Eo66AGqapL2",
+      "decimals": 18,
+      "chainId": 1,
+      "chainAddresses": []
     },
     {
       "name": "MEV Capital cbBTC",
@@ -23893,7 +23902,7 @@
       "name": "Binance Coin",
       "symbol": "BNB",
       "address": "0xd67de0e0a0fd7b15dc8348bb9be742f3c5850454",
-      "logoURI": "https://tokens.1inch.io/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c_1.png",
+      "logoURI": "https://tokens-data.1inch.io/images/250/0xd67de0e0a0fd7b15dc8348bb9be742f3c5850454_0xbf4e90d054ba0f64f272e349364b6c7f64b5405683a547b39328b859c5428e3e.png",
       "decimals": 18,
       "chainId": 250,
       "chainAddresses": [
@@ -27011,12 +27020,7 @@
       "logoURI": "https://assets.smold.app/api/token/1088/0x2136d8017ac5f4Db99A7F9E23f15116b9c98Be4E/logo-128.png",
       "decimals": 18,
       "chainId": 1088,
-      "chainAddresses": [
-        {
-          "chainId": 1088,
-          "address": "0x2136d8017ac5f4db99a7f9e23f15116b9c98be4e"
-        }
-      ]
+      "chainAddresses": []
     },
     {
       "name": "MetisCorgi",
@@ -54083,7 +54087,12 @@
       "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/ff171d7343f4af4519cf402a692978b2957f9037cd5c9aa3b70dc355a9dbfa9e.webp",
       "decimals": 18,
       "chainId": 57073,
-      "chainAddresses": []
+      "chainAddresses": [
+        {
+          "chainId": 57073,
+          "address": "0x20c69c12abf2b6f8d8ca33604dd25c700c7e70a5"
+        }
+      ]
     },
     {
       "name": "DickButt on INK",
