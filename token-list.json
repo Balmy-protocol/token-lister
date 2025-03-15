@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2025-03-14T00:16:58.362Z",
+  "timestamp": "2025-03-15T00:17:09.863Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -2508,24 +2508,6 @@
       "decimals": 18,
       "chainId": 1,
       "chainAddresses": []
-    },
-    {
-      "name": "Unit Protocol",
-      "symbol": "DUCK",
-      "address": "0x92E187a03B6CD19CB6AF293ba17F2745Fd2357D5",
-      "logoURI": "https://ethereum-optimism.github.io/data/DUCK/logo.png",
-      "decimals": 18,
-      "chainId": 1,
-      "chainAddresses": [
-        {
-          "chainId": 1,
-          "address": "0x92e187a03b6cd19cb6af293ba17f2745fd2357d5"
-        },
-        {
-          "chainId": 250,
-          "address": "0x602a3ad311e66b6f5e567a13016b712aba0625c6"
-        }
-      ]
     },
     {
       "name": "Fei USD",
@@ -10101,7 +10083,7 @@
       "name": "Orbs",
       "symbol": "orbs",
       "address": "0x43a8cab15d06d3a5fe5854d714c37e7e9246f170",
-      "logoURI": "https://tokens.1inch.io/0x43a8cab15d06d3a5fe5854d714c37e7e9246f170.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/4630/thumb/Orbs.jpg?1547039896",
       "decimals": 18,
       "chainId": 56,
       "chainAddresses": [
@@ -10207,7 +10189,7 @@
       "name": "WolfSafePoorPeople",
       "symbol": "wspp",
       "address": "0x46d502fac9aea7c5bc7b13c8ec9d02378c33d36f",
-      "logoURI": "https://tokens.1inch.io/0x46d502fac9aea7c5bc7b13c8ec9d02378c33d36f.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/17090/thumb/wspplogo.png?1626187594",
       "decimals": 0,
       "chainId": 56,
       "chainAddresses": [
@@ -10769,7 +10751,7 @@
       "name": "Forj",
       "symbol": "bondly",
       "address": "0x5d0158a5c3ddf47d4ea4517d8db0d76aa2e87563",
-      "logoURI": "https://tokens.1inch.io/0x5d0158a5c3ddf47d4ea4517d8db0d76aa2e87563.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/13322/thumb/logomark.png?1607474416",
       "decimals": 18,
       "chainId": 56,
       "chainAddresses": [
@@ -10873,7 +10855,7 @@
       "name": "PEAKDEFI",
       "symbol": "peak",
       "address": "0x630d98424efe0ea27fb1b3ab7741907dffeaad78",
-      "logoURI": "https://tokens.1inch.io/0x630d98424efe0ea27fb1b3ab7741907dffeaad78.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/9626/thumb/PEAKDEFI_Logo_250x250.png?1603094772",
       "decimals": 8,
       "chainId": 56,
       "chainAddresses": [
@@ -11547,7 +11529,7 @@
       "name": "LTO Network",
       "symbol": "lto",
       "address": "0x857b222fc79e1cbbf8ca5f78cb133d1b7cf34bbd",
-      "logoURI": "https://tokens.1inch.io/0x3db6ba6ab6f95efed1a6e794cad492faaabf294d.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/6068/thumb/lto.png?1638855565",
       "decimals": 18,
       "chainId": 56,
       "chainAddresses": [
@@ -12931,7 +12913,7 @@
       "name": "Litentry",
       "symbol": "lit",
       "address": "0xb59490ab09a0f526cc7305822ac65f2ab12f9723",
-      "logoURI": "https://tokens.1inch.io/0xb59490ab09a0f526cc7305822ac65f2ab12f9723.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/13825/thumb/logo_200x200.png?1612153317",
       "decimals": 18,
       "chainId": 56,
       "chainAddresses": [
@@ -14442,7 +14424,7 @@
       "name": "Anyswap",
       "symbol": "any",
       "address": "0xf68c9df95a18b2a5a5fa1124d79eeeffbad0b6fa",
-      "logoURI": "https://tokens.1inch.io/0xf99d58e463a2e07e5692127302c20a191861b4d6.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/12242/thumb/anyswap.jpg?1598443880",
       "decimals": 18,
       "chainId": 56,
       "chainAddresses": [
@@ -24299,7 +24281,7 @@
       "name": "Anyswap",
       "symbol": "ANY",
       "address": "0xddcb3ffd12750b45d32e084887fdf1aabab34239",
-      "logoURI": "https://tokens.1inch.io/0xf99d58e463a2e07e5692127302c20a191861b4d6.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/12242/large/anyswap.jpg",
       "decimals": 18,
       "chainId": 250,
       "chainAddresses": [
@@ -27842,7 +27824,24 @@
       "logoURI": "https://assets.smold.app/api/token/1088/0x2d3D1a6982840Dd88bC2380Fd557F8A9D5e27a77/logo-128.png",
       "decimals": 6,
       "chainId": 1088,
-      "chainAddresses": []
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0x7dc9748da8e762e569f9269f48f69a1a9f8ea761"
+        },
+        {
+          "chainId": 169,
+          "address": "0x7dc9748da8e762e569f9269f48f69a1a9f8ea761"
+        },
+        {
+          "chainId": 1088,
+          "address": "0x2d3d1a6982840dd88bc2380fd557f8a9d5e27a77"
+        },
+        {
+          "chainId": 43114,
+          "address": "0x7dc9748da8e762e569f9269f48f69a1a9f8ea761"
+        }
+      ]
     },
     {
       "name": "METIS-LP",
@@ -51060,7 +51059,7 @@
       "name": "YAY Network",
       "symbol": "yay",
       "address": "0x01c2086facfd7aa38f69a6bd8c91bef3bb5adfca",
-      "logoURI": "https://tokens.1inch.io/0x01c2086facfd7aa38f69a6bd8c91bef3bb5adfca.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/18251/thumb/spaces_-MacxYkWFZNLr04KrFOx_avatar-1626443663682.png?1631136343",
       "decimals": 18,
       "chainId": 43114,
       "chainAddresses": [
@@ -51165,20 +51164,6 @@
         {
           "chainId": 43114,
           "address": "0x1c20e891bab6b1727d14da358fae2984ed9b59eb"
-        }
-      ]
-    },
-    {
-      "name": "Dogeon",
-      "symbol": "don",
-      "address": "0x1db749847c4abb991d8b6032102383e6bfd9b1c7",
-      "logoURI": "https://snowtrace.io/token/images/dogeon_32.png",
-      "decimals": 18,
-      "chainId": 43114,
-      "chainAddresses": [
-        {
-          "chainId": 43114,
-          "address": "0x1db749847c4abb991d8b6032102383e6bfd9b1c7"
         }
       ]
     },
@@ -51461,20 +51446,6 @@
       ]
     },
     {
-      "name": "Islander",
-      "symbol": "isa",
-      "address": "0x3eefb18003d033661f84e48360ebecd181a84709",
-      "logoURI": "https://snowtrace.io/token/images/theislander_32.png",
-      "decimals": 18,
-      "chainId": 43114,
-      "chainAddresses": [
-        {
-          "chainId": 43114,
-          "address": "0x3eefb18003d033661f84e48360ebecd181a84709"
-        }
-      ]
-    },
-    {
       "name": "Coq Inu",
       "symbol": "COQ",
       "address": "0x420fca0121dc28039145009570975747295f2329",
@@ -51595,36 +51566,6 @@
         {
           "chainId": 43114,
           "address": "0x5541d83efad1f281571b343977648b75d95cdac2"
-        }
-      ]
-    },
-    {
-      "name": "BiLira",
-      "symbol": "tryb",
-      "address": "0x564a341df6c126f90cf3ecb92120fd7190acb401",
-      "logoURI": "https://tokens.1inch.io/0x2c537e5624e4af88a7ae4060c022609376c8d0eb.png",
-      "decimals": 6,
-      "chainId": 43114,
-      "chainAddresses": [
-        {
-          "chainId": 1,
-          "address": "0x2c537e5624e4af88a7ae4060c022609376c8d0eb"
-        },
-        {
-          "chainId": 56,
-          "address": "0xc1fdbed7dac39cae2ccc0748f7a80dc446f6a594"
-        },
-        {
-          "chainId": 137,
-          "address": "0x4fb71290ac171e1d144f7221d882becac7196eb5"
-        },
-        {
-          "chainId": 8453,
-          "address": "0xfb8718a69aed7726afb3f04d2bd4bfde1bdcb294"
-        },
-        {
-          "chainId": 43114,
-          "address": "0x564a341df6c126f90cf3ecb92120fd7190acb401"
         }
       ]
     },
@@ -52055,44 +51996,16 @@
       ]
     },
     {
-      "name": "RaceX",
-      "symbol": "racex",
-      "address": "0x7086e045b78e1e72f741f25231c08d238812cf8a",
-      "logoURI": "https://tokens.1inch.io/0x7086e045b78e1e72f741f25231c08d238812cf8a.png",
-      "decimals": 18,
-      "chainId": 43114,
-      "chainAddresses": [
-        {
-          "chainId": 43114,
-          "address": "0x7086e045b78e1e72f741f25231c08d238812cf8a"
-        }
-      ]
-    },
-    {
       "name": "Chikn Egg",
       "symbol": "egg",
       "address": "0x7761e2338b35bceb6bda6ce477ef012bde7ae611",
-      "logoURI": "https://snowtrace.io/token/images/chikneeg_32.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/21811/thumb/EggToken_200_Transparent.png?1640069901",
       "decimals": 18,
       "chainId": 43114,
       "chainAddresses": [
         {
           "chainId": 43114,
           "address": "0x7761e2338b35bceb6bda6ce477ef012bde7ae611"
-        }
-      ]
-    },
-    {
-      "name": "Pollen",
-      "symbol": "pln",
-      "address": "0x7b2b702706d9b361dfe3f00bd138c0cfda7fb2cf",
-      "logoURI": "https://snowtrace.io/token/images/pollendefi_32.png",
-      "decimals": 18,
-      "chainId": 43114,
-      "chainAddresses": [
-        {
-          "chainId": 43114,
-          "address": "0x7b2b702706d9b361dfe3f00bd138c0cfda7fb2cf"
         }
       ]
     },
@@ -52503,28 +52416,6 @@
         {
           "chainId": 43114,
           "address": "0xab592d197acc575d16c3346f4eb70c703f308d1e"
-        }
-      ]
-    },
-    {
-      "name": "Weble Ecosystem",
-      "symbol": "wet",
-      "address": "0xb1466d4cf0dcfc0bcddcf3500f473cdacb88b56d",
-      "logoURI": "https://tokens.1inch.io/0xb1466d4cf0dcfc0bcddcf3500f473cdacb88b56d.png",
-      "decimals": 18,
-      "chainId": 43114,
-      "chainAddresses": [
-        {
-          "chainId": 56,
-          "address": "0x632b8c4e95b2f8a9309417f8d990ab9c04c77369"
-        },
-        {
-          "chainId": 137,
-          "address": "0x632b8c4e95b2f8a9309417f8d990ab9c04c77369"
-        },
-        {
-          "chainId": 43114,
-          "address": "0xb1466d4cf0dcfc0bcddcf3500f473cdacb88b56d"
         }
       ]
     },
@@ -53226,20 +53117,6 @@
         {
           "chainId": 43114,
           "address": "0xf693248f96fe03422fea95ac0afbbbc4a8fdd172"
-        }
-      ]
-    },
-    {
-      "name": "Imperium Empires",
-      "symbol": "ime",
-      "address": "0xf891214fdcf9cdaa5fdc42369ee4f27f226adad6",
-      "logoURI": "https://tokens.1inch.io/0xf891214fdcf9cdaa5fdc42369ee4f27f226adad6.png",
-      "decimals": 18,
-      "chainId": 43114,
-      "chainAddresses": [
-        {
-          "chainId": 43114,
-          "address": "0xf891214fdcf9cdaa5fdc42369ee4f27f226adad6"
         }
       ]
     },
