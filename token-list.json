@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2025-03-15T00:17:09.863Z",
+  "timestamp": "2025-03-16T00:18:41.910Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -45713,6 +45713,32 @@
       ]
     },
     {
+      "name": "Wild Goat Coin",
+      "symbol": "WGC",
+      "address": "0xfB18511F1590a494360069F3640c27d55c2B5290",
+      "logoURI": "https://ethereum-optimism.github.io/data/WGC/logo.svg",
+      "decimals": 6,
+      "chainId": 8453,
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0x6acb9ac319bafe509af9e96be642ead00526b9fa"
+        },
+        {
+          "chainId": 10,
+          "address": "0x67631ff69130ea1a6c4feaa4a0abf0a1e0148be7"
+        },
+        {
+          "chainId": 137,
+          "address": "0x04565fe9aa3ae571ada8e1bebf8282c4e5247b2a"
+        },
+        {
+          "chainId": 8453,
+          "address": "0xfb18511f1590a494360069f3640c27d55c2b5290"
+        }
+      ]
+    },
+    {
       "name": "Tether USD",
       "symbol": "USDT",
       "address": "0xfde4c96c8593536e31f229ea8f37b2ada2699bb2",
@@ -47100,8 +47126,28 @@
       "chainId": 42161,
       "chainAddresses": [
         {
+          "chainId": 1,
+          "address": "0x20157dbabb84e3bbfe68c349d0d44e48ae7b5ad2"
+        },
+        {
+          "chainId": 10,
+          "address": "0x2baa7e92f3f14883264bfa63058cc223ad719438"
+        },
+        {
+          "chainId": 56,
+          "address": "0x25be3edd820a8fce6b8e211f40c5b82ba176994c"
+        },
+        {
+          "chainId": 8453,
+          "address": "0x12418783e860997eb99e8acf682df952f721cf62"
+        },
+        {
           "chainId": 42161,
           "address": "0x050c24dbf1eec17babe5fc585f06116a259cc77a"
+        },
+        {
+          "chainId": 43114,
+          "address": "0x25be3edd820a8fce6b8e211f40c5b82ba176994c"
         }
       ]
     },
