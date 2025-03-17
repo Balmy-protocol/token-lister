@@ -1,6 +1,6 @@
 import { CgCoinId } from ".";
 
-export const equivalentCgCoinIds: Record<CgCoinId, Set<CgCoinId>> = {
+export const equivalentCgCoinIds: Record<CgCoinId, Set<CgCoinId> | RegExp> = {
   tether: new Set([
     "bridged-usdt",
     "arbitrum-bridged-usdt-arbitrum",
@@ -68,4 +68,14 @@ export const equivalentCgCoinIds: Record<CgCoinId, Set<CgCoinId>> = {
     "rainbow-bridged-usdc-aurora",
     "usd-coin-pulsechain",
   ]),
+  dai: generateRegex("dai"),
+  weth: generateRegex("weth"),
+  wavax: generateRegex("wavax"),
+  wsteth: generateRegex("wsteth"),
+  wbtc: generateRegex("wbtc"),
+  wbnb: generateRegex("wbnb"),
 };
+
+export function generateRegex(cgCoinId: CgCoinId) {
+  return new RegExp(`^${cgCoinId}$|.*bridged-${cgCoinId}.*`);
+}
