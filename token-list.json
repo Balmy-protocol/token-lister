@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2025-03-16T00:18:41.910Z",
+  "timestamp": "2025-03-17T00:18:31.805Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -20858,7 +20858,12 @@
       "logoURI": "https://assets.odos.xyz/tokens/SNAKE.webp",
       "decimals": 18,
       "chainId": 146,
-      "chainAddresses": []
+      "chainAddresses": [
+        {
+          "chainId": 146,
+          "address": "0x3a516e01f82c1e18916ed69a81dd498ef64bb157"
+        }
+      ]
     },
     {
       "name": "Sonic ETH",
