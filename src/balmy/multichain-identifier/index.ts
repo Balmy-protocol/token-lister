@@ -39,7 +39,7 @@ class MultichainIdentifier {
 
   private prepareData(
     cgCoinList: CoinGeckoCoin[],
-    cgChainList: CoinGeckoPlatform[]
+    cgChainList: CoinGeckoPlatform[],
   ) {
     cgChainList.forEach((chain) => {
       if (chain.chain_identifier !== null) {
@@ -54,9 +54,14 @@ class MultichainIdentifier {
 
         let cgCoinIdToUse = cgCoin.id;
         for (const [cgCoinId, equivalentCgCoinIdsSet] of Object.entries(
-          equivalentCgCoinIds
+          equivalentCgCoinIds,
         )) {
-          if (equivalentCgCoinIdsSet.has(cgCoin.id)) {
+          if (
+            (equivalentCgCoinIdsSet instanceof Set &&
+              equivalentCgCoinIdsSet.has(cgCoin.id)) ||
+            (equivalentCgCoinIdsSet instanceof RegExp &&
+              equivalentCgCoinIdsSet.test(cgCoin.id))
+          ) {
             cgCoinIdToUse = cgCoinId;
             break;
           }
@@ -68,14 +73,24 @@ class MultichainIdentifier {
         if (!this.cgMultichainMap[cgCoinIdToUse]) {
           this.cgMultichainMap[cgCoinIdToUse] = [];
         }
-        this.cgMultichainMap[cgCoinIdToUse].push({
-          chainId,
-          address: tokenAddress,
-        });
+        const existingEntryInChain = this.cgMultichainMap[cgCoinIdToUse].some(
+          (entry) => entry.chainId === chainId,
+        );
+
+        if (!existingEntryInChain) {
+          this.cgMultichainMap[cgCoinIdToUse].push({
+            chainId,
+            address: tokenAddress,
+          });
+        }
       });
     });
   }
   populateChainAddresses(tokens: (TokenData | FullTokenData)[]) {
+    const existingChainIds = new Set(
+      tokens.map((token) => token.chainId)
+    );
+
     return tokens.map((token) => {
       const cgCoinId =
         this.tokenKeyToCgCoinId[
@@ -85,12 +100,15 @@ class MultichainIdentifier {
       const cgMultichain = this.cgMultichainMap[cgCoinId];
       if (!cgMultichain) return token;
 
-      const chainAddresses = cgMultichain.map((chainToken) => {
-        return {
-          chainId: chainToken.chainId,
-          address: chainToken.address,
-        };
-      });
+      // Filter chain addresses to only include chains that exist in the main token list
+      const chainAddresses = cgMultichain
+        .filter((chainToken) => existingChainIds.has(chainToken.chainId))
+        .map((chainToken) => {
+          return {
+            chainId: chainToken.chainId,
+            address: chainToken.address,
+          };
+        });
 
       token.chainAddresses = sortTokens(chainAddresses);
       return token;
@@ -100,10 +118,10 @@ class MultichainIdentifier {
 
 export const buildMultichainIdentifier = async () => {
   const cgCoinsPromise: Promise<CoinGeckoCoin[]> = fetch(
-    "https://api.coingecko.com/api/v3/coins/list?include_platform=true"
+    "https://api.coingecko.com/api/v3/coins/list?include_platform=true",
   ).then((res) => res.json());
   const cgPlatformsResponse: Promise<CoinGeckoPlatform[]> = fetch(
-    "https://api.coingecko.com/api/v3/asset_platforms"
+    "https://api.coingecko.com/api/v3/asset_platforms",
   ).then((res) => res.json());
 
   const [cgCoinList, cgChainList] = await Promise.all([
@@ -113,7 +131,7 @@ export const buildMultichainIdentifier = async () => {
 
   const multichainIdentifier = new MultichainIdentifier(
     cgCoinList,
-    cgChainList
+    cgChainList,
   );
   return multichainIdentifier;
 };
