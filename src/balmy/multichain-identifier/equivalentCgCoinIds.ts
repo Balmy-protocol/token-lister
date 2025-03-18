@@ -16,6 +16,7 @@ export const equivalentCgCoinIds: Record<CgCoinId, Set<CgCoinId> | RegExp> = {
     "gnosis-xdai-bridged-usdt-gnosis",
     "huobi-bridged-usdt-heco-chain",
     "kucoin-bridged-usdt-kucoin-community-chain",
+    "l2-standard-bridged-usdt-base",
     "lxly-bridged-usdt-astar-zkevm",
     "mantle-bridged-usdt-mantle",
     "mapped-usdt",
