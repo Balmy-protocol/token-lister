@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2025-03-18T13:44:29.126Z",
+  "timestamp": "2025-03-19T00:17:29.459Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -1029,6 +1029,15 @@
           "address": "0x60d715515d4411f7f43e4206dc5d4a3677f0ec78"
         }
       ]
+    },
+    {
+      "name": "Re7 USDC Prime",
+      "symbol": "Re7USDCp",
+      "address": "0x64964E162Aa18d32f91eA5B24a09529f811AEB8e",
+      "logoURI": "ipfs://Qme7nin6zU5FjsvBtjvs4pJkEGyqrQKCuh9Eo66AGqapL2",
+      "decimals": 18,
+      "chainId": 1,
+      "chainAddresses": []
     },
     {
       "name": "Exactly USDC",
@@ -41709,6 +41718,15 @@
       ]
     },
     {
+      "name": "Clearstar OpenEden USDC",
+      "symbol": "COUSDC",
+      "address": "0x1D3b1Cd0a0f242d598834b3F2d126dC6bd774657",
+      "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/8453/0x833589fcd6edb6e08f4c7c32d4f71b54bda02913/logo.png",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": []
+    },
+    {
       "name": "Synthetix Network Token",
       "symbol": "SNX",
       "address": "0x22e6966B799c4D5B13BE962E1D117b56327FDa66",
@@ -42061,6 +42079,32 @@
       "decimals": 18,
       "chainId": 8453,
       "chainAddresses": []
+    },
+    {
+      "name": "DOSE",
+      "symbol": "DOSE",
+      "address": "0x455234AB787665a219125235fB01b22b512DfCaA",
+      "logoURI": "https://ethereum-optimism.github.io/data/DOSE/logo.svg",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0xb31ef9e52d94d4120eb44fe1ddfde5b4654a6515"
+        },
+        {
+          "chainId": 56,
+          "address": "0x7837fd820ba38f95c54d6dac4ca3751b81511357"
+        },
+        {
+          "chainId": 137,
+          "address": "0x81382e9693de2afc33f69b70a6c12ca9b3a73f47"
+        },
+        {
+          "chainId": 8453,
+          "address": "0x455234ab787665a219125235fb01b22b512dfcaa"
+        }
+      ]
     },
     {
       "name": "Dola USD Stablecoin",
