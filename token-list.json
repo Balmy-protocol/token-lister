@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2025-03-19T00:17:29.459Z",
+  "timestamp": "2025-03-20T00:17:02.670Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -806,6 +806,15 @@
       "chainAddresses": []
     },
     {
+      "name": "Apostro Ethena USDe",
+      "symbol": "aprUSDe",
+      "address": "0x4EDfaB296F8Eb15aC0907CF9eCb7079b1679Da57",
+      "logoURI": "https://token-list.mantle.xyz/data/USDE/logo.svg",
+      "decimals": 18,
+      "chainId": 1,
+      "chainAddresses": []
+    },
+    {
       "name": "f(x) Protocol Morpho USDC",
       "symbol": "fxUSDC",
       "address": "0x4F460bb11cf958606C69A963B4A17f9DaEEea8b6",
@@ -1045,6 +1054,14 @@
       "address": "0x660e2fC185a9fFE722aF253329CEaAD4C9F6F928",
       "logoURI": "ipfs://QmQMuafpMzjkTg6ZhTzTmcUkTVbyNsFPGUiez5CrEYsMXL",
       "decimals": 6,
+      "chainId": 1,
+      "chainAddresses": []
+    },
+    {
+      "name": "Alpha ZCHF Safe Vault",
+      "symbol": "asZCHF",
+      "address": "0x6619F92861C760AD11BA0D56E8ED63A33EccE22B",
+      "decimals": 18,
       "chainId": 1,
       "chainAddresses": []
     },
@@ -2915,6 +2932,20 @@
         {
           "chainId": 42161,
           "address": "0x498bf2b1e120fed3ad3d42ea2165e9b73f99c1e5"
+        }
+      ]
+    },
+    {
+      "name": "Alpha ZCHF Vault",
+      "symbol": "aZCHF",
+      "address": "0xFa7ED49Eb24A6117D8a3168EEE69D26b45C40C63",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/54777/thumb/Alpha_Logo_200x200.png?1741516812",
+      "decimals": 18,
+      "chainId": 1,
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0xfa7ed49eb24a6117d8a3168eee69d26b45c40c63"
         }
       ]
     },
@@ -8406,6 +8437,20 @@
         {
           "chainId": 56,
           "address": "0x5a3010d4d8d3b5fb49f8b6e57fb9e48063f16700"
+        }
+      ]
+    },
+    {
+      "name": "Mubarak",
+      "symbol": "mubarak",
+      "address": "0x5c85d6c6825ab4032337f11ee92a72df936b46f6",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/54857/thumb/DKjv3dc6_400x400.jpg?1742107486",
+      "decimals": 18,
+      "chainId": 56,
+      "chainAddresses": [
+        {
+          "chainId": 56,
+          "address": "0x5c85d6c6825ab4032337f11ee92a72df936b46f6"
         }
       ]
     },
@@ -51486,6 +51531,24 @@
       "decimals": 6,
       "chainId": 59144,
       "chainAddresses": []
+    },
+    {
+      "name": "ZeroLend",
+      "symbol": "ZERO",
+      "address": "0x78354f8DcCB269a615A7e0a24f9B0718FDC3C7A7",
+      "logoURI": "https://storage.googleapis.com/ks-setting-1d682dca/9506e680-6135-45f0-8448-7ffc54bceec41714991431163.png",
+      "decimals": 18,
+      "chainId": 59144,
+      "chainAddresses": [
+        {
+          "chainId": 324,
+          "address": "0x27d0a2b5316b98088294378692f4eabfb3222e36"
+        },
+        {
+          "chainId": 59144,
+          "address": "0x78354f8dccb269a615a7e0a24f9b0718fdc3c7a7"
+        }
+      ]
     },
     {
       "name": "Binance USD",
