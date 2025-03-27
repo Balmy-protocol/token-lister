@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2025-03-26T00:17:40.319Z",
+  "timestamp": "2025-03-27T00:17:29.615Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -940,6 +940,24 @@
       ]
     },
     {
+      "name": "USD0 Liquid Bond",
+      "symbol": "USD0++",
+      "address": "0x35D8949372D46B7a3D5A56006AE77B215fc69bC0",
+      "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/1/0x35d8949372d46b7a3d5a56006ae77b215fc69bc0/logo.png",
+      "decimals": 18,
+      "chainId": 1,
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0x35d8949372d46b7a3d5a56006ae77b215fc69bc0"
+        },
+        {
+          "chainId": 42161,
+          "address": "0x2b65f9d2e4b84a2df6ff0525741b75d1276a9c2f"
+        }
+      ]
+    },
+    {
       "name": "FXN Token",
       "symbol": "FXN",
       "address": "0x365AccFCa291e7D3914637ABf1F7635dB165Bb09",
@@ -1723,6 +1741,20 @@
       "decimals": 18,
       "chainId": 1,
       "chainAddresses": []
+    },
+    {
+      "name": "Resolv USD",
+      "symbol": "USR",
+      "address": "0x66a1E37c9b0eAddca17d3662D6c05F4DECf3e110",
+      "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/1/0x66a1e37c9b0eaddca17d3662d6c05f4decf3e110/logo.png",
+      "decimals": 18,
+      "chainId": 1,
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0x66a1e37c9b0eaddca17d3662d6c05f4decf3e110"
+        }
+      ]
     },
     {
       "name": "LlamaRisk crvUSD Vault",
@@ -11279,6 +11311,20 @@
       ]
     },
     {
+      "name": "Pallapay",
+      "symbol": "palla",
+      "address": "0x8f49733210700d38098d7375c221c7d02f700cc8",
+      "logoURI": "https://tokens.1inch.io/0x8f49733210700d38098d7375c221c7d02f700cc8.png",
+      "decimals": 18,
+      "chainId": 56,
+      "chainAddresses": [
+        {
+          "chainId": 56,
+          "address": "0x8f49733210700d38098d7375c221c7d02f700cc8"
+        }
+      ]
+    },
+    {
       "name": "Binance-Peg Bitcoin Cash",
       "symbol": "bch",
       "address": "0x8ff795a6f4d97e7887c79bea79aba5cc76444adf",
@@ -12773,6 +12819,10 @@
         {
           "chainId": 137,
           "address": "0x598e49f01befeb1753737934a5b11fea9119c796"
+        },
+        {
+          "chainId": 8453,
+          "address": "0xb20a4bd059f5914a2f8b9c18881c637f79efb7df"
         }
       ]
     },
@@ -17927,6 +17977,10 @@
         {
           "chainId": 137,
           "address": "0x598e49f01befeb1753737934a5b11fea9119c796"
+        },
+        {
+          "chainId": 8453,
+          "address": "0xb20a4bd059f5914a2f8b9c18881c637f79efb7df"
         }
       ]
     },
@@ -44571,6 +44625,15 @@
           "address": "0xbeefa28d5e56d41d35df760ab53b94d9ffd7051f"
         }
       ]
+    },
+    {
+      "name": "Smokehouse USDC",
+      "symbol": "bbqUSDC",
+      "address": "0xBeeFa74640a5f7c28966cbA82466EED5609444E0",
+      "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/8453/0x833589fcd6edb6e08f4c7c32d4f71b54bda02913/logo.png",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": []
     },
     {
       "name": "Steakhouse USDC RWA",
