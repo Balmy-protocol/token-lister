@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2025-03-27T00:17:29.615Z",
+  "timestamp": "2025-03-28T00:17:41.190Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -29,6 +29,7 @@
       "name": "9S Mount Kosciuszko USR",
       "symbol": "9SUSR",
       "address": "0x00B6f2C15E4439749f192D10c70f65354848Cf4b",
+      "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/1/0x66a1e37c9b0eaddca17d3662d6c05f4decf3e110/logo.png",
       "decimals": 18,
       "chainId": 1,
       "chainAddresses": []
@@ -1391,6 +1392,7 @@
       "name": "Apostro Resolv USR",
       "symbol": "aprUSR",
       "address": "0x5085Dd6FAd07c12e38fae01bc2a4938d2C08B1Bc",
+      "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/1/0x66a1e37c9b0eaddca17d3662d6c05f4decf3e110/logo.png",
       "decimals": 18,
       "chainId": 1,
       "chainAddresses": []
@@ -3885,6 +3887,7 @@
       "name": "MEV Capital Resolv USR",
       "symbol": "MC-USR",
       "address": "0xD50DA5F859811A91fD1876C9461fD39c23C747Ad",
+      "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/1/0x66a1e37c9b0eaddca17d3662d6c05f4decf3e110/logo.png",
       "decimals": 18,
       "chainId": 1,
       "chainAddresses": []
@@ -4369,6 +4372,15 @@
           "address": "0xf16e81dce15b08f326220742020379b855b87df9"
         }
       ]
+    },
+    {
+      "name": "MEV Capital USDC Prime",
+      "symbol": "MC_USDCP",
+      "address": "0xf1fd8AC6346eC7BC4116Ba7aDc81102B2BC4C52D",
+      "logoURI": "ipfs://Qme7nin6zU5FjsvBtjvs4pJkEGyqrQKCuh9Eo66AGqapL2",
+      "decimals": 18,
+      "chainId": 1,
+      "chainAddresses": []
     },
     {
       "name": "Gauntlet cbBTC Core",
@@ -15829,6 +15841,15 @@
       "chainAddresses": []
     },
     {
+      "name": "Rigo Token",
+      "symbol": "GRG",
+      "address": "0x03C2868c6D7fD27575426f395EE081498B1120dd",
+      "logoURI": "https://ethereum-optimism.github.io/data/GRG/logo.svg",
+      "decimals": 18,
+      "chainId": 130,
+      "chainAddresses": []
+    },
+    {
       "name": "USDC",
       "symbol": "USDC",
       "address": "0x078D782b760474a361dDA0AF3839290b0EF57AD6",
@@ -16169,15 +16190,6 @@
       "symbol": "OCEAN",
       "address": "0x652293F4e9b0ef61C52a78D6615D9f5f3cD79208",
       "logoURI": "https://ethereum-optimism.github.io/data/OCEAN/logo.png",
-      "decimals": 18,
-      "chainId": 130,
-      "chainAddresses": []
-    },
-    {
-      "name": "Morpho Token",
-      "symbol": "MORPHO",
-      "address": "0x6695a2692dCD2A53E7766492447B5254A56425aD",
-      "logoURI": "https://ethereum-optimism.github.io/data/MORPHO/logo.svg",
       "decimals": 18,
       "chainId": 130,
       "chainAddresses": []
@@ -22700,12 +22712,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/23643/large/chef.09dad978.png",
       "decimals": 18,
       "chainId": 250,
-      "chainAddresses": [
-        {
-          "chainId": 250,
-          "address": "0xa882ceac81b22fc2bef8e1a82e823e3e9603310b"
-        }
-      ]
+      "chainAddresses": []
     },
     {
       "name": "Comb Finance",
@@ -47682,6 +47689,28 @@
       ]
     },
     {
+      "name": "GHO",
+      "symbol": "gho",
+      "address": "0x7dff72693f6a4149b17e7c6314655f6a9f7c8b33",
+      "logoURI": "https://tokens-data.1inch.io/images/42161/0x7dff72693f6a4149b17e7c6314655f6a9f7c8b33_0x3f29afe1b545fe97d254f04f630afe7aa3e1f979629b7a10f0d8ffba60f5ba18.png",
+      "decimals": 18,
+      "chainId": 42161,
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0x40d16fc0246ad3160ccc09b8d0d3a2cd28ae6c2f"
+        },
+        {
+          "chainId": 8453,
+          "address": "0x6bb7a212910682dcfdbd5bcbb3e28fb4e8da10ee"
+        },
+        {
+          "chainId": 42161,
+          "address": "0x7dff72693f6a4149b17e7c6314655f6a9f7c8b33"
+        }
+      ]
+    },
+    {
       "name": "Wrapped Ether",
       "symbol": "WETH",
       "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
@@ -54752,15 +54781,6 @@
       "chainAddresses": []
     },
     {
-      "name": "Morpho Token",
-      "symbol": "MORPHO",
-      "address": "0x3CF66a662390e37ff260D0cBAa8Af6d426D60D43",
-      "logoURI": "https://ethereum-optimism.github.io/data/MORPHO_DEPRECATED/logo.svg",
-      "decimals": 18,
-      "chainId": 84532,
-      "chainAddresses": []
-    },
-    {
       "name": "Graph Token",
       "symbol": "GRT",
       "address": "0x4a89c86bc3645E6FC0ba945F9eDF070C9B5AEaEa",
@@ -54819,6 +54839,15 @@
       "symbol": "tMASQ",
       "address": "0x898E1cE720084A902Bc37dD822eD6D6a5F027E10",
       "logoURI": "https://ethereum-optimism.github.io/data/MASQ/logo.png",
+      "decimals": 18,
+      "chainId": 84532,
+      "chainAddresses": []
+    },
+    {
+      "name": "Impossible Cloud Network Token (Testnet)",
+      "symbol": "tICNT",
+      "address": "0x8cE7F2C51445e50e2A5438769468Ac50f4D5E84B",
+      "logoURI": "https://ethereum-optimism.github.io/data/ICNT/logo.svg",
       "decimals": 18,
       "chainId": 84532,
       "chainAddresses": []
@@ -55569,15 +55598,6 @@
       "chainAddresses": []
     },
     {
-      "name": "Morpho Token",
-      "symbol": "MORPHO",
-      "address": "0x3CF66a662390e37ff260D0cBAa8Af6d426D60D43",
-      "logoURI": "https://ethereum-optimism.github.io/data/MORPHO_DEPRECATED/logo.svg",
-      "decimals": 18,
-      "chainId": 11155111,
-      "chainAddresses": []
-    },
-    {
       "name": "Send Token",
       "symbol": "send",
       "address": "0x3f14920c99BEB920Afa163031c4e47a3e03B3e4A",
@@ -55672,6 +55692,15 @@
       "symbol": "CXT",
       "address": "0x72E2f504a0769458ACdCdd24236912f48342457C",
       "logoURI": "https://ethereum-optimism.github.io/data/CXT/logo.svg",
+      "decimals": 18,
+      "chainId": 11155111,
+      "chainAddresses": []
+    },
+    {
+      "name": "Impossible Cloud Network Token (Testnet)",
+      "symbol": "tICNT",
+      "address": "0x8a4CB9e34335e0D432CCa9b7199DC99aF5eD20EB",
+      "logoURI": "https://ethereum-optimism.github.io/data/ICNT/logo.svg",
       "decimals": 18,
       "chainId": 11155111,
       "chainAddresses": []
