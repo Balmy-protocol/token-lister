@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2025-03-28T00:17:41.190Z",
+  "timestamp": "2025-03-29T00:17:27.814Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -33887,12 +33887,7 @@
       "logoURI": "https://assets.smold.app/api/token/1088/0xa11DD414Ad9b68cc1fe4d0a256f0F4413169Dd5E/logo-128.png",
       "decimals": 18,
       "chainId": 1088,
-      "chainAddresses": [
-        {
-          "chainId": 1088,
-          "address": "0xa11dd414ad9b68cc1fe4d0a256f0f4413169dd5e"
-        }
-      ]
+      "chainAddresses": []
     },
     {
       "name": "Natalia's Anonymous 2nd Cat",
@@ -44297,6 +44292,28 @@
       ]
     },
     {
+      "name": "USDS Stablecoin",
+      "symbol": "USDS",
+      "address": "0x820C137fa70C8691f0e44Dc420a5e53c168921Dc",
+      "logoURI": "https://assets.smold.app/api/token/8453/0x820C137fa70C8691f0e44Dc420a5e53c168921Dc/logo-128.png",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0xdc035d45d973e3ec169d2276ddab16f1e407384f"
+        },
+        {
+          "chainId": 8453,
+          "address": "0x820c137fa70c8691f0e44dc420a5e53c168921dc"
+        },
+        {
+          "chainId": 42161,
+          "address": "0x6491c05a82219b8d1479057361ff1654749b876b"
+        }
+      ]
+    },
+    {
       "name": "USD Coin",
       "symbol": "USDC",
       "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
@@ -48860,6 +48877,10 @@
       "decimals": 6,
       "chainId": 42161,
       "chainAddresses": [
+        {
+          "chainId": 10,
+          "address": "0x01bff41798a0bcf287b996046ca68b395dbc1071"
+        },
         {
           "chainId": 42161,
           "address": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9"
