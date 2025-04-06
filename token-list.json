@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2025-04-05T00:17:31.586Z",
+  "timestamp": "2025-04-06T00:19:31.923Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -9566,12 +9566,7 @@
       "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0xa0C3c184493f2Fae7d2f2Bd83F195a1c300FA353/logo.png",
       "decimals": 18,
       "chainId": 25,
-      "chainAddresses": [
-        {
-          "chainId": 25,
-          "address": "0xa0c3c184493f2fae7d2f2bd83f195a1c300fa353"
-        }
-      ]
+      "chainAddresses": []
     },
     {
       "name": "V3S-Peg Tectonic",
@@ -41950,32 +41945,7 @@
       "logoURI": "https://assets.smold.app/api/token/1088/0xfe282Af5f9eB59C30A3f78789EEfFA704188bdD4/logo-128.png",
       "decimals": 18,
       "chainId": 1088,
-      "chainAddresses": [
-        {
-          "chainId": 1,
-          "address": "0x5d843fa9495d23de997c394296ac7b4d721e841c"
-        },
-        {
-          "chainId": 56,
-          "address": "0xe338d4250a4d959f88ff8789eaae8c32700bd175"
-        },
-        {
-          "chainId": 137,
-          "address": "0x904371845bc56dcbbcf0225ef84a669b2fd6bd0d"
-        },
-        {
-          "chainId": 1088,
-          "address": "0xfe282af5f9eb59c30a3f78789eeffa704188bdd4"
-        },
-        {
-          "chainId": 42161,
-          "address": "0x1426cf37caa89628c4da2864e40cf75e6d66ac6b"
-        },
-        {
-          "chainId": 43114,
-          "address": "0x78c42324016cd91d1827924711563fb66e33a83a"
-        }
-      ]
+      "chainAddresses": []
     },
     {
       "name": "Give",
@@ -56426,24 +56396,6 @@
       "decimals": 6,
       "chainId": 59144,
       "chainAddresses": []
-    },
-    {
-      "name": "ZeroLend",
-      "symbol": "ZERO",
-      "address": "0x78354f8DcCB269a615A7e0a24f9B0718FDC3C7A7",
-      "logoURI": "https://storage.googleapis.com/ks-setting-1d682dca/9506e680-6135-45f0-8448-7ffc54bceec41714991431163.png",
-      "decimals": 18,
-      "chainId": 59144,
-      "chainAddresses": [
-        {
-          "chainId": 324,
-          "address": "0x27d0a2b5316b98088294378692f4eabfb3222e36"
-        },
-        {
-          "chainId": 59144,
-          "address": "0x78354f8dccb269a615a7e0a24f9b0718fdc3c7a7"
-        }
-      ]
     },
     {
       "name": "Binance USD",
