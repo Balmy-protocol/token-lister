@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2025-04-07T00:18:21.130Z",
+  "timestamp": "2025-04-08T00:17:50.382Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -29,7 +29,6 @@
       "name": "9S Mount Kosciuszko USR",
       "symbol": "9SUSR",
       "address": "0x00B6f2C15E4439749f192D10c70f65354848Cf4b",
-      "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/1/0x66a1e37c9b0eaddca17d3662d6c05f4decf3e110/logo.png",
       "decimals": 18,
       "chainId": 1,
       "chainAddresses": []
@@ -787,7 +786,6 @@
       "name": "Gauntlet Olympus sUSDS Vault",
       "symbol": "OHMsUSDS",
       "address": "0x3365184e87d2Bd75961780454A5810BEc956F0dD",
-      "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/1/0xa3931d71877c0e7a3148cb7eb4463524fec27fbd/logo.png",
       "decimals": 18,
       "chainId": 1,
       "chainAddresses": []
@@ -1308,7 +1306,6 @@
       "name": "Apostro Resolv USR",
       "symbol": "aprUSR",
       "address": "0x5085Dd6FAd07c12e38fae01bc2a4938d2C08B1Bc",
-      "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/1/0x66a1e37c9b0eaddca17d3662d6c05f4decf3e110/logo.png",
       "decimals": 18,
       "chainId": 1,
       "chainAddresses": []
@@ -3648,7 +3645,6 @@
       "name": "MEV Capital Resolv USR",
       "symbol": "MC-USR",
       "address": "0xD50DA5F859811A91fD1876C9461fD39c23C747Ad",
-      "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/1/0x66a1e37c9b0eaddca17d3662d6c05f4decf3e110/logo.png",
       "decimals": 18,
       "chainId": 1,
       "chainAddresses": []
@@ -43428,7 +43424,6 @@
       "name": "Gauntlet LBTC Core",
       "symbol": "gtLBTCc",
       "address": "0x0D05e6ec0A10f9fFE9229EAA785c11606a1d13Fb",
-      "logoURI": "https://assets.smold.app/api/token/8453/0xecAc9C5F704e954931349Da37F60E39f515c11c1/logo-128.png",
       "decimals": 18,
       "chainId": 8453,
       "chainAddresses": []
@@ -43480,7 +43475,12 @@
       "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/8453/0x833589fcd6edb6e08f4c7c32d4f71b54bda02913/logo.png",
       "decimals": 18,
       "chainId": 8453,
-      "chainAddresses": []
+      "chainAddresses": [
+        {
+          "chainId": 8453,
+          "address": "0x1d3b1cd0a0f242d598834b3f2d126dc6bd774657"
+        }
+      ]
     },
     {
       "name": "Synthetix Network Token",
@@ -44213,7 +44213,7 @@
       "name": "Morpho eUSD",
       "symbol": "meUSD",
       "address": "0xbb819D845b573B5D7C538F5b85057160cfb5f313",
-      "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/8453/0xcfa3ef56d303ae4faaba0592388f19d7c3399fb4/logo.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/51547/thumb/22933.png?1731516835",
       "decimals": 18,
       "chainId": 8453,
       "chainAddresses": [
@@ -48576,6 +48576,15 @@
       ]
     },
     {
+      "name": "Curve DAO Token",
+      "symbol": "CRV",
+      "address": "0x75184c282e55a7393053f0b8F4F3E7BeAE067fdC",
+      "logoURI": "https://ethereum-optimism.github.io/data/CRV/logo.png",
+      "decimals": 18,
+      "chainId": 42220,
+      "chainAddresses": []
+    },
+    {
       "name": "Celo Dollar",
       "symbol": "cUSD",
       "address": "0x765DE816845861e75A25fCA122bb6898B8B1282a",
@@ -48975,6 +48984,15 @@
       ]
     },
     {
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "address": "0xD221812de1BD094f35587EE8E174B07B6167D9Af",
+      "logoURI": "https://ethereum-optimism.github.io/data/WETH/logo.png",
+      "decimals": 18,
+      "chainId": 42220,
+      "chainAddresses": []
+    },
+    {
       "name": "wrapped.com Bitcoin",
       "symbol": "cBTC",
       "address": "0xD629eb00dEced2a080B7EC630eF6aC117e614f1b",
@@ -49130,6 +49148,15 @@
       "chainAddresses": []
     },
     {
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "address": "0xE79a3d9f18C20c93DbEc8db8B28C6542d63df5E9",
+      "logoURI": "https://ethereum-optimism.github.io/data/WBTC/logo.svg",
+      "decimals": 8,
+      "chainId": 42220,
+      "chainAddresses": []
+    },
+    {
       "name": "Celo Real",
       "symbol": "cREAL",
       "address": "0xe8537a3d056DA446677B9E9d6c5dB704EaAb4787",
@@ -49153,11 +49180,29 @@
       "chainAddresses": []
     },
     {
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "address": "0xeE571697998ec64e32B57D754D700c4dda2f2a0e",
+      "logoURI": "https://ethereum-optimism.github.io/data/UNI/logo.png",
+      "decimals": 18,
+      "chainId": 42220,
+      "chainAddresses": []
+    },
+    {
       "name": "Optics v2 USDC",
       "symbol": "USDC",
       "address": "0xef4229c8c3250C675F21BCefa42f58EfbfF6002a",
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_USDC.png",
       "decimals": 6,
+      "chainId": 42220,
+      "chainAddresses": []
+    },
+    {
+      "name": "Aave Token",
+      "symbol": "AAVE",
+      "address": "0xF6A54aff8c97f7AF3CC86dbaeE88aF6a7AaB6288",
+      "logoURI": "https://ethereum-optimism.github.io/data/AAVE/logo.svg",
+      "decimals": 18,
       "chainId": 42220,
       "chainAddresses": []
     },
