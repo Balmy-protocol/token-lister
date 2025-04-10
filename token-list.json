@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2025-04-09T00:17:58.224Z",
+  "timestamp": "2025-04-10T00:17:50.823Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -344,44 +344,6 @@
         {
           "chainId": 137,
           "address": "0x85955046df4668e1dd369d2de9f3aeb98dd2a369"
-        }
-      ]
-    },
-    {
-      "name": "PancakeSwap Token",
-      "symbol": "Cake",
-      "address": "0x152649eA73beAb28c5b49B26eb48f7EAD6d4c898",
-      "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/1/0x152649ea73beab28c5b49b26eb48f7ead6d4c898/logo.png",
-      "decimals": 18,
-      "chainId": 1,
-      "chainAddresses": [
-        {
-          "chainId": 1,
-          "address": "0x152649ea73beab28c5b49b26eb48f7ead6d4c898"
-        },
-        {
-          "chainId": 56,
-          "address": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82"
-        },
-        {
-          "chainId": 324,
-          "address": "0x3a287a06c66f9e95a56327185ca2bdf5f031cecd"
-        },
-        {
-          "chainId": 1101,
-          "address": "0x0d1e753a25ebda689453309112904807625befbe"
-        },
-        {
-          "chainId": 8453,
-          "address": "0x3055913c90fcc1a6ce9a358911721eeb942013a1"
-        },
-        {
-          "chainId": 42161,
-          "address": "0x1b896893dfc86bb67cf57767298b9073d2c1ba2c"
-        },
-        {
-          "chainId": 59144,
-          "address": "0x0d1e753a25ebda689453309112904807625befbe"
         }
       ]
     },
@@ -2677,24 +2639,6 @@
       ]
     },
     {
-      "name": "Paladin Token",
-      "symbol": "PAL",
-      "address": "0xAB846Fb6C81370327e784Ae7CbB6d6a6af6Ff4BF",
-      "logoURI": "https://ethereum-optimism.github.io/data/PAL/logo.svg",
-      "decimals": 18,
-      "chainId": 1,
-      "chainAddresses": [
-        {
-          "chainId": 1,
-          "address": "0xab846fb6c81370327e784ae7cbb6d6a6af6ff4bf"
-        },
-        {
-          "chainId": 146,
-          "address": "0xe4a4353cd8f008f1a70f1a564535990479e8ceb7"
-        }
-      ]
-    },
-    {
       "name": "Rocket Pool ETH",
       "symbol": "rETH",
       "address": "0xae78736Cd615f374D3085123A210448E74Fc6393",
@@ -2875,32 +2819,6 @@
         {
           "chainId": 42161,
           "address": "0x753d224bcf9aafacd81558c32341416df61d3dac"
-        }
-      ]
-    },
-    {
-      "name": "Alchemix USD",
-      "symbol": "alUSD",
-      "address": "0xBC6DA0FE9aD5f3b0d58160288917AA56653660E9",
-      "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/1/0xbc6da0fe9ad5f3b0d58160288917aa56653660e9/logo.png",
-      "decimals": 18,
-      "chainId": 1,
-      "chainAddresses": [
-        {
-          "chainId": 1,
-          "address": "0xbc6da0fe9ad5f3b0d58160288917aa56653660e9"
-        },
-        {
-          "chainId": 10,
-          "address": "0xcb8fa9a76b8e203d8c3797bf438d8fb81ea3326a"
-        },
-        {
-          "chainId": 250,
-          "address": "0xb67fa6defce4042070eb1ae1511dcd6dcc6a532e"
-        },
-        {
-          "chainId": 42161,
-          "address": "0xcb8fa9a76b8e203d8c3797bf438d8fb81ea3326a"
         }
       ]
     },
@@ -4174,24 +4092,6 @@
       ]
     },
     {
-      "name": "swETH",
-      "symbol": "swETH",
-      "address": "0xf951E335afb289353dc249e82926178EaC7DEd78",
-      "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/1/0xf951e335afb289353dc249e82926178eac7ded78/logo.png",
-      "decimals": 18,
-      "chainId": 1,
-      "chainAddresses": [
-        {
-          "chainId": 1,
-          "address": "0xf951e335afb289353dc249e82926178eac7ded78"
-        },
-        {
-          "chainId": 42161,
-          "address": "0xbc011a12da28e8f0f528d9ee5e7039e22f91cf18"
-        }
-      ]
-    },
-    {
       "name": "Alpha ZCHF Vault",
       "symbol": "aZCHF",
       "address": "0xFa7ED49Eb24A6117D8a3168EEE69D26b45C40C63",
@@ -5198,8 +5098,8 @@
     },
     {
       "name": "PoolTogether",
-      "symbol": "POOL",
-      "address": "0x395Ae52bB17aef68C2888d941736A71dC6d4e125",
+      "symbol": "pool",
+      "address": "0x395ae52bb17aef68c2888d941736a71dc6d4e125",
       "logoURI": "https://ethereum-optimism.github.io/data/POOL/logo.svg",
       "decimals": 18,
       "chainId": 10,
@@ -5236,8 +5136,8 @@
     },
     {
       "name": "Alchemix ETH",
-      "symbol": "alETH",
-      "address": "0x3E29D3A9316dAB217754d13b28646B76607c5f04",
+      "symbol": "aleth",
+      "address": "0x3e29d3a9316dab217754d13b28646b76607c5f04",
       "logoURI": "https://ethereum-optimism.github.io/data/alETH/logo.svg",
       "decimals": 18,
       "chainId": 10,
@@ -5471,9 +5371,9 @@
       ]
     },
     {
-      "name": "Giveth Token",
-      "symbol": "GIV",
-      "address": "0x528CDc92eAB044E1E39FE43B9514bfdAB4412B98",
+      "name": "Giveth",
+      "symbol": "giv",
+      "address": "0x528cdc92eab044e1e39fe43b9514bfdab4412b98",
       "logoURI": "https://ethereum-optimism.github.io/data/GIV/logo.svg",
       "decimals": 18,
       "chainId": 10,
@@ -5540,9 +5440,9 @@
       "chainAddresses": []
     },
     {
-      "name": "Aelin Token",
-      "symbol": "AELIN",
-      "address": "0x61BAADcF22d2565B0F471b291C475db5555e0b76",
+      "name": "Aelin",
+      "symbol": "aelin",
+      "address": "0x61baadcf22d2565b0f471b291c475db5555e0b76",
       "logoURI": "https://ethereum-optimism.github.io/data/AELIN/logo.png",
       "decimals": 18,
       "chainId": 10,
@@ -5557,7 +5457,7 @@
       "name": "Aave Optimism USDC",
       "symbol": "aOptUSDC",
       "address": "0x625e7708f30ca75bfd92586e17077590c60eb4cd",
-      "logoURI": "https://assets.coingecko.com/coins/images/12645/large/AAVE.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/32847/thumb/usdc_%281%29.png?1699619355",
       "decimals": 6,
       "chainId": 10,
       "chainAddresses": [
@@ -6467,8 +6367,8 @@
     },
     {
       "name": "dForce USD",
-      "symbol": "USX",
-      "address": "0xbfD291DA8A403DAAF7e5E9DC1ec0aCEaCd4848B9",
+      "symbol": "usx",
+      "address": "0xbfd291da8a403daaf7e5e9dc1ec0aceacd4848b9",
       "logoURI": "https://ethereum-optimism.github.io/data/USX/logo.svg",
       "decimals": 18,
       "chainId": 10,
@@ -6544,9 +6444,9 @@
       ]
     },
     {
-      "name": "Hop",
-      "symbol": "HOP",
-      "address": "0xc5102fE9359FD9a28f877a67E36B0F050d81a3CC",
+      "name": "Hop Protocol",
+      "symbol": "hop",
+      "address": "0xc5102fe9359fd9a28f877a67e36b0f050d81a3cc",
       "logoURI": "https://ethereum-optimism.github.io/data/HOP/logo.svg",
       "decimals": 18,
       "chainId": 10,
@@ -6574,28 +6474,6 @@
         {
           "chainId": 42161,
           "address": "0xc5102fe9359fd9a28f877a67e36b0f050d81a3cc"
-        }
-      ]
-    },
-    {
-      "name": "Moo BIFI",
-      "symbol": "mooBIFI",
-      "address": "0xc55E93C62874D8100dBd2DfE307EDc1036ad5434",
-      "logoURI": "https://assets.smold.app/api/token/10/0xc55E93C62874D8100dBd2DfE307EDc1036ad5434/logo-128.png",
-      "decimals": 18,
-      "chainId": 10,
-      "chainAddresses": [
-        {
-          "chainId": 1,
-          "address": "0xbeef8e0982874e0292e6c5751c5a4092b3e1beef"
-        },
-        {
-          "chainId": 10,
-          "address": "0xc55e93c62874d8100dbd2dfe307edc1036ad5434"
-        },
-        {
-          "chainId": 8453,
-          "address": "0xc55e93c62874d8100dbd2dfe307edc1036ad5434"
         }
       ]
     },
@@ -6779,8 +6657,8 @@
     },
     {
       "name": "ShapeShift FOX",
-      "symbol": "FOX",
-      "address": "0xF1a0DA3367BC7aa04F8D94BA57B862ff37CeD174",
+      "symbol": "fox",
+      "address": "0xf1a0da3367bc7aa04f8d94ba57b862ff37ced174",
       "logoURI": "https://ethereum-optimism.github.io/data/FOX/logo.svg",
       "decimals": 18,
       "chainId": 10,
@@ -46243,6 +46121,20 @@
         {
           "chainId": 42161,
           "address": "0x1debd73e752beaf79865fd6446b0c970eae7732f"
+        }
+      ]
+    },
+    {
+      "name": "Open Dollar",
+      "symbol": "OD",
+      "address": "0x221A0f68770658C15B525d0F89F5da2baAB5f321",
+      "logoURI": "https://assets.smold.app/api/token/42161/0x221A0f68770658C15B525d0F89F5da2baAB5f321/logo-128.png",
+      "decimals": 18,
+      "chainId": 42161,
+      "chainAddresses": [
+        {
+          "chainId": 42161,
+          "address": "0x221a0f68770658c15b525d0f89f5da2baab5f321"
         }
       ]
     },
