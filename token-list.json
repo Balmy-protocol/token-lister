@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2025-04-10T00:17:50.823Z",
+  "timestamp": "2025-04-11T00:17:55.989Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -1865,7 +1865,12 @@
       "logoURI": "ipfs://Qme7nin6zU5FjsvBtjvs4pJkEGyqrQKCuh9Eo66AGqapL2",
       "decimals": 18,
       "chainId": 1,
-      "chainAddresses": []
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0x7204b7dbf9412567835633b6f00c3edc3a8d6330"
+        }
+      ]
     },
     {
       "name": "Metaverse Index",
@@ -2949,6 +2954,15 @@
           "address": "0xbeef11ecb698f4b5378685c05a210bdf71093521"
         }
       ]
+    },
+    {
+      "name": "Smokehouse ETH",
+      "symbol": "bbqETH",
+      "address": "0xbEEF36A5C1372F8D7d211527FCE9f83FE02d8A73",
+      "logoURI": "ipfs://QmPustaS11SLRauY8okJp2UhsTPCfHKQBQYocvpojKoiv9",
+      "decimals": 18,
+      "chainId": 1,
+      "chainAddresses": []
     },
     {
       "name": "Steakhouse PAXG",
@@ -15753,15 +15767,6 @@
       "symbol": "LINK",
       "address": "0x5a53B6D19D8EDCb7923F0D840EeBB3f09BBeEfB7",
       "logoURI": "https://ethereum-optimism.github.io/data/LINK/logo.png",
-      "decimals": 18,
-      "chainId": 130,
-      "chainAddresses": []
-    },
-    {
-      "name": "Biconomy Token",
-      "symbol": "BICO",
-      "address": "0x604Ff88ADC02325EFb7f93DB3E442dc81D0588E7",
-      "logoURI": "https://ethereum-optimism.github.io/data/BICO/logo.svg",
       "decimals": 18,
       "chainId": 130,
       "chainAddresses": []
@@ -39777,6 +39782,14 @@
       "chainAddresses": []
     },
     {
+      "name": "Mai Stablecoin",
+      "symbol": "MAI",
+      "address": "0x615B25500403Eb688Be49221b303084D9Cf0E5B4",
+      "decimals": 18,
+      "chainId": 1101,
+      "chainAddresses": []
+    },
+    {
       "name": "QuickSwap",
       "symbol": "QUICK",
       "address": "0x68286607A1d43602d880D349187c3c48c0fD05E6",
@@ -39916,6 +39929,59 @@
       "decimals": 18,
       "chainId": 1101,
       "chainAddresses": []
+    },
+    {
+      "name": "Davos.xyz USD",
+      "symbol": "DUSD",
+      "address": "0x819d1Daa794c1c46B841981b61cC978d95A17b8e",
+      "decimals": 18,
+      "chainId": 1101,
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0xa48f322f8b3edff967629af79e027628b9dd1298"
+        },
+        {
+          "chainId": 10,
+          "address": "0xb396b31599333739a97951b74652c117be86ee1d"
+        },
+        {
+          "chainId": 56,
+          "address": "0x8ec1877698acf262fe8ad8a295ad94d6ea258988"
+        },
+        {
+          "chainId": 137,
+          "address": "0xec38621e72d86775a89c7422746de1f52bba5320"
+        },
+        {
+          "chainId": 1101,
+          "address": "0x819d1daa794c1c46b841981b61cc978d95a17b8e"
+        },
+        {
+          "chainId": 5000,
+          "address": "0x62a509ba95c75cabc7190469025e5abee4eddb2a"
+        },
+        {
+          "chainId": 8453,
+          "address": "0xf2393eeadd67bf68a60f39992113775966f34e1e"
+        },
+        {
+          "chainId": 34443,
+          "address": "0x819d1daa794c1c46b841981b61cc978d95a17b8e"
+        },
+        {
+          "chainId": 42161,
+          "address": "0x8ec1877698acf262fe8ad8a295ad94d6ea258988"
+        },
+        {
+          "chainId": 59144,
+          "address": "0xa88b54e6b76fb97cdb8ecae868f1458e18a953f4"
+        },
+        {
+          "chainId": 81457,
+          "address": "0x578122317baca7a3c7bb5301460d2f4f96e9394a"
+        }
+      ]
     },
     {
       "name": "Staked MATIC",
@@ -40083,6 +40149,14 @@
       "name": "Rocket Pool ETH",
       "symbol": "rETH",
       "address": "0xb23C20EFcE6e24Acca0Cef9B7B7aA196b84EC942",
+      "decimals": 18,
+      "chainId": 1101,
+      "chainAddresses": []
+    },
+    {
+      "name": "Wrapped liquid staked Ether 2.0",
+      "symbol": "wstETH(v2)",
+      "address": "0xbf6De60Ccd9D22a5820A658fbE9fc87975EA204f",
       "decimals": 18,
       "chainId": 1101,
       "chainAddresses": []
@@ -52243,6 +52317,15 @@
       ]
     },
     {
+      "name": "HAPI",
+      "symbol": "HAPI",
+      "address": "0x0e5F2ee8C29e7eBc14e45dA7FF90566d8c407dB7",
+      "logoURI": "https://storage.googleapis.com/ks-setting-1d682dca/2a5ae219-3a0f-4be6-951d-2d7b3043c2b4.png",
+      "decimals": 18,
+      "chainId": 59144,
+      "chainAddresses": []
+    },
+    {
       "name": "USDC.e",
       "symbol": "USDC",
       "address": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
@@ -52512,6 +52595,56 @@
       ]
     },
     {
+      "name": "Kyber Network Crystal v2",
+      "symbol": "KNC",
+      "address": "0x3b2F62d42DB19B30588648bf1c184865D4C3B1D6",
+      "logoURI": "https://storage.googleapis.com/ks-setting-1d682dca/85a7985a-5597-4146-a1cf-07b9866044d9.png",
+      "decimals": 18,
+      "chainId": 59144,
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0xdefa4e8a7bcba345f687a2f1456f5edd9ce97202"
+        },
+        {
+          "chainId": 10,
+          "address": "0xa00e3a3511aac35ca78530c85007afcd31753819"
+        },
+        {
+          "chainId": 56,
+          "address": "0xfe56d5892bdffc7bf58f2e84be1b2c32d21c308b"
+        },
+        {
+          "chainId": 137,
+          "address": "0x1c954e8fe737f99f68fa1ccda3e51ebdb291948c"
+        },
+        {
+          "chainId": 250,
+          "address": "0x1e1085efaa63edfe74aad7c05a28eae4ef917c3f"
+        },
+        {
+          "chainId": 324,
+          "address": "0x6ee46cb7cd2f15ee1ec9534cf29a5b51c83283e6"
+        },
+        {
+          "chainId": 1101,
+          "address": "0x6a80a465409ce8d36c513129c0feea61bed579ba"
+        },
+        {
+          "chainId": 42161,
+          "address": "0xe4dddfe67e7164b0fe14e218d80dc4c08edc01cb"
+        },
+        {
+          "chainId": 43114,
+          "address": "0x39fc9e94caeacb435842fadedecb783589f50f5f"
+        },
+        {
+          "chainId": 59144,
+          "address": "0x3b2f62d42db19b30588648bf1c184865d4c3b1d6"
+        }
+      ]
+    },
+    {
       "name": "Axelar Wrapped TIA",
       "symbol": "axlTIA",
       "address": "0x41b94c5867f7F6217C9a30520Cb3e793B1ee1b97",
@@ -52621,6 +52754,40 @@
         {
           "chainId": 59144,
           "address": "0x5471ea8f739dd37e9b81be9c5c77754d8aa953e4"
+        }
+      ]
+    },
+    {
+      "name": "WeFi",
+      "symbol": "WEFI",
+      "address": "0x60892e742d91d16Be2cB0ffE847e85445989e30B",
+      "logoURI": "https://storage.googleapis.com/ks-setting-1d682dca/d5a78328-a28e-495c-8d3b-303da6716ade1700651602206.png",
+      "decimals": 18,
+      "chainId": 59144,
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0xffa188493c15dfaf2c206c97d8633377847b6a52"
+        },
+        {
+          "chainId": 56,
+          "address": "0xffa188493c15dfaf2c206c97d8633377847b6a52"
+        },
+        {
+          "chainId": 137,
+          "address": "0xffa188493c15dfaf2c206c97d8633377847b6a52"
+        },
+        {
+          "chainId": 324,
+          "address": "0x81e7186947fb59aaaaeb476a47daac60680cbbaf"
+        },
+        {
+          "chainId": 42161,
+          "address": "0xffa188493c15dfaf2c206c97d8633377847b6a52"
+        },
+        {
+          "chainId": 59144,
+          "address": "0x60892e742d91d16be2cb0ffe847e85445989e30b"
         }
       ]
     },
@@ -52862,6 +53029,15 @@
       ]
     },
     {
+      "name": "LYVE Debt Token",
+      "symbol": "LYU",
+      "address": "0xb20116eE399f15647BB1eEf9A74f6ef3b58bc951",
+      "logoURI": "https://storage.googleapis.com/ks-setting-1d682dca/9416bf3d-3df3-49db-85e3-aa75e22a757a1700135562848.png",
+      "decimals": 18,
+      "chainId": 59144,
+      "chainAddresses": []
+    },
+    {
       "name": "Axelar Wrapped KNC",
       "symbol": "KNC(Axelar)",
       "address": "0xB448eC505C924944ca8B2C55EF05c299eE0781df",
@@ -52942,6 +53118,15 @@
           "address": "0xba2f9e7ae9f5f03fce7d560f986743659e768bbf"
         }
       ]
+    },
+    {
+      "name": "Linea Velocore",
+      "symbol": "LVC",
+      "address": "0xcc22F6AA610D1b2a0e89EF228079cB3e1831b1D1",
+      "logoURI": "https://assets.coingecko.com/coins/images/31537/large/LVC.png?1696530346",
+      "decimals": 18,
+      "chainId": 59144,
+      "chainAddresses": []
     },
     {
       "name": "Wrapped Ether",
