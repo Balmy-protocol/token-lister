@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2025-04-14T00:19:06.656Z",
+  "timestamp": "2025-04-15T00:18:43.481Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -747,6 +747,14 @@
       "chainAddresses": []
     },
     {
+      "name": "M11C-Level lvlUSD",
+      "symbol": "M11C lvlUSD",
+      "address": "0x2C3Cc1C02856894345797Cf6ee76aE76AC0f4031",
+      "decimals": 18,
+      "chainId": 1,
+      "chainAddresses": []
+    },
+    {
       "name": "Tokemak",
       "symbol": "TOKE",
       "address": "0x2e9d63788249371f1DFC918a52f8d799F4a38C94",
@@ -773,6 +781,15 @@
           "address": "0x2f1abb81ed86be95bcf8178ba62c8e72d6834775"
         }
       ]
+    },
+    {
+      "name": "OpenEden USDC Vault",
+      "symbol": "USDC",
+      "address": "0x2F21c6499fa53a680120e654a27640Fc8Aa40BeD",
+      "logoURI": "ipfs://Qme7nin6zU5FjsvBtjvs4pJkEGyqrQKCuh9Eo66AGqapL2",
+      "decimals": 18,
+      "chainId": 1,
+      "chainAddresses": []
     },
     {
       "name": "Steakhouse USDR",
@@ -808,6 +825,7 @@
       "name": "Gauntlet Olympus sUSDS Vault",
       "symbol": "OHMsUSDS",
       "address": "0x3365184e87d2Bd75961780454A5810BEc956F0dD",
+      "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/1/0xa3931d71877c0e7a3148cb7eb4463524fec27fbd/logo.png",
       "decimals": 18,
       "chainId": 1,
       "chainAddresses": []
@@ -9150,7 +9168,7 @@
       "name": "Binance-Peg WETH",
       "symbol": "weth",
       "address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
-      "logoURI": "https://tokens.1inch.io/0x2170ed0880ac9a755fd29b2688956bd959f933f8.png",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/39580/thumb/weth.png?1723006716",
       "decimals": 18,
       "chainId": 56,
       "chainAddresses": [
@@ -22729,12 +22747,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/22087/large/1_Wyot-SDGZuxbjdkaOeT2-A.png",
       "decimals": 18,
       "chainId": 250,
-      "chainAddresses": [
-        {
-          "chainId": 250,
-          "address": "0x9fb9a33956351cf4fa040f65a13b835a3c8764e3"
-        }
-      ]
+      "chainAddresses": []
     },
     {
       "name": "liHND",
@@ -43895,6 +43908,7 @@
       "name": "Gauntlet LBTC Core",
       "symbol": "gtLBTCc",
       "address": "0x0D05e6ec0A10f9fFE9229EAA785c11606a1d13Fb",
+      "logoURI": "https://assets.smold.app/api/token/8453/0xecAc9C5F704e954931349Da37F60E39f515c11c1/logo-128.png",
       "decimals": 18,
       "chainId": 8453,
       "chainAddresses": []
@@ -44806,7 +44820,7 @@
       "name": "Morpho eUSD",
       "symbol": "meUSD",
       "address": "0xbb819D845b573B5D7C538F5b85057160cfb5f313",
-      "logoURI": "https://assets.coingecko.com/coins/images/51547/thumb/22933.png?1731516835",
+      "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/8453/0xcfa3ef56d303ae4faaba0592388f19d7c3399fb4/logo.png",
       "decimals": 18,
       "chainId": 8453,
       "chainAddresses": [
