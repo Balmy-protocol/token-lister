@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2025-04-17T00:18:02.791Z",
+  "timestamp": "2025-04-18T00:18:01.279Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -1049,6 +1049,20 @@
         {
           "chainId": 42161,
           "address": "0x7dff72693f6a4149b17e7c6314655f6a9f7c8b33"
+        }
+      ]
+    },
+    {
+      "name": "Resupply",
+      "symbol": "RSUP",
+      "address": "0x419905009e4656fdC02418C7Df35B1E61Ed5F726",
+      "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/1/0x419905009e4656fdc02418c7df35b1e61ed5f726/logo.png",
+      "decimals": 18,
+      "chainId": 1,
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0x419905009e4656fdc02418c7df35b1e61ed5f726"
         }
       ]
     },
@@ -11307,6 +11321,24 @@
         {
           "chainId": 43114,
           "address": "0x44c784266cf024a60e8acf2427b9857ace194c5d"
+        }
+      ]
+    },
+    {
+      "name": "USD1",
+      "symbol": "usd1",
+      "address": "0x8d0d000ee44948fc98c9b98a4fa4921476f08b0d",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/54977/thumb/30Q2SFVH_400x400.jpg?1742998328",
+      "decimals": 18,
+      "chainId": 56,
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0x8d0d000ee44948fc98c9b98a4fa4921476f08b0d"
+        },
+        {
+          "chainId": 56,
+          "address": "0x8d0d000ee44948fc98c9b98a4fa4921476f08b0d"
         }
       ]
     },
@@ -23044,12 +23076,7 @@
       "logoURI": "https://tokens.1inch.io/0xc60d7067dfbc6f2caf30523a064f416a5af52963.png",
       "decimals": 18,
       "chainId": 250,
-      "chainAddresses": [
-        {
-          "chainId": 250,
-          "address": "0xc60d7067dfbc6f2caf30523a064f416a5af52963"
-        }
-      ]
+      "chainAddresses": []
     },
     {
       "name": "gxLQDR",
@@ -39699,12 +39726,7 @@
       "logoURI": "https://assets.smold.app/api/token/1088/0xfBae1EAb52af0Ea3d35cB12F1221cE32D377D08E/logo-128.png",
       "decimals": 18,
       "chainId": 1088,
-      "chainAddresses": [
-        {
-          "chainId": 1088,
-          "address": "0xfbae1eab52af0ea3d35cb12f1221ce32d377d08e"
-        }
-      ]
+      "chainAddresses": []
     },
     {
       "name": "gMetis",
