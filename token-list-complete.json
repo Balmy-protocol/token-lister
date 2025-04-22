@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List - complete version",
   "description": "A list of tokens from all the token lists on Balmy",
-  "timestamp": "2025-04-21T00:19:08.903Z",
+  "timestamp": "2025-04-22T00:18:07.070Z",
   "tokens": [
     {
       "name": "Ether",
@@ -396,6 +396,7 @@
       "name": "9S Mount Kosciuszko USR",
       "symbol": "9SUSR",
       "address": "0x00B6f2C15E4439749f192D10c70f65354848Cf4b",
+      "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/1/0x66a1e37c9b0eaddca17d3662d6c05f4decf3e110/logo.png",
       "decimals": 18,
       "chainId": 1,
       "chainAddresses": [],
@@ -4662,6 +4663,17 @@
       "chainAddresses": [],
       "providers": [
         "smolDapp",
+        "yearn"
+      ]
+    },
+    {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0x11f7f8AA7Bb5ABF819544d502D0f365C4cb0dFEB",
+      "decimals": 18,
+      "chainId": 1,
+      "chainAddresses": [],
+      "providers": [
         "yearn"
       ]
     },
@@ -9527,6 +9539,17 @@
       ]
     },
     {
+      "name": "YT USN 31JUL2025",
+      "symbol": "YT-USN-31JUL2025",
+      "address": "0x267F578f866617628386211Da738347e063eccb7",
+      "decimals": 18,
+      "chainId": 1,
+      "chainAddresses": [],
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "Synth sKRW",
       "symbol": "sKRW",
       "address": "0x269895a3dF4D73b077Fc823dD6dA1B95f72Aaf9B",
@@ -10636,6 +10659,17 @@
       "chainAddresses": [],
       "providers": [
         "smolDapp",
+        "yearn"
+      ]
+    },
+    {
+      "name": "SY USN",
+      "symbol": "SY-USN",
+      "address": "0x2C452bDD2192A197fb085a7C73fe6C82782401dC",
+      "decimals": 18,
+      "chainId": 1,
+      "chainAddresses": [],
+      "providers": [
         "yearn"
       ]
     },
@@ -16668,6 +16702,17 @@
       ]
     },
     {
+      "name": "alUSD/sDOLA",
+      "symbol": "alUSDsDOLA",
+      "address": "0x460638e6F7605B866736e38045C0DE8294d7D87f",
+      "decimals": 18,
+      "chainId": 1,
+      "chainAddresses": [],
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "Hoard",
       "symbol": "HRD",
       "address": "0x461B71cff4d4334BbA09489acE4b5Dc1A1813445",
@@ -19301,6 +19346,7 @@
       "name": "Apostro Resolv USR",
       "symbol": "aprUSR",
       "address": "0x5085Dd6FAd07c12e38fae01bc2a4938d2C08B1Bc",
+      "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/1/0x66a1e37c9b0eaddca17d3662d6c05f4decf3e110/logo.png",
       "decimals": 18,
       "chainId": 1,
       "chainAddresses": [],
@@ -32958,6 +33004,17 @@
       ]
     },
     {
+      "name": "PT Staked Dola 9OCT2025",
+      "symbol": "PT-sDOLA-9OCT2025",
+      "address": "0x8891302D91dB6E7C2Ce6e82A8f6C952aB556eb7a",
+      "decimals": 18,
+      "chainId": 1,
+      "chainAddresses": [],
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "Fear NFTs",
       "symbol": "FEAR",
       "address": "0x88A9A52F944315D5B4e917b9689e65445C401E83",
@@ -34820,6 +34877,17 @@
       "chainAddresses": [],
       "providers": [
         "smolDapp",
+        "yearn"
+      ]
+    },
+    {
+      "name": "SY Staked Dola",
+      "symbol": "SY-sDOLA",
+      "address": "0x90a7E3396403634942AcC24906FBdA19f1418A41",
+      "decimals": 18,
+      "chainId": 1,
+      "chainAddresses": [],
+      "providers": [
         "yearn"
       ]
     },
@@ -43976,6 +44044,17 @@
       ]
     },
     {
+      "name": "Curve alUSDsDOLA Factory yVault",
+      "symbol": "yvCurve-alUSDsDOLA-f",
+      "address": "0xb7b1C394b3F82091988A1e400C6499178eE64b99",
+      "decimals": 18,
+      "chainId": 1,
+      "chainAddresses": [],
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "PT Ethena sUSDE 29MAY2025",
       "symbol": "PT-sUSDE-29MAY2025",
       "address": "0xb7de5dFCb74d25c2f21841fbd6230355C50d9308",
@@ -44876,6 +44955,17 @@
       "chainAddresses": [],
       "providers": [
         "smolDapp"
+      ]
+    },
+    {
+      "name": "YT Staked Dola 9OCT2025",
+      "symbol": "YT-sDOLA-9OCT2025",
+      "address": "0xBb606D98F9723Cb58F5c4ac1768DA2543F1B49D8",
+      "decimals": 18,
+      "chainId": 1,
+      "chainAddresses": [],
+      "providers": [
+        "yearn"
       ]
     },
     {
@@ -51230,6 +51320,7 @@
       "name": "MEV Capital Resolv USR",
       "symbol": "MC-USR",
       "address": "0xD50DA5F859811A91fD1876C9461fD39c23C747Ad",
+      "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/1/0x66a1e37c9b0eaddca17d3662d6c05f4decf3e110/logo.png",
       "decimals": 18,
       "chainId": 1,
       "chainAddresses": [],
@@ -51260,6 +51351,10 @@
         {
           "chainId": 250,
           "address": "0x1e4f97b9f9f913c46f1632781732927b9019c68b"
+        },
+        {
+          "chainId": 8453,
+          "address": "0x8ee73c484a26e0a5df2ee2a4960b789967dd0415"
         },
         {
           "chainId": 42161,
@@ -55423,6 +55518,17 @@
       ]
     },
     {
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "address": "0xE6723992EC43aa6011457bBBed7D6Cd7Db1407B6",
+      "decimals": 18,
+      "chainId": 1,
+      "chainAddresses": [],
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "cmETH",
       "symbol": "cmETH",
       "address": "0xE6829d9a7eE3040e1276Fa75293Bde931859e8fA",
@@ -56909,6 +57015,17 @@
       "chainAddresses": [],
       "providers": [
         "smolDapp"
+      ]
+    },
+    {
+      "name": "PT USN 31JUL2025",
+      "symbol": "PT-USN-31JUL2025",
+      "address": "0xedCe58C0d14A9Beaa4F053EBdbdb2DF83F211118",
+      "decimals": 18,
+      "chainId": 1,
+      "chainAddresses": [],
+      "providers": [
+        "yearn"
       ]
     },
     {
@@ -63189,6 +63306,10 @@
         {
           "chainId": 250,
           "address": "0x1e4f97b9f9f913c46f1632781732927b9019c68b"
+        },
+        {
+          "chainId": 8453,
+          "address": "0x8ee73c484a26e0a5df2ee2a4960b789967dd0415"
         },
         {
           "chainId": 42161,
@@ -100457,6 +100578,10 @@
           "address": "0x1e4f97b9f9f913c46f1632781732927b9019c68b"
         },
         {
+          "chainId": 8453,
+          "address": "0x8ee73c484a26e0a5df2ee2a4960b789967dd0415"
+        },
+        {
           "chainId": 42161,
           "address": "0x11cdb42b0eb46d95f990bedd4695a6e3fa034978"
         }
@@ -117426,6 +117551,10 @@
         {
           "chainId": 250,
           "address": "0x1e4f97b9f9f913c46f1632781732927b9019c68b"
+        },
+        {
+          "chainId": 8453,
+          "address": "0x8ee73c484a26e0a5df2ee2a4960b789967dd0415"
         },
         {
           "chainId": 42161,
@@ -151339,6 +151468,7 @@
       ],
       "providers": [
         "optimism",
+        "liquest",
         "coingeckoBase"
       ]
     },
@@ -151768,6 +151898,17 @@
       "chainAddresses": [],
       "providers": [
         "morpho"
+      ]
+    },
+    {
+      "name": "2FAI",
+      "symbol": "2FAI",
+      "address": "0x1C1eC1bb5f12F24c97231165B13F3Eab9d4Ec00e",
+      "decimals": 9,
+      "chainId": 8453,
+      "chainAddresses": [],
+      "providers": [
+        "liquest"
       ]
     },
     {
@@ -158359,8 +158500,7 @@
       "chainId": 8453,
       "chainAddresses": [],
       "providers": [
-        "optimism",
-        "liquest"
+        "optimism"
       ]
     },
     {
@@ -160598,7 +160738,7 @@
       "name": "Ski Mask Kitten",
       "symbol": "SKITTEN",
       "address": "0x4B6104755AfB5Da4581B81C552DA3A25608c73B8",
-      "logoURI": "https://assets.coingecko.com/coins/images/54128/thumb/rug_skitten.jpg?1738393460",
+      "logoURI": "https://assets.coingecko.com/coins/images/54128/thumb/IMG_20250421_043635_714.jpg?1745251825",
       "decimals": 18,
       "chainId": 8453,
       "chainAddresses": [
@@ -161925,7 +162065,7 @@
     {
       "name": "Blu",
       "symbol": "BLU",
-      "address": "0x52E0D3c27CC9e3607C1Ca7914b9049bE3d5e9C41",
+      "address": "0x52e0d3c27cc9e3607c1ca7914b9049be3d5e9c41",
       "logoURI": "https://assets.coingecko.com/coins/images/51922/thumb/Blu.jpg?1732190348",
       "decimals": 18,
       "chainId": 8453,
@@ -161936,7 +162076,6 @@
         }
       ],
       "providers": [
-        "liquest",
         "coingeckoBase"
       ]
     },
@@ -167771,6 +167910,23 @@
       ]
     },
     {
+      "name": "Cointpoit",
+      "symbol": "CP",
+      "address": "0x75e3af8bc4a93739384e5db2bda42a4341bed6ca",
+      "logoURI": "https://assets.coingecko.com/coins/images/55289/thumb/Screenshot_20250420_134552.jpg?1745217569",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": [
+        {
+          "chainId": 8453,
+          "address": "0x75e3af8bc4a93739384e5db2bda42a4341bed6ca"
+        }
+      ],
+      "providers": [
+        "coingeckoBase"
+      ]
+    },
+    {
       "name": "AltLayer",
       "symbol": "ALT",
       "address": "0x75f2231A289Ea35895246b21e9c6E5BbF5ce69ED",
@@ -168915,6 +169071,7 @@
       ],
       "providers": [
         "smolDapp",
+        "liquest",
         "coingeckoBase"
       ]
     },
@@ -170125,23 +170282,6 @@
       ]
     },
     {
-      "name": "BAGEL Coin",
-      "symbol": "BAGEL",
-      "address": "0x835e336782a1d04db6eb44c44024650d18a138c2",
-      "logoURI": "https://assets.coingecko.com/coins/images/38158/thumb/_bagel_logo.png?1716669784",
-      "decimals": 18,
-      "chainId": 8453,
-      "chainAddresses": [
-        {
-          "chainId": 8453,
-          "address": "0x835e336782a1d04db6eb44c44024650d18a138c2"
-        }
-      ],
-      "providers": [
-        "coingeckoBase"
-      ]
-    },
-    {
       "name": "Crying Cat on Base",
       "symbol": "CRYCAT",
       "address": "0x837FC1dccbf4267FB5fff108f86EE78c11Dd83AB",
@@ -171082,6 +171222,23 @@
       ]
     },
     {
+      "name": "NuroX",
+      "symbol": "NUROX",
+      "address": "0x89f4307eadb19d8fd01844f8598f7d31569c77fb",
+      "logoURI": "https://assets.coingecko.com/coins/images/55284/thumb/image_2025-04-20_00-45-36.png?1745216054",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": [
+        {
+          "chainId": 8453,
+          "address": "0x89f4307eadb19d8fd01844f8598f7d31569c77fb"
+        }
+      ],
+      "providers": [
+        "coingeckoBase"
+      ]
+    },
+    {
       "name": "Eggle Energy",
       "symbol": "ENG",
       "address": "0x8A0e751e5D7A2861cA7Cf16D9720337E40604982",
@@ -171739,11 +171896,37 @@
       "logoURI": "https://ethereum-optimism.github.io/data/CRV/logo.png",
       "decimals": 18,
       "chainId": 8453,
-      "chainAddresses": [],
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0xd533a949740bb3306d119cc777fa900ba034cd52"
+        },
+        {
+          "chainId": 10,
+          "address": "0x0994206dfe8de6ec6920ff4d779b0d950605fb53"
+        },
+        {
+          "chainId": 137,
+          "address": "0x172370d5cd63279efa6d502dab29171933a610af"
+        },
+        {
+          "chainId": 250,
+          "address": "0x1e4f97b9f9f913c46f1632781732927b9019c68b"
+        },
+        {
+          "chainId": 8453,
+          "address": "0x8ee73c484a26e0a5df2ee2a4960b789967dd0415"
+        },
+        {
+          "chainId": 42161,
+          "address": "0x11cdb42b0eb46d95f990bedd4695a6e3fa034978"
+        }
+      ],
       "providers": [
         "optimism",
         "liquest",
-        "odosBase"
+        "odosBase",
+        "coingeckoBase"
       ]
     },
     {
@@ -172029,6 +172212,17 @@
       ],
       "providers": [
         "coingeckoBase"
+      ]
+    },
+    {
+      "name": "Cappa Juice",
+      "symbol": "JUICE",
+      "address": "0x90729aa79ff13E87f104769c6B1D84c57171fD72",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": [],
+      "providers": [
+        "liquest"
       ]
     },
     {
@@ -174297,6 +174491,17 @@
       ],
       "providers": [
         "coingeckoBase"
+      ]
+    },
+    {
+      "name": "Oxai",
+      "symbol": "OXAI",
+      "address": "0x9ea01819F6FBD41cB004216680e73096EED56cbF",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": [],
+      "providers": [
+        "liquest"
       ]
     },
     {
@@ -178902,7 +179107,7 @@
       "name": "Morpho eUSD",
       "symbol": "meUSD",
       "address": "0xbb819D845b573B5D7C538F5b85057160cfb5f313",
-      "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/8453/0xcfa3ef56d303ae4faaba0592388f19d7c3399fb4/logo.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/51547/thumb/22933.png?1731516835",
       "decimals": 18,
       "chainId": 8453,
       "chainAddresses": [
@@ -181414,6 +181619,39 @@
       ]
     },
     {
+      "name": "Hyperlane",
+      "symbol": "HYPER",
+      "address": "0xc9d23ed2adb0f551369946bd377f8644ce1ca5c4",
+      "logoURI": "https://assets.coingecko.com/coins/images/55298/thumb/Hyperlane.png?1745248900",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0x93a2db22b7c736b341c32ff666307f4a9ed910f5"
+        },
+        {
+          "chainId": 10,
+          "address": "0x9923db8d7fbacc2e69e87fad19b886c81cd74979"
+        },
+        {
+          "chainId": 56,
+          "address": "0xc9d23ed2adb0f551369946bd377f8644ce1ca5c4"
+        },
+        {
+          "chainId": 8453,
+          "address": "0xc9d23ed2adb0f551369946bd377f8644ce1ca5c4"
+        },
+        {
+          "chainId": 42161,
+          "address": "0xc9d23ed2adb0f551369946bd377f8644ce1ca5c4"
+        }
+      ],
+      "providers": [
+        "coingeckoBase"
+      ]
+    },
+    {
       "name": "ABE",
       "symbol": "ABE",
       "address": "0xca09aa7b4f5a9380754f7e46037e3a383044bca3",
@@ -182444,11 +182682,18 @@
       "name": "SPORT",
       "symbol": "SPORT",
       "address": "0xD007C4C900D1Df6caea2A4122f3D551d7dfE08b0",
+      "logoURI": "https://assets.coingecko.com/coins/images/55297/thumb/staicy-sport.jpg?1745229639",
       "decimals": 18,
       "chainId": 8453,
-      "chainAddresses": [],
+      "chainAddresses": [
+        {
+          "chainId": 8453,
+          "address": "0xd007c4c900d1df6caea2a4122f3d551d7dfe08b0"
+        }
+      ],
       "providers": [
-        "liquest"
+        "liquest",
+        "coingeckoBase"
       ]
     },
     {
@@ -186008,6 +186253,7 @@
       ],
       "providers": [
         "smolDapp",
+        "liquest",
         "coingeckoBase"
       ]
     },
@@ -188092,6 +188338,17 @@
       ]
     },
     {
+      "name": "You Are Not Eligible",
+      "symbol": "YANE",
+      "address": "0xf22877fdBd1D965054fEfC59A072a81A05f24D28",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": [],
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
       "name": "Davos xyz USD",
       "symbol": "DUSD",
       "address": "0xf2393eeadd67bf68a60f39992113775966f34e1e",
@@ -189464,17 +189721,6 @@
       "symbol": "Web3",
       "address": "0xF9761E9FE7D4BdfeF4B5A09a1cD47f997fcB88e8",
       "decimals": 18,
-      "chainId": 8453,
-      "chainAddresses": [],
-      "providers": [
-        "liquest"
-      ]
-    },
-    {
-      "name": "LONGCAT",
-      "symbol": "LONGCAT",
-      "address": "0xF982180236B3F71Ef550EE13eb16F4F4c61B9e17",
-      "decimals": 8,
       "chainId": 8453,
       "chainAddresses": [],
       "providers": [
@@ -193572,6 +193818,10 @@
         {
           "chainId": 250,
           "address": "0x1e4f97b9f9f913c46f1632781732927b9019c68b"
+        },
+        {
+          "chainId": 8453,
+          "address": "0x8ee73c484a26e0a5df2ee2a4960b789967dd0415"
         },
         {
           "chainId": 42161,

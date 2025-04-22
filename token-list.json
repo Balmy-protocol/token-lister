@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2025-04-21T00:19:08.881Z",
+  "timestamp": "2025-04-22T00:18:07.047Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -29,6 +29,7 @@
       "name": "9S Mount Kosciuszko USR",
       "symbol": "9SUSR",
       "address": "0x00B6f2C15E4439749f192D10c70f65354848Cf4b",
+      "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/1/0x66a1e37c9b0eaddca17d3662d6c05f4decf3e110/logo.png",
       "decimals": 18,
       "chainId": 1,
       "chainAddresses": []
@@ -1448,6 +1449,7 @@
       "name": "Apostro Resolv USR",
       "symbol": "aprUSR",
       "address": "0x5085Dd6FAd07c12e38fae01bc2a4938d2C08B1Bc",
+      "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/1/0x66a1e37c9b0eaddca17d3662d6c05f4decf3e110/logo.png",
       "decimals": 18,
       "chainId": 1,
       "chainAddresses": []
@@ -4013,6 +4015,7 @@
       "name": "MEV Capital Resolv USR",
       "symbol": "MC-USR",
       "address": "0xD50DA5F859811A91fD1876C9461fD39c23C747Ad",
+      "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/1/0x66a1e37c9b0eaddca17d3662d6c05f4decf3e110/logo.png",
       "decimals": 18,
       "chainId": 1,
       "chainAddresses": []
@@ -4040,6 +4043,10 @@
         {
           "chainId": 250,
           "address": "0x1e4f97b9f9f913c46f1632781732927b9019c68b"
+        },
+        {
+          "chainId": 8453,
+          "address": "0x8ee73c484a26e0a5df2ee2a4960b789967dd0415"
         },
         {
           "chainId": 42161,
@@ -5191,6 +5198,10 @@
         {
           "chainId": 250,
           "address": "0x1e4f97b9f9f913c46f1632781732927b9019c68b"
+        },
+        {
+          "chainId": 8453,
+          "address": "0x8ee73c484a26e0a5df2ee2a4960b789967dd0415"
         },
         {
           "chainId": 42161,
@@ -17156,6 +17167,10 @@
           "address": "0x1e4f97b9f9f913c46f1632781732927b9019c68b"
         },
         {
+          "chainId": 8453,
+          "address": "0x8ee73c484a26e0a5df2ee2a4960b789967dd0415"
+        },
+        {
           "chainId": 42161,
           "address": "0x11cdb42b0eb46d95f990bedd4695a6e3fa034978"
         }
@@ -21463,6 +21478,10 @@
         {
           "chainId": 250,
           "address": "0x1e4f97b9f9f913c46f1632781732927b9019c68b"
+        },
+        {
+          "chainId": 8453,
+          "address": "0x8ee73c484a26e0a5df2ee2a4960b789967dd0415"
         },
         {
           "chainId": 42161,
@@ -44876,7 +44895,7 @@
       "name": "Morpho eUSD",
       "symbol": "meUSD",
       "address": "0xbb819D845b573B5D7C538F5b85057160cfb5f313",
-      "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/8453/0xcfa3ef56d303ae4faaba0592388f19d7c3399fb4/logo.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/51547/thumb/22933.png?1731516835",
       "decimals": 18,
       "chainId": 8453,
       "chainAddresses": [
@@ -46787,6 +46806,10 @@
         {
           "chainId": 250,
           "address": "0x1e4f97b9f9f913c46f1632781732927b9019c68b"
+        },
+        {
+          "chainId": 8453,
+          "address": "0x8ee73c484a26e0a5df2ee2a4960b789967dd0415"
         },
         {
           "chainId": 42161,
