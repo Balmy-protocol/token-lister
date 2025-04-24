@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2025-04-23T00:18:09.967Z",
+  "timestamp": "2025-04-24T00:18:07.187Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -40177,43 +40177,6 @@
       "chainAddresses": []
     },
     {
-      "name": "PancakeSwap Token",
-      "symbol": "Cake",
-      "address": "0x0D1E753a25eBda689453309112904807625bEFBe",
-      "decimals": 18,
-      "chainId": 1101,
-      "chainAddresses": [
-        {
-          "chainId": 1,
-          "address": "0x152649ea73beab28c5b49b26eb48f7ead6d4c898"
-        },
-        {
-          "chainId": 56,
-          "address": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82"
-        },
-        {
-          "chainId": 324,
-          "address": "0x3a287a06c66f9e95a56327185ca2bdf5f031cecd"
-        },
-        {
-          "chainId": 1101,
-          "address": "0x0d1e753a25ebda689453309112904807625befbe"
-        },
-        {
-          "chainId": 8453,
-          "address": "0x3055913c90fcc1a6ce9a358911721eeb942013a1"
-        },
-        {
-          "chainId": 42161,
-          "address": "0x1b896893dfc86bb67cf57767298b9073d2c1ba2c"
-        },
-        {
-          "chainId": 59144,
-          "address": "0x0d1e753a25ebda689453309112904807625befbe"
-        }
-      ]
-    },
-    {
       "name": "Balancer",
       "symbol": "BAL",
       "address": "0x120eF59b80774F02211563834d8E3b72cb1649d6",
@@ -40338,55 +40301,6 @@
       ]
     },
     {
-      "name": "Polygon Ecosystem Token",
-      "symbol": "POL",
-      "address": "0x22B21BedDef74FE62F031D2c5c8F7a9F8a4b304D",
-      "decimals": 18,
-      "chainId": 1101,
-      "chainAddresses": []
-    },
-    {
-      "name": "USD Coin",
-      "symbol": "USDC",
-      "address": "0x37eAA0eF3549a5Bb7D431be78a3D99BD360d19e5",
-      "decimals": 6,
-      "chainId": 1101,
-      "chainAddresses": []
-    },
-    {
-      "name": "Curve DAO Token",
-      "symbol": "CRV",
-      "address": "0x3d5320821BfCa19fb0B5428F2c79d63bd5246f89",
-      "decimals": 18,
-      "chainId": 1101,
-      "chainAddresses": []
-    },
-    {
-      "name": "Antfarm Token",
-      "symbol": "ATF",
-      "address": "0x40DF0C3BBAAE5Ea3A509d8F2aa9E086776C98E6c",
-      "decimals": 18,
-      "chainId": 1101,
-      "chainAddresses": [
-        {
-          "chainId": 1,
-          "address": "0x518b63da813d46556fea041a88b52e3caa8c16a8"
-        },
-        {
-          "chainId": 1101,
-          "address": "0x40df0c3bbaae5ea3a509d8f2aa9e086776c98e6c"
-        },
-        {
-          "chainId": 42161,
-          "address": "0xfb9fbcb328317123f5275cda30b6589d5841216b"
-        },
-        {
-          "chainId": 43114,
-          "address": "0x8af94528fbe3c4c148523e7aad48bcebcc0a71d7"
-        }
-      ]
-    },
-    {
       "name": "ChainLink Token",
       "symbol": "LINK",
       "address": "0x4B16e4752711A7ABEc32799C976F3CeFc0111f2B",
@@ -40505,62 +40419,12 @@
       ]
     },
     {
-      "name": "Wrapped liquid staked Ether 2.0",
-      "symbol": "wstETH",
-      "address": "0x5D8cfF95D7A57c0BF50B30b43c7CC0D52825D4a9",
-      "decimals": 18,
-      "chainId": 1101,
-      "chainAddresses": []
-    },
-    {
       "name": "Mai Stablecoin",
       "symbol": "MAI",
       "address": "0x615B25500403Eb688Be49221b303084D9Cf0E5B4",
       "decimals": 18,
       "chainId": 1101,
       "chainAddresses": []
-    },
-    {
-      "name": "QuickSwap",
-      "symbol": "QUICK",
-      "address": "0x68286607A1d43602d880D349187c3c48c0fD05E6",
-      "decimals": 18,
-      "chainId": 1101,
-      "chainAddresses": [
-        {
-          "chainId": 1,
-          "address": "0xd2ba23de8a19316a638dc1e7a9adda1d74233368"
-        },
-        {
-          "chainId": 137,
-          "address": "0xb5c064f955d8e7f38fe0460c556a72987494ee17"
-        },
-        {
-          "chainId": 1101,
-          "address": "0x68286607a1d43602d880d349187c3c48c0fd05e6"
-        }
-      ]
-    },
-    {
-      "name": "Aave Token",
-      "symbol": "AAVE",
-      "address": "0x68791CFE079814c46e0E25C19Bcc5BFC71A744f7",
-      "decimals": 18,
-      "chainId": 1101,
-      "chainAddresses": []
-    },
-    {
-      "name": "DoveSwap",
-      "symbol": "DOV",
-      "address": "0x696c0bA235444607A1c4b93E6b34Ba14928c1B60",
-      "decimals": 18,
-      "chainId": 1101,
-      "chainAddresses": [
-        {
-          "chainId": 1101,
-          "address": "0x696c0ba235444607a1c4b93e6b34ba14928c1b60"
-        }
-      ]
     },
     {
       "name": "Kyber Network Crystal v2",
@@ -40662,59 +40526,6 @@
       "chainAddresses": []
     },
     {
-      "name": "Davos.xyz USD",
-      "symbol": "DUSD",
-      "address": "0x819d1Daa794c1c46B841981b61cC978d95A17b8e",
-      "decimals": 18,
-      "chainId": 1101,
-      "chainAddresses": [
-        {
-          "chainId": 1,
-          "address": "0xa48f322f8b3edff967629af79e027628b9dd1298"
-        },
-        {
-          "chainId": 10,
-          "address": "0xb396b31599333739a97951b74652c117be86ee1d"
-        },
-        {
-          "chainId": 56,
-          "address": "0x8ec1877698acf262fe8ad8a295ad94d6ea258988"
-        },
-        {
-          "chainId": 137,
-          "address": "0xec38621e72d86775a89c7422746de1f52bba5320"
-        },
-        {
-          "chainId": 1101,
-          "address": "0x819d1daa794c1c46b841981b61cc978d95a17b8e"
-        },
-        {
-          "chainId": 5000,
-          "address": "0x62a509ba95c75cabc7190469025e5abee4eddb2a"
-        },
-        {
-          "chainId": 8453,
-          "address": "0xf2393eeadd67bf68a60f39992113775966f34e1e"
-        },
-        {
-          "chainId": 34443,
-          "address": "0x819d1daa794c1c46b841981b61cc978d95a17b8e"
-        },
-        {
-          "chainId": 42161,
-          "address": "0x8ec1877698acf262fe8ad8a295ad94d6ea258988"
-        },
-        {
-          "chainId": 59144,
-          "address": "0xa88b54e6b76fb97cdb8ecae868f1458e18a953f4"
-        },
-        {
-          "chainId": 81457,
-          "address": "0x578122317baca7a3c7bb5301460d2f4f96e9394a"
-        }
-      ]
-    },
-    {
       "name": "Staked MATIC",
       "symbol": "stMATIC",
       "address": "0x83b874c1e09D316059d929da402dcB1A98e92082",
@@ -40735,14 +40546,6 @@
           "address": "0x83b874c1e09d316059d929da402dcb1a98e92082"
         }
       ]
-    },
-    {
-      "name": "Dyson Sphere",
-      "symbol": "DYSN",
-      "address": "0x9CBD81b43ba263ca894178366Cfb89A246D1159C",
-      "decimals": 18,
-      "chainId": 1101,
-      "chainAddresses": []
     },
     {
       "name": "Matic Token",
@@ -40885,14 +40688,6 @@
       ]
     },
     {
-      "name": "Rocket Pool ETH",
-      "symbol": "rETH",
-      "address": "0xb23C20EFcE6e24Acca0Cef9B7B7aA196b84EC942",
-      "decimals": 18,
-      "chainId": 1101,
-      "chainAddresses": []
-    },
-    {
       "name": "Wrapped liquid staked Ether 2.0",
       "symbol": "wstETH(v2)",
       "address": "0xbf6De60Ccd9D22a5820A658fbE9fc87975EA204f",
@@ -40973,51 +40768,6 @@
           "address": "0xe3520349f477a5f6eb06107066048508498a291b"
         }
       ]
-    },
-    {
-      "name": "Gyro Dollar\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 ",
-      "symbol": "GYD",
-      "address": "0xCA5d8F8a8d49439357d3CF46Ca2e720702F132b8",
-      "decimals": 18,
-      "chainId": 1101,
-      "chainAddresses": [
-        {
-          "chainId": 10,
-          "address": "0xca5d8f8a8d49439357d3cf46ca2e720702f132b8"
-        },
-        {
-          "chainId": 100,
-          "address": "0xca5d8f8a8d49439357d3cf46ca2e720702f132b8"
-        },
-        {
-          "chainId": 137,
-          "address": "0xca5d8f8a8d49439357d3cf46ca2e720702f132b8"
-        },
-        {
-          "chainId": 1101,
-          "address": "0xca5d8f8a8d49439357d3cf46ca2e720702f132b8"
-        },
-        {
-          "chainId": 8453,
-          "address": "0xca5d8f8a8d49439357d3cf46ca2e720702f132b8"
-        },
-        {
-          "chainId": 42161,
-          "address": "0xca5d8f8a8d49439357d3cf46ca2e720702f132b8"
-        },
-        {
-          "chainId": 43114,
-          "address": "0xca5d8f8a8d49439357d3cf46ca2e720702f132b8"
-        }
-      ]
-    },
-    {
-      "name": "Gravita Debt Token",
-      "symbol": "GRAI",
-      "address": "0xCA68ad4EE5c96871EC6C6dac2F714a8437A3Fe66",
-      "decimals": 18,
-      "chainId": 1101,
-      "chainAddresses": []
     },
     {
       "name": "Wrapped eETH",
@@ -55564,6 +55314,15 @@
       "chainAddresses": []
     },
     {
+      "name": "Polemos",
+      "symbol": "PLMS",
+      "address": "0xFEce410118e578dcBFd489e2B6fE5FeE390093D0",
+      "logoURI": "https://ethereum-optimism.github.io/data/PLMS/logo.svg",
+      "decimals": 18,
+      "chainId": 84532,
+      "chainAddresses": []
+    },
+    {
       "name": "USD Coin",
       "symbol": "USDC",
       "address": "0x06eFdBFf2a14a7c8E15944D1F4A48F9F95F663A4",
@@ -56331,6 +56090,15 @@
       "symbol": "BKN",
       "address": "0x97a13487f889dc770Ac925Be2d3b6c833FA7746a",
       "logoURI": "https://ethereum-optimism.github.io/data/BKN/logo.svg",
+      "decimals": 18,
+      "chainId": 11155111,
+      "chainAddresses": []
+    },
+    {
+      "name": "Polemos",
+      "symbol": "PLMS",
+      "address": "0xa5939298bc1905E3a1047dd50a3459084BB4E7C8",
+      "logoURI": "https://ethereum-optimism.github.io/data/PLMS/logo.svg",
       "decimals": 18,
       "chainId": 11155111,
       "chainAddresses": []
