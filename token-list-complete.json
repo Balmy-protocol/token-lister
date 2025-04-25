@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List - complete version",
   "description": "A list of tokens from all the token lists on Balmy",
-  "timestamp": "2025-04-24T00:18:07.210Z",
+  "timestamp": "2025-04-25T00:18:43.261Z",
   "tokens": [
     {
       "name": "Ether",
@@ -17042,6 +17042,10 @@
         {
           "chainId": 8453,
           "address": "0x09be1692ca16e06f536f0038ff11d1da8524adb1"
+        },
+        {
+          "chainId": 42161,
+          "address": "0x0419e8bfbbb2623728c3a6129090da4ff4e48113"
         }
       ],
       "providers": [
@@ -31388,20 +31392,13 @@
       ]
     },
     {
-      "name": "pETH",
-      "symbol": "peth",
-      "address": "0x821a278dfff762c76410264303f25bf42e195c0c",
-      "logoURI": "https://assets.coingecko.com/coins/images/28376/thumb/peth.png?1669968949",
+      "name": "JPEG’d ETH",
+      "symbol": "pETH",
+      "address": "0x821A278dFff762c76410264303F25bF42e195C0C",
       "decimals": 18,
       "chainId": 1,
-      "chainAddresses": [
-        {
-          "chainId": 1,
-          "address": "0x821a278dfff762c76410264303f25bf42e195c0c"
-        }
-      ],
+      "chainAddresses": [],
       "providers": [
-        "defillama",
         "yearn"
       ]
     },
@@ -92269,6 +92266,17 @@
       ]
     },
     {
+      "name": "Aave Gnosis wstETH",
+      "symbol": "aGnowstETH",
+      "address": "0x23e4e76d01b2002be436ce8d6044b0aa2f68b68a",
+      "decimals": 18,
+      "chainId": 100,
+      "chainAddresses": [],
+      "providers": [
+        "balmyFarmTokens"
+      ]
+    },
+    {
       "name": "CelerToken on Gnosis",
       "symbol": "CELR",
       "address": "0x248c54b3fc3bc8b20d0cdee059e17c67e4a3299d",
@@ -94073,6 +94081,28 @@
       ]
     },
     {
+      "name": "Aave Gnosis sDAI",
+      "symbol": "aGnosDAI",
+      "address": "0x7a5c3860a77a8dc1b225bd46d0fb2ac1c6d191bc",
+      "logoURI": "https://assets.coingecko.com/coins/images/32891/thumb/sdai.png?1699785595",
+      "decimals": 18,
+      "chainId": 100,
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0x4c612e3b15b96ff9a6faed838f8d07d479a8dd4c"
+        },
+        {
+          "chainId": 100,
+          "address": "0x7a5c3860a77a8dc1b225bd46d0fb2ac1c6d191bc"
+        }
+      ],
+      "providers": [
+        "balmyFarmTokens",
+        "defillama"
+      ]
+    },
+    {
       "name": "Enigma on Gnosis",
       "symbol": "ENG",
       "address": "0x7a7d81657a1a66b38a6ca2565433a9873c6913b2",
@@ -94666,6 +94696,24 @@
       ]
     },
     {
+      "name": "Aave Gnosis GNO",
+      "symbol": "aGnoGNO",
+      "address": "0xa1fa064a85266e2ca82dee5c5ccec84df445760e",
+      "logoURI": "https://assets.coingecko.com/coins/images/32928/thumb/gno.png?1699826574",
+      "decimals": 18,
+      "chainId": 100,
+      "chainAddresses": [
+        {
+          "chainId": 100,
+          "address": "0xa1fa064a85266e2ca82dee5c5ccec84df445760e"
+        }
+      ],
+      "providers": [
+        "balmyFarmTokens",
+        "defillama"
+      ]
+    },
+    {
       "name": "Curve EURe yVault",
       "symbol": "yvCurve-EURe",
       "address": "0xa21Cc1a4a239708690134bAeD3a1B93cAD55F625",
@@ -94744,6 +94792,52 @@
       "providers": [
         "honeyswap",
         "cowswap"
+      ]
+    },
+    {
+      "name": "Aave Gnosis WETH",
+      "symbol": "aGnoWETH",
+      "address": "0xa818f1b57c201e092c4a2017a91815034326efd1",
+      "logoURI": "https://assets.coingecko.com/coins/images/32882/thumb/WETH_%281%29.png?1699716492",
+      "decimals": 18,
+      "chainId": 100,
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0x4d5f47fa6a74757f35c14fd3a6ef8e3c9bc514e8"
+        },
+        {
+          "chainId": 10,
+          "address": "0xe50fa9b3c56ffb159cb0fca61f5c9d750e8128c8"
+        },
+        {
+          "chainId": 100,
+          "address": "0xa818f1b57c201e092c4a2017a91815034326efd1"
+        },
+        {
+          "chainId": 137,
+          "address": "0xe50fa9b3c56ffb159cb0fca61f5c9d750e8128c8"
+        },
+        {
+          "chainId": 1088,
+          "address": "0x8acae35059c9ae27709028ff6689386a44c09f3a"
+        },
+        {
+          "chainId": 8453,
+          "address": "0xd4a0e0b9149bcee3c920d2e00b5de09138fd8bb7"
+        },
+        {
+          "chainId": 42161,
+          "address": "0xe50fa9b3c56ffb159cb0fca61f5c9d750e8128c8"
+        },
+        {
+          "chainId": 43114,
+          "address": "0xe50fa9b3c56ffb159cb0fca61f5c9d750e8128c8"
+        }
+      ],
+      "providers": [
+        "balmyFarmTokens",
+        "defillama"
       ]
     },
     {
@@ -94896,7 +94990,7 @@
     },
     {
       "name": "Savings xDAI",
-      "symbol": "sdai",
+      "symbol": "sDAI",
       "address": "0xaf204776c7245bf4147c2612bf6e5972ee483701",
       "logoURI": "https://tokens.1inch.io/0xaf204776c7245bf4147c2612bf6e5972ee483701.png",
       "decimals": 18,
@@ -94908,6 +95002,7 @@
         }
       ],
       "providers": [
+        "balmyFarmTokens",
         "defillama",
         "honeyswap",
         "cowswap",
@@ -95226,6 +95321,17 @@
       ]
     },
     {
+      "name": "Aave Gnosis USDCe",
+      "symbol": "aGnoUSDCe",
+      "address": "0xc0333cb85b59a788d8c7cae5e1fd6e229a3e5a65",
+      "decimals": 6,
+      "chainId": 100,
+      "chainAddresses": [],
+      "providers": [
+        "balmyFarmTokens"
+      ]
+    },
+    {
       "name": "SURF.Finance on Gnosis",
       "symbol": "SURF",
       "address": "0xc12956b840b403b600014a3092f6ebd9259738fe",
@@ -95346,6 +95452,48 @@
       "chainAddresses": [],
       "providers": [
         "honeyswap"
+      ]
+    },
+    {
+      "name": "Aave Gnosis USDC",
+      "symbol": "aGnoUSDC",
+      "address": "0xc6b7aca6de8a6044e0e32d0c841a89244a10d284",
+      "logoURI": "https://assets.coingecko.com/coins/images/32847/thumb/usdc_%281%29.png?1699619355",
+      "decimals": 6,
+      "chainId": 100,
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0x98c23e9d8f34fefb1b7bd6a91b7ff122f4e16f5c"
+        },
+        {
+          "chainId": 10,
+          "address": "0x625e7708f30ca75bfd92586e17077590c60eb4cd"
+        },
+        {
+          "chainId": 100,
+          "address": "0xc6b7aca6de8a6044e0e32d0c841a89244a10d284"
+        },
+        {
+          "chainId": 137,
+          "address": "0x625e7708f30ca75bfd92586e17077590c60eb4cd"
+        },
+        {
+          "chainId": 1088,
+          "address": "0x885c8aec5867571582545f894a5906971db9bf27"
+        },
+        {
+          "chainId": 42161,
+          "address": "0x724dc807b04555b71ed48a6896b6f41593b8c637"
+        },
+        {
+          "chainId": 43114,
+          "address": "0x625e7708f30ca75bfd92586e17077590c60eb4cd"
+        }
+      ],
+      "providers": [
+        "balmyFarmTokens",
+        "defillama"
       ]
     },
     {
@@ -95595,6 +95743,48 @@
       "providers": [
         "defillama",
         "honeyswap"
+      ]
+    },
+    {
+      "name": "Aave Gnosis WXDAI",
+      "symbol": "aGnoWXDAI",
+      "address": "0xd0dd6cef72143e22cced4867eb0d5f2328715533",
+      "logoURI": "https://assets.coingecko.com/coins/images/32886/thumb/dai.png?1699769446",
+      "decimals": 18,
+      "chainId": 100,
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0x018008bfb33d285247a21d44e50697654f754e63"
+        },
+        {
+          "chainId": 10,
+          "address": "0x82e64f49ed5ec1bc6e43dad4fc8af9bb3a2312ee"
+        },
+        {
+          "chainId": 100,
+          "address": "0xd0dd6cef72143e22cced4867eb0d5f2328715533"
+        },
+        {
+          "chainId": 137,
+          "address": "0x82e64f49ed5ec1bc6e43dad4fc8af9bb3a2312ee"
+        },
+        {
+          "chainId": 1088,
+          "address": "0x85abaddcae06efee2cb5f75f33b6471759efde24"
+        },
+        {
+          "chainId": 42161,
+          "address": "0x82e64f49ed5ec1bc6e43dad4fc8af9bb3a2312ee"
+        },
+        {
+          "chainId": 43114,
+          "address": "0x82e64f49ed5ec1bc6e43dad4fc8af9bb3a2312ee"
+        }
+      ],
+      "providers": [
+        "balmyFarmTokens",
+        "defillama"
       ]
     },
     {
@@ -96252,6 +96442,24 @@
       "chainAddresses": [],
       "providers": [
         "xDai1inch"
+      ]
+    },
+    {
+      "name": "Aave Gnosis EURe",
+      "symbol": "aGnoEURe",
+      "address": "0xedbc7449a9b594ca4e053d9737ec5dc4cbccbfb2",
+      "logoURI": "https://assets.coingecko.com/coins/images/32929/thumb/monerium.png?1699826642",
+      "decimals": 18,
+      "chainId": 100,
+      "chainAddresses": [
+        {
+          "chainId": 100,
+          "address": "0xedbc7449a9b594ca4e053d9737ec5dc4cbccbfb2"
+        }
+      ],
+      "providers": [
+        "balmyFarmTokens",
+        "defillama"
       ]
     },
     {
@@ -113863,6 +114071,10 @@
         {
           "chainId": 8453,
           "address": "0x09be1692ca16e06f536f0038ff11d1da8524adb1"
+        },
+        {
+          "chainId": 42161,
+          "address": "0x0419e8bfbbb2623728c3a6129090da4ff4e48113"
         }
       ],
       "providers": [
@@ -116507,6 +116719,17 @@
       ]
     },
     {
+      "name": "Aave Sonic USDC",
+      "symbol": "aSonUSDC",
+      "address": "0x578ee1ca3a8e1b54554da1bf7c583506c4cd11c6",
+      "decimals": 6,
+      "chainId": 146,
+      "chainAddresses": [],
+      "providers": [
+        "balmyFarmTokens"
+      ]
+    },
+    {
       "name": "Bridged USDT (Sonic Labs)",
       "symbol": "USDT",
       "address": "0x6047828dc181963ba44974801FF68e538dA5eaF9",
@@ -116528,6 +116751,17 @@
       "chainAddresses": [],
       "providers": [
         "odosSonic"
+      ]
+    },
+    {
+      "name": "Aave Sonic wS",
+      "symbol": "aSonwS",
+      "address": "0x6c5e14a212c1c3e4baf6f871ac9b1a969918c131",
+      "decimals": 18,
+      "chainId": 146,
+      "chainAddresses": [],
+      "providers": [
+        "balmyFarmTokens"
       ]
     },
     {
@@ -116859,6 +117093,17 @@
       ],
       "providers": [
         "odosSonic"
+      ]
+    },
+    {
+      "name": "Aave Sonic WETH",
+      "symbol": "aSonWETH",
+      "address": "0xe18ab82c81e7eecff32b8a82b1b7d2d23f1ece96",
+      "decimals": 18,
+      "chainId": 146,
+      "chainAddresses": [],
+      "providers": [
+        "balmyFarmTokens"
       ]
     },
     {
@@ -148425,6 +148670,10 @@
         {
           "chainId": 8453,
           "address": "0x09be1692ca16e06f536f0038ff11d1da8524adb1"
+        },
+        {
+          "chainId": 42161,
+          "address": "0x0419e8bfbbb2623728c3a6129090da4ff4e48113"
         }
       ],
       "providers": [
@@ -149264,17 +149513,6 @@
       ],
       "providers": [
         "coingeckoBase"
-      ]
-    },
-    {
-      "name": "SUISSMA AI by Virtuals",
-      "symbol": "SUISS",
-      "address": "0x0f1a9f3b8b971Ac72A2D362Cf2858F21fB799601",
-      "decimals": 18,
-      "chainId": 8453,
-      "chainAddresses": [],
-      "providers": [
-        "liquest"
       ]
     },
     {
@@ -155763,17 +156001,6 @@
       "providers": [
         "smolDapp",
         "yearn"
-      ]
-    },
-    {
-      "name": "DONNIE",
-      "symbol": "DONNIE",
-      "address": "0x37d3D61a304695619433bc05EF841E889F69Debf",
-      "decimals": 18,
-      "chainId": 8453,
-      "chainAddresses": [],
-      "providers": [
-        "liquest"
       ]
     },
     {
@@ -166567,6 +166794,23 @@
       ]
     },
     {
+      "name": "Cryptaine",
+      "symbol": "CRY",
+      "address": "0x7dc542dd65d010ca588ef40a05bf3b27b899a594",
+      "logoURI": "https://assets.coingecko.com/coins/images/55340/thumb/cryptaine_presentationlikyellow.png?1745503572",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": [
+        {
+          "chainId": 8453,
+          "address": "0x7dc542dd65d010ca588ef40a05bf3b27b899a594"
+        }
+      ],
+      "providers": [
+        "coingeckoBase"
+      ]
+    },
+    {
       "name": "Marvin On Base",
       "symbol": "MOB",
       "address": "0x7e72d6410803c40e73806f2a72e3eade5d075cc0",
@@ -171155,6 +171399,23 @@
         {
           "chainId": 8453,
           "address": "0x9e949461f9ec22c6032ce26ea509824fd2f6d98f"
+        }
+      ],
+      "providers": [
+        "coingeckoBase"
+      ]
+    },
+    {
+      "name": "Oxai",
+      "symbol": "OXAI",
+      "address": "0x9ea01819f6fbd41cb004216680e73096eed56cbf",
+      "logoURI": "https://assets.coingecko.com/coins/images/55343/thumb/OXAI_Token_Logo_200x200.png?1745511956",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": [
+        {
+          "chainId": 8453,
+          "address": "0x9ea01819f6fbd41cb004216680e73096eed56cbf"
         }
       ],
       "providers": [
@@ -178520,7 +178781,7 @@
     {
       "name": "Saitoshi by Virtuals",
       "symbol": "SAI",
-      "address": "0xcfF4429d8a323dd6B64B79a4460BEc6D531FcFA8",
+      "address": "0xcff4429d8a323dd6b64b79a4460bec6d531fcfa8",
       "logoURI": "https://assets.coingecko.com/coins/images/53810/thumb/IMG_1482.jpeg?1737411154",
       "decimals": 18,
       "chainId": 8453,
@@ -178531,7 +178792,6 @@
         }
       ],
       "providers": [
-        "liquest",
         "coingeckoBase"
       ]
     },
@@ -185048,12 +185308,24 @@
       "chainId": 8453,
       "chainAddresses": [
         {
+          "chainId": 146,
+          "address": "0xad747e3cf4e31b8897b96c81c6c74152de52f614"
+        },
+        {
+          "chainId": 5000,
+          "address": "0xd0728f5b1f53a834f8dcd1b86f62ceb8726eb0a0"
+        },
+        {
           "chainId": 8453,
           "address": "0xfb0c734fc3008683c5eff45bcf8128836c4d97d0"
         },
         {
           "chainId": 42161,
           "address": "0x95146881b86b3ee99e63705ec87afe29fcc044d9"
+        },
+        {
+          "chainId": 43114,
+          "address": "0xfd91ed44fc13f7faff758fe6d339d5790c4a85ec"
         },
         {
           "chainId": 81457,
