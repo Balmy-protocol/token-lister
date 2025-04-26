@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List - complete version",
   "description": "A list of tokens from all the token lists on Balmy",
-  "timestamp": "2025-04-25T00:18:43.261Z",
+  "timestamp": "2025-04-26T00:18:00.758Z",
   "tokens": [
     {
       "name": "Ether",
@@ -149516,6 +149516,17 @@
       ]
     },
     {
+      "name": "SUISSMA AI by Virtuals",
+      "symbol": "SUISS",
+      "address": "0x0f1a9f3b8b971Ac72A2D362Cf2858F21fB799601",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": [],
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
       "name": "GURU Token",
       "symbol": "GURU",
       "address": "0x0f1cFD0Bb452DB90a3bFC0848349463010419AB2",
@@ -150693,6 +150704,17 @@
       ]
     },
     {
+      "name": "DoctorAI by Virtuals",
+      "symbol": "DOC",
+      "address": "0x15FAD085B091c2dbc594F5D2320f35734939Ae6c",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": [],
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
       "name": "Simmi Token",
       "symbol": "SIMMI",
       "address": "0x161e113B8E9BBAEfb846F73F31624F6f9607bd44",
@@ -151063,6 +151085,7 @@
       ],
       "providers": [
         "optimism",
+        "liquest",
         "coingeckoBase"
       ]
     },
@@ -152741,8 +152764,8 @@
       ]
     },
     {
-      "name": "Ionic Ecosystem USDC",
-      "symbol": "ionicUSDC",
+      "name": "Extrafi XLend USDC Vault",
+      "symbol": "exmUSDC",
       "address": "0x23479229e52Ab6aaD312D0B03DF9F33B46753B5e",
       "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/8453/0x833589fcd6edb6e08f4c7c32d4f71b54bda02913/logo.png",
       "decimals": 18,
@@ -159444,6 +159467,17 @@
       ]
     },
     {
+      "name": "Georgia by Virtuals",
+      "symbol": "GEAI",
+      "address": "0x4D6D977aacbAc1BdD603c7A759986F74A5DFaEF8",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": [],
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
       "name": "nomAI",
       "symbol": "NOMAI",
       "address": "0x4d70f1058b73198f12a76c193aef5db5dd75babd",
@@ -160492,6 +160526,31 @@
       ]
     },
     {
+      "name": "PrimeFi",
+      "symbol": "PRFI",
+      "address": "0x53985d52936e8052b87035084fda74d832ad3c00",
+      "logoURI": "https://assets.coingecko.com/coins/images/55355/thumb/Prime_Numbers_Icon_%281%29.png?1745589445",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0x53985d52936e8052b87035084fda74d832ad3c00"
+        },
+        {
+          "chainId": 8453,
+          "address": "0x53985d52936e8052b87035084fda74d832ad3c00"
+        },
+        {
+          "chainId": 42161,
+          "address": "0x53985d52936e8052b87035084fda74d832ad3c00"
+        }
+      ],
+      "providers": [
+        "coingeckoBase"
+      ]
+    },
+    {
       "name": "DexFi Governance",
       "symbol": "GDEX",
       "address": "0x53cb59d32a8d08fc6d3f81454f150946a028a44d",
@@ -160730,9 +160789,9 @@
       ]
     },
     {
-      "name": "DegenAI by Virtuals",
+      "name": "Degen AI by Virtuals",
       "symbol": "DGENAI",
-      "address": "0x54eaf6Bb665565bb8897F9d7aD5B3818dEd143B4",
+      "address": "0x54eaf6bb665565bb8897f9d7ad5b3818ded143b4",
       "logoURI": "https://assets.coingecko.com/coins/images/53200/thumb/degenai.png?1735617559",
       "decimals": 18,
       "chainId": 8453,
@@ -160743,7 +160802,6 @@
         }
       ],
       "providers": [
-        "liquest",
         "coingeckoBase"
       ]
     },
@@ -161042,6 +161100,17 @@
         "smolDapp",
         "liquest",
         "coingeckoBase"
+      ]
+    },
+    {
+      "name": "SisyphusAI by Virtuals",
+      "symbol": "SISAI",
+      "address": "0x5770350AAcf14aC444401Cb23520C26Cdcc818FC",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": [],
+      "providers": [
+        "liquest"
       ]
     },
     {
@@ -161551,8 +161620,8 @@
       ]
     },
     {
-      "name": "Ionic Ecosystem WETH",
-      "symbol": "ionicWETH",
+      "name": "Extrafi XLend WETH Vault",
+      "symbol": "exmWETH",
       "address": "0x5A32099837D89E3a794a44fb131CBbAD41f87a8C",
       "logoURI": "https://ethereum-optimism.github.io/data/WETH/logo.png",
       "decimals": 18,
@@ -162163,6 +162232,23 @@
         {
           "chainId": 8453,
           "address": "0x5f6a682a58854c7fbe228712aeeffccde0008ac0"
+        }
+      ],
+      "providers": [
+        "coingeckoBase"
+      ]
+    },
+    {
+      "name": "YoYo",
+      "symbol": "YOYO",
+      "address": "0x5fc190dee34cd5202cc571ec5c8efd60a02bd06d",
+      "logoURI": "https://assets.coingecko.com/coins/images/55352/thumb/fdl1yZcp_400x400.jpg?1745566716",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": [
+        {
+          "chainId": 8453,
+          "address": "0x5fc190dee34cd5202cc571ec5c8efd60a02bd06d"
         }
       ],
       "providers": [
@@ -166149,19 +166235,9 @@
       "logoURI": "https://assets.smold.app/api/token/8453/0x79322CEE6C90735b967d2396b9ADc392915aeBB6/logo-128.png",
       "decimals": 18,
       "chainId": 8453,
-      "chainAddresses": [
-        {
-          "chainId": 137,
-          "address": "0xaa3717090cddc9b227e49d0d84a28ac0a996e6ff"
-        },
-        {
-          "chainId": 8453,
-          "address": "0x79322cee6c90735b967d2396b9adc392915aebb6"
-        }
-      ],
+      "chainAddresses": [],
       "providers": [
-        "smolDapp",
-        "coingeckoBase"
+        "smolDapp"
       ]
     },
     {
@@ -175431,6 +175507,27 @@
       ]
     },
     {
+      "name": "Permission Coin",
+      "symbol": "ASK",
+      "address": "0xbb146326778227a8498b105a18f84e0987a684b4",
+      "logoURI": "https://assets.coingecko.com/coins/images/12521/thumb/rjQjTU3c_400x400.jpg?1696512335",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": [
+        {
+          "chainId": 137,
+          "address": "0xaa3717090cddc9b227e49d0d84a28ac0a996e6ff"
+        },
+        {
+          "chainId": 8453,
+          "address": "0xbb146326778227a8498b105a18f84e0987a684b4"
+        }
+      ],
+      "providers": [
+        "coingeckoBase"
+      ]
+    },
+    {
       "name": "Cryptex",
       "symbol": "CTX",
       "address": "0xBB22Ff867F8Ca3D5F2251B4084F6Ec86D4666E14",
@@ -178781,7 +178878,7 @@
     {
       "name": "Saitoshi by Virtuals",
       "symbol": "SAI",
-      "address": "0xcff4429d8a323dd6b64b79a4460bec6d531fcfa8",
+      "address": "0xcfF4429d8a323dd6B64B79a4460BEc6D531FcFA8",
       "logoURI": "https://assets.coingecko.com/coins/images/53810/thumb/IMG_1482.jpeg?1737411154",
       "decimals": 18,
       "chainId": 8453,
@@ -178792,6 +178889,7 @@
         }
       ],
       "providers": [
+        "liquest",
         "coingeckoBase"
       ]
     },
@@ -180872,6 +180970,17 @@
       ],
       "providers": [
         "coingeckoBase"
+      ]
+    },
+    {
+      "name": "Aurra by Virtuals",
+      "symbol": "AURA",
+      "address": "0xdCaA5E062b2be18E52eA6ED7ba232538621dDC10",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": [],
+      "providers": [
+        "liquest"
       ]
     },
     {
