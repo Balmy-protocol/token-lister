@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List - complete version",
   "description": "A list of tokens from all the token lists on Balmy",
-  "timestamp": "2025-04-26T00:18:00.758Z",
+  "timestamp": "2025-04-27T00:19:43.287Z",
   "tokens": [
     {
       "name": "Ether",
@@ -112461,15 +112461,9 @@
       "logoURI": "https://assets.coingecko.com/coins/images/23693/large/lcd-icon-color-200px.png?1645450706",
       "decimals": 18,
       "chainId": 137,
-      "chainAddresses": [
-        {
-          "chainId": 137,
-          "address": "0xc2a45fe7d40bcac8369371b08419ddafd3131b4a"
-        }
-      ],
+      "chainAddresses": [],
       "providers": [
         "smolDapp",
-        "defillama",
         "yearn"
       ]
     },
@@ -126975,12 +126969,7 @@
       "logoURI": "https://assets.smold.app/api/token/1088/0x3dbb8D7B18b83B6109829b018875fCD192D2F3Ff/logo-128.png",
       "decimals": 9,
       "chainId": 1088,
-      "chainAddresses": [
-        {
-          "chainId": 1088,
-          "address": "0x3dbb8d7b18b83b6109829b018875fcd192d2f3ff"
-        }
-      ],
+      "chainAddresses": [],
       "providers": [
         "smolDapp"
       ]
@@ -144729,12 +144718,7 @@
       "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbeam/0xfFfFFFFF52C56A9257bB97f4B2b6F7B2D624ecda/logo.png",
       "decimals": 12,
       "chainId": 1284,
-      "chainAddresses": [
-        {
-          "chainId": 1284,
-          "address": "0xffffffff52c56a9257bb97f4b2b6f7b2d624ecda"
-        }
-      ],
+      "chainAddresses": [],
       "providers": [
         "beamswap"
       ]
@@ -149519,11 +149503,18 @@
       "name": "SUISSMA AI by Virtuals",
       "symbol": "SUISS",
       "address": "0x0f1a9f3b8b971Ac72A2D362Cf2858F21fB799601",
+      "logoURI": "https://assets.coingecko.com/coins/images/55383/thumb/_SUISS_Token_Logo.png?1745703247",
       "decimals": 18,
       "chainId": 8453,
-      "chainAddresses": [],
+      "chainAddresses": [
+        {
+          "chainId": 8453,
+          "address": "0x0f1a9f3b8b971ac72a2d362cf2858f21fb799601"
+        }
+      ],
       "providers": [
-        "liquest"
+        "liquest",
+        "coingeckoBase"
       ]
     },
     {
@@ -150875,6 +150866,17 @@
       ],
       "providers": [
         "coingeckoBase"
+      ]
+    },
+    {
+      "name": "Base Intern by Virtuals",
+      "symbol": "INTERN",
+      "address": "0x1755FA20d78cbAc6Ff8c038a9b83E6fFE14695d8",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": [],
+      "providers": [
+        "liquest"
       ]
     },
     {
@@ -154925,6 +154927,17 @@
       ]
     },
     {
+      "name": "Crypto 101 by Virtuals",
+      "symbol": "101",
+      "address": "0x30193F81E7599429afd6B2b11b27d66C56A1DFe4",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": [],
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
       "name": "Super Wrapped eETH",
       "symbol": "weETHx",
       "address": "0x304989dA2AdC80a6568170567D477Af5E48DBaAe",
@@ -155851,6 +155864,23 @@
       ]
     },
     {
+      "name": "Baby Pepe",
+      "symbol": "BABYPEPE",
+      "address": "0x36692131ccc0a478e26b3a1ada6447d95f79df21",
+      "logoURI": "https://assets.coingecko.com/coins/images/55369/thumb/200kb_200x200px.png?1745665423",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": [
+        {
+          "chainId": 8453,
+          "address": "0x36692131ccc0a478e26b3a1ada6447d95f79df21"
+        }
+      ],
+      "providers": [
+        "coingeckoBase"
+      ]
+    },
+    {
       "name": "LUSD Stablecoin",
       "symbol": "LUSD",
       "address": "0x368181499736d0c0CC614DBB145E2EC1AC86b8c6",
@@ -156024,6 +156054,17 @@
       "providers": [
         "smolDapp",
         "yearn"
+      ]
+    },
+    {
+      "name": "DONNIE",
+      "symbol": "DONNIE",
+      "address": "0x37d3D61a304695619433bc05EF841E889F69Debf",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": [],
+      "providers": [
+        "liquest"
       ]
     },
     {
@@ -157194,9 +157235,9 @@
       ]
     },
     {
-      "name": "DXAI app by Virtuals",
+      "name": "DXAI.app by Virtuals",
       "symbol": "DXAI",
-      "address": "0x3e99e0890efd6c15a295edbcce82d63224fd6f60",
+      "address": "0x3E99e0890eFd6c15a295eDBcCE82D63224fd6F60",
       "logoURI": "https://assets.coingecko.com/coins/images/53238/thumb/coinge.jpg?1735839864",
       "decimals": 18,
       "chainId": 8453,
@@ -157207,6 +157248,7 @@
         }
       ],
       "providers": [
+        "liquest",
         "coingeckoBase"
       ]
     },
@@ -161658,6 +161700,23 @@
       "chainAddresses": [],
       "providers": [
         "morpho"
+      ]
+    },
+    {
+      "name": "Sato The Dog",
+      "symbol": "SATO",
+      "address": "0x5a70be406ce7471a44f0183b8d7091f4ad751db5",
+      "logoURI": "https://assets.coingecko.com/coins/images/55378/thumb/IMG_3596.jpeg?1745667975",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": [
+        {
+          "chainId": 8453,
+          "address": "0x5a70be406ce7471a44f0183b8d7091f4ad751db5"
+        }
+      ],
+      "providers": [
+        "coingeckoBase"
       ]
     },
     {
@@ -166179,6 +166238,17 @@
       ],
       "providers": [
         "coingeckoBase"
+      ]
+    },
+    {
+      "name": "panik by Virtuals",
+      "symbol": "PANIK",
+      "address": "0x78e35f7ee63DFb143ec3802C6AeCe214bF241519",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": [],
+      "providers": [
+        "liquest"
       ]
     },
     {
@@ -171373,7 +171443,8 @@
       "chainId": 8453,
       "chainAddresses": [],
       "providers": [
-        "smolDapp"
+        "smolDapp",
+        "liquest"
       ]
     },
     {
@@ -176558,6 +176629,17 @@
       ]
     },
     {
+      "name": "Trevor Philips by Virtuals",
+      "symbol": "TREVOR",
+      "address": "0xc00825890eE84ec0c5645d821E8F27d96cF6Ce9b",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": [],
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
       "name": "Keeta",
       "symbol": "KTA",
       "address": "0xc0634090F2Fe6c6d75e61Be2b949464aBB498973",
@@ -177627,6 +177709,17 @@
       "chainAddresses": [],
       "providers": [
         "cowswap"
+      ]
+    },
+    {
+      "name": "govxbt by Virtuals",
+      "symbol": "$GOV",
+      "address": "0xC696003cdCE89C2f9Bd8f2183828A245E8f49D4D",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": [],
+      "providers": [
+        "liquest"
       ]
     },
     {
@@ -178701,6 +178794,17 @@
       "chainAddresses": [],
       "providers": [
         "optimism",
+        "liquest"
+      ]
+    },
+    {
+      "name": "REVOX by Virtuals",
+      "symbol": "$REX",
+      "address": "0xCD76ABAd8F5aAB850858117C67402CA888b24681",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": [],
+      "providers": [
         "liquest"
       ]
     },
@@ -183710,6 +183814,17 @@
       "chainAddresses": [],
       "providers": [
         "smolDapp"
+      ]
+    },
+    {
+      "name": "Dr. COPE - Your Unfriendly Neighborhood Therapist by Virtuals",
+      "symbol": "COPE",
+      "address": "0xf05f89D80Ab218Dcc092b5Af6dc4cb23c4D49c48",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": [],
+      "providers": [
+        "liquest"
       ]
     },
     {
@@ -193657,6 +193772,17 @@
       ]
     },
     {
+      "name": "Prize BV - BankVault",
+      "symbol": "przBV",
+      "address": "0x6CB3f756516e8fe2De515eE0f9b6EC1352e96FFc",
+      "decimals": 18,
+      "chainId": 42161,
+      "chainAddresses": [],
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "Dolomite: USDC",
       "symbol": "dUSDC",
       "address": "0x6DBd962b4f62D18F756b5DE57425574c4B8228D6",
@@ -195699,6 +195825,17 @@
       ]
     },
     {
+      "name": "BankVault",
+      "symbol": "BV",
+      "address": "0x9C5fe8db1543B0C47D10BAcbd66fDE454f341D88",
+      "decimals": 18,
+      "chainId": 42161,
+      "chainAddresses": [],
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "Yearn-Silo USDC Vault",
       "symbol": "yvSiloUSDC",
       "address": "0x9Cd4A7c7e7869AA8a2a6b28dA6B4CFA1f3E2F1F0",
@@ -195910,36 +196047,14 @@
       ]
     },
     {
-      "name": "Reunit Wallet",
-      "symbol": "reuni",
+      "name": "Reunit Token",
+      "symbol": "REUNI",
       "address": "0x9ed7e4b1bff939ad473da5e7a218c771d1569456",
       "logoURI": "https://tokens.1inch.io/0x9ed7e4b1bff939ad473da5e7a218c771d1569456.png",
       "decimals": 6,
       "chainId": 42161,
-      "chainAddresses": [
-        {
-          "chainId": 1,
-          "address": "0x9ed7e4b1bff939ad473da5e7a218c771d1569456"
-        },
-        {
-          "chainId": 10,
-          "address": "0x9ed7e4b1bff939ad473da5e7a218c771d1569456"
-        },
-        {
-          "chainId": 56,
-          "address": "0x9ed7e4b1bff939ad473da5e7a218c771d1569456"
-        },
-        {
-          "chainId": 42161,
-          "address": "0x9ed7e4b1bff939ad473da5e7a218c771d1569456"
-        },
-        {
-          "chainId": 43114,
-          "address": "0x9ed7e4b1bff939ad473da5e7a218c771d1569456"
-        }
-      ],
+      "chainAddresses": [],
       "providers": [
-        "defillama",
         "arbitrum1inch"
       ]
     },
