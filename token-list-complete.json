@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List - complete version",
   "description": "A list of tokens from all the token lists on Balmy",
-  "timestamp": "2025-04-28T00:19:20.280Z",
+  "timestamp": "2025-04-29T00:18:31.158Z",
   "tokens": [
     {
       "name": "Ether",
@@ -393,7 +393,6 @@
       "name": "9S Mount Kosciuszko USR",
       "symbol": "9SUSR",
       "address": "0x00B6f2C15E4439749f192D10c70f65354848Cf4b",
-      "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/1/0x66a1e37c9b0eaddca17d3662d6c05f4decf3e110/logo.png",
       "decimals": 18,
       "chainId": 1,
       "chainAddresses": [],
@@ -2830,6 +2829,17 @@
       "chainAddresses": [],
       "providers": [
         "smolDapp",
+        "yearn"
+      ]
+    },
+    {
+      "name": "Katana Pre-DepositWETH",
+      "symbol": "kpdWETH",
+      "address": "0x09fec9578fa5790d44358eF6906Eaf76E1A8E55A",
+      "decimals": 18,
+      "chainId": 1,
+      "chainAddresses": [],
+      "providers": [
         "yearn"
       ]
     },
@@ -10113,6 +10123,17 @@
       ]
     },
     {
+      "name": "USUAL Vault",
+      "symbol": "USUAL_MV",
+      "address": "0x28d24D4380B26A1Ef305Ad8D8DB258159E472F33",
+      "decimals": 18,
+      "chainId": 1,
+      "chainAddresses": [],
+      "providers": [
+        "morpho"
+      ]
+    },
+    {
       "name": "yGauge Curve dYFIETH-f Factory yVault",
       "symbol": "yG-yvCurve-dYFIETH-f-f",
       "address": "0x28da6dE3e804bDdF0aD237CFA6048f2930D0b4Dc",
@@ -12257,7 +12278,6 @@
       "name": "Gauntlet Olympus sUSDS Vault",
       "symbol": "OHMsUSDS",
       "address": "0x3365184e87d2Bd75961780454A5810BEc956F0dD",
-      "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/1/0xa3931d71877c0e7a3148cb7eb4463524fec27fbd/logo.png",
       "decimals": 18,
       "chainId": 1,
       "chainAddresses": [],
@@ -17929,6 +17949,17 @@
       ]
     },
     {
+      "name": "wbtc test two",
+      "symbol": "wbt-t-w",
+      "address": "0x4968236bf362F1c6080CE04fD95231335614162C",
+      "decimals": 8,
+      "chainId": 1,
+      "chainAddresses": [],
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "SUSHI yVault",
       "symbol": "yvSUSHI",
       "address": "0x497590d2d57f05cf8B42A36062fA53eBAe283498",
@@ -19564,7 +19595,6 @@
       "name": "Apostro Resolv USR",
       "symbol": "aprUSR",
       "address": "0x5085Dd6FAd07c12e38fae01bc2a4938d2C08B1Bc",
-      "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/1/0x66a1e37c9b0eaddca17d3662d6c05f4decf3e110/logo.png",
       "decimals": 18,
       "chainId": 1,
       "chainAddresses": [],
@@ -35427,15 +35457,9 @@
       "logoURI": "https://tokens.1inch.io/0x916c5de09cf63f6602d1e1793fb41f6437814a62.png",
       "decimals": 9,
       "chainId": 1,
-      "chainAddresses": [
-        {
-          "chainId": 1,
-          "address": "0x916c5de09cf63f6602d1e1793fb41f6437814a62"
-        }
-      ],
+      "chainAddresses": [],
       "providers": [
-        "smolDapp",
-        "defillama"
+        "smolDapp"
       ]
     },
     {
@@ -50698,6 +50722,17 @@
       ]
     },
     {
+      "name": "Katana Pre-DepositWBTC",
+      "symbol": "kpdWBTC",
+      "address": "0xCF3005699a305Ad1BA800C00fdDAD8d7e905ec49",
+      "decimals": 8,
+      "chainId": 1,
+      "chainAddresses": [],
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "BetProtocolToken",
       "symbol": "BEPRO",
       "address": "0xCF3C8Be2e2C42331Da80EF210e9B1b307C03d36A",
@@ -51915,7 +51950,6 @@
       "name": "MEV Capital Resolv USR",
       "symbol": "MC-USR",
       "address": "0xD50DA5F859811A91fD1876C9461fD39c23C747Ad",
-      "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/1/0x66a1e37c9b0eaddca17d3662d6c05f4decf3e110/logo.png",
       "decimals": 18,
       "chainId": 1,
       "chainAddresses": [],
@@ -58020,6 +58054,17 @@
       ]
     },
     {
+      "name": "wbtc test one",
+      "symbol": "wbt-t-1",
+      "address": "0xEF0FacE04f2D9CC4dC47f560B0DBFc5dd6b56CBb",
+      "decimals": 8,
+      "chainId": 1,
+      "chainAddresses": [],
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "StaFi",
       "symbol": "FIS",
       "address": "0xef3A930e1FfFFAcd2fc13434aC81bD278B0ecC8d",
@@ -58634,6 +58679,17 @@
       "providers": [
         "defillama",
         "optimism"
+      ]
+    },
+    {
+      "name": "Katana Pre-DepositUSDC",
+      "symbol": "kpdUSDC",
+      "address": "0xf20b02131C45b22E147c98e30Cc889a20dc8a00d",
+      "decimals": 6,
+      "chainId": 1,
+      "chainAddresses": [],
+      "providers": [
+        "yearn"
       ]
     },
     {
@@ -63405,7 +63461,7 @@
       ]
     },
     {
-      "name": "Dope Wars Paper",
+      "name": "Dope World Paper",
       "symbol": "paper",
       "address": "0x00f932f0fe257456b32deda4758922e56a4f4b42",
       "logoURI": "https://ethereum-optimism.github.io/data/PAPER/logo.svg",
@@ -150248,10 +150304,20 @@
       ]
     },
     {
+      "name": "Mr. WWA by Virtuals",
+      "symbol": "WWA",
+      "address": "0x0CDA9a9F898b0952e07ff32cBDfE94490FDBBfd3",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": [],
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
       "name": "Gauntlet LBTC Core",
       "symbol": "gtLBTCc",
       "address": "0x0D05e6ec0A10f9fFE9229EAA785c11606a1d13Fb",
-      "logoURI": "https://assets.smold.app/api/token/8453/0xecAc9C5F704e954931349Da37F60E39f515c11c1/logo-128.png",
       "decimals": 18,
       "chainId": 8453,
       "chainAddresses": [],
@@ -151431,9 +151497,9 @@
       ]
     },
     {
-      "name": "4GENTIC",
+      "name": "4GENTIC by Virtuals",
       "symbol": "4GS",
-      "address": "0x135fa55546758cf398da675a064f39d215ab1ff6",
+      "address": "0x135fa55546758cf398dA675A064F39d215AB1FF6",
       "logoURI": "https://assets.coingecko.com/coins/images/52809/thumb/profile_lowres_nobg.png?1734362695",
       "decimals": 18,
       "chainId": 8453,
@@ -151444,6 +151510,7 @@
         }
       ],
       "providers": [
+        "liquest",
         "coingeckoBase"
       ]
     },
@@ -151576,6 +151643,17 @@
       "chainAddresses": [],
       "providers": [
         "smolDapp"
+      ]
+    },
+    {
+      "name": "Amora by Virtuals",
+      "symbol": "AMORA",
+      "address": "0x148045e33AD0F714DfFc2ed9D58A909fFc406d58",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": [],
+      "providers": [
+        "liquest"
       ]
     },
     {
@@ -153544,6 +153622,17 @@
       ]
     },
     {
+      "name": "Yugo by Virtuals",
+      "symbol": "$YUGO",
+      "address": "0x21bB297a414e209A55a02e235234E1865eE3c373",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": [],
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
       "name": "TRUE",
       "symbol": "TRUE",
       "address": "0x21cfcfc3d8f98fc728f48341d10ad8283f6eb7ab",
@@ -155489,6 +155578,17 @@
       ],
       "providers": [
         "coingeckoBase"
+      ]
+    },
+    {
+      "name": "Joe by Virtuals",
+      "symbol": "JOE",
+      "address": "0x2bF5B823B8705Fe4afe32ce6Fd211510294EE792",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": [],
+      "providers": [
+        "liquest"
       ]
     },
     {
@@ -158776,7 +158876,7 @@
     {
       "name": "VirtuBeauty by Virtuals",
       "symbol": "VBEA",
-      "address": "0x414562c94223a5c4df9f278422f03228f35b8f7d",
+      "address": "0x414562C94223A5C4Df9F278422F03228F35b8f7d",
       "logoURI": "https://assets.coingecko.com/coins/images/53429/thumb/logo.png?1736365069",
       "decimals": 18,
       "chainId": 8453,
@@ -158787,6 +158887,7 @@
         }
       ],
       "providers": [
+        "liquest",
         "coingeckoBase"
       ]
     },
@@ -159634,7 +159735,7 @@
     {
       "name": "The Pea Guy by Virtuals",
       "symbol": "PEAGUY",
-      "address": "0x44e1c6bc3a4d2058ee3f290bcb27c4da8c5b2e3e",
+      "address": "0x44E1c6bc3A4d2058Ee3f290Bcb27C4dA8c5B2E3E",
       "logoURI": "https://assets.coingecko.com/coins/images/53170/thumb/IMG_20241229_165944_305.png?1735507961",
       "decimals": 18,
       "chainId": 8453,
@@ -159645,6 +159746,7 @@
         }
       ],
       "providers": [
+        "liquest",
         "coingeckoBase"
       ]
     },
@@ -161812,31 +161914,6 @@
       ]
     },
     {
-      "name": "PrimeFi",
-      "symbol": "PRFI",
-      "address": "0x53985d52936e8052b87035084fda74d832ad3c00",
-      "logoURI": "https://assets.coingecko.com/coins/images/55355/thumb/Prime_Numbers_Icon_%281%29.png?1745589445",
-      "decimals": 18,
-      "chainId": 8453,
-      "chainAddresses": [
-        {
-          "chainId": 1,
-          "address": "0x53985d52936e8052b87035084fda74d832ad3c00"
-        },
-        {
-          "chainId": 8453,
-          "address": "0x53985d52936e8052b87035084fda74d832ad3c00"
-        },
-        {
-          "chainId": 42161,
-          "address": "0x53985d52936e8052b87035084fda74d832ad3c00"
-        }
-      ],
-      "providers": [
-        "coingeckoBase"
-      ]
-    },
-    {
       "name": "DexFi Governance",
       "symbol": "GDEX",
       "address": "0x53cb59d32a8d08fc6d3f81454f150946a028a44d",
@@ -163310,6 +163387,17 @@
       ],
       "providers": [
         "coingeckoBase"
+      ]
+    },
+    {
+      "name": "Aaavegotchi Autonomous Agent by Virtuals",
+      "symbol": "GOTCHI",
+      "address": "0x5cf8338E74374EAB368784900D6AeCA460aFa9Aa",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": [],
+      "providers": [
+        "liquest"
       ]
     },
     {
@@ -167861,6 +167949,31 @@
       ]
     },
     {
+      "name": "PrimeFi",
+      "symbol": "PRFI",
+      "address": "0x7bbcf1b600565ae023a1806ef637af4739de3255",
+      "logoURI": "https://assets.coingecko.com/coins/images/55355/thumb/Prime_Numbers_Icon_%281%29.png?1745589445",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0x7bbcf1b600565ae023a1806ef637af4739de3255"
+        },
+        {
+          "chainId": 8453,
+          "address": "0x7bbcf1b600565ae023a1806ef637af4739de3255"
+        },
+        {
+          "chainId": 42161,
+          "address": "0x7bbcf1b600565ae023a1806ef637af4739de3255"
+        }
+      ],
+      "providers": [
+        "coingeckoBase"
+      ]
+    },
+    {
       "name": "USDS BaseInvaders",
       "symbol": "biUSDS",
       "address": "0x7bC2fdef0CF03d8488d7aB06C4A36b61725d06eC",
@@ -170177,6 +170290,17 @@
       ]
     },
     {
+      "name": "Donald Trump by Virtuals",
+      "symbol": "TRUMP",
+      "address": "0x8adcec50A0595cB91ba5989d9a0844148c234539",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": [],
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
       "name": "dHedge DAO Token",
       "symbol": "DHT",
       "address": "0x8aE125E8653821E851F12A49F7765db9a9ce7384",
@@ -172197,23 +172321,6 @@
       "providers": [
         "smolDapp",
         "liquest",
-        "coingeckoBase"
-      ]
-    },
-    {
-      "name": "Monkey Peepo",
-      "symbol": "BANANAS",
-      "address": "0x9a27c6759a6de0f26ac41264f0856617dec6bc3f",
-      "logoURI": "https://assets.coingecko.com/coins/images/37036/thumb/logo-mp.png?1713160745",
-      "decimals": 18,
-      "chainId": 8453,
-      "chainAddresses": [
-        {
-          "chainId": 8453,
-          "address": "0x9a27c6759a6de0f26ac41264f0856617dec6bc3f"
-        }
-      ],
-      "providers": [
         "coingeckoBase"
       ]
     },
@@ -177081,7 +177188,7 @@
     {
       "name": "MetaInside by Virtuals",
       "symbol": "MIN",
-      "address": "0xbb59167235bf3588b357de6cd98ca6f94d753c76",
+      "address": "0xbB59167235BF3588b357De6cD98Ca6f94D753C76",
       "logoURI": "https://assets.coingecko.com/coins/images/54236/thumb/metainside-logo.png?1738871801",
       "decimals": 18,
       "chainId": 8453,
@@ -177092,6 +177199,7 @@
         }
       ],
       "providers": [
+        "liquest",
         "coingeckoBase"
       ]
     },
@@ -177146,7 +177254,7 @@
       "name": "Morpho eUSD",
       "symbol": "meUSD",
       "address": "0xbb819D845b573B5D7C538F5b85057160cfb5f313",
-      "logoURI": "https://assets.coingecko.com/coins/images/51547/thumb/22933.png?1731516835",
+      "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/8453/0xcfa3ef56d303ae4faaba0592388f19d7c3399fb4/logo.png",
       "decimals": 18,
       "chainId": 8453,
       "chainAddresses": [
@@ -178283,6 +178391,17 @@
         "liquest",
         "odosBase",
         "coingeckoBase"
+      ]
+    },
+    {
+      "name": "Puppet Master by Virtuals",
+      "symbol": "PUPAI",
+      "address": "0xC127dC63F96adE4b28Bc5838910736D8aB68c645",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": [],
+      "providers": [
+        "liquest"
       ]
     },
     {
@@ -182588,6 +182707,17 @@
       ],
       "providers": [
         "coingeckoBase"
+      ]
+    },
+    {
+      "name": "Aurra by Virtuals",
+      "symbol": "AURA",
+      "address": "0xdCaA5E062b2be18E52eA6ED7ba232538621dDC10",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": [],
+      "providers": [
+        "liquest"
       ]
     },
     {
@@ -208239,7 +208369,7 @@
     {
       "name": "ZeroLend",
       "symbol": "ZERO",
-      "address": "0x78354f8dccb269a615a7e0a24f9b0718fdc3c7a7",
+      "address": "0x78354f8DcCB269a615A7e0a24f9B0718FDC3C7A7",
       "logoURI": "https://storage.googleapis.com/ks-setting-1d682dca/9506e680-6135-45f0-8448-7ffc54bceec41714991431163.png",
       "decimals": 18,
       "chainId": 59144,
@@ -208254,6 +208384,7 @@
         }
       ],
       "providers": [
+        "liquest",
         "kyberswapLinea"
       ]
     },

@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2025-04-28T00:19:20.256Z",
+  "timestamp": "2025-04-29T00:18:31.133Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -29,7 +29,6 @@
       "name": "9S Mount Kosciuszko USR",
       "symbol": "9SUSR",
       "address": "0x00B6f2C15E4439749f192D10c70f65354848Cf4b",
-      "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/1/0x66a1e37c9b0eaddca17d3662d6c05f4decf3e110/logo.png",
       "decimals": 18,
       "chainId": 1,
       "chainAddresses": []
@@ -647,6 +646,14 @@
       ]
     },
     {
+      "name": "USUAL Vault",
+      "symbol": "USUAL_MV",
+      "address": "0x28d24D4380B26A1Ef305Ad8D8DB258159E472F33",
+      "decimals": 18,
+      "chainId": 1,
+      "chainAddresses": []
+    },
+    {
       "name": "Origin Dollar",
       "symbol": "OUSD",
       "address": "0x2A8e1E676Ec238d8A992307B495b45B3fEAa5e86",
@@ -766,7 +773,6 @@
       "name": "Gauntlet Olympus sUSDS Vault",
       "symbol": "OHMsUSDS",
       "address": "0x3365184e87d2Bd75961780454A5810BEc956F0dD",
-      "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/1/0xa3931d71877c0e7a3148cb7eb4463524fec27fbd/logo.png",
       "decimals": 18,
       "chainId": 1,
       "chainAddresses": []
@@ -1265,7 +1271,6 @@
       "name": "Apostro Resolv USR",
       "symbol": "aprUSR",
       "address": "0x5085Dd6FAd07c12e38fae01bc2a4938d2C08B1Bc",
-      "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/1/0x66a1e37c9b0eaddca17d3662d6c05f4decf3e110/logo.png",
       "decimals": 18,
       "chainId": 1,
       "chainAddresses": []
@@ -3489,7 +3494,6 @@
       "name": "MEV Capital Resolv USR",
       "symbol": "MC-USR",
       "address": "0xD50DA5F859811A91fD1876C9461fD39c23C747Ad",
-      "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/1/0x66a1e37c9b0eaddca17d3662d6c05f4decf3e110/logo.png",
       "decimals": 18,
       "chainId": 1,
       "chainAddresses": []
@@ -42049,7 +42053,6 @@
       "name": "Gauntlet LBTC Core",
       "symbol": "gtLBTCc",
       "address": "0x0D05e6ec0A10f9fFE9229EAA785c11606a1d13Fb",
-      "logoURI": "https://assets.smold.app/api/token/8453/0xecAc9C5F704e954931349Da37F60E39f515c11c1/logo-128.png",
       "decimals": 18,
       "chainId": 8453,
       "chainAddresses": []
@@ -43003,7 +43006,7 @@
       "name": "Morpho eUSD",
       "symbol": "meUSD",
       "address": "0xbb819D845b573B5D7C538F5b85057160cfb5f313",
-      "logoURI": "https://assets.coingecko.com/coins/images/51547/thumb/22933.png?1731516835",
+      "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/8453/0xcfa3ef56d303ae4faaba0592388f19d7c3399fb4/logo.png",
       "decimals": 18,
       "chainId": 8453,
       "chainAddresses": [
@@ -51938,6 +51941,24 @@
       "decimals": 6,
       "chainId": 59144,
       "chainAddresses": []
+    },
+    {
+      "name": "ZeroLend",
+      "symbol": "ZERO",
+      "address": "0x78354f8DcCB269a615A7e0a24f9B0718FDC3C7A7",
+      "logoURI": "https://storage.googleapis.com/ks-setting-1d682dca/9506e680-6135-45f0-8448-7ffc54bceec41714991431163.png",
+      "decimals": 18,
+      "chainId": 59144,
+      "chainAddresses": [
+        {
+          "chainId": 324,
+          "address": "0x27d0a2b5316b98088294378692f4eabfb3222e36"
+        },
+        {
+          "chainId": 59144,
+          "address": "0x78354f8dccb269a615a7e0a24f9b0718fdc3c7a7"
+        }
+      ]
     },
     {
       "name": "Binance USD",
