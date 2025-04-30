@@ -78,6 +78,7 @@ export const generators: Record<string, ITokenList> = {
       "https://api.odos.xyz/info/tokens/146",
       odosParser(146),
     ),
+    priority: Infinity,
   },
   bebopMode: {
     generator: new JsonGenericTokenListGenerator(
