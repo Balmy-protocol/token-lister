@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List - complete version",
   "description": "A list of tokens from all the token lists on Balmy",
-  "timestamp": "2025-04-30T00:18:29.342Z",
+  "timestamp": "2025-04-30T19:30:01.438Z",
   "tokens": [
     {
       "name": "Ether",
@@ -150018,6 +150018,40 @@
       ]
     },
     {
+      "name": "Plaza LevETH",
+      "symbol": "LEVETH",
+      "address": "0x091a5a1e3aa8b96ab0fb0bc217f5e60ec4c611a0",
+      "logoURI": "https://assets.coingecko.com/coins/images/55436/thumb/levETH.png?1746012754",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": [
+        {
+          "chainId": 8453,
+          "address": "0x091a5a1e3aa8b96ab0fb0bc217f5e60ec4c611a0"
+        }
+      ],
+      "providers": [
+        "coingeckoBase"
+      ]
+    },
+    {
+      "name": "Plaza BondETH",
+      "symbol": "BONDETH",
+      "address": "0x091a5abe6616e26268e5eecff256c2212fce2707",
+      "logoURI": "https://assets.coingecko.com/coins/images/55435/thumb/bondETH.png?1746012530",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": [
+        {
+          "chainId": 8453,
+          "address": "0x091a5abe6616e26268e5eecff256c2212fce2707"
+        }
+      ],
+      "providers": [
+        "coingeckoBase"
+      ]
+    },
+    {
       "name": "VUSD",
       "symbol": "VUSD",
       "address": "0x0937876EFd6C4101Be68cd89ba58D5Ecf0d53A64",
@@ -150610,6 +150644,27 @@
       ],
       "providers": [
         "smolDapp",
+        "coingeckoBase"
+      ]
+    },
+    {
+      "name": "Fuel",
+      "symbol": "FUELX",
+      "address": "0x0c76e9c9e391055e75eb2413d718a4bc7a037972",
+      "logoURI": "https://assets.coingecko.com/coins/images/27191/thumb/Fuel-Icon-200x200.png?1724270877",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0xcc54ac31164b5b3c39db4eef26d89275c468ec9d"
+        },
+        {
+          "chainId": 8453,
+          "address": "0x0c76e9c9e391055e75eb2413d718a4bc7a037972"
+        }
+      ],
+      "providers": [
         "coingeckoBase"
       ]
     },
@@ -152590,6 +152645,7 @@
       "providers": [
         "smolDapp",
         "optimism",
+        "liquest",
         "coingeckoBase"
       ]
     },
@@ -152931,6 +152987,7 @@
       ],
       "providers": [
         "smolDapp",
+        "liquest",
         "coingeckoBase"
       ]
     },
@@ -163749,17 +163806,6 @@
       ]
     },
     {
-      "name": "Aaavegotchi Autonomous Agent by Virtuals",
-      "symbol": "GOTCHI",
-      "address": "0x5cf8338E74374EAB368784900D6AeCA460aFa9Aa",
-      "decimals": 18,
-      "chainId": 8453,
-      "chainAddresses": [],
-      "providers": [
-        "liquest"
-      ]
-    },
-    {
       "name": "USDe",
       "symbol": "USDe",
       "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
@@ -163815,6 +163861,23 @@
         {
           "chainId": 8453,
           "address": "0x5d9c2457a10d455e0ad8e28e40cc28eacf27a06a"
+        }
+      ],
+      "providers": [
+        "coingeckoBase"
+      ]
+    },
+    {
+      "name": "RoboPepe",
+      "symbol": "ROBOPEPE",
+      "address": "0x5db4c680f66ade9e00ef6aad187419031bcc58a8",
+      "logoURI": "https://assets.coingecko.com/coins/images/55439/thumb/RoboPepe.png?1746014322",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": [
+        {
+          "chainId": 8453,
+          "address": "0x5db4c680f66ade9e00ef6aad187419031bcc58a8"
         }
       ],
       "providers": [
@@ -168176,7 +168239,8 @@
       "chainId": 8453,
       "chainAddresses": [],
       "providers": [
-        "optimism"
+        "optimism",
+        "liquest"
       ]
     },
     {
@@ -172284,7 +172348,6 @@
       ],
       "providers": [
         "optimism",
-        "liquest",
         "coingeckoBase"
       ]
     },
@@ -172459,17 +172522,6 @@
       ],
       "providers": [
         "coingeckoBase"
-      ]
-    },
-    {
-      "name": "whip by Virtuals",
-      "symbol": "WHIP",
-      "address": "0x99271F29c987c6a67f6E6CA8c90786Fe139D9F24",
-      "decimals": 18,
-      "chainId": 8453,
-      "chainAddresses": [],
-      "providers": [
-        "liquest"
       ]
     },
     {
@@ -174534,6 +174586,7 @@
       ],
       "providers": [
         "optimism",
+        "liquest",
         "coingeckoBase"
       ]
     },
@@ -174776,6 +174829,7 @@
       ],
       "providers": [
         "optimism",
+        "liquest",
         "coingeckoBase"
       ]
     },
@@ -175783,8 +175837,7 @@
       "chainId": 8453,
       "chainAddresses": [],
       "providers": [
-        "optimism",
-        "liquest"
+        "optimism"
       ]
     },
     {
@@ -176736,7 +176789,6 @@
       "providers": [
         "smolDapp",
         "optimism",
-        "liquest",
         "coingeckoBase"
       ]
     },
@@ -177868,6 +177920,7 @@
       ],
       "providers": [
         "optimism",
+        "liquest",
         "coingeckoBase"
       ]
     },
@@ -178779,17 +178832,6 @@
         "liquest",
         "odosBase",
         "coingeckoBase"
-      ]
-    },
-    {
-      "name": "Puppet Master by Virtuals",
-      "symbol": "PUPAI",
-      "address": "0xC127dC63F96adE4b28Bc5838910736D8aB68c645",
-      "decimals": 18,
-      "chainId": 8453,
-      "chainAddresses": [],
-      "providers": [
-        "liquest"
       ]
     },
     {
@@ -182544,8 +182586,7 @@
       "chainId": 8453,
       "chainAddresses": [],
       "providers": [
-        "optimism",
-        "liquest"
+        "optimism"
       ]
     },
     {
@@ -208850,7 +208891,7 @@
     {
       "name": "ZeroLend",
       "symbol": "ZERO",
-      "address": "0x78354f8dccb269a615a7e0a24f9b0718fdc3c7a7",
+      "address": "0x78354f8DcCB269a615A7e0a24f9B0718FDC3C7A7",
       "logoURI": "https://storage.googleapis.com/ks-setting-1d682dca/9506e680-6135-45f0-8448-7ffc54bceec41714991431163.png",
       "decimals": 18,
       "chainId": 59144,
@@ -208865,6 +208906,7 @@
         }
       ],
       "providers": [
+        "liquest",
         "kyberswapLinea"
       ]
     },
@@ -209294,7 +209336,7 @@
       ]
     },
     {
-      "name": "Wrapped liquid staked Ether 2.0",
+      "name": "Linea Bridged wstETH (Linea)",
       "symbol": "wstETH",
       "address": "0xB5beDd42000b71FddE22D3eE8a79Bd49A568fC8F",
       "logoURI": "https://storage.googleapis.com/ks-setting-1d682dca/b0309bf4-bddc-44a8-902a-4c3d5d1fbebf1708094583787.png",
