@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List",
   "description": "A curated list of tokens from all the token lists on Balmy",
-  "timestamp": "2025-04-29T00:18:31.133Z",
+  "timestamp": "2025-04-30T00:18:29.320Z",
   "tokens": [
     {
       "name": "TrueUSD",
@@ -201,6 +201,10 @@
           "address": "0x25788a1a171ec66da6502f9975a15b609ff54cf6"
         },
         {
+          "chainId": 480,
+          "address": "0x7077c71b4af70737a08287e279b717dcf64fdc57"
+        },
+        {
           "chainId": 8453,
           "address": "0xd652c5425aea2afd5fb142e120fecf79e18fafc3"
         },
@@ -371,6 +375,10 @@
         {
           "chainId": 10,
           "address": "0xdc6ff44d5d932cbd77b52e5612ba0529dc6226f1"
+        },
+        {
+          "chainId": 480,
+          "address": "0x2cfc85d8e48f8eab294be644d9e25c3030863003"
         }
       ]
     },
@@ -5106,6 +5114,10 @@
           "address": "0x25788a1a171ec66da6502f9975a15b609ff54cf6"
         },
         {
+          "chainId": 480,
+          "address": "0x7077c71b4af70737a08287e279b717dcf64fdc57"
+        },
+        {
           "chainId": 8453,
           "address": "0xd652c5425aea2afd5fb142e120fecf79e18fafc3"
         },
@@ -6779,6 +6791,10 @@
         {
           "chainId": 10,
           "address": "0xdc6ff44d5d932cbd77b52e5612ba0529dc6226f1"
+        },
+        {
+          "chainId": 480,
+          "address": "0x2cfc85d8e48f8eab294be644d9e25c3030863003"
         }
       ]
     },
@@ -11167,7 +11183,7 @@
       ]
     },
     {
-      "name": "Frax",
+      "name": "Legacy Frax Dollar",
       "symbol": "frax",
       "address": "0x90c97f71e18723b0cf0dfa30ee176ab653e89f40",
       "logoURI": "https://tokens.1inch.io/0x90c97f71e18723b0cf0dfa30ee176ab653e89f40.png",
@@ -15622,6 +15638,36 @@
       "decimals": 18,
       "chainId": 130,
       "chainAddresses": []
+    },
+    {
+      "name": "USD₮0",
+      "symbol": "USD₮0",
+      "address": "0x9151434b16b9763660705744891fA906F660EcC5",
+      "logoURI": "https://ethereum-optimism.github.io/data/USD₮0/logo.png",
+      "decimals": 6,
+      "chainId": 130,
+      "chainAddresses": [
+        {
+          "chainId": 10,
+          "address": "0x01bff41798a0bcf287b996046ca68b395dbc1071"
+        },
+        {
+          "chainId": 130,
+          "address": "0x9151434b16b9763660705744891fa906f660ecc5"
+        },
+        {
+          "chainId": 42161,
+          "address": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9"
+        },
+        {
+          "chainId": 57073,
+          "address": "0x0200c29006150606b650577bbe7b6248f58470c1"
+        },
+        {
+          "chainId": 80094,
+          "address": "0x779ded0c9e1022225f8e0630b35a9b54be713736"
+        }
+      ]
     },
     {
       "name": "Wrapped BTC",
@@ -23016,6 +23062,15 @@
       "logoURI": "https://assets.smold.app/api/token/324/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE/logo-128.png",
       "decimals": 18,
       "chainId": 324,
+      "chainAddresses": []
+    },
+    {
+      "name": "Stargate USD₮0 (Bridged)",
+      "symbol": "USD₮0",
+      "address": "0x102d758f688a4C1C5a80b116bD945d4455460282",
+      "logoURI": "https://ethereum-optimism.github.io/data/USD₮0/logo.png",
+      "decimals": 6,
+      "chainId": 480,
       "chainAddresses": []
     },
     {
@@ -39372,6 +39427,10 @@
           "address": "0x649a2da7b28e0d54c13d5eff95d3a660652742cc"
         },
         {
+          "chainId": 480,
+          "address": "0x18bc5bcc660cf2b9ce3cd51a404afe1a0cbd3c22"
+        },
+        {
           "chainId": 1135,
           "address": "0x18bc5bcc660cf2b9ce3cd51a404afe1a0cbd3c22"
         },
@@ -39396,6 +39455,15 @@
       "address": "0x398697b203cA909e05690B6684D56938964b07A0",
       "logoURI": "https://ethereum-optimism.github.io/data/UTU/logo.svg",
       "decimals": 18,
+      "chainId": 1135,
+      "chainAddresses": []
+    },
+    {
+      "name": "Stargate USD₮0 (Bridged)",
+      "symbol": "USD₮0",
+      "address": "0x43F2376D5D03553aE72F4A8093bbe9de4336EB08",
+      "logoURI": "https://ethereum-optimism.github.io/data/USD₮0/logo.png",
+      "decimals": 6,
       "chainId": 1135,
       "chainAddresses": []
     },
@@ -40348,12 +40416,30 @@
       "chainAddresses": []
     },
     {
+      "name": "Stargate USD₮0 (Bridged)",
+      "symbol": "USD₮0",
+      "address": "0x102d758f688a4C1C5a80b116bD945d4455460282",
+      "logoURI": "https://ethereum-optimism.github.io/data/USD₮0/logo.png",
+      "decimals": 6,
+      "chainId": 1868,
+      "chainAddresses": []
+    },
+    {
       "name": "QuickSwap",
       "symbol": "QUICK",
       "address": "0x6ef08F42C936f5d101B76160c816D3c8181C9867",
       "logoURI": "https://ethereum-optimism.github.io/data/QUICK/logo.svg",
       "decimals": 18,
       "chainId": 1868,
+      "chainAddresses": []
+    },
+    {
+      "name": "Stargate USD₮0 (Bridged)",
+      "symbol": "USD₮0",
+      "address": "0x102d758f688a4C1C5a80b116bD945d4455460282",
+      "logoURI": "https://ethereum-optimism.github.io/data/USD₮0/logo.png",
+      "decimals": 6,
+      "chainId": 1923,
       "chainAddresses": []
     },
     {
@@ -43390,6 +43476,10 @@
         {
           "chainId": 137,
           "address": "0x25788a1a171ec66da6502f9975a15b609ff54cf6"
+        },
+        {
+          "chainId": 480,
+          "address": "0x7077c71b4af70737a08287e279b717dcf64fdc57"
         },
         {
           "chainId": 8453,
@@ -47093,6 +47183,15 @@
       "address": "0x34C11A932853Ae24E845Ad4B633E3cEf91afE583",
       "logoURI": "https://user-images.githubusercontent.com/101748448/187026740-27f51d9d-e60d-48e9-b378-416c1eda0cb1.svg",
       "decimals": 18,
+      "chainId": 42220,
+      "chainAddresses": []
+    },
+    {
+      "name": "Tether Gold",
+      "symbol": "XAUt",
+      "address": "0x3776228836bfcfc87cac36c28830b67759c02707",
+      "logoURI": "https://ethereum-optimism.github.io/data/XAUt/logo.svg",
+      "decimals": 6,
       "chainId": 42220,
       "chainAddresses": []
     },
@@ -51037,6 +51136,36 @@
       "chainAddresses": []
     },
     {
+      "name": "USD₮0",
+      "symbol": "USD₮0",
+      "address": "0x0200C29006150606B650577BBE7B6248F58470c1",
+      "logoURI": "https://ethereum-optimism.github.io/data/USD₮0/logo.png",
+      "decimals": 6,
+      "chainId": 57073,
+      "chainAddresses": [
+        {
+          "chainId": 10,
+          "address": "0x01bff41798a0bcf287b996046ca68b395dbc1071"
+        },
+        {
+          "chainId": 130,
+          "address": "0x9151434b16b9763660705744891fa906f660ecc5"
+        },
+        {
+          "chainId": 42161,
+          "address": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9"
+        },
+        {
+          "chainId": 57073,
+          "address": "0x0200c29006150606b650577bbe7b6248f58470c1"
+        },
+        {
+          "chainId": 80094,
+          "address": "0x779ded0c9e1022225f8e0630b35a9b54be713736"
+        }
+      ]
+    },
+    {
       "name": "INKACHU",
       "symbol": "POKE",
       "address": "0x03792f3C7841C901916cB76882Fb5a9E1902aB69",
@@ -51941,24 +52070,6 @@
       "decimals": 6,
       "chainId": 59144,
       "chainAddresses": []
-    },
-    {
-      "name": "ZeroLend",
-      "symbol": "ZERO",
-      "address": "0x78354f8DcCB269a615A7e0a24f9B0718FDC3C7A7",
-      "logoURI": "https://storage.googleapis.com/ks-setting-1d682dca/9506e680-6135-45f0-8448-7ffc54bceec41714991431163.png",
-      "decimals": 18,
-      "chainId": 59144,
-      "chainAddresses": [
-        {
-          "chainId": 324,
-          "address": "0x27d0a2b5316b98088294378692f4eabfb3222e36"
-        },
-        {
-          "chainId": 59144,
-          "address": "0x78354f8dccb269a615a7e0a24f9b0718fdc3c7a7"
-        }
-      ]
     },
     {
       "name": "Binance USD",
