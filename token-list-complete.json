@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List - complete version",
   "description": "A list of tokens from all the token lists on Balmy",
-  "timestamp": "2025-04-30T19:32:16.347Z",
+  "timestamp": "2025-05-01T00:20:36.164Z",
   "tokens": [
     {
       "name": "Ether",
@@ -163806,6 +163806,17 @@
       ]
     },
     {
+      "name": "Aaavegotchi Autonomous Agent by Virtuals",
+      "symbol": "GOTCHI",
+      "address": "0x5cf8338E74374EAB368784900D6AeCA460aFa9Aa",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": [],
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
       "name": "USDe",
       "symbol": "USDe",
       "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
@@ -177618,7 +177629,7 @@
     {
       "name": "MetaInside by Virtuals",
       "symbol": "MIN",
-      "address": "0xbb59167235bf3588b357de6cd98ca6f94d753c76",
+      "address": "0xbB59167235BF3588b357De6cD98Ca6f94D753C76",
       "logoURI": "https://assets.coingecko.com/coins/images/54236/thumb/metainside-logo.png?1738871801",
       "decimals": 18,
       "chainId": 8453,
@@ -177629,6 +177640,7 @@
         }
       ],
       "providers": [
+        "liquest",
         "coingeckoBase"
       ]
     },
@@ -178832,6 +178844,17 @@
         "liquest",
         "odosBase",
         "coingeckoBase"
+      ]
+    },
+    {
+      "name": "Puppet Master by Virtuals",
+      "symbol": "PUPAI",
+      "address": "0xC127dC63F96adE4b28Bc5838910736D8aB68c645",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": [],
+      "providers": [
+        "liquest"
       ]
     },
     {
