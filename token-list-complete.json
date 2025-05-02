@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List - complete version",
   "description": "A list of tokens from all the token lists on Balmy",
-  "timestamp": "2025-05-01T00:20:36.164Z",
+  "timestamp": "2025-05-02T00:18:40.987Z",
   "tokens": [
     {
       "name": "Ether",
@@ -29855,6 +29855,17 @@
       ]
     },
     {
+      "name": "afCVX/CVX",
+      "symbol": "CVXafCVX",
+      "address": "0x7956FAd09a1D1C47550331E7f06bF7c7B7C2aF08",
+      "decimals": 18,
+      "chainId": 1,
+      "chainAddresses": [],
+      "providers": [
+        "yearn"
+      ]
+    },
+    {
       "name": "USD3/eUSD",
       "symbol": "USD3eUSD",
       "address": "0x79586fa680958102154093B795Fdb8EFBc013822",
@@ -37155,6 +37166,17 @@
       "chainAddresses": [],
       "providers": [
         "smolDapp",
+        "yearn"
+      ]
+    },
+    {
+      "name": "Curve CVXafCVX Factory yVault",
+      "symbol": "yvCurve-CVXafCVX-f",
+      "address": "0x97aae86E5efC305f2189f78B5C7e9Dac1249c379",
+      "decimals": 18,
+      "chainId": 1,
+      "chainAddresses": [],
+      "providers": [
         "yearn"
       ]
     },
@@ -122814,15 +122836,9 @@
       "logoURI": "https://assets.coingecko.com/coins/images/27713/large/Xen.jpeg",
       "decimals": 18,
       "chainId": 250,
-      "chainAddresses": [
-        {
-          "chainId": 250,
-          "address": "0xef4b763385838fffc708000f884026b8c0434275"
-        }
-      ],
+      "chainAddresses": [],
       "providers": [
-        "balmy",
-        "defillama"
+        "balmy"
       ]
     },
     {
@@ -151548,17 +151564,6 @@
       ]
     },
     {
-      "name": "Axelar Wrapped BAL",
-      "symbol": "axlBAL",
-      "address": "0x11C1879227D463b60db18C17c20aE739aE8E961a",
-      "decimals": 18,
-      "chainId": 8453,
-      "chainAddresses": [],
-      "providers": [
-        "liquest"
-      ]
-    },
-    {
       "name": "Speculation",
       "symbol": "SPECU",
       "address": "0x11d41056ff636107DD710EC4Ea772490A710cDb7",
@@ -152117,6 +152122,23 @@
       ]
     },
     {
+      "name": "Rob Banks",
+      "symbol": "BANKS",
+      "address": "0x14b2f229097df3c92b43ea871860e3fae08d7f06",
+      "logoURI": "https://assets.coingecko.com/coins/images/55447/thumb/Rob_Banks_%28_BANKS%29_token_icon_logo_%28200x200%29.png?1746055815",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": [
+        {
+          "chainId": 8453,
+          "address": "0x14b2f229097df3c92b43ea871860e3fae08d7f06"
+        }
+      ],
+      "providers": [
+        "coingeckoBase"
+      ]
+    },
+    {
       "name": "Cool Mustache",
       "symbol": "MUST",
       "address": "0x14daf26c2507acdd3b64e3302d8554611026cc40",
@@ -152668,6 +152690,7 @@
       ],
       "providers": [
         "optimism",
+        "liquest",
         "coingeckoBase"
       ]
     },
@@ -157791,6 +157814,23 @@
       ]
     },
     {
+      "name": "Based Hotdog",
+      "symbol": "BOTDOG",
+      "address": "0x37d6080ca82e42db3cf94a6fd07416cdd419a4a4",
+      "logoURI": "https://assets.coingecko.com/coins/images/55456/thumb/mining_dog.jpg?1746123454",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": [
+        {
+          "chainId": 8453,
+          "address": "0x37d6080ca82e42db3cf94a6fd07416cdd419a4a4"
+        }
+      ],
+      "providers": [
+        "coingeckoBase"
+      ]
+    },
+    {
       "name": "BLAZE",
       "symbol": "BLAZE",
       "address": "0x37DEfBC399e5737D53Dfb5533d9954572F5B19bf",
@@ -158966,6 +159006,17 @@
       "chainAddresses": [],
       "providers": [
         "optimism"
+      ]
+    },
+    {
+      "name": "CryptoNinja YUI by Virtuals",
+      "symbol": "YUI",
+      "address": "0x3e952bC11B367937115724F430e39693Af67F798",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": [],
+      "providers": [
+        "liquest"
       ]
     },
     {
@@ -169433,6 +169484,23 @@
       ]
     },
     {
+      "name": "LadyLuck",
+      "symbol": "LUCKY",
+      "address": "0x81f35261b90ad59a1277c0e94f8012371eaafcb9",
+      "logoURI": "https://assets.coingecko.com/coins/images/55458/thumb/20250428-171101.png?1746123879",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": [
+        {
+          "chainId": 8453,
+          "address": "0x81f35261b90ad59a1277c0e94f8012371eaafcb9"
+        }
+      ],
+      "providers": [
+        "coingeckoBase"
+      ]
+    },
+    {
       "name": "Based Father Pepe",
       "symbol": "FPEPE",
       "address": "0x81f91fe59ee415735d59bd5be5cca91a0ea4fa69",
@@ -170576,23 +170644,6 @@
       ]
     },
     {
-      "name": "CRAZY FROG",
-      "symbol": "FROG",
-      "address": "0x89eb6680c8d85d384c02059e4b07e4dd8535e549",
-      "logoURI": "https://assets.coingecko.com/coins/images/36926/thumb/photo_2024-04-01_16-12-15.jpg?1712800382",
-      "decimals": 18,
-      "chainId": 8453,
-      "chainAddresses": [
-        {
-          "chainId": 8453,
-          "address": "0x89eb6680c8d85d384c02059e4b07e4dd8535e549"
-        }
-      ],
-      "providers": [
-        "coingeckoBase"
-      ]
-    },
-    {
       "name": "NuroX",
       "symbol": "NUROX",
       "address": "0x89f4307eadb19d8fd01844f8598f7d31569c77fb",
@@ -170721,6 +170772,17 @@
       ],
       "providers": [
         "coingeckoBase"
+      ]
+    },
+    {
+      "name": "Donald Trump by Virtuals",
+      "symbol": "TRUMP",
+      "address": "0x8adcec50A0595cB91ba5989d9a0844148c234539",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": [],
+      "providers": [
+        "liquest"
       ]
     },
     {
@@ -170992,6 +171054,17 @@
         "smolDapp",
         "liquest",
         "coingeckoBase"
+      ]
+    },
+    {
+      "name": "Yumeha by Virtuals",
+      "symbol": "YUMEHA",
+      "address": "0x8CE6E26254a7Ebecf6048A0C3506749eBe53Debe",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": [],
+      "providers": [
+        "liquest"
       ]
     },
     {
@@ -176252,7 +176325,7 @@
     {
       "name": "Agora by Virtuals",
       "symbol": "AGORA",
-      "address": "0xb2ee01f57aebd6e268934ed9dc47b01be760867d",
+      "address": "0xB2ee01f57aEBD6E268934ed9Dc47B01Be760867D",
       "logoURI": "https://assets.coingecko.com/coins/images/53920/thumb/Agora_Logowip-02-01.png?1737717593",
       "decimals": 18,
       "chainId": 8453,
@@ -176263,6 +176336,7 @@
         }
       ],
       "providers": [
+        "liquest",
         "coingeckoBase"
       ]
     },
@@ -178612,7 +178686,7 @@
     {
       "name": "Wokie Plumpkin by Virtuals",
       "symbol": "WOKIE",
-      "address": "0xbfefd7a0eda8a0feb06d0f52cf431afd0f9b2dd0",
+      "address": "0xBFEFd7A0eDa8a0feB06d0F52CF431AFd0F9b2Dd0",
       "logoURI": "https://assets.coingecko.com/coins/images/52176/thumb/wokie.jpg?1732685106",
       "decimals": 18,
       "chainId": 8453,
@@ -178623,6 +178697,7 @@
         }
       ],
       "providers": [
+        "liquest",
         "coingeckoBase"
       ]
     },
@@ -182062,9 +182137,9 @@
       ]
     },
     {
-      "name": "ISTARAI by Virtuals",
+      "name": "The White Wizard by Virtuals",
       "symbol": "ISTAR",
-      "address": "0xd4f5fabd1763bbf52bd3b17cd445db6f9f836bd4",
+      "address": "0xD4f5fabD1763Bbf52Bd3b17cD445DB6f9f836Bd4",
       "logoURI": "https://assets.coingecko.com/coins/images/53831/thumb/red_wizard_staff.png?1737557523",
       "decimals": 18,
       "chainId": 8453,
@@ -182075,6 +182150,7 @@
         }
       ],
       "providers": [
+        "liquest",
         "coingeckoBase"
       ]
     },
@@ -186035,23 +186111,6 @@
       ]
     },
     {
-      "name": "PulseLaunch",
-      "symbol": "LAUNCH",
-      "address": "0xf0d336e3a429596c924dd2723c0c4a0100a421db",
-      "logoURI": "https://assets.coingecko.com/coins/images/36829/thumb/gradient_black_rocket_200x200.png?1712557340",
-      "decimals": 18,
-      "chainId": 8453,
-      "chainAddresses": [
-        {
-          "chainId": 8453,
-          "address": "0xf0d336e3a429596c924dd2723c0c4a0100a421db"
-        }
-      ],
-      "providers": [
-        "coingeckoBase"
-      ]
-    },
-    {
       "name": "Lock In on Base",
       "symbol": "LOCKIN",
       "address": "0xf0d7cb351589c4b1520bf8d31afc87f7fb839c85",
@@ -187055,6 +187114,17 @@
       ]
     },
     {
+      "name": "jim by Virtuals",
+      "symbol": "JIM",
+      "address": "0xf66Bb91D8b8e359333687ce415e6655e3F63f4df",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": [],
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
       "name": "Stable AMM - MAI/USDbC",
       "symbol": "sAMM-MAI/USDbC",
       "address": "0xf6Aec4F97623E691a9426a69BaF5501509fCa05D",
@@ -187082,27 +187152,6 @@
       ],
       "providers": [
         "smolDapp",
-        "coingeckoBase"
-      ]
-    },
-    {
-      "name": "POKO",
-      "symbol": "POKO",
-      "address": "0xf7263070440677f8458a2c1414b2400e3accb531",
-      "logoURI": "https://assets.coingecko.com/coins/images/36802/thumb/poko_logo.png?1712469618",
-      "decimals": 9,
-      "chainId": 8453,
-      "chainAddresses": [
-        {
-          "chainId": 56,
-          "address": "0x0c7d31befe4945089a3b8f835d6e8c1d4df6d952"
-        },
-        {
-          "chainId": 8453,
-          "address": "0xf7263070440677f8458a2c1414b2400e3accb531"
-        }
-      ],
-      "providers": [
         "coingeckoBase"
       ]
     },
