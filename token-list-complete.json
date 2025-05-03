@@ -1,7 +1,7 @@
 {
   "name": "Balmy Token List - complete version",
   "description": "A list of tokens from all the token lists on Balmy",
-  "timestamp": "2025-05-02T00:18:40.987Z",
+  "timestamp": "2025-05-03T00:17:50.702Z",
   "tokens": [
     {
       "name": "Ether",
@@ -35104,6 +35104,18 @@
         {
           "chainId": 1,
           "address": "0x8f08b70456eb22f6109f57b8fafe862ed28e6040"
+        },
+        {
+          "chainId": 1923,
+          "address": "0xc2606aade4bdd978a4fa5a6edb3b66657acee6f8"
+        },
+        {
+          "chainId": 8453,
+          "address": "0xe22c243c7559c667a1eb94b593369d192c5fbac0"
+        },
+        {
+          "chainId": 42161,
+          "address": "0x2e412435928efe43b156caa8f4b1068729fee275"
         }
       ],
       "providers": [
@@ -152690,7 +152702,6 @@
       ],
       "providers": [
         "optimism",
-        "liquest",
         "coingeckoBase"
       ]
     },
@@ -158243,7 +158254,7 @@
     {
       "name": "Agent Zeek by Virtuals",
       "symbol": "ZEEK",
-      "address": "0x39d24405ca717ef841e4a782da97284cf2dc7628",
+      "address": "0x39D24405cA717ef841e4a782da97284cf2Dc7628",
       "logoURI": "https://assets.coingecko.com/coins/images/52331/thumb/dwWGlf18_400x400.jpg?1733086398",
       "decimals": 18,
       "chainId": 8453,
@@ -158254,6 +158265,7 @@
         }
       ],
       "providers": [
+        "liquest",
         "coingeckoBase"
       ]
     },
@@ -161677,6 +161689,23 @@
       ],
       "providers": [
         "liquest",
+        "coingeckoBase"
+      ]
+    },
+    {
+      "name": "Jackal Protocol",
+      "symbol": "JKL",
+      "address": "0x4eed0d2deb4c588393c80869b122327581b0d98e",
+      "logoURI": "https://assets.coingecko.com/coins/images/28025/thumb/coingeckoJKL.png?1718409293",
+      "decimals": 6,
+      "chainId": 8453,
+      "chainAddresses": [
+        {
+          "chainId": 8453,
+          "address": "0x4eed0d2deb4c588393c80869b122327581b0d98e"
+        }
+      ],
+      "providers": [
         "coingeckoBase"
       ]
     },
@@ -165493,6 +165522,17 @@
       ]
     },
     {
+      "name": "Lester Crest by Virtuals",
+      "symbol": "LESTER",
+      "address": "0x67b0961ef062D0a3bE44871eb0B8b542F4C18Db4",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": [],
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
       "name": "Crappy Bird",
       "symbol": "CRAPPY",
       "address": "0x67ce18961c3269ca03c2e5632f1938cc53e614a1",
@@ -168699,19 +168739,9 @@
       "logoURI": "https://assets.smold.app/api/token/8453/0x7D27187eb33a7B1d99258FF222633670F84fa342/logo-128.png",
       "decimals": 18,
       "chainId": 8453,
-      "chainAddresses": [
-        {
-          "chainId": 5000,
-          "address": "0x4b7f28397b4294277e7825f224172944f4f5a877"
-        },
-        {
-          "chainId": 8453,
-          "address": "0x7d27187eb33a7b1d99258ff222633670f84fa342"
-        }
-      ],
+      "chainAddresses": [],
       "providers": [
-        "smolDapp",
-        "coingeckoBase"
+        "smolDapp"
       ]
     },
     {
@@ -173769,6 +173799,17 @@
       ]
     },
     {
+      "name": "TAS Intern by Virtuals",
+      "symbol": "TASI",
+      "address": "0xa087d75aE34e964B16aD3A059304913eD74945c7",
+      "decimals": 18,
+      "chainId": 8453,
+      "chainAddresses": [],
+      "providers": [
+        "liquest"
+      ]
+    },
+    {
       "name": "Lil Brett",
       "symbol": "LILB",
       "address": "0xa0a2e84f6f19c09a095d4a83ac8de5a32d303a13",
@@ -178522,7 +178563,7 @@
     {
       "name": "GENZAI by Virtuals",
       "symbol": "GENZAI",
-      "address": "0xbf10dce9775ed5eae22789638da56c33b6c34633",
+      "address": "0xBF10Dce9775ed5Eae22789638DA56C33b6c34633",
       "logoURI": "https://assets.coingecko.com/coins/images/53536/thumb/genzaipic.jpg?1736582292",
       "decimals": 18,
       "chainId": 8453,
@@ -178533,6 +178574,7 @@
         }
       ],
       "providers": [
+        "liquest",
         "coingeckoBase"
       ]
     },
@@ -182137,9 +182179,9 @@
       ]
     },
     {
-      "name": "The White Wizard by Virtuals",
+      "name": "ISTARAI by Virtuals",
       "symbol": "ISTAR",
-      "address": "0xD4f5fabD1763Bbf52Bd3b17cD445DB6f9f836Bd4",
+      "address": "0xd4f5fabd1763bbf52bd3b17cd445db6f9f836bd4",
       "logoURI": "https://assets.coingecko.com/coins/images/53831/thumb/red_wizard_staff.png?1737557523",
       "decimals": 18,
       "chainId": 8453,
@@ -182150,7 +182192,6 @@
         }
       ],
       "providers": [
-        "liquest",
         "coingeckoBase"
       ]
     },
@@ -183259,17 +183300,6 @@
       ]
     },
     {
-      "name": "Aurra by Virtuals",
-      "symbol": "AURA",
-      "address": "0xdCaA5E062b2be18E52eA6ED7ba232538621dDC10",
-      "decimals": 18,
-      "chainId": 8453,
-      "chainAddresses": [],
-      "providers": [
-        "liquest"
-      ]
-    },
-    {
       "name": "Speculate",
       "symbol": "SPEC",
       "address": "0xdce704a0622a8437200cb6076ee69b2cf573827c",
@@ -184003,9 +184033,27 @@
       "logoURI": "https://assets.smold.app/api/token/8453/0xE22C243c7559C667a1EB94B593369D192c5fbac0/logo-128.png",
       "decimals": 18,
       "chainId": 8453,
-      "chainAddresses": [],
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0x8f08b70456eb22f6109f57b8fafe862ed28e6040"
+        },
+        {
+          "chainId": 1923,
+          "address": "0xc2606aade4bdd978a4fa5a6edb3b66657acee6f8"
+        },
+        {
+          "chainId": 8453,
+          "address": "0xe22c243c7559c667a1eb94b593369d192c5fbac0"
+        },
+        {
+          "chainId": 42161,
+          "address": "0x2e412435928efe43b156caa8f4b1068729fee275"
+        }
+      ],
       "providers": [
-        "smolDapp"
+        "smolDapp",
+        "coingeckoBase"
       ]
     },
     {
@@ -193106,9 +193154,27 @@
       "logoURI": "https://assets.smold.app/api/token/42161/0x2e412435928EFE43b156Caa8F4B1068729fEE275/logo-128.png",
       "decimals": 18,
       "chainId": 42161,
-      "chainAddresses": [],
+      "chainAddresses": [
+        {
+          "chainId": 1,
+          "address": "0x8f08b70456eb22f6109f57b8fafe862ed28e6040"
+        },
+        {
+          "chainId": 1923,
+          "address": "0xc2606aade4bdd978a4fa5a6edb3b66657acee6f8"
+        },
+        {
+          "chainId": 8453,
+          "address": "0xe22c243c7559c667a1eb94b593369d192c5fbac0"
+        },
+        {
+          "chainId": 42161,
+          "address": "0x2e412435928efe43b156caa8f4b1068729fee275"
+        }
+      ],
       "providers": [
-        "smolDapp"
+        "smolDapp",
+        "defillama"
       ]
     },
     {
